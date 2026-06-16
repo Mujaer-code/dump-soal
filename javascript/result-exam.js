@@ -1,10 +1,3 @@
-const tryoutId = new URLSearchParams(window.location.search).get("tryout");
-
-const script = document.createElement("script");
-script.src = `question/question1.js`;
-script.onload = function() {
-
-
 window.isReviewMode = true; 
 window.userAnswers = [];
 let questionCount = 0;
@@ -320,7 +313,3 @@ function clearSearch() {
     window.initGridResult = initGridResult;
     window.updateGridResultStatus = updateGridResultStatus;
     window.setProgress = setProgress;
-
-
-};
-document.head.appendChild(script);
