@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Hasil Tryout</title>
+
+	<link rel="stylesheet" type="text/css" href="css/result-exam.css">
+	<link rel="icon" type="image/x-icon" href="resources/logo.png">
+
+	<link rel="stylesheet" href="css/all.min.css">
+
+</head>
+
+<body>
+
+	<header class="header">
+		<div class="logo-container">
+			<div class="logo"></div>
+			<div class="name-logo">Nitro Apoteker</div>
+		</div>
+
+		<div class="title-header">Hasil Ujian</div>
+
+		<button class="kembali" onclick = "window.location.href='dashboard.html'"><i class="fa-solid fa-angle-left"></i> Kembali</button>
+	</header>
+
+
+<section class="box-result">
+		
+		<div class="text-review">Hasil Ujian</div>
+
+		<main class="score-display">
+			
+		<div class="score-exam">
+           <h2>Your Score</h2>
+				<div class="progress-wrapper">
+				    <svg width="200" height="200" viewBox="0 0 200 200">
+				        <circle class="bg" cx="100" cy="100" r="80" />
+				        <circle class="meter" cx="100" cy="100" r="80" />
+				    </svg>
+				    <div class="percentage" id="score-text">4</div>
+				</div>
+
+				<div class="jumlahBenar">Benar <strong id="correct-stat">0</strong> dari <span id="total-stat">0</span> </div>
+      </div>
+
+	  	
+	  <div class="category-box">
+		<h3>Score by Category</h3>
+		<div class="category-detail">
+			<div class="category-item">
+				<div class="category-title"></div>
+				<div class="category-progress"></div>
+			</div>
+
+		</div>
+		</div>
+
+      
+
+		</main>
+
+	<article class="text-review">Review Soal</article>
+	<div class="search-container">
+				<div class="search-bar">
+					<i class="fa-solid fa-magnifying-glass"></i>
+					<input type="text" class="searchInput" onkeyup="handleSearch()" placeholder="Cari soal disini..." title="Type in a name">
+					<button onclick="clearSearch()"><i class="fa-solid fa-x"></i></button>
+				</div>
+				<div id="results"></div>	
+			</div>
+
+	<section class="review-box">
+		<main class="quiz-result">
+
+				<div class="quiz-area">
+
+				<div class="correct-mark">	<i class="fa-regular fa-circle-check fa-xl" style="position: absolute; right:0; margin: 10px; color:#8ee1a1;"></i>
+				</div>
+			
+				<div class="nomor-soal"> <span class="current-number">1</span></div>
+			
+
+				<div class="question-text-result">
+					<p>Seorang pasien datang ke apotek dengan keluhan nyeri dan demam. Apoteker merekomendasikan parasetamol. Apa mekanisme utama kerja parasetamol?</p>
+	    	</div>
+
+    		<div class="option-list-result">
+					<div class="option" data-index="0">
+						<span class="circle"></span>
+			        <span>Menghambat enzim COX di perifer</span>
+					</div>
+
+					<div class="option" data-index="1"> 
+						<span class="circle"></span>
+			        <span>Menghambat enzim COX di perifer</span>
+					</div>
+
+					<div class="option" data-index="2">
+						<span class="circle"></span>
+			        <span>Menghambat enzim COX di perifer</span>
+					</div>
+
+					<div class="option" data-index="3">
+						<span class="circle"></span>
+			        <span>Menghambat enzim COX di perifer</span>
+					</div>
+
+					<div class="option" data-index="4">
+						<span class="circle"></span>
+			        <span>Menghambat enzim COX di perifer</span>
+					</div>
+				</div>
+
+			
+
+			<div class="tombol">
+				<button class="previous"><i class="fa-solid fa-angle-left fa-xl"></i><p>Previous</p></button>
+				<button class="next"><p>Next</p><i class="fa-solid fa-angle-right fa-xl"></i></button>
+			</div>
+
+			</div>
+
+			<div class="expla-box">
+				<h2>Pembahasan</h2>
+				<div class="explanation-text"></div>
+			</div>
+
+		</main>
+
+		<nav class="quiz-navigation-result" id="nav-grid">
+			<p>Navigation</p>
+			<div class="line"></div>
+	
+			<div class="grid-container-result" id="grid-result">
+				<div class="grid-item-result"></div>
+			</div>
+
+		</nav>
+
+
+
+
+		</section>
+
+
+</section>
+
+		
+
+
+
+
+
+<script src="question/question1.js"></script>
+<!-- CHART JS -->
+<script src="javascript/result-exam.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+body {
+	font-family: "SN Pro", sans-serif;
+	margin: 0;
+	min-height: 100dvh;
+	min-height: 100vh;
+	background: white;
+	color: #03193C;
+	display: flex;
+}
+
+* {
+	margin: 0;
+}
+
+button {
+	font-family: "SN Pro", sans-serif;
+}
+
+main {
+	position: relative;
+}
+
+
+/* SIDEBARD START */
+
+.sidebar {
+	position: sticky;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 260px;
+	height: 100vh;
+	overflow: hidden;
+	transition: all 0.5s;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+	border-right: 1.75px solid #C4CCDB;
+	padding: 20px 25px;
+	box-sizing: border-box;
+}
+
+.logo-container {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+	padding: 10px 0px;
+}
+
+
+.logo {
+	background-image: url('../resources/logo.svg');
+	background-size: cover;
+	width: 40px;
+	height: 40px;
+}
+
+
+.logo-name {
+	font-size: 24px;
+	font-weight: 800;
+	font-family: 'figtree';
+	margin: 5px;
+}
+
+
+.content-sidebar {
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+	height: 100%;
+}
+
+.content-sidebar h3 {
+	color: #b4b2a9;
+	font-weight: 600;
+	font-size: 14px;
+	margin: 0;
+	text-transform:uppercase;
+	padding-left: 5px;
+}
+
+.menu {
+	list-style: none;
+	position: relative;
+	padding: 0;
+}
+
+.menu li {
+	border-radius: 10px;
+}
+
+.menu li:hover a {
+	font-weight: 600;
+	color: #03193C;
+}
+
+.menu li:hover,
+.active {
+	color: #03193C;
+	background: #e7e7e7;
+}
+
+.menu li.active a {
+	color: #03193C ;
+	font-weight: 600;
+}
+
+
+.menu a {
+	width: 100%;
+	height: 100%;
+	text-decoration: none;
+	gap: 15px;
+	display: flex;
+	justify-content: flex-start;
+	color: #7D787E;
+	transition: .3s ease-in-out;
+	align-items: center;
+	padding: 10px;
+	margin: 8px 0;
+	cursor: pointer;
+}
+
+.menu i {
+	width: 20px;
+}
+
+.bottom-sidebar {
+	display: flex;
+	gap: 20px;
+	flex-direction: column;
+	padding: 10px
+}
+
+.help-box {
+	background: #03193c0e;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border-radius: 20px;
+	height: 200px;
+	padding: 20px;
+}
+
+.help-box h2 {
+	font-size: 14px;
+	text-align: center;
+	margin: 5px 0;
+	color: #97968e;
+	font-weight: 400;
+}
+
+.help-box button {
+	background: #31425d;
+	color: #fafafa;
+	border: 0;
+	padding: 10px;
+	border-radius: 20px;
+	font-weight: 600;
+	cursor: pointer;
+	font-size: 14px;
+}
+
+.bottom-sidebar span {
+	font-size: 12px;
+	color: #b4b2a9;
+	text-align: center;
+}
+
+.logout {
+	cursor: pointer;
+}
+
+.logout a {
+	text-decoration: none;
+	color: #7D787E;
+	transition: .3s ease-in-out;
+}
+
+.logout a:hover {
+	color: #03193C;
+	font-weight: 600;
+}
+
+.logout i {
+	margin-right: 10px;
+}
+
+/* SIDEBAR END */
+
+/* TUTORIAL START */
+.tutorial-container {
+	padding: 30px;
+	width: calc(100% - 260px);
+	background: #F6F5FA;
+}
+
+.tutorial-box {
+    display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	background: #F6F5FA;
+	border-radius: 10px;
+    overflow: hidden;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+	border: 1.75px solid #C4CCDB;
+    color: rgb(14, 14, 14);
+}
+
+.tutorial-hero {
+    background: #091630;
+	background: linear-gradient(138deg, rgba(9, 22, 48, 1) 55%, rgba(68, 77, 102, 1) 100%);
+    padding: 40px;
+    color: white;
+}
+
+.tutorial-hero  span {
+    background: #ffffff38;
+    width: fit-content;
+    padding: 5px 20px;
+    border-radius: 30px;
+    font-size: 14px;
+	color: rgb(250, 250, 250);
+	font-weight: 600;
+}
+
+.tutorial-hero  h2 {
+    margin: 5px 0;
+    font-size: 40px;
+}
+
+.tutorial-hero p {
+    margin: 0;
+	color: #d4d2d2;
+}
+
+.tutorial-navbar {
+    margin: 30px 0 0 0;
+    display: flex;
+    gap: 10px;
+}
+
+.tutorial-navbar div {
+    background: #31425d;
+    padding: 8px 20px;
+    border-radius: 10px;
+    width: 80px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.tutorial-detail {
+    padding: 40px;
+}
+
+.step-column {
+	display: flex;
+	flex-direction: column;
+	margin: 20px 10px;
+	gap: 20px;
+}
+
+.step-pill {
+	border: 1px solid #97968e;
+	padding: 20px;
+	border-radius: 10px;
+	cursor: pointer;
+	opacity: 0;
+	position: relative;
+}
+
+
+.step-pill:first-child{
+	opacity: 1;
+}
+
+.step-pill:hover {
+	background: #e7e7e7;
+}
+
+.step-pill.done {
+	background: #b0ffbd!important;
+}
+
+
+.step-pill.active {
+	opacity: 1;
+	background: transparent;
+}
+
+.checkbox {
+	position: absolute;
+	top: 50%;
+	right: 30px;
+	transform: translateY(-50%);
+	font-size: 25px;
+}
