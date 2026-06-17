@@ -136,7 +136,7 @@ question:`Instalasi Farmasi RS Nitro Medica saat ini memiliki apoteker sebanyak 
 img:``,
 options:["A. 2","B. 3","C. 4","D. 5","E. 6"],
 answer: `C. 4`,
-explanation:`<p>Berdasarkan Permenkes Nomor 72 Tahun 2016, perhitungan kebutuhan tenaga apoteker adalah sebagai berikut:</p><ul><li><strong>Rawat Inap</strong>: 1 apoteker untuk 30 pasien.Kebutuhan = 120/30 = 4 apoteker.</li><li><strong>Rawat Jalan</strong>: 1 apoteker untuk 50 pasien. Kebutuhan = 200/50 = 4 apoteker.</li><li><strong>Gudang/Logistik</strong>: 1 apoteker.</li><li><span style="text-decoration: underline;"><strong>Total kebutuhan ideal</strong></span>: 4 + 4 + 1 = <strong>9 apoteker</strong>. Apoteker yang perlu ditambahkan: 9 (kebutuhan ideal) - 5 (apoteker saat ini) = 4 apoteker.</li></ul><p><strong>Referensi:</strong></p><ol><li>Peraturan Menteri Kesehatan Republik Indonesia Nomor 72 Tahun 2016 tentang Standar Pelayanan Kefarmasian di Rumah Sakit.</li></ol>`,
+explanation:`<p>Berdasarkan Permenkes Nomor 72 Tahun 2016, perhitungan kebutuhan tenaga apoteker adalah sebagai berikut:</p><ul><li><strong>Rawat Inap</strong>: 1 apoteker untuk 30 pasien. Kebutuhan = 120/30 = 4 apoteker.</li><li><strong>Rawat Jalan</strong>: 1 apoteker untuk 50 pasien. Kebutuhan = 200/50 = 4 apoteker.</li><li><strong>Gudang/Logistik</strong>: 1 apoteker.</li><li><span style="text-decoration: underline;"><strong>Total kebutuhan ideal</strong></span>: 4 + 4 + 1 = <strong>9 apoteker</strong>. Apoteker yang perlu ditambahkan: 9 (kebutuhan ideal) - 5 (apoteker saat ini) = 4 apoteker.</li></ul><p><strong>Referensi:</strong></p><ol><li>Peraturan Menteri Kesehatan Republik Indonesia Nomor 72 Tahun 2016 tentang Standar Pelayanan Kefarmasian di Rumah Sakit.</li></ol>`,
 expImg:`14RTO1.PNG`
 },
 {
