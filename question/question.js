@@ -212,11 +212,11 @@ expImg:`01M34.png`
 {
 category:`Industri`,
 level:`Medium`,
-question:`Sebuah mesin Fluid Bed Dryer (FBD) beroperasi selama 8 jam dengan down time selama 30 menit, selama shift berjalan terdapat waktu ishoma selama 60 menit, serta setelah mesin beroperasi selama 4 jam terjadi penurunan suhu pengeringan, sehingga mesin perlu diperbaiki oleh engineering selama 45 menit. Berapakah nilai avaibility dari mesin Fluid Bed Dryer tersebut?`,
+question:`<p>Sebuah mesin <em>Fluid Bed Dryer</em> (FBD) beroperasi selama 8 jam dengan down time selama 30 menit, selama shift berjalan terdapat waktu ishoma selama 60 menit, serta setelah mesin beroperasi selama 4 jam terjadi penurunan suhu pengeringan, sehingga mesin perlu diperbaiki oleh engineering selama 45 menit. Berapakah nilai <em>avaibility</em> dari mesin <em>Fluid Bed Dryer</em> tersebut?</p>`,
 img:``,
 options:["A. 90,5%","B. 87,7%","C. 82,1%","D. 75,4%","E. 71,87%"],
 answer: `C. 82,1%`,
-explanation:`Availability (Ketersediaan) adalah rasio yang mengukur perbandingan antara waktu mesin benar-benar beroperasi dengan waktu yang direncanakan untuk produksi.<br><br>Total shift : 8 jam = 480 menit<br><br>Waktu ishoma = 60 menit, sehingga planned production time = 480 menit-60 menit = 420 menit<br><br>Down time awal = 30 menit<br><br>Perbaikan = 45 menit,sehingga total down time = 30 menit + 45 menit = 75 menit<br><br>Operating time (aktual): 420 menit - 75 menit = 345 menit<br><br>Availability = (345 menit/420 menit)x100%<br><br>Availability = 82,1%<br><br><b>Referensi:</b><br>Zubair (2021). Manufacturing productivity analysis by apply- ing overall equipment effectiveness metric in a pharmaceutical industry. Congent engineering`,
+explanation:`<p><em>Availability</em> (Ketersediaan) adalah rasio yang mengukur perbandingan antara waktu mesin benar-benar beroperasi dengan waktu yang direncanakan untuk produksi.</p><ul><li>Total shift : 8 jam = 480 menit</li><li>Waktu ishoma = 60 menit, sehingga <em>planned production time</em> = 480 menit-60 menit = 420 menit</li><li><em>Down time</em> awal = 30 menit</li><li>Perbaikan = 45 menit,sehingga total <em>down time</em> = 30 menit + 45 menit = 75 menit</li><li><em>Operating time</em> (aktual): 420 menit - 75 menit = 345 menit</li><li><em>Availability</em> = (345 menit/420 menit)x100%</li><li><em>Availability</em> = 82,1%</li></ul><p><strong>Referensi:</strong><br />Zubair (2021). Manufacturing productivity analysis by apply- ing overall equipment effectiveness metric in a pharmaceutical industry. Congent engineering</p>`,
 expImg:`02M34.png`
 },
 {
@@ -282,17 +282,17 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Bagian Pengawasan Mutu di BBPOM sedang melakukan pengembangan metode KCKT untuk penetapan kadar niasinamida dan alfa-arbutin dalam sediaan serum. Fase diam yang digunakan adalah kolom silika C-18. Pengembangan metode dilakukan menggunakan dua komposisi fase gerak, yaitu metanol:air (20:80) dan metanol:air (35:65). Diketahui indeks polaritas metanol adalah 5,1 dan air 10,2<br><br>Berapakah indeks polaritas masing-masing fase gerak tersebut?`,
+question:`Bagian Pengawasan Mutu di BBPOM sedang melakukan pengembangan metode KCKT untuk penetapan kadar niasinamida dan alfa-arbutin dalam sediaan serum. Fase diam yang digunakan adalah kolom silika C-18. Pengembangan metode dilakukan menggunakan dua komposisi fase gerak, yaitu metanol:air (20:80) dan metanol:air (35:65). Diketahui indeks polaritas metanol adalah 5,1 dan air 10,2. Berapakah indeks polaritas masing-masing fase gerak tersebut?`,
 img:``,
 options:["A. 5,54 dan 4,34","B. 7,54 dan 6,84","C. 8,14 dan 11,36","D. 8,64 dan 10,32","E. 9,18 dan 8,41"],
 answer: `E. 9,18 dan 8,41`,
-explanation:``,
+explanation:`   `,
 expImg:`JTO5.1.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Seorang apoteker di laboratorium pengawasan mutu BBPOM akan membuat larutan baku induk dexketoprofen untuk analisis kadar menggunakan spektrofotometri UV. Larutan baku yang akan dibuat memiliki konsentrasi 1.750 bpj dengan volume akhir 40,0 mL.<br><br>Berapa bobot dexketoprofen yang harus ditimbang?`,
+question:`Seorang apoteker di laboratorium pengawasan mutu BBPOM akan membuat larutan baku induk dexketoprofen untuk analisis kadar menggunakan spektrofotometri UV. Larutan baku yang akan dibuat memiliki konsentrasi 1.750 bpj dengan volume akhir 40,0 mL. Berapa bobot dexketoprofen yang harus ditimbang?`,
 img:``,
 options:["A. 30 μg","B. 450 μg","C. 700 μg","D. 45.000 μg","E. 70.000 μg"],
 answer: `E. 70.000 μg`,
@@ -302,7 +302,7 @@ expImg:`JTO5.2.png`
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Bagian pengawasan mutu di industri obat hewan akan melakukan penetapan kadar pirimetamin dalam sediaan veteriner menggunakan metode titrasi. Berdasarkan struktur kimianya, pirimetamin memiliki gugus amina aromatik primer yang dapat bereaksi dengan natrium nitrit dalam suasana asam.<br><br>Metode titrasi apakah yang sesuai untuk pengujian tersebut?`,
+question:`Bagian pengawasan mutu di industri obat hewan akan melakukan penetapan kadar pirimetamin dalam sediaan veteriner menggunakan metode titrasi. Berdasarkan struktur kimianya, pirimetamin memiliki gugus amina aromatik primer yang dapat bereaksi dengan natrium nitrit dalam suasana asam. Metode titrasi apakah yang sesuai untuk pengujian tersebut?`,
 img:``,
 options:["A. Argentometri","B. Iodometri","C. Nitrimetri","D. Kompleksometri","E. Nitrimetri"],
 answer: `E. Nitrimetri`,
@@ -312,7 +312,7 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Apoteker bagian pengawasan mutu sedang melakukan validasi metode KCKT untuk analisis campuran dua senyawa dalam sediaan tablet. Hasil kromatogram menunjukkan dua puncak analit memiliki resolusi yang rendah sehingga kedua puncak tampak saling berdempet.<br><br>Apakah tindakan yang paling sesuai untuk meningkatkan pemisahan kedua senyawa tersebut?`,
+question:`Apoteker bagian pengawasan mutu sedang melakukan validasi metode KCKT untuk analisis campuran dua senyawa dalam sediaan tablet. Hasil kromatogram menunjukkan dua puncak analit memiliki resolusi yang rendah sehingga kedua puncak tampak saling berdempet. Apakah tindakan yang paling sesuai untuk meningkatkan pemisahan kedua senyawa tersebut?`,
 img:``,
 options:["A. Membersihkan kolom sebelum digunakan kembali","B. Mengencerkan larutan sampel","C. Mengganti jenis fase diam","D. Menurunkan laju alir dan volume injeksi","E. Menurunkan pH fase gerak"],
 answer: `D. Menurunkan laju alir dan volume injeksi`,
@@ -322,7 +322,7 @@ expImg:`JTO5.4.png`
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Bagian mikrobiologi laboratorium pengawasan mutu melakukan identifikasi <i>Pseudomonas aeruginosa</i> menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media.<br><br>Media apakah yang digunakan untuk pertumbuhan bakteri tersebut?`,
+question:`Bagian mikrobiologi laboratorium pengawasan mutu melakukan identifikasi <i>Pseudomonas aeruginosa</i> menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media. Media apakah yang digunakan untuk pertumbuhan bakteri tersebut?`,
 img:``,
 options:["A. <i>Cetrimide agar</i>","B. <i>Eosin methylene blue agar</i>","C. <i>Mannitol salt agar</i>","D. <i>Mueller Hinton agar</i>","E. <i>Xylose lysine deoxycholate agar</i>"],
 answer: `A. <i>Cetrimide agar</i>`,
