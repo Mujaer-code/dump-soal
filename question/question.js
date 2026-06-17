@@ -116,7 +116,7 @@ question:`Pada tanggal 04 Februari 2026, apoteker di puskesmas melakukan audit k
 img:``,
 options:["A. VG107DT","B. VG45HepB","C. VG17HIB","D. VG89IPV","E. VG89OPV"],
 answer: `E. VG89OPV`,
-explanation:`Berdasarkan PMK No. 12 Tahun 2017, vaksin sisa pada pelayanan statis memiliki batas masa pemakaian yang berbeda setelah vial dibuka:<br><br>Polio (OPV): Maksimal 2 minggu (±14 hari). Dari tanggal 14 Januari ke 04 Februari sudah melewati 21 hari (3 minggu), sehingga OPV tidak layak pakai.<br><br>IPV, DT, dan Hib: Maksimal 4 minggu (±28 hari). Ketiga vaksin ini baru dibuka selama 24-26 hari, sehingga masih dalam rentang masa pemakaian yang diperbolehkan.<br><br>Syarat lainnya (VVM A/B dan belum kedaluwarsa) sudah terpenuhi untuk semua item.<br><br><b>Referensi:</b><br>Peraturan Menteri Kesehatan Nomor 12 Tahun 2017 tentang Penyelenggaraan Imunisasi.`,
+explanation:`<p>Berdasarkan PMK No. 12 Tahun 2017, vaksin sisa pada pelayanan statis memiliki batas masa pemakaian yang berbeda setelah vial dibuka:</p><ul><li>Polio (OPV): Maksimal <strong>2 minggu</strong> (±14 hari). Dari tanggal 14 Januari ke 04 Februari sudah melewati 21 hari (3 minggu), sehingga OPV tidak layak pakai.</li><li>IPV, DT, dan Hib: Maksimal <strong>4 minggu</strong> (±28 hari). Ketiga vaksin ini baru dibuka selama 24-26 hari, sehingga masih dalam rentang masa pemakaian yang diperbolehkan.</li><li>Syarat lainnya (VVM A/B dan belum kedaluwarsa) sudah terpenuhi untuk semua item.</li></ul><p><strong>Referensi:</strong></p><ol><li>Peraturan Menteri Kesehatan Nomor 12 Tahun 2017 tentang Penyelenggaraan Imunisasi.</li></ol>`,
 expImg:`12RTO1.PNG`
 },
 {
@@ -126,7 +126,7 @@ question:`Apoteker di sebuah puskesmas sedang melakukan perencanaan kebutuhan va
 img:``,
 options:["A. 135","B. 150","C. 165","D. 180","E. 200"],
 answer: `A. 135`,
-explanation:`Data yang diperlukan untuk merencanakan kebutuhan vaksin meliputi jumlah sasaran, jumlah pemberian, target cakupan dan indeks pemakaian vaksin dengan memperhitungkan sisa vaksin (stok) sebelumnya. Indeks Pemakaian (IP) vaksin adalah pemakaian rata-rata setiap kemasan vaksin. Cara menghitung IP adalah dengan membagi jumlah cakupan dengan jumlah vaksin yang dipakai. <br><br><img src="assets/13PTO1.PNG"></img><br><br><b>Referensi:</b><br>Kementerian Kesehatan RI. Direktorat Jenderal Kefarmasian dan Alat Kesehatan. Pedoman Pengelolaan Vaksin Di Fasilitas Pelayanan Kesehatan. 2021. `,
+explanation:`Data yang diperlukan untuk merencanakan kebutuhan vaksin meliputi jumlah sasaran, jumlah pemberian, target cakupan dan indeks pemakaian vaksin dengan memperhitungkan sisa vaksin (stok) sebelumnya. Indeks Pemakaian (IP) vaksin adalah pemakaian rata-rata setiap kemasan vaksin. Cara menghitung IP adalah dengan membagi jumlah cakupan dengan jumlah vaksin yang dipakai. <br><br><img src="assets/13PTO1.PNG"></img><br><br><p><strong>Referensi:</strong></p><ol><li>Kementerian Kesehatan RI. Direktorat Jenderal Kefarmasian dan Alat Kesehatan. Pedoman Pengelolaan Vaksin Di Fasilitas Pelayanan Kesehatan. 2021.</li></ol>`,
 expImg:``
 },
 {
@@ -136,7 +136,7 @@ question:`Instalasi Farmasi RS Nitro Medica saat ini memiliki apoteker sebanyak 
 img:``,
 options:["A. 2","B. 3","C. 4","D. 5","E. 6"],
 answer: `C. 4`,
-explanation:`Berdasarkan Permenkes Nomor 72 Tahun 2016, perhitungan kebutuhan tenaga apoteker adalah sebagai berikut:<br><br>Rawat Inap: 1 apoteker untuk 30 pasien.Kebutuhan = 120 / 30 = 4 apoteker.<br><br>Rawat Jalan: 1 apoteker untuk 50 pasien. Kebutuhan = 200 / 50 = 4 apoteker.<br><br>Gudang/Logistik: 1 apoteker.<br><br>Total kebutuhan ideal: 4 + 4 + 1 = 9 apoteker. Apoteker yang perlu ditambahkan: 9 (kebutuhan ideal) - 5 (apoteker saat ini) = 4 apoteker.<br><br><b>Referensi:</b><br>Peraturan Menteri Kesehatan Republik Indonesia Nomor 72 Tahun 2016 tentang Standar Pelayanan Kefarmasian di Rumah Sakit.  `,
+explanation:`<p>Berdasarkan Permenkes Nomor 72 Tahun 2016, perhitungan kebutuhan tenaga apoteker adalah sebagai berikut:</p><ul><li><strong>Rawat Inap</strong>: 1 apoteker untuk 30 pasien.Kebutuhan = 120/30 = 4 apoteker.</li><li><strong>Rawat Jalan</strong>: 1 apoteker untuk 50 pasien. Kebutuhan = 200/50 = 4 apoteker.</li><li><strong>Gudang/Logistik</strong>: 1 apoteker.</li><li><span style="text-decoration: underline;"><strong>Total kebutuhan ideal</strong></span>: 4 + 4 + 1 = <strong>9 apoteker</strong>. Apoteker yang perlu ditambahkan: 9 (kebutuhan ideal) - 5 (apoteker saat ini) = 4 apoteker.</li></ul><p><strong>Referensi:</strong></p><ol><li>Peraturan Menteri Kesehatan Republik Indonesia Nomor 72 Tahun 2016 tentang Standar Pelayanan Kefarmasian di Rumah Sakit.</li></ol>`,
 expImg:`14RTO1.PNG`
 },
 {
@@ -146,7 +146,7 @@ question:`Apoteker di Apotek Nitro Farma menerima surat pesanan (SP) dari seoran
 img:``,
 options:["A. Epinefrin injeksi","B. Kalsium glukonat 10% injeksi","C. Metilergometrin injeksi","D. Oksitosin injeksi","E. Vitamin K 1 injeksi"],
 answer: `A. Epinefrin injeksi`,
-explanation:`Obat kegawatdaruratan dan obat lain yang diizinkan untuk Praktik Mandiri Bidan yang boleh untuk diadakan meliputi: Oksitosin, Metilergometrin, MgSO4 40%, Kalsium Glukonat 10%, Nifedipin/Amlodipin, Metildopa, Vitamin A, Tablet Tambah Darah, Vitamin K1, dan Salep Mata Gentamicin.<br><br>Oleh karena itu, apoteker harus menolak item yang tidak tercantum dalam kewenangan tersebut, yaitu: Epinefrin injeksi<br><br><b>Referensi:</b><br>Peraturan Menteri Kesehatan Nomor 28 Tahun 2017 tentang Izin dan Penyelenggaraan Praktik Bidan.`,
+explanation:`<p>Obat kegawatdaruratan dan obat lain yang diizinkan untuk Praktik Mandiri Bidan yang boleh untuk diadakan meliputi:</p><ol><li>Oksitosin</li><li>Metilergometrin</li><li>MgSO4 40%</li><li>Kalsium Glukonat 10%</li><li>Nifedipin/Amlodipin</li><li>Metildopa</li><li>Vitamin A</li><li>Tablet Tambah Darah</li><li>Vitamin K1</li><li>Salep Mata Gentamicin</li></ol><p>Oleh karena itu, apoteker harus menolak item yang tidak tercantum dalam kewenangan tersebut, yaitu: <strong>Epinefrin injeksi</strong><br /><br /><strong>Referensi:</strong></p><ol><li>Peraturan Menteri Kesehatan Nomor 28 Tahun 2017 tentang Izin dan Penyelenggaraan Praktik Bidan.</li></ol>`,
 expImg:`15RTO1.png`
 },
 {
@@ -166,7 +166,7 @@ question:`Apoteker di industri farmasi PT Nitro Pharmaceutical bagian <i>Product
 img:``,
 options:["A. 45.268","B. 64.018","C. 78.406","D. 90.536","E. 110.883"],
 answer: `D. 90.536`,
-explanation:`EOQ adalah jumlah pembelian paling ekonomis yang meminimalkan total biaya persediaan, yaitu gabungan antara:<br>1. Ordering cost (biaya pemesanan) → biaya setiap kali melakukan pemesanan barang<br>2. Carrying cost (biaya penyimpanan) → biaya penyimpanan barang di gudang<br><br>*Note: Jika biaya simpan diketahui pada soal dalam persen (%), cari dulu biaya simpan dalam Rp<br>Biaya simpan (Rp) = harga per unit (Rp) x biaya simpan (%)<br>Biaya simpan (Rp) = 9.150 x 25% = Rp2,287.5 per kg/tahun<br><br><img src="assets/17PTO1.PNG"></img><br><br><b>Referensi:</b><br>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.`,
+explanation:`<p>EOQ adalah jumlah pembelian paling ekonomis yang meminimalkan total biaya persediaan, yaitu gabungan antara:</p><ol><li><em>Ordering cost</em> (biaya pemesanan) → biaya setiap kali melakukan pemesanan barang</li><li><em>Carrying cost</em> (biaya penyimpanan) → biaya penyimpanan barang di gudang</li></ol><p>*Note: Jika biaya simpan diketahui pada soal dalam persen (%), cari dulu biaya simpan dalam Rp.</p><ul><li>Biaya simpan (Rp) = harga per unit (Rp) x biaya simpan (%)</li><li>Biaya simpan (Rp) = 9.150 x 25% = Rp2,287.5 per kg/tahun</li></ul><br><br><img src="assets/17PTO1.PNG"></img><br><br><b>Referensi:</b><br>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.`,
 expImg:``
 },
 {
@@ -186,7 +186,7 @@ question:`Apoteker pengelola sebuah apotek sedang melakukan analisis untuk menen
 img:``,
 options:["A. Rp37.500.000","B. Rp45.000.000","C. Rp56.250.000","D. Rp60.350.000","E. Rp75.500.000"],
 answer: `C. Rp56.250.000`,
-explanation:`Break Event Point (BEP) = Kuantitas penjualan yang harus dicapai pada tingkat laba yang diinginkan untuk mencapai titik impas (balik modal).<br> <br>Break Even Point (BEP) dalam Rupiah:<img src="assets/19PTO1.PNG"></img>Apotek tersebut harus mencapai total penjualan atau omzet minimal sebesar Rp56.250.000 per bulan agar mencapai titik impas atau balik modal.<br> <br><br> Keterangan:</b><br>1. <b>Fixed Cost (FC) atau Biaya Tetap</b> : Biaya tetap yang dikeluarkan tiap bulan atau tahun, contoh: gaji, sewa gedung, operasional, listrik, biaya marketing/promosi, dan sebagainya.<br>2. <b>Variabel Cost (VC) atau Biaya Tidak Tetap</b> : Biaya yang berubah mengikuti jumlah unit terjual, contoh: pembelian obat, biaya embalase, tuslah, komisi/bonus.<br> <br><b>Referensi:</b><br>Satibi, Rokhman, M. R., & Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.`,
+explanation:`<p><em>Break Even Point</em> (BEP) = Kuantitas penjualan yang harus dicapai pada tingkat laba yang diinginkan untuk mencapai titik impas (balik modal).<br /><br /><em>Break Even Point</em> (BEP) dalam Rupiah:</p><img src="assets/19PTO1.PNG"></img><p>Apotek tersebut harus mencapai total penjualan atau omzet minimal sebesar Rp56.250.000 per bulan agar mencapai titik impas atau balik modal.<br /><br /><strong>Keterangan:</strong></p><ol><li><strong>Fixed Cost (FC) atau Biaya Tetap</strong> : Biaya tetap yang dikeluarkan tiap bulan atau tahun, contoh: gaji, sewa gedung, operasional, listrik, biaya marketing/promosi, dan sebagainya.</li><li><strong>Variabel Cost (VC) atau Biaya Tidak Tetap</strong> : Biaya yang berubah mengikuti jumlah unit terjual, contoh: pembelian obat, biaya embalase, tuslah, komisi/bonus.</li></ol><p><strong>Referensi:</strong><br />Satibi, Rokhman, M. R., &amp; Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
 expImg:``
 },
 {
