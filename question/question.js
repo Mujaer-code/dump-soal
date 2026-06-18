@@ -156,7 +156,7 @@ question:`Apoteker di apotek Nitro Farma sedang menghitung jumlah tablet amoksis
 img:``,
 options:["A. 7.500","B. 7.700","C. 8.050","D. 8.250","E. 8.450"],
 answer: `C. 8.050`,
-explanation:`Rumus RKO (Rencana Kebutuhan Obat) Metode Konsumsi:<br><br><b>A = (B + C + D) – E </b> <br><br><b>Keterangan: </b><br>A = Rencana Kebutuhan<br>a = Pemakaian rata-rata<br>B = Stok Kerja<br>C = Buffer stock (stok penyangga)<br>D = Lead Time Stock (stok waktu tunggu)<br>E = Sisa stok yang masih dapat digunakan<br><br><img src="assets/16P1TO1.PNG"></img><br><img src="assets/16P2TO1.PNG"></img><p><b>Referensi:</b><br></p>Kementerian Kesehatan RI. (2023). Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan. `,
+explanation:`Rumus RKO (Rencana Kebutuhan Obat) Metode Konsumsi:<br><br><b>A = (B + C + D) – E </b> <br><br><b>Keterangan: </b><br>A = Rencana Kebutuhan<br>a = Pemakaian rata-rata<br>B = Stok Kerja<br>C = Buffer stock (stok penyangga)<br>D = Lead Time Stock (stok waktu tunggu)<br>E = Sisa stok yang masih dapat digunakan<br><br><img src="assets/16P1TO1.PNG"></img><br><img src="assets/16P2TO1.PNG"></img><p><b>Referensi:</b><br>Kementerian Kesehatan RI. (2023). Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.</p> `,
 expImg:``
 },
 {
@@ -166,7 +166,7 @@ question:`Apoteker di industri farmasi PT Nitro Pharmaceutical bagian <i>Product
 img:``,
 options:["A. 45.268","B. 64.018","C. 78.406","D. 90.536","E. 110.883"],
 answer: `D. 90.536`,
-explanation:`<p>EOQ adalah jumlah pembelian paling ekonomis yang meminimalkan total biaya persediaan, yaitu gabungan antara:</p><ol><li><em>Ordering cost</em> (biaya pemesanan) → biaya setiap kali melakukan pemesanan barang</li><li><em>Carrying cost</em> (biaya penyimpanan) → biaya penyimpanan barang di gudang</li></ol><p>*Note: Jika biaya simpan diketahui pada soal dalam persen (%), cari dulu biaya simpan dalam Rp.</p><ul><li>Biaya simpan (Rp) = harga per unit (Rp) x biaya simpan (%)</li><li>Biaya simpan (Rp) = 9.150 x 25% = Rp2,287.5 per kg/tahun</li></ul><br><br><img src="assets/17PTO1.PNG"></img><p><b>Referensi:</b><br></p>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.`,
+explanation:`<p>EOQ adalah jumlah pembelian paling ekonomis yang meminimalkan total biaya persediaan, yaitu gabungan antara:</p><ol><li><em>Ordering cost</em> (biaya pemesanan) → biaya setiap kali melakukan pemesanan barang</li><li><em>Carrying cost</em> (biaya penyimpanan) → biaya penyimpanan barang di gudang</li></ol><p>*Note: Jika biaya simpan diketahui pada soal dalam persen (%), cari dulu biaya simpan dalam Rp.</p><ul><li>Biaya simpan (Rp) = harga per unit (Rp) x biaya simpan (%)</li><li>Biaya simpan (Rp) = 9.150 x 25% = Rp2,287.5 per kg/tahun</li></ul><br><br><img src="assets/17PTO1.PNG"></img><p><b>Referensi:</b><br>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.</p>`,
 expImg:``
 },
 {
@@ -176,7 +176,7 @@ question:`Pada akhir tahun 2025, apoteker di apotek Nitro Farma mengevaluasi pro
 img:``,
 options:["A. 15","B. 32","C. 45","D. 60","E. 78"],
 answer: `D. 60`,
-explanation:`<b>Hitung Harga Pokok Penjualan (HPP)</b><br>HPP = (Stok Awal + Pembelian) – Stok Akhir<br> HPP = (400.000.000 + 1.650.000.000) − 350.000.000 = Rp1.700.000.000<br> <br><b>Hitung Laba Bersih</b><br>Laba Bersih = Omzet – HPP – Beban usaha<br> Laba Bersih = 2.800.000.000 − 1.700.000.000 − 830.000.000 = Rp270.000.000<br> *Contoh beban usaha = Beban/ Biaya operasional atau beban usaha, beban pajak, beban gaji, dan lain-lain<br> <br><b>Hitung Persentase ROI</b><br> ROI adalah persentase hasil/tingkat pengembalian dari suatu investasi (modal awal)<img src="assets/18PTO1.PNG"></img><p><b>Referensi:</b><br></p>Satibi, Rokhman, M. R., & Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.`,
+explanation:`<b>Hitung Harga Pokok Penjualan (HPP)</b><br>HPP = (Stok Awal + Pembelian) – Stok Akhir<br> HPP = (400.000.000 + 1.650.000.000) − 350.000.000 = Rp1.700.000.000<br> <br><b>Hitung Laba Bersih</b><br>Laba Bersih = Omzet – HPP – Beban usaha<br> Laba Bersih = 2.800.000.000 − 1.700.000.000 − 830.000.000 = Rp270.000.000<br> *Contoh beban usaha = Beban/ Biaya operasional atau beban usaha, beban pajak, beban gaji, dan lain-lain<br> <br><b>Hitung Persentase ROI</b><br> ROI adalah persentase hasil/tingkat pengembalian dari suatu investasi (modal awal)<img src="assets/18PTO1.PNG"></img><p><b>Referensi:</b><br>Satibi, Rokhman, M. R., & Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
 expImg:``
 },
 {
