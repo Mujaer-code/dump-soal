@@ -36,7 +36,7 @@ question:`Apoteker di Komite Farmasi dan Terapi (KFT) RS Nitro Medica sedang men
 img:``,
 options:["A. 2,0","B. 3,0","C. 5,0","D. 6,0","E. 7,0"],
 answer: `C. 5,0`,
-explanation:`<img src="assets/4PTO1.PNG"></img><br><br>Pasien yang menggunakan lisinopril memiliki risiko 5 kali lebih besar mengalami batuk kering dibandingkan pasien yang menggunakan amlodipin.<br><br><b>Interpretasi RR</b>:<br><ol><li>RR < 1,0: Paparan/perlakuan menurunkan risiko terjadinya outcome (memiliki efek protektif).</li><li>RR = 1,0: Tidak ada hubungan antara intervensi atau paparan dan penyakit.</li><li>RR > 1,0: Paparan/perlakuan meningkatkan risiko terjadinya outcome.</li></ol><b>Referensi:</b><br>Centers for Disease Control and Prevention. (2012). Principles of epidemiology in public health practice: An introduction to applied epidemiology and biostatistics (3rd ed.). U.S. Department of Health and Human Services. `,
+explanation:`<img src="assets/4PTO1.PNG"></img>Pasien yang menggunakan lisinopril memiliki risiko 5 kali lebih besar mengalami batuk kering dibandingkan pasien yang menggunakan amlodipin.<br><br><b>Interpretasi RR</b>:<br><ol><li>RR < 1,0: Paparan/perlakuan menurunkan risiko terjadinya outcome (memiliki efek protektif).</li><li>RR = 1,0: Tidak ada hubungan antara intervensi atau paparan dan penyakit.</li><li>RR > 1,0: Paparan/perlakuan meningkatkan risiko terjadinya outcome.</li></ol><b>Referensi:</b><br>Centers for Disease Control and Prevention. (2012). Principles of epidemiology in public health practice: An introduction to applied epidemiology and biostatistics (3rd ed.). U.S. Department of Health and Human Services. `,
 expImg:`4RTO1.PNG`
 },
 {
@@ -46,7 +46,7 @@ question:`Apoteker di Instalasi Farmasi RS Nitro Medica menerima resep untuk seo
 img:``,
 options:["A. Melayani resep hanya dengan jumlah obat yang tersedia saat ini","B. Melakukan konfirmasi rencana substitusi terapeutik ke dokter","C. Menganjurkan pasien untuk menebus obat di apotek luar RS","D. Melakukan substitusi generik dengan persetujuan pasien saja","E. Menunda pelayanan resep sampai obat yang tertulis tersedia"],
 answer: `B. Melakukan konfirmasi rencana substitusi terapeutik ke dokter`,
-explanation:`<p>Penggantian obat dengan <span style="color: #ff0000;">zat aktif berbeda</span> namun dalam <span style="color: #0000ff;">kelas terapi yang sama</span> dikategorikan sebagai <strong>substitusi terapeutik</strong>. Substitusi jenis ini wajib dilakukan oleh instalasi farmasi dengan terlebih dahulu meminta <strong>persetujuan dokter penulis resep</strong>. Setelah disetujui, apoteker harus mencatat nama obat pengganti, waktu komunikasi, dan nama dokter pada lembar resep atau sistem informasi farmasi.</p><br><br><b>Referensi:</b><br>Keputusan Menteri Kesehatan Republik Indonesia Nomor HK.01.07/MENKES/200/2020 tentang Pedoman Penyusunan Formularium Rumah Sakit.`,
+explanation:`<p>Penggantian obat dengan <span style="color: #ff0000;">zat aktif berbeda</span> namun dalam <span style="color: #0000ff;">kelas terapi yang sama</span> dikategorikan sebagai <strong>substitusi terapeutik</strong>. Substitusi jenis ini wajib dilakukan oleh instalasi farmasi dengan terlebih dahulu meminta <strong>persetujuan dokter penulis resep</strong>. Setelah disetujui, apoteker harus mencatat nama obat pengganti, waktu komunikasi, dan nama dokter pada lembar resep atau sistem informasi farmasi.</p><b>Referensi:</b><br>Keputusan Menteri Kesehatan Republik Indonesia Nomor HK.01.07/MENKES/200/2020 tentang Pedoman Penyusunan Formularium Rumah Sakit.`,
 expImg:`5RTO1.png`
 },
 {
