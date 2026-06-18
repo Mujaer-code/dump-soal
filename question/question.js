@@ -1056,7 +1056,7 @@ question:`Apoteker di RS Nitro Medica sedang mengevaluasi Rencana Kebutuhan Obat
 img:``,
 options:["A. Aminofilin injeksi","B. Ibuprofen tablet","C. Metformin tablet","D. Omeprazol kapsul","E. Seftriakson injeksi"],
 answer: `E. Seftriakson injeksi`,
-explanation:`<img src="assets/6P1TO2.PNG"></img><p>Analisis Pareto ABC (Berdasarkan persentase kumulatif investasi):</p><ol><li><strong>Kelompok A (≤ 70%)</strong>: <span style="color: #ff0000;">aminofilin injeksi</span> (45%) dan seftriakson injeksi (68%)</li><li><strong>Kelompok B (71-90%)</strong>: <span style="color: #ff0000;">metformin tablet</span> (83%)</li><li><strong>Kelompok C (91-100%)</strong>: <span style="color: #ff0000;">ibuprofen tablet</span> (93%) dan <span style="color: #ff0000;">omeprazol kapsul</span> (100%)</li></ol><p>Analisis VEN (Berdasarkan urgensi klinis):</p><ol><li><strong>Vital (V)</strong>:<span style="color: #0000ff;"> aminofilin injeksi</span> (<em>life-saving</em> untuk kegawatdaruratan)</li><li><strong>Esensial (E)</strong>: <span style="color: #0000ff;">seftriakson injeksi</span> (antibiotik/kausal), <span style="color: #0000ff;">metformin tablet</span> (antidiabetes),<span style="color: #0000ff;"> ibuprofen tablet</span> (analgesik), omeprazol kapsul.</li></ol><p>Obat yang masuk <strong>kategori AE</strong> menjadi target untuk <span style="color: #ff0000;">dikurangi</span> jumlah pengadaannya karena memakan anggaran yang besar (Kategori A) namun tingkatnya esensial (E) masih di bawah vital (V).</p><img src="assets/6P2TO2.PNG"></img>Urutan pengurangan/eleminasi obat berdasarkan matriks ABC-VEN adalah AN > AB > AC > AE > AB dan seterusnya.<br><br><b>Referensi:</b><br>Kementerian Kesehatan RI. 2023. Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
+explanation:`<img src="assets/6P1TO2.PNG"></img><p>Analisis Pareto ABC (Berdasarkan persentase kumulatif investasi):</p><ol><li><strong>Kelompok A (≤ 70%)</strong>: <span style="color: #ff0000;">aminofilin injeksi</span> (45%) dan seftriakson injeksi (68%)</li><li><strong>Kelompok B (71-90%)</strong>: <span style="color: #ff0000;">metformin tablet</span> (83%)</li><li><strong>Kelompok C (91-100%)</strong>: <span style="color: #ff0000;">ibuprofen tablet</span> (93%) dan <span style="color: #ff0000;">omeprazol kapsul</span> (100%)</li></ol><p>Analisis VEN (Berdasarkan urgensi klinis):</p><ol><li><strong>Vital (V)</strong>:<span style="color: #0000ff;"> aminofilin injeksi</span> (<em>life-saving</em> untuk kegawatdaruratan)</li><li><strong>Esensial (E)</strong>: <span style="color: #0000ff;">seftriakson injeksi</span> (antibiotik/kausal), <span style="color: #0000ff;">metformin tablet</span> (antidiabetes),<span style="color: #0000ff;"> ibuprofen tablet</span> (analgesik), omeprazol kapsul.</li></ol><p>Obat yang masuk <strong>kategori AE</strong> menjadi target untuk <span style="color: #ff0000;">dikurangi</span> jumlah pengadaannya karena memakan anggaran yang besar (Kategori A) namun tingkatnya esensial (E) masih di bawah vital (V).</p><img src="assets/6P2TO2.PNG"></img><p>Urutan pengurangan/eleminasi obat berdasarkan matriks ABC-VEN adalah AN > AB > AC > AE > AB dan seterusnya.</p><br><br><b>Referensi:</b><br>Kementerian Kesehatan RI. 2023. Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
 expImg:``
 },
 {
@@ -1156,7 +1156,7 @@ question:`Apoteker di sebuah apotek sedang melakukan analisis untuk menentukan t
 img:``,
 options:["A. 342","B. 400","C. 480","D. 525","E. 600"],
 answer: `C. 480`,
-explanation:`<p><em>Break Even Point</em> (BEP) = Kuantitas penjualan yang harus dicapai pada tingkat laba yang diinginkan untuk mencapai titik impas (balik modal).<br /><br /><em>Break Even Point</em> (BEP) dalam unit:</p><img src="assets/16PTO2.PNG"></img><p>Apotek tersebut harus mampu menjual minimal <span style="color: #ff0000;">480 botol</span> suplemen dalam satu bulan untuk mencapai titik impas (<em>Break Even Point</em>).<br /><br /><span style="text-decoration: underline;"><strong>Keterangan:</strong></span></p><ol><li><strong>Fixed Cost (FC) atau Biaya Tetap</strong> : Biaya tetap yang dikeluarkan tiap bulan atau tahun, <strong>contoh</strong>: <span style="color: #ff0000;">gaji, sewa gedung, operasional, listrik, biaya marketing/promosi, dan sebagainya</span>.</li><li><strong>Variabel Cost (VC) atau Biaya Tidak Tetap</strong> : Biaya yang berubah mengikuti jumlah unit terjual, <strong>contoh</strong>: <span style="color: #ff0000;">pembelian obat, biaya embalase, tuslah, komisi/bonus</span>.</li></ol><p><strong>Referensi:</strong><br />Satibi, Rokhman, M. R., &amp; Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
+explanation:`<p><em>Break Even Point</em> (BEP) = Kuantitas penjualan yang harus dicapai pada tingkat laba yang diinginkan untuk mencapai titik impas (balik modal).<br /><br /><em>Break Even Point</em> (BEP) dalam unit:</p><img src="assets/16PTO2.PNG"></img><p>Apotek tersebut harus mampu menjual minimal <span style="color: #ff0000;">480 botol</span> suplemen dalam satu bulan untuk mencapai titik impas (<em>Break Even Point</em>).<br /><br /><span style="text-decoration: underline;"><strong>Keterangan:</strong></span></p><ol><li><strong><em>Fixed Cost</em> (FC) atau Biaya Tetap</strong> : Biaya tetap yang dikeluarkan tiap bulan atau tahun, <strong>contoh</strong>: <span style="color: #ff0000;">gaji, sewa gedung, operasional, listrik, biaya marketing/promosi, dan sebagainya</span>.</li><li><strong><em>Variabel Cost</em> (VC) atau Biaya Tidak Tetap</strong> : Biaya yang berubah mengikuti jumlah unit terjual, <strong>contoh</strong>: <span style="color: #ff0000;">pembelian obat, biaya embalase, tuslah, komisi/bonus</span>.</li></ol><p><strong>Referensi:</strong><br />Satibi, Rokhman, M. R., &amp; Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
 expImg:``
 },
 {
@@ -1166,7 +1166,7 @@ question:`Apotek Nitro Farma berinvestasi sebesar Rp250.000.000 untuk melakukan 
 img:``,
 options:["A. 3,1 tahun","B. 3,4 tahun","C. 3,5 tahun","D. 4,1 tahun","E. 4,4 tahun"],
 answer: `B. 3,4 tahun`,
-explanation:`<p><em>Payback Period</em> (PBP) = waktu yang diperlukan untuk balik modal.</p><img src="assets/17PTO2.PNG"></img><b>Referensi:</b><br>Satibi, Rokhman, M. R., & Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.`,
+explanation:`<p><em>Payback Period</em> (PBP) = waktu yang diperlukan untuk balik modal.</p><img src="assets/17PTO2.PNG"></img><p><b>Referensi:</b><br>Satibi, Rokhman, M. R., & Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
 expImg:``
 },
 {
@@ -1176,7 +1176,7 @@ question:`Apoteker Penanggung Jawab di apotek Nitro Farma mengevaluasi efisiensi
 img:``,
 options:["A. 4,5 kali","B. 5,0 kali","C. 6,0 kali","D. 7,0 kali","E. 8,3 kali"],
 answer: `C. 6,0 kali`,
-explanation:`<b>Hitung Pembelian Bersih</b><br>Pembelian Bersih = Pembelian – Diskon Pembelian – Retur Pembelian <br>Pembelian Bersih = 1.800.000.000 – 60.000.000 – 40.000.000<br>Pembelian Bersih = 1.700.000.000 <br><br><b>Hitung Harga Pokok Penjualan (HPP)</b><br> HPP = (Persediaan Awal + Pembelian Bersih) – Persediaan Akhir<br>HPP = (350.000.000 + 1.700.000.000) – 250.000.000<br>HPP = 1.800.000.000<br><br><img src="assets/18PTO2.PNG"></img><p><br />*<em>Inventory Turn Over Ratio</em> (TOR) = Perputaran Persediaan. TOR yang baik <span style="color: #ff0000;">8 sampai 12 kali per tahun</span>, semakin kecil TOR maka makin menumpuk sediaan.<br /><br /><strong>Referensi:</strong><br />Satibi, Rokhman, M. R., &amp; Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
+explanation:`<b>Hitung Pembelian Bersih</b><br>Pembelian Bersih = Pembelian – Diskon Pembelian – Retur Pembelian <br>Pembelian Bersih = 1.800.000.000 – 60.000.000 – 40.000.000<br>Pembelian Bersih = 1.700.000.000 <br><br><b>Hitung Harga Pokok Penjualan (HPP)</b><br> HPP = (Persediaan Awal + Pembelian Bersih) – Persediaan Akhir<br>HPP = (350.000.000 + 1.700.000.000) – 250.000.000<br>HPP = 1.800.000.000<br><br><img src="assets/18PTO2.PNG"></img><p><em>Inventory Turn Over Ratio</em> (TOR) = Perputaran Persediaan. TOR yang baik <span style="color: #ff0000;">8 sampai 12 kali per tahun</span>, semakin kecil TOR maka makin menumpuk sediaan.</p><p><strong>Referensi:</strong><br />Satibi, Rokhman, M. R., &amp; Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
 expImg:``
 },
 {
@@ -1196,7 +1196,7 @@ question:`Apoteker di industri farmasi PT Nitro Pharmaceutical bagian <i>Product
 img:``,
 options:["A. 1 kali","B. 2 kali","C. 3 kali","D. 4 kali","E. 5 kali"],
 answer: `B. 2 kali`,
-explanation:`<img src="assets/20PTO2.PNG"></img><br> <br>Kesimpulan: Untuk mencapai efisiensi biaya, pemesanan dilakukan sebanyak 2 kali dalam setahun dengan interval waktu setiap 0,5 tahun (6 bulan) sekali.<br> <br><b>Referensi:</b><br>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.`,
+explanation:`<img src="assets/20PTO2.PNG"></img><p>Kesimpulan: Untuk mencapai efisiensi biaya, pemesanan dilakukan sebanyak 2 kali dalam setahun dengan interval waktu setiap 0,5 tahun (6 bulan) sekali.</p><p><b>Referensi:</b><br></p>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.`,
 expImg:``
 },
 {
@@ -1626,7 +1626,7 @@ question:`Seorang pasien laki-laki berusia 7 tahun dengan berat badan 20 kg didi
 img:``,
 options:["A. 3,0","B. 4,5","C. 6,0","D. 7,5","E. 9,0"],
 answer: `C. 6,0`,
-explanation:`<img src="assets/6PTO9.PNG"></img><br><br><b>Referensi:</b><br>Ansel, H. C., & Stockton, S. J. (2017). Pharmaceutical Calculations (15th ed.).`,
+explanation:`<img src="assets/6PTO9.PNG"></img><p><b>Referensi:</b><br>Ansel, H. C., & Stockton, S. J. (2017). Pharmaceutical Calculations (15th ed.).</p>`,
 expImg:``
 },
 {
@@ -1636,7 +1636,7 @@ question:`Seorang pasien laki-laki usia 35 tahun dengan berat badan 60 kg dirawa
 img:``,
 options:["A. 1,00 mg/L","B. 2,00 mg/L","C. 4,00 mg/L","D. 8,00 mg/L","E. 16,00 mg/L"],
 answer: `B. 2,00 mg/L`,
-explanation:`<img src="assets/8PTO9.PNG"></img><br><br><b>Referensi:</b><br>Shargel, L., & Yu, A. B. (2016). Applied Biopharmaceutics & Pharmacokinetics. 7th Edition. New York: McGraw-Hill Education. `,
+explanation:`<img src="assets/8PTO9.PNG"></img><p><b>Referensi:</b><br>Shargel, L., & Yu, A. B. (2016). Applied Biopharmaceutics & Pharmacokinetics. 7th Edition. New York: McGraw-Hill Education. </p>`,
 expImg:``
 },
 {
