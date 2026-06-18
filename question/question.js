@@ -6,7 +6,7 @@ question:`Apoteker di Komite Farmasi dan Terapi (KFT) RS Nitro Medica melakukan 
 img:``,
 options:["A. Layak karena nilai ICUR < WTP","B. Layak karena nilai ICUR > WTP","C. Tidak layak karena nilai ICUR < WTP","D. Tidak layak karena nilai ICUR > WTP","E. Tidak layak karena biaya Regimen B lebih tinggi"],
 answer: `A. Layak karena nilai ICUR < WTP`,
-explanation:`Suatu intervensi dikatakan hemat biaya (<i>cost-effective</i>) atau layak jika nilai rasio inkrementalnya (ICUR) berada di bawah ambang batas kesediaan membayar (WTP). <img src="assets/1PTO1.PNG"></imgInterpretasi: Hasil perhitungan menunjukkan nilai ICUR sebesar Rp1.000.000/QALY. Nilai ini lebih kecil dibandingkan nilai ambang batas WTP yang ditetapkan (Rp3.000.000/QALY). Karena ICUR < WTP, maka penggantian terapi ke Regimen B dinyatakan layak atau hemat biaya.<br><br><b>Referensi:</b><br><ol><li>Kementerian Kesehatan RI. (2016). Pedoman Teknis Analisis Farmakoekonomi di Fasilitas Kesehatan.</li><li>Kementerian Kesehatan RI. (2025). Pedoman Kajian Farmakoekonomi dalam Pelayanan Kesehatan.</li> </ol>`,
+explanation:`Suatu intervensi dikatakan hemat biaya (<i>cost-effective</i>) atau layak jika nilai rasio inkrementalnya (ICUR) berada di bawah ambang batas kesediaan membayar (WTP). <img src="assets/1PTO1.PNG"></imgInterpretasi: Hasil perhitungan menunjukkan nilai ICUR sebesar Rp1.000.000/QALY. Nilai ini lebih kecil dibandingkan nilai ambang batas WTP yang ditetapkan (Rp3.000.000/QALY). Karena ICUR < WTP, maka penggantian terapi ke Regimen B dinyatakan layak atau hemat biaya.<p><b>Referensi:</b><br></p><ol><li>Kementerian Kesehatan RI. (2016). Pedoman Teknis Analisis Farmakoekonomi di Fasilitas Kesehatan.</li><li>Kementerian Kesehatan RI. (2025). Pedoman Kajian Farmakoekonomi dalam Pelayanan Kesehatan.</li> </ol>`,
 expImg:`1RTO1.png`
 },
 {
@@ -16,7 +16,7 @@ question:`Apoteker di RS Nitro Medica sedang melakukan pemetaan beban penyakit p
 img:``,
 options:["A. 100","B. 200","C. 300","D. 400","E. 500"],
 answer: `C. 300`,
-explanation:`<p><em>Disability Adjusted Life Year</em> (DALY) mencerminkan besarnya waktu yang dinyatakan dalam tahun individu kehilangan kondisi sehat. Nilai DALY didapatkan dari penjumlahan Y<em>ears of Life Lost</em> (YLL) sebagai akibat dari kematian dini dan Y<em>ears Lost Due to Disability</em> (YLD) untuk individu yang hidup dengan gangguan kesehatan.</p> <img src="assets/2PTO1.PNG"></img><br><br><b>Referensi:</b><br><ol><li>Kementerian Kesehatan RI. (2016). Pedoman Teknis Analisis Farmakoekonomi di Fasilitas Kesehatan. </li><li>Sassi, F. (2006). Calculating QALYs, comparing QALY and DALY calculations.</li></ol>`,
+explanation:`<p><em>Disability Adjusted Life Year</em> (DALY) mencerminkan besarnya waktu yang dinyatakan dalam tahun individu kehilangan kondisi sehat. Nilai DALY didapatkan dari penjumlahan Y<em>ears of Life Lost</em> (YLL) sebagai akibat dari kematian dini dan Y<em>ears Lost Due to Disability</em> (YLD) untuk individu yang hidup dengan gangguan kesehatan.</p> <img src="assets/2PTO1.PNG"></img><p><b>Referensi:</b><br></p><ol><li>Kementerian Kesehatan RI. (2016). Pedoman Teknis Analisis Farmakoekonomi di Fasilitas Kesehatan. </li><li>Sassi, F. (2006). Calculating QALYs, comparing QALY and DALY calculations.</li></ol>`,
 expImg:`2RTO1.png`
 },
 {
