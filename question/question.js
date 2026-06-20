@@ -362,11 +362,11 @@ expImg:`JTO5.8.png`
 {
 category:`Farmakoekonomi`,
 level:`Medium`,
-question:`Seorang Analis di laboratorium BPOM menemukan senyawa Aniline (PhNH2) di dalam makanan yang digunakan sebagai pewarna. Ia ingin menentukan profil absorpsi senyawa tersebut di dalam tubuh. Diketahui bahwa anilin memiliki pKa sebesar 4,6 dan rata-rata pH tubuh manusia sebesar 7,4. Berapa persentase (%) molekul terionisasi dan bagaimana absorpsinya di dalam tubuh?`,
+question:`Seorang Apoteker di laboratorium BPOM menemukan senyawa Aniline (PhNH2) di dalam makanan yang digunakan sebagai pewarna. Ia ingin menentukan profil absorpsi senyawa tersebut di dalam tubuh. Diketahui bahwa anilin memiliki pKa sebesar 4,6 dan rata-rata pH tubuh manusia sebesar 7,4. <br><br>Bagaimanakah % ionisasi dan prediksi absorpsi senyawa tersebut?`,
 img:``,
 options:["A. 0,16% dan terabsorpsi dengan baik","B. 0,16% dan terabsorpsi dengan buruk","C. 6,31% dan terabsorpsi dengan baik","D. 6,31% dan terabsorpsi dengan buruk","E. 15,95% dan terabsorpsi dengan baik"],
 answer: `A. 0,16% dan terabsorpsi dengan baik`,
-explanation:`Pertama, kita menentukan berapa perbandingan jumlah anilin yang terion dan yang tidak terion dengan persamaan Henderson-Hasselbalch.<br>pKa = pH + log[PhNH3+ / PhNH2]<br>4,6 = 7,4 + log[PhNH3+ / PhNH2]<br>log[PhNH3+ / PhNH2] = -2,8<br>PhNH3+ / PhNH2 ≈ 0,00158489<br>Bentuk desimal 0,00158489 dapat diubah menjadi perbandingan 0,16/100.<br>Ini berarti, 100 bagian tak terion (PhNH2) memiliki kesetaraan dengan 0,16 bagian terion (PhNH3+). Maka, persentase ionisasi aniline pada tubuh manusia adalah 0,16%.<br>Karena % ionisasi pada tubuh manusia kecil, yaitu hampir 0%, maka Aniline terabsorpsi dengan baik di dalam tubuh manusia.<br><br><b>Referensi:</b><br>Remington: The Science and Practice of Pharmacy, 21st edition, chapter 17 & 25"`,
+explanation:`Pertama, kita menentukan berapa perbandingan jumlah anilin yang terion dan yang tidak terion dengan persamaan Henderson-Hasselbalch.<br><br><img src="assets/1TO1M6001.png"></img><br><br>Bentuk desimal 0,00158489 dapat diubah menjadi perbandingan 0,16/100. Ini berarti, 100 bagian tak terion (PhNH2) memiliki kesetaraan dengan 0,16 bagian terion (PhNH3+). Maka, persentase ionisasi aniline pada tubuh manusia adalah 0,16%. Karena % ionisasi pada tubuh manusia kecil, yaitu hampir 0%, maka Aniline terabsorpsi dengan baik di dalam tubuh manusia.<br><br><b>Referensi:</b><br>Remington: The Science and Practice of Pharmacy, 21st edition, chapter 17 & 25`,
 expImg:`TO1M6001.png`
 },
 {
