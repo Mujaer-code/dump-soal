@@ -282,82 +282,85 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Bagian Pengawasan Mutu di BBPOM sedang melakukan pengembangan metode KCKT untuk penetapan kadar niasinamida dan alfa-arbutin dalam sediaan serum. Fase diam yang digunakan adalah kolom silika C-18. Pengembangan metode dilakukan menggunakan dua komposisi fase gerak, yaitu metanol:air (20:80) dan metanol:air (35:65). Diketahui indeks polaritas metanol adalah 5,1 dan air 10,2. Berapakah indeks polaritas masing-masing fase gerak tersebut?`,
+question:`Penyelia kosmetika di laboratorium OTSKK BBPOM Bandung sedang melakukan pengembangan metode KCKT untuk penetapan kadar niasinamida dan alfa-arbutin dalam sediaan serum. Fase diam yang digunakan adalah kolom silika C-18. Pengembangan metode dilakukan menggunakan dua komposisi fase gerak, yaitu metanol:air (20:80) dan metanol:air (35:65). Diketahui indeks polaritas metanol adalah 5,1 dan air 10,2. Berapakah indeks polaritas masing-masing fase gerak tersebut?`,
 img:``,
 options:["A. 5,54 dan 4,34","B. 7,54 dan 6,84","C. 8,14 dan 11,36","D. 8,64 dan 10,32","E. 9,18 dan 8,41"],
 answer: `E. 9,18 dan 8,41`,
-explanation:`   `,
-expImg:`JTO5.1.png`
+explanation:`Indeks polaritas campuran fase gerak. Diketahui: a.Indeks polaritas metanol adalah 5,1;b.Indeks polaritas air adalah 10,2.Indeks polaritas campurannya adalah sebagai berikut: <img src="assets/1J5TO1.png"></img>`,
+expImg:`1J5TO1.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Seorang apoteker di laboratorium pengawasan mutu BBPOM akan membuat larutan baku induk dexketoprofen untuk analisis kadar menggunakan spektrofotometri UV. Larutan baku yang akan dibuat memiliki konsentrasi 1.750 bpj dengan volume akhir 40,0 mL. Berapa bobot dexketoprofen yang harus ditimbang?`,
+question:`Seorang analis di laboratorium obat BBPOM Bandung akan membuat larutan baku induk dexketoprofen untuk analisis kadar menggunakan spektrofotometri UV. Larutan baku yang akan dibuat memiliki konsentrasi 1.750 bpj dengan volume akhir 40,0 mL. Berapa bobot dexketoprofen yang harus ditimbang?`,
 img:``,
 options:["A. 30 μg","B. 450 μg","C. 700 μg","D. 45.000 μg","E. 70.000 μg"],
 answer: `E. 70.000 μg`,
-explanation:``,
-expImg:`JTO5.2.png`
+explanation:`Diketahui: <img src="assets/2J5TO1.png"></img>`,
+expImg:`2J5TO1.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Bagian pengawasan mutu di industri obat hewan akan melakukan penetapan kadar pirimetamin dalam sediaan veteriner menggunakan metode titrasi. Berdasarkan struktur kimianya, pirimetamin memiliki gugus amina aromatik primer yang dapat bereaksi dengan natrium nitrit dalam suasana asam. Metode titrasi apakah yang sesuai untuk pengujian tersebut?`,
+question:`Analis QC di industri obat hewan PT. Nitro Pet, Tbk., akan melakukan penetapan kadar pirimetamin dalam sediaan veteriner menggunakan metode titrasi. Berdasarkan struktur kimianya, pirimetamin memiliki gugus amina aromatik primer yang dapat bereaksi dengan natrium nitrit dalam suasana asam. Metode titrasi apakah yang sesuai untuk pengujian tersebut?`,
 img:``,
 options:["A. Argentometri","B. Iodometri","C. Nitrimetri","D. Kompleksometri","E. Nitrimetri"],
 answer: `E. Nitrimetri`,
-explanation:`<img src="Pirimetamin.png"></img><br></br>Prinsip nitrimetri yaitu reaksi diazotasi terbentuknya garam diazonium oleh reaksi senyawa amin primer aromatis atau alifatik dengan asam nitrit dalam lingkungan asam pada suhu rendah atau didinginkan. Karena asam nitrit tidak stabil, maka digunakan garamnya NaNO<sub>2</sub> (Khopar, 1990).<br></br>Khophar. 1990. Konsep Dasar Kimia Analitik. Universitas Indonesia, Jakarta.`,
-expImg:``
+explanation:`<img src="assets/3J5TO1.png"></img><br><br>Prinsip nitrimetri yaitu reaksi diazotasi terbentuknya garam diazonium oleh reaksi senyawa amin primer aromatis atau alifatik dengan asam nitrit dalam lingkungan asam pada suhu rendah atau didinginkan. Karena asam nitrit tidak stabil, maka digunakan garamnya NaNO<sub>2</sub> (Khopar, 1990).<br><br>Khophar. 1990. Konsep Dasar Kimia Analitik. Universitas Indonesia, Jakarta.`,
+expImg:`3J5TO1.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Apoteker bagian pengawasan mutu sedang melakukan validasi metode KCKT untuk analisis campuran dua senyawa dalam sediaan tablet. Hasil kromatogram menunjukkan dua puncak analit memiliki resolusi yang rendah sehingga kedua puncak tampak saling berdempet. Apakah tindakan yang paling sesuai untuk meningkatkan pemisahan kedua senyawa tersebut?`,
+question:`Manajer QC PT. Nitro Farma, Tbk., sedang melakukan validasi metode KCKT untuk analisis campuran dua senyawa dalam sediaan tablet. Hasil kromatogram menunjukkan dua puncak analit memiliki resolusi yang rendah sehingga kedua puncak tampak saling berdempet. Apakah tindakan yang paling sesuai untuk meningkatkan pemisahan kedua senyawa tersebut?`,
 img:``,
 options:["A. Membersihkan kolom sebelum digunakan kembali","B. Mengencerkan larutan sampel","C. Mengganti jenis fase diam","D. Menurunkan laju alir dan volume injeksi","E. Menurunkan pH fase gerak"],
 answer: `D. Menurunkan laju alir dan volume injeksi`,
-explanation:``,
-expImg:`JTO5.4.png`
+explanation:`<p><b>Perhatikan ringkasan berikut:</b></p> <img src="assets/4J5TO1.png"></img>`,
+expImg:`4J5TO1.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Bagian mikrobiologi laboratorium pengawasan mutu melakukan identifikasi <i>Pseudomonas aeruginosa</i> menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media. Media apakah yang digunakan untuk pertumbuhan bakteri tersebut?`,
+question:`<img src="assets/3S5TO1.png"></img><p>Analis QC mikrobiologi PT. Nitro Farma, Tbk., melakukan identifikasi <i>Pseudomonas aeruginosa</i> menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media. Media apakah yang digunakan untuk pertumbuhan bakteri tersebut?</p>`,
 img:``,
 options:["A. <i>Cetrimide agar</i>","B. <i>Eosin methylene blue agar</i>","C. <i>Mannitol salt agar</i>","D. <i>Mueller Hinton agar</i>","E. <i>Xylose lysine deoxycholate agar</i>"],
 answer: `A. <i>Cetrimide agar</i>`,
-explanation:`5. A new medium containing 200 ppb of 2-hydroxy-2′,4,4′-trichlorodiphenyloxide (CH3565) and 10 ppm of cetyl-trimethyl-ammonium bromide (Cetrimide) in tryptic soy agar was developed and tested with 19 pure cultures of Pseudomonas, 20 microorganisms of other genera, commercially prepared ground beef, and laboratory-prepared inoculated ground beef. The new medium, CETCH agar, was compared with an antibiotic-containing medium. CETCH agar provided greater pseudomonad recoveries, a shorter incubation period prior to plate counting, and greater ease of preparation.<br></br>Solberg, Myron., Virginia S. O’Leary., William E. Riha, Jr. 1972.  New Medium for the Isolation and Enumeration of Pseudomonads. Appl Microbiol. 1972 Oct;24(4):544–550. doi: 10.1128/am.24.4.544-550.1972.`,
-expImg:`5RTO1.png`
+explanation:`<b>Cetrimide Agar</b> merupakan media selektif sekaligus diferensial yang digunakan untuk mengisolasi dan mengidentifikasi <i>Pseudomonas aeruginosa</i> dari berbagai spesimen, baik yang berasal dari sumber klinis maupun nonklinis. Selektivitas media ini berasal dari kandungan <b>cetrimide</b> (cetyltrimethylammonium bromide), yaitu deterjen kationik golongan amonium kuarterner yang mampu menghambat pertumbuhan sebagian besar bakteri selain <b>P. aeruginosa</b>. Media ini juga dikenal dengan nama <b>Pseudomonas Cetrimide Agar</b> atau <b>Pseudosel Agar</b>.<p> Aryal, S., 2022. Cetrimide Agar: Composition, Principle, Uses, Preparation and Colony Morphology. Microbiology Info. Available at: https://microbiologyinfo.com/cetrimide-agar-composition-principle-uses-preparation-and-colony-morphology/ [Accessed 4 July 2026].</p>`,
+expImg:`3S5TO1.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Bagian pengawasan mutu industri farmasi melakukan penetapan kadar dequalinium klorida menggunakan metode argentometri. Sebanyak 300,0 mg sampel dilarutkan dalam air bebas klorida dan dititrasi menggunakan AgNO₃ 0,1 N. Volume titran yang digunakan adalah 11,25 mL. Diketahui bobot ekivalen dequalinium klorida adalah 263,79 mg/meq dan persyaratan kadar menurut farmakope adalah 98,0–102,0%.<br><br>Apakah kesimpulan hasil pengujian tersebut?`,
+question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan kadar dequalinium klorida menggunakan metode argentometri. Sebanyak 300,0 mg sampel dilarutkan dalam air bebas klorida dan dititrasi menggunakan AgNO₃ 0,1 N. Volume titran yang digunakan adalah 11,25 mL. Diketahui bobot ekivalen dequalinium klorida adalah 263,79 mg/meq dan persyaratan kadar menurut farmakope adalah 98,0–102,0%. Apakah kesimpulan hasil pengujian tersebut?`,
 img:``,
 options:["A. Memenuhi syarat dengan kadar 98,92%","B. Memenuhi syarat dengan kadar 99,93%","C. Memenuhi syarat dengan kadar 100,14%","D. Tidak memenuhi syarat dengan kadar 95,67%","E. Tidak memenuhi syarat dengan kadar 97,79%"],
 answer: `A. Memenuhi syarat dengan kadar 98,92%`,
-explanation:``,
-expImg:`JTO5.6.png`
+explanation:`<b>Diketahui:</b> <img src="assets/6J5TO1.1.png"></img><p>Volume pentiter              : 11,25 mLN aktual, N pentiter        : 0,1 NKesetaraan pentiter        : 263,79 mg/meqMassa sampel                  : 300 mgPersyaratan kadar dequalinium klorida  menurut farmakope adalah 98,0–102,0%</p><b>Jawab:</b><br><img src="assets/6J5TO1.2.png"></img>`,
+expImg:`6J5TO1.1.png
+6J5TO1.2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Seorang apoteker di laboratorium kimia BBPOM melakukan penetapan kadar amoksisilin dalam tablet menggunakan metode nitrimetri. Sampel sebanyak 250 mg dititrasi menggunakan NaNO₂ 0,109 N dalam suasana asam. Diketahui setiap 1 mL NaNO₂ 0,1 N setara dengan 33,4 mg amoksisilin. Volume titran yang digunakan adalah 6,0 mL.<br><br>Berapakah kadar amoksisilin dalam sampel tersebut?`,
+question:`Analis di laboratorium obat BBPOM Bandung melakukan penetapan kadar amoksisilin dalam tablet menggunakan metode nitrimetri. Sampel sebanyak 250 mg dititrasi menggunakan NaNO₂ 0,109 N dalam suasana asam. Diketahui setiap 1 mL NaNO₂ 0,1 N setara dengan 33,4 mg amoksisilin. Volume titran yang digunakan adalah 6,0 mL. Berapakah kadar amoksisilin dalam sampel tersebut?`,
 img:``,
 options:["A. 60,16%","B. 70,08%","C. 87,37%","D. 90,24%","E. 100,08%"],
 answer: `C. 87,37%`,
-explanation:``,
-expImg:`JTO5.7.png`
+explanation:`<b>Diketahui:</b> <img src="assets/7J5TO1.1.png"></img><p>Volume pentiter              : 6,0 mLN aktual, N pentiter        : 0,1 NKesetaraan pentiter        : 33,4 mgMassa sampel                  : 250 mg</p><b>Jawab:</b><br><img src="assets/7J5TO1.2.png"></img>`,
+expImg:`7J5TO1.1.png
+7J5TO1.2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Bagian pengawasan mutu industri farmasi melakukan penetapan kadar kalium diklofenak menggunakan titrasi nonair. Sebelum analisis, dilakukan pembakuan asam perklorat dan diperoleh konsentrasi 0,0992 N. Sampel ditimbang sebanyak 300 mg dan dititrasi dalam pelarut asam asetat glasial. Volume titrasi rata-rata adalah 8,98 mL dengan volume blanko 0,12 mL. Diketahui setiap 1 mL asam perklorat 0,1 N setara dengan 33,424 mg kalium diklofenak.<br><br>Berapakah kadar kalium diklofenak dalam sampel tersebut?`,
+question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan kadar kalium diklofenak menggunakan titrasi nonair. Sebelum analisis, dilakukan pembakuan asam perklorat dan diperoleh konsentrasi 0,0992 N. Sampel ditimbang sebanyak 300 mg dan dititrasi dalam pelarut asam asetat glasial. Volume titrasi rata-rata adalah 8,98 mL dengan volume blanko 0,12 mL. Diketahui setiap 1 mL asam perklorat 0,1 N setara dengan 33,424 mg kalium diklofenak. Berapakah kadar kalium diklofenak dalam sampel tersebut?`,
 img:``,
 options:["A. 50,72%","B. 66,64%","C. 78,32%","D. 87,64%","E. 97,92%"],
 answer: `E. 97,92%`,
-explanation:``,
-expImg:`JTO5.8.png`
+explanation:`<b>Diketahui:</b> <img src="assets/8J5TO1.1.png"></img><p>Volume pentiter        : 8,98 mLVolume blanko          : 0,12 mLN aktual                      : 0,1 NN pentiter                   : 0,0992 NKesetaraan pentiter  : 33,424 mgMassa sampel            : 300 mg</p><b>Jawab:</b><br><img src="assets/8J5TO1.2.png"></img>`,
+expImg:`8J5TO1.1.png
+8J5TO1.2.png`
 },
 {
 category:`Farmakoekonomi`,
@@ -882,47 +885,47 @@ expImg:``
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Easy`,
-question:`Seorang perempuan usia 58 tahun datang ke poliklinik penyakit dalam dengan keluhan sering haus, sering berkemih, mudah lelah, dan penurunan berat badan sejak 3 bulan terakhir. Hasil pemeriksaan menunjukkan kadar glukosa darah puasa 200 mg/dL. Pasien juga diketahui memiliki gagal ginjal kronik dengan albuminuria persisten. Dokter meminta rekomendasi obat antidiabetes yang memberikan manfaat tambahan terhadap fungsi ginjal pasien.<br><br>Apakah obat yang paling tepat direkomendasikan?`,
+question:`Seorang perempuan usia 58 tahun datang ke poliklinik penyakit dalam dengan keluhan sering haus, sering berkemih, mudah lelah, dan penurunan berat badan sejak 3 bulan terakhir. Hasil pemeriksaan menunjukkan kadar glukosa darah puasa 200 mg/dL. Pasien juga diketahui memiliki gagal ginjal kronik dengan albuminuria persisten. Dokter meminta rekomendasi obat antidiabetes yang memberikan manfaat tambahan terhadap fungsi ginjal pasien. Apakah obat yang paling tepat direkomendasikan?`,
 img:``,
 options:["A. Dapaglifozin","B. Glimepirid","C. Liraglutid","D. Metformin","E. Pioglitazon"],
 answer: `A. Dapaglifozin`,
-explanation:`<img src="assets/JTO13.1.PNG"></img<br><br><b>Referensi:</b><br>Dikutip dari PERKENI, 2021: Pasien yang mengalami PGK disertai DM tipe 2. Obat antidiabetes oral yang dianjurkan adalah SGLT-2 (…fozin): salah satunya Dapaglifozin <br>`,
-expImg:`JTO13.1.PNG`
+explanation:`<img src="assets/1J13TO1.png"></img<br><br><b>Referensi:</b><br>Dikutip dari PERKENI, 2021: Pasien yang mengalami PGK disertai DM tipe 2. Obat antidiabetes oral yang dianjurkan adalah SGLT-2 (…fozin): salah satunya Dapaglifozin <br>`,
+expImg:`1J13TO1.png`
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Easy`,
-question:`Seorang laki-laki usia 60 tahun didiagnosis diabetes melitus tipe 2 dan gagal jantung kongestif. Dokter meminta apoteker menelaah terapi antidiabetes yang aman digunakan pada kondisi pasien. Salah satu obat diketahui dapat memperburuk retensi cairan sehingga tidak direkomendasikan pada gagal jantung.<br><br>Apakah obat yang dimaksud?`,
+question:`Seorang laki-laki usia 60 tahun didiagnosis diabetes melitus tipe 2 dan gagal jantung kongestif. Dokter meminta apoteker menelaah terapi antidiabetes yang aman digunakan pada kondisi pasien. Salah satu obat diketahui dapat memperburuk retensi cairan sehingga tidak direkomendasikan pada gagal jantung. Apakah obat yang dimaksud?`,
 img:``,
 options:["A. Dapaglifozin","B. Glimepirid","C. Liraglutid","D. Liraglutide","E. Pioglitazon"],
 answer: `E. Pioglitazon`,
-explanation:`<img src="assets/JTO13.2.PNG"></img><br><br><b>Referensi:</b><br>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 24. <br>`,
-expImg:`JTO13.2.PNG`
+explanation:`<img src="assets/2J13TO1.png"></img><br><br><b>Referensi:</b><br>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 24. <br>`,
+expImg:`2J13TO1.png`
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Easy`,
-question:`Seorang laki-laki usia 55 tahun didiagnosis diabetes melitus tipe 2 dengan HbA1c 8%. Hasil pemeriksaan laboratorium menunjukkan kadar trigliserida 400 mg/dL. Dokter meminta rekomendasi terapi antidiabetes yang dapat memberikan manfaat tambahan terhadap profil lipid pasien.<br><br>Apakah obat yang paling tepat direkomendasikan?`,
+question:`Seorang laki-laki usia 55 tahun didiagnosis diabetes melitus tipe 2 dengan HbA1c 8%. Hasil pemeriksaan laboratorium menunjukkan kadar trigliserida 400 mg/dL. Dokter meminta rekomendasi terapi antidiabetes yang dapat memberikan manfaat tambahan terhadap profil lipid pasien. Apakah obat yang paling tepat direkomendasikan?`,
 img:``,
 options:["A. Dapagliflozin","B. Glimepirid","C. Liraglutid","D. Metformin","E. Pioglitazon"],
 answer: `E. Pioglitazon`,
-explanation:`<img src="assets/JTO13.3.PNG"></img><br><br><b>Referensi:</b><br>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 24.`,
-expImg:`JTO13.3.PNG`
+explanation:`<img src="assets/3J13TO1.png"></img><br><br><b>Referensi:</b><br>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 24.`,
+expImg:`3J13TO1.png`
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Easy`,
-question:`Seorang laki-laki usia 65 tahun menjalani terapi pembesaran prostat jinak menggunakan prazosin 1 kali sehari selama 3 bulan. Pada kontrol berikutnya pasien mengeluhkan keluhan tertentu terutama saat berubah posisi dari duduk ke berdiri sehingga dokter mengganti terapi menjadi tamsulosin.<br><br>Apakah efek samping yang paling mungkin dialami pasien?`,
+question:`Seorang laki-laki usia 65 tahun menjalani terapi pembesaran prostat jinak menggunakan prazosin 1 kali sehari selama 3 bulan. Pada kontrol berikutnya pasien mengeluhkan keluhan tertentu terutama saat berubah posisi dari duduk ke berdiri sehingga dokter mengganti terapi menjadi tamsulosin. Apakah efek samping yang paling mungkin dialami pasien?`,
 img:``,
 options:["A. Ginekomastia","B. Hipotensi ortostatik","C. Peningkatan denyut nadi","D. Retensi urin","E. Sesak napas"],
 answer: `B. Hipotensi ortostatik`,
-explanation:`<img src="assets/JTO13.4.PNG"></img><br><br>Prazosin merupakan salah satu golongan α-1 blocker yang berpotensi menyebabkan hipotensi postural.<br><br><b>Referensi:</b><br>IAUI. 2021. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak.`,
-expImg:`JTO13.4.PNG`
+explanation:`<img src="assets/4J13TO1.png"></img><br><br>Prazosin merupakan salah satu golongan α-1 blocker yang berpotensi menyebabkan hipotensi postural.<br><br><b>Referensi:</b><br>IAUI. 2021. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak.`,
+expImg:`4J13TO1.png`
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Easy`,
-question:`Seorang laki-laki usia 60 tahun datang ke IGD dengan diagnosis <i>diabetic ketoacidosis </i>. Pasien telah mendapatkan terapi cairan natrium klorida dan koreksi kalium. Dokter meminta rekomendasi insulin yang sesuai untuk penatalaksanaan awal kondisi tersebut.<br><br>Apakah insulin yang paling tepat direkomendasikan?`,
+question:`Seorang laki-laki usia 60 tahun datang ke IGD dengan diagnosis <i>diabetic ketoacidosis </i>. Pasien telah mendapatkan terapi cairan natrium klorida dan koreksi kalium. Dokter meminta rekomendasi insulin yang sesuai untuk penatalaksanaan awal kondisi tersebut. Apakah insulin yang paling tepat direkomendasikan?`,
 img:``,
 options:["A. Insulin degludec","B. Insulin detemir","C. Insulin glargine","D. Insulin lispro","E. Insulin NPH"],
 answer: `D. Insulin lispro`,
@@ -932,12 +935,12 @@ expImg:``
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Medium`,
-question:`Seorang pasien geriatri usia 84 tahun dengan berat badan 104 kg didiagnosis diabetes melitus tipe 2 dan akan memulai terapi insulin <i>intermediate</i>. Dokter meresepkan dosis awal insulin sebesar 0,5 unit/kgBB/hari dengan pembagian dosis 2/3 pada pagi hari dan 1/3 pada malam hari.<br><br>Berapakah regimen dosis insulin yang tepat?`,
+question:`Seorang pasien geriatri usia 84 tahun dengan berat badan 104 kg didiagnosis diabetes melitus tipe 2 dan akan memulai terapi insulin <i>intermediate</i>. Dokter meresepkan dosis awal insulin sebesar 0,5 unit/kgBB/hari dengan pembagian dosis 2/3 pada pagi hari dan 1/3 pada malam hari. Berapakah regimen dosis insulin yang tepat?`,
 img:``,
 options:["A. 18 IU pagi dan 39 IU malam","B. 27 IU pagi dan 30 IU malam","C. 28 IU pagi dan 28 IU malam","D. 32 IU pagi dan 25 IU malam","E. 38 IU pagi dan 19 IU malam"],
 answer: `E. 38 IU pagi dan 19 IU malam`,
-explanation:`<img src="assets/JTO13.6.PNG"></img>`,
-expImg:`JTO13.6.PNG`
+explanation:`<img src="assets/6J13TO1.png"></img>`,
+expImg:`6J13TO1.png`
 },
 {
 category:`Saraf`,
@@ -1282,82 +1285,91 @@ expImg:`09M34.png`
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Bagian pengawasan mutu industri farmasi melakukan penetapan kadar bahan baku asetosal sesuai metode Farmakope Indonesia edisi VI menggunakan titrasi alkalimetri balik. Sampel sebanyak 500 mg direaksikan dengan 20,0 mL NaOH 0,5 N dan dipanaskan selama 10 menit. Setelah ditambahkan indikator fenolftalein, kelebihan NaOH dititrasi menggunakan H₂SO₄ 0,5 N dan memerlukan volume 11,1 mL. Diketahui setiap 1 mL NaOH 0,5 N setara dengan 45,04 mg asetosal.<br><br>Berapakah kadar asetosal dalam sampel tersebut?`,
+question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk.,  melakukan penetapan kadar bahan baku asetosal sesuai metode Farmakope Indonesia edisi VI menggunakan titrasi alkalimetri balik. Sampel sebanyak 500 mg direaksikan dengan 20,0 mL NaOH 0,5 N dan dipanaskan selama 10 menit. Setelah ditambahkan indikator fenolftalein, kelebihan NaOH dititrasi menggunakan H₂SO₄ 0,5 N dan memerlukan volume 11,1 mL. Diketahui setiap 1 mL NaOH 0,5 N setara dengan 45,04 mg asetosal. Berapakah kadar asetosal dalam sampel tersebut?`,
 img:``,
 options:["A. 60,44%","B. 72,31%","C. 80,17%","D. 84,26%","E. 90,16%"],
 answer: `C. 80,17%`,
-explanation:``,
-expImg:`JTO5.9.png`
+explanation:`<b>Diketahui:</b> <img src="assets/1J5TO2.1.png"></img><p>Volume NaOH                                          : 20,0 mLVolume pentiter kelebihan NaOH        : 11,1 mLN aktual, N pentiter                                : 0,5 NKesetaraan pentiter                                : 45,04 mgMassa sampel                                          : 500 mg</p><b>Jawab:</b><br><img src="assets/1J5TO2.2.png"></img>`,
+expImg:`1J5TO2.1.png
+1J5TO2.2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Apoteker bagian mikrobiologi industri obat tradisional melakukan pengujian angka kapang khamir (AKK) terhadap kapsul ekstrak <i>Ginkgo biloba</i>. Hasil pengamatan jumlah koloni diperoleh sebagai berikut: <img src="assets/Ginkgo Biloba.png"></img>Persyaratan AKK untuk sediaan tersebut adalah tidak lebih dari 10<sup>5</sup> CFU/g.<br><br>Apakah kesimpulan hasil pengujian tersebut?`,
+question:`Analis QC mikrobiologi di industri obat tradisional PT. Nitro Bedjoe, Tbk.,  melakukan pengujian angka kapang khamir (AKK) terhadap kapsul ekstrak <i>Ginkgo biloba</i>. Hasil pengamatan jumlah koloni diperoleh sebagai berikut: <img src="assets/2S5TO2.png"></img>Persyaratan AKK untuk sediaan tersebut adalah tidak lebih dari 10<sup>5</sup> CFU/g. Apakah kesimpulan hasil pengujian tersebut?`,
 img:``,
 options:["A. Memenuhi syarat dengan nilai 9,9 × 10<sup>⁴</sup> CFU/g","B. Memenuhi syarat dengan nilai 6,8 × 10<sup>⁵</sup> CFU/g","C. Memenuhi syarat dengan nilai 4,4 × 10<sup>⁶</sup> CFU/g","D. Tidak memenuhi syarat dengan nilai 2,38 × 10<sup>³</sup> CFU/g","E. Tidak memenuhi syarat dengan nilai 1,475 × 10<sup>⁴</sup> CFU/g"],
 answer: `C. Memenuhi syarat dengan nilai 4,4 × 10<sup>⁶</sup> CFU/g`,
-explanation:``,
-expImg:`JTO5.10.png`
+explanation:`Persyaratan untuk jumlah koloni pada pengujian AKK adalah <50 koloni, maka dipilih cawan dengan hasil pengenceran 10-5. Kemudian dilakukan perhitungan sebagai berikut: <img src="assets/2J5TO2.png"></img>`,
+expImg:`2S5TO2.png
+2J5TO2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Apoteker bagian penelitian dan pengembangan industri farmasi melakukan validasi metode KCKT untuk analisis campuran amoksisilin, levofloksasin, lansoprazol, dan parasetamol menggunakan kolom C-18 dengan fase gerak metanol:amonium asetat (70:30). Berdasarkan sifat kepolaran senyawa, diperoleh lima puncak kromatogram dengan urutan waktu retensi berbeda. <img src="assets/kromatogram ofloksasin.png"></img><br><br>Puncak manakah yang paling mungkin menunjukkan levofloksasin?`,
+question:`Apoteker bagian penelitian dan pengembangan industri farmasi melakukan validasi metode KCKT untuk analisis campuran amoksisilin, levofloksasin, lansoprazol, dan parasetamol menggunakan kolom C-18 dengan fase gerak metanol:amonium asetat (70:30). Berdasarkan sifat kepolaran senyawa, diperoleh lima puncak kromatogram dengan urutan waktu retensi berbeda. <img src="assets/3S5TO2.png"></img><br><br>Puncak manakah yang paling mungkin menunjukkan levofloksasin?`,
 img:``,
 options:["A. Puncak A","B. Puncak B","C. Puncak C","D. Puncak D","E. Puncak E"],
 answer: `E. Puncak E`,
-explanation:`Fase gerak yang digunakan adalah metanol:amonium asetat (70:30), fase gerak yang bersifat polar. Sedangkan fase diam yang digunakan adalah kolom C-18, merupakan kolom yang bersifat nonpolar. Maka senyawa yang akan terelusi terlebih dahulu adalah senyawa yang bersifat polar yang kemudiaan diikuti oleh senyawa yang Tingkat polaritas nya lebih rendah.`,
-expImg:`JTO5.11.png`
+explanation:`Fase gerak yang digunakan adalah metanol:amonium asetat (70:30), fase gerak yang bersifat polar. Sedangkan fase diam yang digunakan adalah kolom C-18, merupakan kolom yang bersifat nonpolar. Maka senyawa yang akan terelusi terlebih dahulu adalah senyawa yang bersifat polar yang kemudiaan diikuti oleh senyawa yang Tingkat polaritas nya lebih rendah.<p><img src="assets/3J5TO2.png"></img></p><p> Dapat terlihat bahwa urutan polaritas senyawa dilihat dari atom penyusunnya yang memiliki pasangan elektron bebas (PEB) adalah sebagai berikut: Polar -> sedikit kurang polar; Amoxicilin -> Paracetamol -> Lansoprazole -> Levofloxacin. Sehingga senyawa Levofloxacin dapat ditunjukkan oleh Puncak E. </p>`,
+expImg:`3S5TO2.png
+3J5TO2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Bagian laboratorium kimia melakukan analisis campuran NaCl dan Na₂SO₄ menggunakan metode gravimetri pengendapan dengan AgNO₃. Sebanyak 0,953 g sampel menghasilkan endapan AgCl sebanyak 0,7033 g. Diketahui Ar Na = 23, Ag = 108, Cl = 35,5.<br><br>Berapakah kadar NaCl dalam campuran tersebut?`,
+question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan analisis campuran NaCl dan Na₂SO₄ menggunakan metode gravimetri pengendapan dengan AgNO₃. Sebanyak 0,953 g sampel menghasilkan endapan AgCl sebanyak 0,7033 g. Diketahui Ar Na = 23, Ag = 108, Cl = 35,5. Berapakah kadar NaCl dalam campuran tersebut?`,
 img:``,
 options:["A. 30,029%","B. 31,043%","C. 32,035%","D. 33,067%","E. 34,017%"],
 answer: `A. 30,029%`,
-explanation:`<img src="assets/JTO5.12.PNG"></img>`,
-expImg:`JTO5.12.PNG`
+explanation:`Campuran 1: NaCl + Na2SO4 yang diendapkan menggunakan AgNO3.Maka reaksi yang terjadi terhadap cuplikan NaCl adalah:AgNO3+NaCl→AgCl↓+NaNO3;a.        Berat endapan AgCl adalah 0,7033 g;b.        Berat endapan sampel Adalah 0,953 g.<p><img src="assets/4J5TO2.png"></img></p>`,
+expImg:`4J5TO2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Seorang apoteker melakukan pengujian rotasi optis larutan ofloksasin menggunakan polarimeter. Diketahui rotasi jenis larutan adalah +1<sup>°</sup>, panjang tabung pengamatan 150 cm, dan konsentrasi larutan 0,4 g/mL.<br><br>Berapakah rotasi optis yang terukur?`,
+question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan pengujian rotasi optis larutan cefixime trihydrate menggunakan polarimeter. Diketahui rotasi jenis larutan adalah +0,73<sup>°</sup>, panjang tabung pengamatan 75 cm, dan konsentrasi larutan 0,87 g/mL. Berapakah rotasi optis yang terukur?`,
 img:``,
-options:["A. 2°","B. 3°","C. 4°","D. 5°","E. 6°"],
-answer: `E. 6°`,
-explanation:`Data yang diperlukan untuk merencanakan kebutuhan vaksin meliputi jumlah sasaran, jumlah pemberian, target cakupan dan indeks pemakaian vaksin dengan memperhitungkan sisa vaksin (stok) sebelumnya. Indeks Pemakaian (IP) vaksin adalah pemakaian rata-rata setiap kemasan vaksin. Cara menghitung IP adalah dengan membagi jumlah cakupan dengan jumlah vaksin yang dipakai. <img src="assets/13PTO1.PNG"></img><br><br><b>Referensi:</b><br>Kementerian Kesehatan RI. Direktorat Jenderal Kefarmasian dan Alat Kesehatan. Pedoman Pengelolaan Vaksin Di Fasilitas Pelayanan Kesehatan. 2021. `,
-expImg:``
+options:["A. 3,251°","B. 4,763°","C. 0,565°","D. 5,679°","E. 0,793°"],
+answer: `E. 4,763°`,
+explanation:`<b>Diketahui:</b> <p>Rumus rotasi jenis:</p><img src="assets/5J5TO2.1.png"></img><p>Rotasi jenis                                                        : +0,73<sup>°</sup>Panjang jalan cahaya dalam desimeter        : 75 cm konversi ke dm = 7,5 dmKonsentrasi sampel                                          : 0,87 g/mL</p><b>Jawab:</b><br><img src="assets/5J5TO2.2.png"></img>`,
+expImg:`5J5TO2.1.png
+5J5TO2.2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Hard`,
-question:`Bagian pengawasan mutu industri farmasi melakukan penetapan kadar tablet asam mefenamat menggunakan KCKT. Kurva baku menghasilkan persamaan regresi y = 14,463x − 245. Sampel dibuat dari serbuk tablet setara 500 mg asam mefenamat yang dilarutkan dalam 250 mL pelarut kemudian diencerkan 50 kali. Hasil pengukuran memberikan nilai AUC sebesar 325.<br><br>Berapakah kadar asam mefenamat dalam tablet tersebut?`,
+question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan kadar tablet Metformin menggunakan KCKT. Kurva baku menghasilkan persamaan regresi y = 21,375x − 782. Sampel dibuat dari serbuk tablet setara 850 mg Metformin yang dilarutkan dalam 250 mL pelarut kemudian diencerkan 50 kali. Hasil pengukuran memberikan nilai AUC sebesar 765. Berapakah kadar Metformin dalam tablet tersebut?`,
 img:``,
-options:["A. 13,8%","B. 43,75%","C. 84,7%","D. 97,5%","E. 98,5%"],
-answer: `E. 98,5%`,
-explanation:`<img src="assets/JTO5.14.PNG"></img>`,
-expImg:`JTO5.14.PNG`
+options:["A. 90,01%","B. 93,42%","C. 96,78%","D. 99,51%","E. 106,63%"],
+answer: `E. 106,63%`,
+explanation:`<b>Diketahui:</b> <p>Persamaan linier:</p><img src="assets/6J5TO2.1.png"></img><p><b>Langkah 1: Tentukan Konsentrasi (ppm) </b>Y = 21,375 x - 782Y = AUC = 765765 = 21,375 x - 782 (y)…….(b)……...…(a)<img src="assets/6J5TO2.2.png"></img></p><p><b>Langkah 2: Tentukan massa API (ppm) </b>Langkah 2: Massa terkandung = ppm x Vol (L)= 72,51 ppm x 50 x 0,25 L= 906,4 mg</p><p><img src="assets/6J5TO2.3.png"></img></p>`,
+expImg:`6J5TO2.1.png
+6J5TO2.2.png
+6J5TO2.3.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Hard`,
-question:`Seorang apoteker di laboratorium BBPOM melakukan penetapan kadar vitamin C dalam tablet suplemen menggunakan metode iodimetri. Setiap tablet mengandung vitamin C 500 mg dengan bobot rata-rata tablet 650 mg. Sampel serbuk tablet sebanyak 50 mg dilarutkan dalam air bebas karbon dioksida dan ditambah asam sulfat 0,1 N, kemudian dititrasi menggunakan iodium 0,0998 N. Volume titran yang digunakan adalah 4,29 mL. Diketahui BM vitamin C adalah 176,12.<br><br>Berapakah kadar vitamin C dalam tablet tersebut?`,
+question:`Analis di laboratorium OTSKK BBPOM melakukan penetapan kadar asam askorbat dalam tablet suplemen menggunakan metode iodimetri. Setiap tablet mengandung asam askorbat 650 mg dengan bobot rata-rata tablet 720 mg. Sampel serbuk tablet sebanyak 50 mg dilarutkan dalam air bebas karbon dioksida dan ditambah asam sulfat 0,1 N, kemudian dititrasi menggunakan iodium 0,0998 N. Volume titran yang digunakan adalah 5,26 mL. Diketahui BM asam askorbat adalah 176,12. Berapakah kadar asam askorbat dalam tablet tersebut?`,
 img:``,
-options:["A. 24,56%","B. 57,76%","C. 98,02%","D. 99,78%","E. 100,10%"],
-answer: `C. 98,02%`,
-explanation:`<img src="assets/JTO5.12.PNG"></img>`,
-expImg:`15RTO1.PNG`
+options:["A. 24,56%","B. 57,76%","C. 98,02%","D. 99,78%","E. 102,41%"],
+answer: `E. 102,41%`,
+explanation:`<b>Diketahui:</b> <img src="assets/7J5TO2.1.jpeg"></img><p>N pentiter                   : 0,0998 NV pentiter                    : 5,26 mLBe sampel                   : BM/Valensi = 176, 12/2 = 88,06Massa sampel            : 50 mgKadar pada label        : 650 mgBobot rata-rata obat : 720 mg</p><b>Jawab:</b><br><img src="assets/7J5TO2.2.png"></img>`,
+expImg:`7J5TO2.1.jpeg
+7J5TO2.2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Hard`,
-question:`Bagian pengawasan mutu industri farmasi melakukan penetapan potensi eritromisin menggunakan metode difusi agar dengan mikroorganisme <i>Micrococcus luteus</i>. Diameter hambat rata-rata sampel adalah 15,78 mm. Konsentrasi dosis tengah baku yang digunakan adalah 1 µg/mL dan diperoleh persamaan regresi y = −254,21x + 15,212, dengan x merupakan ln dosis dan y diameter hambat.<br><br>Berapakah potensi eritromisin dalam sampel tersebut?`,
+question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan potensi rifapentin menggunakan metode difusi agar dengan mikroorganisme <i>Staphylococcus aureus </i> (ATCC 29213). Diameter hambat rata-rata sampel adalah 17,391 mm. Konsentrasi dosis tengah baku yang digunakan adalah 1 µg/mL dan diperoleh persamaan regresi y = −284,27x + 17,165, dengan x merupakan ln dosis dan y diameter hambat. Berapakah potensi rifapentin dalam sampel tersebut?`,
 img:``,
-options:["A. 79,14%","B. 88,54%","C. 99,77%","D. 100,2%","E. 110,71%"],
-answer: `C. 99,77%`,
-explanation:`<img src="assets/JTO5.16.PNG"></img>`,
-expImg:`JTO5.16.PNG`
+options:["A. 79,14%","B. 88,54%","C. 99,92%","D. 100,27%","E. 106,63%"],
+answer: `C. 99,92%`,
+explanation:`<b>Diketahui:</b> <p>Persamaan linier:</p><img src="assets/6J5TO2.1.png"></img><p><b>Langkah 1: Tentukan Konsentrasi (ppm) </b>Y = -254,21x + 15,212Y = Diameter hambat = 15,7817,391 = -284,27x + 17,165 (y)…….(b)……...…(a)<img src="assets/6J5TO2.2.png"></img><p><b>Langkah 2: Hitung dosis (ppm) </b>Langkah 2: Dosis ->  x = Ln Dosis<img src="assets/8J5TO2.2.png"></img></p><p><img src="assets/8J5TO2.3.png"></img></p>`,
+expImg:`8J5TO2.1.png
+8J5TO2.2.png
+8J5TO2.3.png`
 },
 {
 category:`Farmasi Kimia`,
@@ -1882,47 +1894,47 @@ expImg:``
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Medium`,
-question:`Seorang perempuan usia 28 tahun dengan hipertiroid menggunakan metimazol 20 mg tiga kali sehari selama kehamilan trimester ketiga. Setelah melahirkan secara pervaginam pada usia kehamilan 40 minggu, pasien memberikan ASI eksklusif kepada bayinya. Dokter meminta rekomendasi terapi antitiroid yang sesuai untuk kondisi pasien saat ini.<br><br>Apakah rekomendasi yang paling tepat?`,
+question:`Seorang perempuan usia 28 tahun dengan hipertiroid menggunakan metimazol 20 mg tiga kali sehari selama kehamilan trimester ketiga. Setelah melahirkan secara pervaginam pada usia kehamilan 40 minggu, pasien memberikan ASI eksklusif kepada bayinya. Dokter meminta rekomendasi terapi antitiroid yang sesuai untuk kondisi pasien saat ini. Apakah rekomendasi yang paling tepat?`,
 img:``,
 options:["A. Melanjutkan metimazol","B. Mengganti dengan karbimazol","C. Mengganti dengan propiltiourasil","D. Meningkatkan dosis metimazol","E. Menurunkan dosis metimazol"],
 answer: `A. Melanjutkan metimazol`,
-explanation:`Terapi metimazol pada ibu tidak memengaruhi fungsi tiroid atau perkembangan intelektual pada bayi yang disusui dengan dosis hingga 20 mg per hari. Mengonsumsi metimazol segera setelah menyusui dan menunggu 3 hingga 4 jam sebelum menyusui lagi akan meminimalkan dosis pada bayi. Tidak ada kasus perubahan fungsi tiroid yang dilaporkan pada bayi yang terpapar metimazol melalui ASI. Beberapa ahli sekarang merekomendasikan bahwa metimazol harus dianggap sebagai obat antitiroid pilihan pada ibu menyusui.<br></br>PERKENI. 2017. Pedoman Pengelolaan Hipertiroid.`,
+explanation:`Terapi metimazol pada ibu tidak memengaruhi fungsi tiroid atau perkembangan intelektual pada bayi yang disusui dengan dosis hingga 20 mg per hari. Mengonsumsi metimazol segera setelah menyusui dan menunggu 3 hingga 4 jam sebelum menyusui lagi akan meminimalkan dosis pada bayi. Tidak ada kasus perubahan fungsi tiroid yang dilaporkan pada bayi yang terpapar metimazol melalui ASI. Beberapa ahli sekarang merekomendasikan bahwa metimazol harus dianggap sebagai obat antitiroid pilihan pada ibu menyusui.<br><br><b>Referensi:</b><br>PERKENI. 2017. Pedoman Pengelolaan Hipertiroid.`,
 expImg:``
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Medium`,
-question:`Seorang pasien diabetes melitus mengalami penurunan kadar glukosa darah pada malam hari setelah penggunaan insulin sore hari. Pemeriksaan kadar glukosa darah pada pagi hari menunjukkan hiperglikemia akibat peningkatan hormon kontraregulasi seperti glukagon, kortisol, dan katekolamin.<br><br>Apakah komplikasi yang paling mungkin terjadi pada pasien?`,
+question:`Seorang pasien diabetes melitus mengalami penurunan kadar glukosa darah pada malam hari setelah penggunaan insulin sore hari. Pemeriksaan kadar glukosa darah pada pagi hari menunjukkan hiperglikemia akibat peningkatan hormon kontraregulasi seperti glukagon, kortisol, dan katekolamin. Apakah komplikasi yang paling mungkin terjadi pada pasien?`,
 img:``,
 options:["A. <i>Dawn phenomenon</i>","B. <i>Diabetic ketoacidosis</i>","C. Efek Somogyi","D. Hiperglikemia hiperosmolar","E. Hipoglikemia"],
 answer: `C. Efek Somogyi`,
-explanation:`Hiperglikemia pagi hari pada penderita diabetes dapat disebabkan oleh fenomena fajar, atau efek Somogyi, atau kontrol glikemik yang buruk. Fenomena fajar terjadi ketika sekresi insulin endogen menurun atau ketika efek insulin eksogen yang diberikan kepada pasien sehari sebelumnya menghilang, bersamaan dengan peningkatan fisiologis hormon antagonis insulin. Efek Somogyi terjadi jika jumlah insulin eksogen berlebihan. Fenomena fajar lebih umum daripada efek Somogyi. Untuk mendiagnosis fenomena ini, bermanfaat untuk mengukur kadar glukosa plasma selama beberapa malam antara pukul 3 pagi dan 5 pagi atau menggunakan sistem pemantauan glukosa kontinu. Meskipun pengobatannya berbeda, cara terbaik untuk mencegah baik fenomena fajar maupun efek Somogyi adalah dengan kontrol diabetes yang optimal dengan terapi insulin.<br></br>Rybicka, Malwina., Robert Krysiak, Boguslaw Okopien. 2011. Fenomena fajar dan efek Somogyi - dua fenomena hiperglikemia pagi hari.`,
+explanation:`Hiperglikemia pagi hari pada penderita diabetes dapat disebabkan oleh fenomena fajar, atau efek Somogyi, atau kontrol glikemik yang buruk. Fenomena fajar terjadi ketika sekresi insulin endogen menurun atau ketika efek insulin eksogen yang diberikan kepada pasien sehari sebelumnya menghilang, bersamaan dengan peningkatan fisiologis hormon antagonis insulin. Efek Somogyi terjadi jika jumlah insulin eksogen berlebihan. Fenomena fajar lebih umum daripada efek Somogyi. Untuk mendiagnosis fenomena ini, bermanfaat untuk mengukur kadar glukosa plasma selama beberapa malam antara pukul 3 pagi dan 5 pagi atau menggunakan sistem pemantauan glukosa kontinu. Meskipun pengobatannya berbeda, cara terbaik untuk mencegah baik fenomena fajar maupun efek Somogyi adalah dengan kontrol diabetes yang optimal dengan terapi insulin.<br><br><b>Referensi:</b><br>Rybicka, Malwina., Robert Krysiak, Boguslaw Okopien. 2011. Fenomena fajar dan efek Somogyi - dua fenomena hiperglikemia pagi hari.`,
 expImg:``
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Medium`,
-question:`Seorang perempuan usia 26 tahun dirawat dengan <i>inflammatory bowel disease (IBD)</i>. Hasil pemeriksaan laboratorium menunjukkan hemoglobin 5 g/dL dan feritin serum 520 µg/L. Dokter mendiagnosis anemia of chronic disease dan meminta rekomendasi terapi untuk memperbaiki kondisi anemia pasien.<br><br>Apakah terapi yang paling tepat direkomendasikan?`,
+question:`Seorang perempuan usia 26 tahun dirawat dengan <i>inflammatory bowel disease (IBD)</i>. Hasil pemeriksaan laboratorium menunjukkan hemoglobin 5 g/dL dan feritin serum 520 µg/L. Dokter mendiagnosis anemia of chronic disease dan meminta rekomendasi terapi untuk memperbaiki kondisi anemia pasien. Apakah terapi yang paling tepat direkomendasikan?`,
 img:``,
 options:["A. Eritropoetin","B. Ferrous sulfat","C. <i>Iron dextran</i>","D. Transfusi <i>packed red cell</i>","E. Vitamin B12"],
 answer: `A. Eritropoetin`,
-explanation:`Metode Tall Man Lettering digunakan untuk obat-obatan yang terdengar atau terlihat mirip (LASA/NORUM) dengan cara menggunakan huruf kapital pada bagian kata yang membedakan kedua nama obat tersebut, sementara bagian yang sama tetap menggunakan huruf kecil. Tujuannya adalah untuk menarik perhatian visual staf medis agar tidak salah mengambil obat. Pada kasus ini, bagian yang membedakan adalah "cis-" pada cisplatin dan "carbo-" pada carboplatin. penulisan yang benar adalah CISplatin dan CARBOplatin.<br><br><b>Referensi:</b><br>Petunjuk Teknis Standar Pelayanan Kefarmasian di Rumah Sakit. Kementerian Kesehatan Republik Indonesia. 2019.`,
+explanation:`<p> <b>Jawaban yang benar adalah D. Transfusi packed red cell (PRC)<b>. Pasien didiagnosis mengalami <i>anemia of chronic disease</i> (ACD) dengan kadar hemoglobin 5 g/dL yang menunjukkan anemia berat sehingga memerlukan peningkatan kadar hemoglobin secara cepat. Transfusi PRC merupakan terapi yang paling tepat untuk memperbaiki kapasitas transport oksigen pada kondisi tersebut. </p><p> Pilihan <b>A (eritropoetin)</b> kurang tepat karena onset kerjanya lambat dan umumnya digunakan pada anemia akibat penyakit ginjal kronik atau ACD tertentu yang tidak memerlukan koreksi segera. <b>B (ferrous sulfat)</b> dan <b>C (iron dextran)</b> tidak tepat karena kadar feritin serum 520 µg/L menunjukkan cadangan besi masih tinggi sehingga anemia bukan disebabkan oleh defisiensi besi, melainkan gangguan pemanfaatan besi akibat inflamasi. <b>E (vitamin B12)</b> juga tidak tepat karena tidak terdapat data yang mengarah pada anemia megaloblastik akibat defisiensi vitamin B12. </p><p> Dengan demikian, terapi yang paling tepat pada pasien ini adalah <b>transfusi packed red cell (PRC).</b> </p><br><b> Referensi: </b><p> Kidney Disease: Improving Global Outcomes (KDIGO) Anemia Work Group, 2026. KDIGO 2026 Clinical Practice Guideline for the Management of Anemia in Chronic Kidney Disease (CKD). Kidney International, 109(1 Suppl), pp.S1–S99. doi:10.1016/j.kint.2025.06.006 </p>`,
 expImg:`9RTO1.PNG`
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Medium`,
-question:`Apoteker di rumah sakit melakukan pemantauan terapi pada laki-laki usia 56 tahun dengan diabetes melitus tipe 2 yang mengalami asidosis laktat akibat penggunaan metformin. Dokter merencanakan hemodialisis dan meminta apoteker melakukan pemantauan parameter laboratorium untuk menilai derajat asidosis metabolik pasien.<br><br>Apakah parameter laboratorium yang paling perlu dipantau?`,
+question:`Apoteker di rumah sakit melakukan pemantauan terapi pada laki-laki usia 56 tahun dengan diabetes melitus tipe 2 yang mengalami asidosis laktat akibat penggunaan metformin. Dokter merencanakan hemodialisis dan meminta apoteker melakukan pemantauan parameter laboratorium untuk menilai derajat asidosis metabolik pasien. Apakah parameter laboratorium yang paling perlu dipantau?`,
 img:``,
 options:["A. <i>Anion gap</i>","B. Hemoglobin","C. Kreatinin serum","D. Kadar ALT/AST","E. Troponin"],
 answer: `A. Anion gap`,
-explanation:`<img src="assets/JTO13.10.PNG"></img><br><br><b>Referensi:</b><br>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 52.`,
-expImg:`JTO13.10.PNG`
+explanation:`<img src="assets/4J13TO2.png"></img><br><br><b>Referensi:</b><br>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 52.`,
+expImg:`4J13TO2.png`
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Medium`,
-question:`Seorang laki-laki usia 50 tahun didiagnosis <i>benign prostatic hyperplasia (BPH)</i> derajat sedang-berat dan juga mengalami alopesia androgenik. Dokter meminta rekomendasi terapi yang dapat memberikan manfaat pada kedua kondisi tersebut.<br><br>Apakah obat yang paling tepat direkomendasikan?`,
+question:`Seorang laki-laki usia 50 tahun didiagnosis <i>benign prostatic hyperplasia (BPH)</i> derajat sedang-berat dan juga mengalami alopesia androgenik. Dokter meminta rekomendasi terapi yang dapat memberikan manfaat pada kedua kondisi tersebut. Apakah obat yang paling tepat direkomendasikan?`,
 img:``,
 options:["A. Finasterid","B. Minoksidil oral","C. Prazosin","D. Sildenafil","E. Tamsulosin"],
 answer: `A. Finasterid`,
@@ -1932,12 +1944,12 @@ expImg:`11RTO1.PNG`
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
 level:`Easy`,
-question:`Seorang laki-laki usia 50 tahun dengan berat badan 60 kg mendapatkan terapi insulin total 0,5 unit/kgBB/hari. Sebanyak 60% dari total dosis harian diberikan sebagai insulin prandial yang dibagi menjadi tiga kali pemberian sebelum makan.<br><br>Berapakah dosis insulin prandial untuk setiap kali pemberian?`,
+question:`Seorang laki-laki usia 50 tahun dengan berat badan 60 kg mendapatkan terapi insulin total 0,5 unit/kgBB/hari. Sebanyak 60% dari total dosis harian diberikan sebagai insulin prandial yang dibagi menjadi tiga kali pemberian sebelum makan. Berapakah dosis insulin prandial untuk setiap kali pemberian?`,
 img:``,
 options:["A. 3 IU","B. 6 IU","C. 12 IU","D. 18 IU","E. 24 IU"],
 answer: `B. 6 IU`,
-explanation:`<img src="assets/JTO13.12.PNG"></img>`,
-expImg:`JTO13.12.PNG`
+explanation:`a. Langkah 1: Kebutuhan insulin = 0,5 unit x 60 kgBB/hari = 30 IU;b. Langkah 2: Dosis Prandial adalah 60% dari dosis total = 18 IU;c. Langkah 3:  18/3 = 6 IU.`,
+expImg:``
 },
 {
 category:`Saraf`,
