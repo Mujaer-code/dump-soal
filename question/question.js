@@ -889,7 +889,7 @@ question:`Seorang perempuan usia 58 tahun datang ke poliklinik penyakit dalam de
 img:``,
 options:["A. Dapaglifozin","B. Glimepirid","C. Liraglutid","D. Metformin","E. Pioglitazon"],
 answer: `A. Dapaglifozin`,
-explanation:`<img src="assets/1J13TO1.png"></img<br><br><b>Referensi:</b><br>Dikutip dari PERKENI, 2021: Pasien yang mengalami PGK disertai DM tipe 2. Obat antidiabetes oral yang dianjurkan adalah SGLT-2 (…fozin): salah satunya Dapaglifozin <br>`,
+explanation:`<img src="assets/1J13TO1.png"></img><br><br><b>Referensi:</b><br>Dikutip dari PERKENI, 2021: Pasien yang mengalami PGK disertai DM tipe 2. Obat antidiabetes oral yang dianjurkan adalah SGLT-2 (…fozin): salah satunya Dapaglifozin <br>`,
 expImg:`1J13TO1.png`
 },
 {
