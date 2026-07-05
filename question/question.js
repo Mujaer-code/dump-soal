@@ -445,81 +445,81 @@ expImg:`TO1M6015.png`
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Suatu industri farmasi memproduksi tablet parasetamol dengan metode granulasi basah. Hasil uji menunjukkan waktu hancur tablet menjadi sangat lama. Setelah investigasi diketahui bahwa jumlah magnesium stearat yang digunakan dalam formula meningkat dari 0,5% menjadi 3%. Apa penyebab yang paling mungkin dari permasalahan tersebut?`,
+question:`Seorang apoteker di bagian QA menerima laporan OOS (Out of Specification) pada parameter waktu hancur tablet parasetamol yang diproduksi dengan metode granulasi basah. Hasil pengujian menunjukkan waktu hancur tablet melebihi spesifikasi, sementara hasil uji kadar, keseragaman bobot, friabilitas, dan kekerasan masih memenuhi persyaratan. Tim investigasi melakukan penelusuran terhadap formula dan menemukan bahwa pada batch tersebut terjadi perubahan penggunaan salah satu eksipien dari 0,5% menjadi 3%. Eksipien tersebut berfungsi sebagai lubrikan dan diketahui memiliki sifat hidrofobik. Apakah penyebab yang paling mungkin menyebabkan waktu hancur tablet menjadi lebih lama?`,
 img:``,
-options:["A. Magnesium stearat meningkatkan kelarutan obat","B. Magnesium stearat bersifat hidrofilik sehingga menyerap air","C. Magnesium stearat bersifat hidrofobik sehingga menghambat penetrasi air","D. Magnesium stearat meningkatkan porositas tablet","E. Magnesium stearat meningkatkan disintegrasi tablet"],
-answer: `C. Magnesium stearat bersifat hidrofobik sehingga menghambat penetrasi air`,
-explanation:`Magnesium stearat merupakan lubrikan hidrofobik yang digunakan untuk mengurangi gesekan antara granul dan die selama proses kompresi. Jika digunakan berlebihan, partikel granul akan terlapisi lapisan hidrofobik yang menghambat penetrasi air ke dalam tablet, sehingga memperlambat proses disintegrasi.<b>Referensi:</b><br>Aulton’s Pharmaceutics: The Design and Manufacture of MedicinesAnsel's Pharmaceutical Dosage Forms and Drug Delivery Systems`,
+options:["A. Magnesium stearat meningkatkan porositas tablet sehingga penetrasi air menjadi lebih lambat.","B. Magnesium stearat yang berlebihan membentuk lapisan hidrofobik pada permukaan granul sehingga menghambat pembasahan dan penetrasi cairan ke dalam tablet.","C. Magnesium stearat meningkatkan daya ikat granul sehingga tablet menjadi lebih keras meskipun hasil uji kekerasan masih memenuhi spesifikasi.","D. Magnesium stearat bereaksi dengan parasetamol membentuk kompleks yang tidak larut sehingga memperpanjang waktu hancur.","E. Magnesium stearat meningkatkan kadar air residu granul sehingga tablet menjadi lebih sulit terdisintegrasi."],
+answer: `B. Magnesium stearat yang berlebihan membentuk lapisan hidrofobik pada permukaan granul sehingga menghambat pembasahan dan penetrasi cairan ke dalam tablet.`,
+explanation:`Penyebab yang paling mungkin adalah penggunaan magnesium stearat yang berlebihan sehingga membentuk lapisan hidrofobik pada permukaan granul. Magnesium stearat merupakan eksipien yang berfungsi sebagai lubrikan untuk mengurangi gesekan selama proses pencetakan tablet. Dalam konsentrasi normal, magnesium stearat membantu proses manufaktur tanpa memengaruhi mutu tablet secara signifikan. Namun, peningkatan konsentrasi dari 0,5% menjadi 3% dapat menyebabkan fenomena overlubrication, yaitu partikel magnesium stearat melapisi permukaan granul dan eksipien lain secara berlebihan.<b>Lapisan hidrofobik tersebut menghambat proses pembasahan (wetting) dan penetrasi medium uji ke dalam pori-pori tablet. Akibatnya, disintegran tidak dapat bekerja secara optimal untuk memecah tablet menjadi partikel-partikel yang lebih kecil. Kondisi ini menyebabkan waktu hancur tablet menjadi lebih lama meskipun parameter lain seperti kadar, keseragaman bobot, friabilitas, dan kekerasan masih memenuhi spesifikasi. Oleh karena itu, akar masalah pada kasus ini bukan berasal dari gaya kompresi atau kadar zat aktif, melainkan dari perubahan konsentrasi eksipien lubrikan yang memengaruhi sifat permukaan tablet.<b>Menurut Handbook of Pharmaceutical Excipients, magnesium stearat merupakan lubrikan hidrofobik yang pada penggunaan berlebih dapat memperlambat disintegrasi dan disolusi tablet. Selain itu, penelitian yang dipublikasikan dalam AAPS PharmSciTech menunjukkan bahwa peningkatan konsentrasi magnesium stearat dapat meningkatkan sifat hidrofobik granul sehingga menghambat penetrasi air ke dalam tablet dan memperpanjang waktu hancur. Oleh karena itu, jawaban yang paling tepat adalah B, karena mekanisme tersebut paling sesuai dengan data investigasi yang diberikan pada soal.<b>Referensi:</b><br>Handbook of Pharmaceutical Excipients (Rowe et al.)<b>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines<b>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`QC melakukan pengujian friabilitas terhadap tablet. Bobot awal sampel adalah 6,5 g dan setelah pengujian menjadi 6,44 g. Apa kesimpulan dari hasil pengujian berikut?`,
+question:`Seorang Apoteker di bagian pengawasan mutu (QC) sebuah industri farmasi sedang melakukan pengujian kerapuhan terhadap tablet x. Bobot awal dari 20 tablet yang ditimbang adalah 6,50 g. Setelah dilakukan pengujian, tablet dibersihkan dari debu lalu ditimbang kembali menghasilkan bobot 6,44 g. Apakah kesimpulan yang tepat terhadap hasil uji tablet tersebut? `,
 img:``,
 options:["A. Memenui syarat","B. Tidak memenuhi syarat","C. Perlu Pengujian ulang","D. Tablet harus di reformulasi","E. Tablet harus uji disintegrasi ulang"],
 answer: `A. Memenuhi syarat`,
-explanation:`Perhitungan : <img src="assets/01M7.PNG"></imgBatas kehilangan bobot pada uji friabilitas adalah ≤1%, sehingga tablet memenuhi persyaratan.<b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji kerapuhan tablet`,
-expImg:``
+explanation:`Perhitungan : <img src="assets/01M7.png"></imgBatas kehilangan bobot pada uji friabilitas adalah ≤1%, sehingga tablet memenuhi persyaratan.<b><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji kerapuhan tablet`,
+expImg:`01M7.png`
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Suatu tablet diuji disolusinya menggunakan alat disolusi tipe II (paddle). Spesifikasi menyatakan bahwa Q = 75% dalam 45 menit. Hasil pengujian 6 tablet menunjukkan pelepasan obat 88%, 80%, 85%, 89%, 86%, 82%. Bagaimana hasil pengujian tersebut?`,
+question:`Seorang Apoteker di bagian pengawasan mutu sebuah industri farmasi sedang melakukan evaluasi terhadap hasil uji disolusi  dari sediaan tablet parasetamol menggunakan alat tipe 2 (paddle). Dokumen spesifikasi produk menetapkan nilai penerimaan (Q) = 75% dalam waktu 45 menit. Hasil persentase pelepasan zat aktif dari 6 tablet yang diuji berturut-turut adalah 88%, 80%, 85%, 89%, 86%, dan 82%. Apakah kesimpulan yang tepat terhadap hasil pengujian tersebut? `,
 img:``,
 options:["A. Memenuhi syarat tahap S1","B. Memenuhi syarat tahap S2","C. Tidak memenuhi syarat","D. Harus dilakukan pengujian ulang","E. Dilakukan re-formulasi"],
 answer: `A. Memenuhi syarat tahap S1`,
-explanation:`Pada soal di sebutkan 6 tablet artinya untuk pengujian tahap 1, dan interpretasi untuk pengujian disolusi berdasarkan Farmakope VI yaitu :<img src="assets/02M7.PNG"></imgseingga hasil pengujian memenuhi syarat pada tahap 1 karena Q+5 diatas 80%<b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Disolusi halaman 2117`,
-expImg:``
+explanation:`Pada soal di sebutkan 6 tablet artinya untuk pengujian tahap 1, dan interpretasi untuk pengujian disolusi berdasarkan Farmakope VI yaitu :<img src="assets/02M7.png"></imgseingga hasil pengujian memenuhi syarat pada tahap 1 karena Q+5 diatas 80%<b><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Disolusi halaman 2117`,
+expImg:`02M7.png`
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Industri Nitro  melakukan formulasi tablet, dimana dalam formulasinya terdapat penambahan Crosscarmellose Sodium bertujuan untuk mempercepat pecahnya tablet saat kontak dengan cairan tubuh. Bahan ini termasuk kedalam golongan ?`,
+question:`Apoteker di bagian Penelitian dan Pengembangan (R&D) suatu industri farmasi sedang melakukan optimasi formula tablet salut selaput yang diproduksi dengan metode kempa langsung. Pada bets percobaan pertama, formula menggunakan amilum sebagai bahan penghancur. Hasil evaluasi menunjukkan tablet mengalami capping dan memiliki waktu hancur yang melebihi spesifikasi. Setelah dilakukan investigasi, diketahui bahwa bahan penghancur yang digunakan kurang mampu menghasilkan gaya pengembangan yang cukup untuk mempercepat disintegrasi tablet. Untuk memperbaiki formula, apoteker memutuskan mengganti amilum dengan superdisintegrant yang bekerja melalui mekanisme penyerapan air dan pengembangan yang sangat cepat tanpa membentuk lapisan gel yang dapat menghambat penetrasi cairan ke dalam tablet. Eksipien manakah yang tepat untuk dipilih?`,
 img:``,
-options:["A. Lubrikan","B. Glidan","C. Pengisi","D. Superdisintegran","E. Pengikat"],
-answer: `D. Superdisintegran`,
-explanation:`Croscarmellose Sodium merupakan superdisintegran yang bekerja dengan cara mengembang secara ceoat (swelling) untuk menghancurkan tablet<b>Referensi:</b><br>Handbook of Pharmaceutical Excipients`,
+options:["A. Croscarmellose sodium","B. Sodium starch glycolate","C. Crospovidone","D. Amilum pragelatinisasi","E. Mikrokristalin selulosa"],
+answer: `A. Croscarmellose sodium`,
+explanation:`Crospovidone merupakan superdisintegrant yang bekerja terutama melalui mekanisme wicking (kapilaritas) dan sedikit pengembangan (swelling). Crospovidone mampu menarik air dengan sangat cepat ke dalam matriks tablet sehingga tablet segera terdisintegrasi. Berbeda dengan beberapa superdisintegrant lain, crospovidone tidak membentuk lapisan gel yang signifikan saat kontak dengan air. Oleh karena itu, penetrasi medium tetap berlangsung cepat dan waktu hancur dapat dipersingkat.<b>Referensi:</b><br>Handbook of Pharmaceutical Excipients`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Industri farmasi telah membuat tablet Valsartan 80 mg. Dilakukan evaluasi pengujian pada tablet tersebut dengan pengujian waktu hancur. Pada  uji pertama didapatkan waktu hancur Valsartan 14,5 menit, 14,2 menit, 14,8 menit, 16,2 menit,14 menit, dan 14,3 menit. Apakah yang akan dilakukan oleh QC setelah mengetahui waktu hancur tablet valsartan  tersebut? (UKAI September 2021)`,
+question:`Apoteker di bagian pengawasan mutu sebuah industri farmasi sedang melakukan uji waktu hancur terhadap sediaan tablet valsartan 80 mg. Hasil pengujian pada tahap pertama terhadap 6 tablet menunjukkan waktu hancur berturut-turut adalah 14,5 menit; 14,2 menit; 14,8 menit; 16,2 menit; 14,0 menit; dan 14,3 menit. Apakah tindakan selanjutnya yang paling tepat untuk dilakukan?  (UKAI September 2021)`,
 img:``,
-options:["A. Menambah 6 sampel tablet, karena terdapat 1 tablet lebih dari 15 menit","B. Menambah 12 sampel tablet, karena terdapat 1 tablet lebih dari 15 menit","C. Tidak perlu menambah tablet karena sudah sesuai persyaratan","D. Menambah 6 tablet, karena 5 tablet kurang dari 15 menit","E. Menambah 12 tablet, karena 5 tablet kurang dari 15 menit"],
-answer: `B. Menambah 12 sampel tablet, karena terdapat 1 tablet lebih dari 15 menit`,
-explanation:`Hasil pengujian yaitu terdapat 1 tablet yang hancur diatas 15 menit, sehingga perlu dilakukan pengujian tahap 2 dengan menambahkan 12 tablet .<b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Waktu Hancur halaman 2120`,
+options:["A. Melakukan uji ulang dengan menambahkan 12 tablet","B. Melakukan uji ulang dengan menambahkan 6 tablet","C. Meluluskan pengujian karena rerata waktu masih di bawah 15 menit","D. Menolak seluruh bets karena terdapat tablet yang tidak memenuhi syarat","E. Mengulang pengujian dari awal menggunakan 6 tablet yang baru"],
+answer: `A. Melakukan uji ulang dengan menambahkan 12 tablet`,
+explanation:`Berdasarkan hasil pengujian waktu hancur terhadap 6 tablet valsartan 80 mg, diperoleh satu tablet dengan waktu hancur 16,2 menit, sedangkan lima tablet lainnya masih memenuhi persyaratan yaitu kurang dari 15 menit. Dalam pengujian waktu hancur, penilaian tidak didasarkan pada nilai rata-rata waktu hancur seluruh tablet, melainkan pada kemampuan masing-masing unit untuk memenuhi batas waktu yang telah ditetapkan dalam monografi. Pengujian awal dilakukan terhadap 6 tablet. Apabila seluruh tablet hancur dalam waktu yang dipersyaratkan, maka bets dinyatakan memenuhi syarat. Namun, jika terdapat 1 atau 2 tablet yang gagal memenuhi persyaratan, pengujian tidak langsung dinyatakan gagal maupun lulus. Dalam kondisi tersebut, pengujian harus dilanjutkan dengan menambahkan 12 tablet lagi untuk memastikan apakah kegagalan yang terjadi bersifat insidental atau mencerminkan mutu bets secara keseluruhan.<br>Pada kasus ini hanya terdapat 1 tablet yang tidak memenuhi syarat, sehingga tindakan yang paling tepat adalah melakukan pengujian lanjutan terhadap 12 tablet tambahan. Hasil dari total 18 tablet kemudian dievaluasi sesuai kriteria penerimaan yang berlaku. Oleh karena itu, bets tidak dapat langsung diluluskan hanya karena rata-rata waktu hancurnya masih di bawah 15 menit, dan juga tidak dapat langsung ditolak karena masih terdapat kesempatan untuk dilakukan pengujian tahap kedua sesuai prosedur farmakope.<b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Waktu Hancur halaman 2120`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Divisi QC Industri Nitro melakukan pengawasan mutu terhadap granul yang akan di cetak menjadi tablet. Sebelum dilakukan tabletasi, perlu dilakukan uji distribusi ukuran partikel untuk memastikan %fines dalam massa cetak tidak terlalu tinggi. Pada pengujian tersebut, sampel granul dengan berat awal 520 gram dimasukkan ke dalam alat pengayak dan digetarkan selama 20 menit. Setelah proses pengayakan selesai, diperoleh bobot partikel halus (fines) yang tertampung pada pan sebesar 27,2 gram. Berapakah persentase fines granul tersebut dan bagaimana keputusan terhadap granul tersebut?`,
+question:`Divisi QC PT Nitro Pharmaceutical melakukan pengawasan mutu terhadap granul yang akan dicetak menjadi tablet. Sebelum dilakukan tabletasi, perlu dilakukan uji distribusi ukuran partikel untuk memastikan %fines dalam massa cetak tidak terlalu tinggi. Pada pengujian tersebut, sampel granul dengan berat awal 520 gram dimasukkan ke dalam alat pengayak dan digetarkan selama 20 menit. Setelah proses pengayakan selesai, diperoleh bobot partikel halus (fines) yang tertampung pada pan sebesar 27,2 gram. Berapakah persentase fines granul tersebut dan bagaimana keputusan terhadap granul tersebut?`,
 img:``,
 options:["A. 4,23% – granul memenuhi spesifikasi","B. 5,23% – granul memenuhi spesifikasi","C. 5,23% – granul tidak memenuhi spesifikasi","D. 6,23% – granul memenuhi spesifikasi","E. 6,23% – granul tidak memenuhi spesifikasi"],
 answer: `B. 5,23% – granul memenuhi spesifikasi`,
-explanation:`<img src="assets/03M7.PNG"></imgseingga hasil pengujian memenuhi syarat `,
+explanation:`<img src="assets/03M7.png"></imgseingga hasil pengujian memenuhi syarat <b>Referensi:</b><br>Farmakope Indonesia Edisi VI - Estimasi Distribusi Ukuran PArtikel Dengan Pengayak Halaman 2013`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Dalam pembuatan suppositoria dengan basis Oleum Cacao terkandung 300 mg Aminofilin sebagai zat aktif. Jumlah suppositoria yang dibuat adalah 10 buah dengan berat masingmasing 2 gram.  Jika nilai tukar aminofilin adalah 0,86 berapa jumlah basis yang digunakan? `,
+question:`Seorang apoteker di bagian produksi sedang menyiapkan 10 suppositoria aminofilin menggunakan basis Oleum Cacao. Setiap suppositoria memiliki bobot 2 gram dan mengandung 300 mg aminofilin. Diketahui nilai tukar (displacement value) aminofilin terhadap Oleum Cacao adalah 0,86. Berapakah jumlah basis Oleum Cacao yang dibutuhkan untuk membuat 10 suppositoria tersebut?`,
 img:``,
 options:["A. 19,82 gram","B. 18,80 gram","C. 16,45 gram","D. 21,95 gram","E. 17, 42 gram"],
 answer: `E. 17, 42 gram`,
-explanation:`<img src="assets/04M7.PNG"></img`,
+explanation:`<img src="assets/04M7.png"></img<br><b>Referensi:</b><br>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Bab Suppositories dan Displacement Value.<br>Remington: The Science and Practice of Pharmacy – Perhitungan basis suppositoria dan nilai tukar.<br>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Formulasi sediaan rektal dan displacement value.`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Industri Nitro sedang memproduksi tablet salut asetosal dengan metode granulasi basah. Proses pembuatan dimulai dari proses penimbangan hingga pengemasan. Manakah yang termasuk produk ruahan? `,
+question:`PT Nitro Pharmaceutical sedang memproduksi tablet salut asetosal dengan metode granulasi basah. Proses pembuatan dimulai dari proses penimbangan hingga pengemasan. Manakah yang termasuk produk ruahan? `,
 img:``,
 options:["A. Granul Kering","B. Tablet Inti","C. Tablet yang sudah disalut","D. Tablet salut dalam kemasan","E. Campuran massa tablet"],
 answer: `C. Tablet yang sudah disalut`,
-explanation:`Produk antara (Intermediate Product) : Bahan atau produk yang diperoleh selama tahapan proses produksi dan masih memerlukan satu atau beberapa tahap pengolahan lanjutan sebelum menjadi produk ruahan.<br>Produk ruahan (bulk product): Produk yang telah selesai melalui seluruh tahapan proses produksi, tetapi belum dikemas dalam kemasan akhir, sehingga masih memerlukan proses pengemasan sebelum menjadi produk jadi.<br>Produk jadi (finished product) : Produk obat yang telah melewati seluruh tahapan proses produksi dan pengemasan, sehingga siap untuk didistribusikan atau digunakan oleh konsumen/pasien.<br>Contoh pada proses pembuatan tablet:<br>Granul hasil proses granulasi → produk antara<br>Tablet yang sudah dicetak tetapi belum dikemas → produk ruahan<br>Tablet yang sudah dikemas dalam blister atau botol → produk jadi<b>Referensi:</b><br>CPOB 2024 BAB 5 Produksi `,
+explanation:`Produk antara (Intermediate Product) : Bahan atau produk yang diperoleh selama tahapan proses produksi dan masih memerlukan satu atau beberapa tahap pengolahan lanjutan sebelum menjadi produk ruahan.<br>Produk ruahan (bulk product): Produk yang telah selesai melalui seluruh tahapan proses produksi, tetapi belum dikemas dalam kemasan akhir, sehingga masih memerlukan proses pengemasan sebelum menjadi produk jadi.<br>Produk jadi (finished product) : Produk obat yang telah melewati seluruh tahapan proses produksi dan pengemasan, sehingga siap untuk didistribusikan atau digunakan oleh konsumen/pasien.<br>Contoh pada proses pembuatan tablet:<br>Granul hasil proses granulasi → produk antara<br>Tablet yang sudah dicetak tetapi belum dikemas → produk ruahan<br>Tablet yang sudah dikemas dalam blister atau botol → produk jadi<br><b>Referensi:</b><br>CPOB 2024 BAB 5 Produksi `,
 expImg:``
 },
 {
@@ -765,11 +765,11 @@ expImg:`InteraksiMetronidazole.png`
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang laki-laki 56 tahun datang kontrol rutin. Pasien memiliki riwayat diabetes melitus tipe 2 sejak 8 tahun lalu. Tekanan darah saat ini 158/96 mmHg. Pemeriksaan laboratorium menunjukkan mikroalbuminuria positif.Golongan antihipertensi yang paling tepat diberikan adalah:`,
+question:`Seorang laki-laki 56 tahun datang kontrol rutin. Pasien memiliki riwayat diabetes melitus tipe 2 sejak 8 tahun lalu. Tekanan darah saat ini 158/96 mmHg. Pemeriksaan laboratorium menunjukkan mikroalbuminuria positif.Golongan antihipertensi yang paling tepat diberikan adalah :`,
 img:``,
 options:["A. Calcium channel blocker","B. Beta blocker","C. ACE inhibitor","D. Diuretik osmotik","E. Vasodilator langsung"],
 answer: `C. ACEI inhibitor`,
-explanation:`Golongan antihipertensi untuk albuminuria yaitu ACEI Inhibitor. ACE inhibitor (ACEI) dapat menurunkan albuminuria melalui efek hemodinamik dan renoprotektif pada ginjal. Pada kondisi hipertensi atau diabetes, aktivasi sistem renin-angiotensin-aldosteron (RAAS) menyebabkan peningkatan kadar angiotensin II yang memicu vasokonstriksi arteriol eferen glomerulus. Akibatnya tekanan intraglomerulus meningkat dan permeabilitas membran glomerulus terhadap protein menjadi lebih besar sehingga albumin bocor ke urin.<br>ACEI bekerja dengan menghambat konversi angiotensin I menjadi angiotensin II sehingga terjadi dilatasi arteriol eferen glomerulus. Hal ini menurunkan tekanan intraglomerulus, mengurangi hiperfiltrasi, dan menurunkan kebocoran albumin ke urin. Selain itu, ACEI juga memiliki efek antifibrotik dan antiinflamasi yang membantu memperlambat progresivitas kerusakan ginjal kronis. Oleh karena itu, ACEI direkomendasikan sebagai terapi lini pertama pada pasien hipertensi atau diabetes dengan albuminuria.<b>Referensi:</b><br>KDIGO Clinical Practice Guideline for Diabetes Management in CKD 2022`,
+explanation:`Golongan antihipertensi untuk albuminuria yaitu ACEI Inhibitor. ACE inhibitor (ACEI) dapat menurunkan albuminuria melalui efek hemodinamik dan renoprotektif pada ginjal. Pada kondisi hipertensi atau diabetes, aktivasi sistem renin-angiotensin-aldosteron (RAAS) menyebabkan peningkatan kadar angiotensin II yang memicu vasokonstriksi arteriol eferen glomerulus. Akibatnya tekanan intraglomerulus meningkat dan permeabilitas membran glomerulus terhadap protein menjadi lebih besar sehingga albumin bocor ke urin.<br>ACEI bekerja dengan menghambat konversi angiotensin I menjadi angiotensin II sehingga terjadi dilatasi arteriol eferen glomerulus. Hal ini menurunkan tekanan intraglomerulus, mengurangi hiperfiltrasi, dan menurunkan kebocoran albumin ke urin. Selain itu, ACEI juga memiliki efek antifibrotik dan antiinflamasi yang membantu memperlambat progresivitas kerusakan ginjal kronis. Oleh karena itu, ACEI direkomendasikan sebagai terapi lini pertama pada pasien hipertensi atau diabetes dengan albuminuria.<b>Referensi:</b><br>KDIGO Clinical Practice Guideline for Diabetes Management in CKD 2022<br>Keputusan MENKES NOMOR HK.01.07/MENKES/1634/2023`,
 expImg:``
 },
 {
@@ -779,13 +779,13 @@ question:`Seorang pasien laki-laki dibawa ke IGD setelah ditemukan tidak sadarka
 img:``,
 options:["A. Nitropusside","B. Labetolol","C. Kaptopril","D. Valsartan","E. Bisoprolol"],
 answer: `A. Nitropuside`,
-explanation:`Hipertensi urgensi: tekanan darah 180/120mmHg tanpa kerusakan organ. Terapi: antihipertensi oral kerja pendek seperti kaptopril, klonidin, labetolol.Hipertensi emergensi: tekanan darah 180/120mmHg disertai kerusakan organ. Terapi: Nitropusside (vasodilator yang bekerja langsung menurunkan pulmonary vascular resistance).<b>Referensi:</b><br>Dipiro ed 12 th`,
+explanation:`Hipertensi urgensi: tekanan darah 180/120mmHg tanpa kerusakan organ. Terapi: antihipertensi oral kerja pendek seperti kaptopril, klonidin, labetolol.Hipertensi emergensi: tekanan darah 180/120mmHg disertai kerusakan organ. Terapi: Nitropusside (vasodilator yang bekerja langsung menurunkan pulmonary vascular resistance).<b>Referensi:</b><br>Dipiro ed 12 th halaman 128`,
 expImg:``
 },
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang wanita ditemukan mengantuk berat setelah mengonsumsi alprazolam dosis tinggi. Tanda vital stabil dan tidak ditemukan depresi napas berat.Antidotum spesifik yang dapat diberikan adalah:`,
+question:`Seorang wanita ditemukan mengantuk berat setelah mengonsumsi alprazolam dosis tinggi. Tanda vital stabil dan tidak ditemukan depresi napas berat.Seorang perempuan berusia 24 tahun dibawa ke Instalasi Gawat Darurat (IGD) oleh keluarganya karena mengalami penurunan kesadaran setelah mengonsumsi sejumlah tablet obat antikecemasan miliknya sekitar 2 jam sebelumnya. Hasil pemeriksaan menunjukkan pasien tampak mengantuk, dapat dibangunkan dengan rangsangan verbal, tekanan darah 110/70 mmHg, nadi 84 kali/menit, frekuensi napas 18 kali/menit, dan saturasi oksigen 98%. Dari riwayat pengobatan diketahui pasien rutin menggunakan alprazolam untuk gangguan kecemasan. <br>Antidotum spesifik yang dapat diberikan adalah:`,
 img:``,
 options:["A. Nalokson","B. Flumazenil","C. Atropin","D. Etanol","E. Vitamin K"],
 answer: `B. Flumazenil`,
@@ -795,7 +795,7 @@ expImg:``
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang ibu datang ke apotek mengeluhkan nyeri kepala dan badan terasa tidak nyaman. Pasien mengatakan sebelumnya telah rutin menggunakan simvastatin untuk menurunkan kadar kolesterolnya. Dari hasil pemeriksaan laboratorium diperoleh kadar kolesterol total 300 mg/dL, LDL 180 mg/dL, dan HDL 40 mg/dL. Apoteker menilai terapi pasien belum mencapai target penurunan LDL sehingga diperlukan terapi tambahan. Obat yang paling tepat untuk ditambahkan pada pasien tersebut adalah:`,
+question:`Seorang ibu datang ke apotek dengan keluhan nyeri kepala dan badan terasa tidak nyaman. Pasien menyampaikan bahwa dirinya rutin mengonsumsi simvastatin untuk menurunkan kadar kolesterol. Berdasarkan hasil pemeriksaan laboratorium terbaru, diperoleh kadar kolesterol total 300 mg/dL, LDL 180 mg/dL, dan HDL 40 mg/dL.<br>Apoteker menilai bahwa target penurunan kadar LDL belum tercapai sehingga diperlukan penambahan terapi untuk membantu mengendalikan kadar kolesterol pasien. Obat yang paling tepat untuk ditambahkan pada terapi pasien adalah : `,
 img:``,
 options:["A. Gemfibrozil","B. Kolestiramin","C. Ezetimibe","D. Asam nikotinat","E. Fenofibrat"],
 answer: `C. Ezetimibe`,
@@ -809,18 +809,18 @@ question:`Seorang apoteker melakukan visite bersama dokter di ruang rawat inap u
 img:``,
 options:["A. ACE inhibitor + ARB","B. Beta blocker + ARB","C. ACE inhibitor + CCB","D. ARB + ARB","E. Beta blocker tungga"],
 answer: `C. ACE inhibitor + CCB`,
-explanation:`Kombinasi yang tepat menurut tatalaksana yaitu ACEI Inhibitor + CCB<img src="assets/01TO1M11.jpeg"></img<b>Referensi:</b><br>Lukito AA, Harmeiwaty E, Hustrini NM, editors. Konsensus Penatalaksanaan Hipertensi 2019. Jakarta: Perhimpunan Dokter Hipertensi Indonesia; 2019.`,
+explanation:`Kombinasi yang tepat menurut tatalaksana yaitu ACEI Inhibitor + CCB<img src="assets/01TO1M11.jpeg"></img<b>Referensi:</b><br>Lukito AA, Harmeiwaty E, Hustrini NM, editors. Konsensus Penatalaksanaan Hipertensi 2019. Jakarta: Perhimpunan Dokter Hipertensi Indonesia; 2019.<br>Keputusan Menteri Kesehatan Republik Indonesia Nomor HK 01.07/Menkes/4634/2021 Tentang Pedoman Nasional Pelayanan Kedokteran Tata Laksana Hipertensi Dewasa`,
 expImg:`01TO1M11.jpeg`
 },
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang laki-laki usia 25 tahun dibawa ke IGD dalam keadaan tidak sadar setelah diduga menggunakan heroin dosis tinggi. Pemeriksaan fisik menunjukkan frekuensi napas 6 kali/menit, pupil pinpoint, dan saturasi oksigen 82%.Antidotum yang paling tepat diberikan pada pasien tersebut adalah:`,
+question:`Seorang laki-laki berusia 25 tahun dibawa ke Instalasi Gawat Darurat (IGD) oleh temannya karena ditemukan tidak responsif sekitar 30 menit setelah menyuntikkan suatu zat yang diduga merupakan narkotika. Hasil pemeriksaan menunjukkan tekanan darah 90/60 mmHg, frekuensi nadi 58 kali/menit, frekuensi napas 6 kali/menit, saturasi oksigen 82%, dan pupil tampak sangat kecil (pinpoint pupil). Dokter menegakkan diagnosis overdosis opioid dan meminta rekomendasi terapi antidotum kepada apoteker klinis. Antidotum yang paling tepat diberikan pada pasien tersebut adalah ?`,
 img:``,
 options:["A. Flumazenil","B. Atropin","C. Nalokson","D. Vitamin K","E. N-asetilsistein"],
-answer: `B. Meningkatkan risiko depresi postpartum dan sedasi`,
-explanation:`Pasien mengalami overdosis opioid yang ditandai dengan trias klasik berupa depresi napas, penurunan kesadaran, dan miosis (pinpoint pupil). Nalokson merupakan antagonis reseptor opioid yang bekerja cepat membalikkan efek opioid terutama depresi napas yang mengancam nyawa. Pemberian nalokson menjadi terapi utama pada keracunan opioid akut. Sementara flumazenil digunakan untuk overdosis benzodiazepin, atropin untuk keracunan organofosfat, vitamin K sebagai antidotum warfarin, dan N-asetilsistein untuk overdosis parasetamol.<b>Referensi:</b><br>Brunton LL, Hilal-Dandan R, Knollmann BC. Goodman & Gilman’s The Pharmacological Basis of Therapeutics. 14th ed. McGraw-Hill; 2023`,
-expImg:`02TO1M11.jpeg`
+answer: `C. Nalokson`,
+explanation:`Pasien mengalami overdosis opioid yang ditandai dengan trias klasik berupa depresi napas, penurunan kesadaran, dan miosis (pinpoint pupil). Nalokson merupakan antagonis reseptor opioid yang bekerja cepat membalikkan efek opioid terutama depresi napas yang mengancam nyawa. Pemberian nalokson menjadi terapi utama pada keracunan opioid akut. Sementara flumazenil digunakan untuk overdosis benzodiazepin, atropin untuk keracunan organofosfat, vitamin K sebagai antidotum warfarin, dan N-asetilsistein untuk overdosis parasetamol.<b>Referensi:</b><br>World Health Organization (WHO) – Community Management of Opioid Overdose`,
+expImg:``
 },
 {
 category:`Endokrin: Tiroid, Paratiroid, dan Diabetes Mellitus`,
@@ -1454,41 +1454,41 @@ expImg:``
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Industri Farmasi PT.Nitro akan melakukan produksi tablet Klindamisin 300 mg. Bahan baku yang tersedia adalah Klindamisin HCl. Diketahui bobot molekul  klindamisin adala 425 g/mol dan bobot klindamisin HCl adalah 479,46 g/mol. Berapakah berat tablet jika menggunakan bahan baku klindamisin HCl? `,
+question:`Industri Farmasi PT.Nitro Pharmaceutical akan melakukan produksi tablet Klindamisin 300 mg. Bahan baku yang tersedia adalah Klindamisin HCl. Diketahui bobot molekul  klindamisin adala 425 g/mol dan bobot klindamisin HCl adalah 479,46 g/mol. Berapakah berat tablet jika menggunakan bahan baku klindamisin HCl? `,
 img:``,
 options:["A. 325 mg","B. 338 mg","C. 350 mg","D. 360 mg","E. 420 mg"],
 answer: `B. 338 mg`,
-explanation:`Klindamisin yang dibutuhkan :<img src="assets/05M7.PNG"></imgArtinya setiap tablet harus mengandung ±338 mg klindamisin HCl agar setara dengan 300 mg klindamisin<br>Ingat : Yang ditanya selalu di atas `,
+explanation:`Klindamisin yang dibutuhkan :<img src="assets/05M7.png"></imgArtinya setiap tablet harus mengandung ±338 mg klindamisin HCl agar setara dengan 300 mg klindamisin<br>Ingat : Yang ditanya selalu di atas <b>Referensi:</b><br>United States Pharmacopeia. Clindamycin Hydrochloride. USP–NF. Rockville, MD: United States Pharmacopeia.`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Departemen RnD PT. Nitro Apoteker melakukan pengembagan antibiotik amoksisiklin trihidrat untuk H. pylori. Diinginkan sediaan dengan pelepasan lama di lambung. Bentuk sediaan apa yang cocok?  `,
+question:`Apoteker di Departemen RnD PT Nitro Pharmaceutical sedang melakukan pengembangan formula sediaan tablet lepas lambat berisi amoksisilin trihidrat untuk terapi infeksi Helicobacter pylori. Formulator menginginkan sediaan tersebut dapat bertahan lama dan melepaskan zat aktif secara perlahan di dalam lambung guna mengoptimalkan efek lokalnya. Apakah bentuk sediaan yang paling tepat untuk dikembangkan? `,
 img:``,
-options:["A. Tablet salut enteric","B. Tablet Salut Gula","C. Tablet Bukal","D. Tablet Folating","E. Tablet Sublingual"],
-answer: `D. Tablet Folating`,
+options:["A. Tablet bukal","B. Tablet enteric-coated","C. Tablet floating","D. Tablet sublingual","E. Tablet salut gula"],
+answer: `C. Tablet floating`,
 explanation:`Floating Drug Delivery System (FDDS) merupakan salah satu sistem penghantaran obat yang dirancang untuk memperpanjang waktu tinggal obat di lambung (gastric retention time). Sistem ini bekerja dengan prinsip bahwa sediaan memiliki berat jenis (densitas) lebih kecil daripada cairan lambung, sehingga sediaan dapat mengapung di permukaan cairan lambung.. Ketika sediaan mengapung di lambung, obat akan dilepaskan secara bertahap (controlled release atau sustained release). Dengan demikian, obat dapat berada lebih lama di lambung sehingga meningkatkan bioavailabilitas obat<b>Referensi:</b><br>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Modified release dosage forms.Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Gastroretentive drug delivery system.`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Suatu industri farmasi berencana memproduksi tablet ranitidin HCl. Berdasarkan data sifat fisikokimia, zat aktif tersebut diketahui memiliki kelarutan yang tinggi dalam air, tetapi permeabilitasnya rendah terhadap membran biologis. Berdasarkan sistem klasifikasi biofarmasetika Biopharmaceutics Classification System, ke dalam kelas manakah ranitidin HCl termasuk?`,
+question:`Apoteker di Departemen RnD sebuah industri farmasi sedang mengevaluasi data sifat fisikokimia zat aktif ranitidin hidroklorida untuk pengembangan sediaan tablet. Data preformulasi menunjukkan bahwa zat aktif tersebut memiliki kelarutan yang tinggi dalam air, tetapi memiliki permeabilitas yang rendah dalam menembus membran biologis. Apakah kelas Biopharmaceutics Classification System (BCS) yang tepat untuk zat aktif tersebut? `,
 img:``,
-options:["A. Kelas I (kelarutan tinggi, permeabilitas tinggi)","B. Kelas II (kelarutan rendah, permeabilitas tinggi)","C. Kelas III (kelarutan tinggi, permeabilitas rendah)","D. Kelas IV (kelarutan rendah, permeabilitas rendah)","E. Tidak termasuk dalam klasifikasi BCS"],
-answer: `C. Kelas III (kelarutan tinggi, permeabilitas rendah)`,
-explanation:`<img src="assets/06M7.PNG"></img<b>Referensi:</b><br>Shargel L, Yu ABC. Applied Biopharmaceutics and Pharmacokinetics. 7th ed. New York: McGraw-Hill Education; 2016. p. 455–458.`,
+options:["A. Kelas I","B. Kelas II","C. Kelas III","D. Kelas IV","E. Kelas V"],
+answer: `C. Kelas III`,
+explanation:`<img src="assets/06M7.png"></img<b>Referensi:</b><br>Shargel L, Yu ABC. Applied Biopharmaceutics and Pharmacokinetics. 7th ed. New York: McGraw-Hill Education; 2016. p. 455–458.`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Seorang apoteker di bagian produksi suatu industri farmasi akan memproduksi tablet Captopril dosis 12,5 mg menggunakan metode granulasi basah. Pada pengujian tersebut, diketahui bobot awal granul sebelum pengeringan adalah 12 gram. Setelah proses pengeringan dalam oven, bobot granul menjadi 9,6 gram. Berapakah persentase Moisture Content (MC) granul tersebut?`,
+question:`Apoteker di bagian produksi sebuah industri farmasi sedang melakukan pengeringan granul sediaan tablet captopril 12,5 mg yang dibuat dengan metode granulasi basah. Hasil penimbangan menunjukkan bobot granul basah sebelum dikeringkan adalah 12,0 gram. Setelah proses pengeringan di dalam oven selesai, bobot granul kering yang diperoleh adalah 9,6 gram. Berapakah persentase Moisture Content (MC) dari granul tersebut? `,
 img:``,
 options:["A. 15%","B. 18%","C. 20%","D. 22%","E. 25%"],
-answer: `C. 20%`,
-explanation:`<img src="assets/07M7.PNG"></img`,
+answer: `E. 25%`,
+explanation:`<img src="assets/07M7.png"></img`,
 expImg:``
 },
 {
