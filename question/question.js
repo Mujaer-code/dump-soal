@@ -566,7 +566,7 @@ question:`Penyelia kosmetika di laboratorium OTSKK BBPOM Bandung sedang melakuka
 img:``,
 options:["A. 5,54 dan 4,34","B. 7,54 dan 6,84","C. 8,14 dan 11,36","D. 8,64 dan 10,32","E. 9,18 dan 8,41"],
 answer: `E. 9,18 dan 8,41`,
-explanation:`Indeks polaritas campuran fase gerak. Diketahui: a.Indeks polaritas metanol adalah 5,1;b.Indeks polaritas air adalah 10,2.Indeks polaritas campurannya adalah sebagai berikut: <img src="assets/1J5TO1.png"></img>`,
+explanation:`<p>Indeks polaritas campuran fase gerak.</p><p>Diketahui:</p><ol><li>Indeks polaritas metanol adalah 5,1;</li><li>Indeks polaritas air adalah 10,2.</li></ol><p>Indeks polaritas campurannya adalah sebagai berikut:</p><p> <img src="assets/1J5TO1.png"></img></p>`,
 expImg:`1J5TO1.png`
 },
 {
@@ -576,7 +576,7 @@ question:`Seorang analis di laboratorium obat BBPOM Bandung akan membuat larutan
 img:``,
 options:["A. 30 μg","B. 450 μg","C. 700 μg","D. 45.000 μg","E. 70.000 μg"],
 answer: `E. 70.000 μg`,
-explanation:`Diketahui: <img src="assets/2J5TO1.png"></img>`,
+explanation:`<p>Diketahui: </p><p><img src="assets/2J5TO1.png"></img></p>`,
 expImg:`2J5TO1.png`
 },
 {
@@ -586,7 +586,7 @@ question:`Analis QC di industri obat hewan PT. Nitro Pet, Tbk., akan melakukan p
 img:``,
 options:["A. Argentometri","B. Iodometri","C. Nitrimetri","D. Kompleksometri","E. Nitrimetri"],
 answer: `E. Nitrimetri`,
-explanation:`<img src="assets/3J5TO1.png"></img><br><br>Prinsip nitrimetri yaitu reaksi diazotasi terbentuknya garam diazonium oleh reaksi senyawa amin primer aromatis atau alifatik dengan asam nitrit dalam lingkungan asam pada suhu rendah atau didinginkan. Karena asam nitrit tidak stabil, maka digunakan garamnya NaNO<sub>2</sub> (Khopar, 1990).<br><br>Khophar. 1990. Konsep Dasar Kimia Analitik. Universitas Indonesia, Jakarta.`,
+explanation:`<p>Prinsip nitrimetri yaitu <span style="background-color: #ffff00;">reaksi diazotasi</span> terbentuknya garam diazonium oleh reaksi senyawa amin primer aromatis atau alifatik dengan asam nitrit dalam <span style="background-color: #ffff00;">lingkungan asam</span> pada suhu rendah atau didinginkan. Karena asam nitrit tidak stabil, maka digunakan <span style="background-color: #ffff00;">garamnya NaNO<sub>2</sub></span> (Khopar, 1990).</p><p> </p><p><strong>Referensi:</strong></p><p>Khophar. 1990. Konsep Dasar Kimia Analitik. Universitas Indonesia, Jakarta.</p>`,
 expImg:`3J5TO1.png`
 },
 {
@@ -596,27 +596,27 @@ question:`Manajer QC PT. Nitro Farma, Tbk., sedang melakukan validasi metode KCK
 img:``,
 options:["A. Membersihkan kolom sebelum digunakan kembali","B. Mengencerkan larutan sampel","C. Mengganti jenis fase diam","D. Menurunkan laju alir dan volume injeksi","E. Menurunkan pH fase gerak"],
 answer: `D. Menurunkan laju alir dan volume injeksi`,
-explanation:`<p><b>Perhatikan ringkasan berikut:</b></p> <img src="assets/4J5TO1.png"></img>`,
+explanation:`<p><strong>Perhatikan ringkasan berikut:</strong></p><p><img src="assets/4J5TO1.png"></img></p>`,
 expImg:`4J5TO1.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`<img src="assets/3S5TO1.png"></img><p>Analis QC mikrobiologi PT. Nitro Farma, Tbk., melakukan identifikasi <i>Pseudomonas aeruginosa</i> menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media. Media apakah yang digunakan untuk pertumbuhan bakteri tersebut?</p>`,
+question:`<p><img src="assets/3S5TO1.png"></img></p><p>Analis QC mikrobiologi PT. Nitro Pharmaceutical, melakukan identifikasi <em>Pseudomonas aeruginosa </em>menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media. Media apakah yang digunakan untuk pertumbuhan bakteri tersebut?</p>`,
 img:``,
 options:["A. <i>Cetrimide agar</i>","B. <i>Eosin methylene blue agar</i>","C. <i>Mannitol salt agar</i>","D. <i>Mueller Hinton agar</i>","E. <i>Xylose lysine deoxycholate agar</i>"],
 answer: `A. <i>Cetrimide agar</i>`,
-explanation:`<b>Cetrimide Agar</b> merupakan media selektif sekaligus diferensial yang digunakan untuk mengisolasi dan mengidentifikasi <i>Pseudomonas aeruginosa</i> dari berbagai spesimen, baik yang berasal dari sumber klinis maupun nonklinis. Selektivitas media ini berasal dari kandungan <b>cetrimide</b> (cetyltrimethylammonium bromide), yaitu deterjen kationik golongan amonium kuarterner yang mampu menghambat pertumbuhan sebagian besar bakteri selain <b>P. aeruginosa</b>. Media ini juga dikenal dengan nama <b>Pseudomonas Cetrimide Agar</b> atau <b>Pseudosel Agar</b>.<p> Aryal, S., 2022. Cetrimide Agar: Composition, Principle, Uses, Preparation and Colony Morphology. Microbiology Info. Available at: https://microbiologyinfo.com/cetrimide-agar-composition-principle-uses-preparation-and-colony-morphology/ [Accessed 4 July 2026].</p>`,
+explanation:`<p><strong>Cetrimide Agar</strong> merupakan media selektif sekaligus diferensial yang digunakan untuk mengisolasi dan mengidentifikasi <em>Pseudomonas aeruginosa</em> dari berbagai spesimen, baik yang berasal dari sumber klinis maupun nonklinis. Selektivitas media ini berasal dari kandungan <strong>cetrimide</strong> (cetyltrimethylammonium bromide), yaitu deterjen kationik golongan amonium kuarterner yang mampu menghambat pertumbuhan sebagian besar bakteri selain <strong>P. aeruginosa</strong>. Media ini juga dikenal dengan nama <strong>Pseudomonas Cetrimide Agar</strong> atau <strong>Pseudosel Agar</strong>.</p><p> </p><p><strong>Referensi:</strong></p><p>Aryal, S., 2022. Cetrimide Agar: Composition, Principle, Uses, Preparation and Colony Morphology. Microbiology Info. Available at: <em>https://microbiologyinfo.com/cetrimide-agar-composition-principle-uses-preparation-and-colony-morphology/</em> [Accessed 4 July 2026].</p>`,
 expImg:`3S5TO1.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan kadar dequalinium klorida menggunakan metode argentometri. Sebanyak 300,0 mg sampel dilarutkan dalam air bebas klorida dan dititrasi menggunakan AgNO₃ 0,1 N. Volume titran yang digunakan adalah 11,25 mL. Diketahui bobot ekivalen dequalinium klorida adalah 263,79 mg/meq dan persyaratan kadar menurut farmakope adalah 98,0–102,0%. Apakah kesimpulan hasil pengujian tersebut?`,
+question:`Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan penetapan kadar dequalinium klorida menggunakan metode argentometri. Sebanyak 300,0 mg sampel dilarutkan dalam air bebas klorida dan dititrasi menggunakan AgNO₃ 0,1 N. Volume titran yang digunakan adalah 11,25 mL. Diketahui bobot ekivalen dequalinium klorida adalah 263,79 mg/meq dan persyaratan kadar menurut farmakope adalah 98,0–102,0%. Apakah kesimpulan hasil pengujian tersebut?`,
 img:``,
 options:["A. Memenuhi syarat dengan kadar 98,92%","B. Memenuhi syarat dengan kadar 99,93%","C. Memenuhi syarat dengan kadar 100,14%","D. Tidak memenuhi syarat dengan kadar 95,67%","E. Tidak memenuhi syarat dengan kadar 97,79%"],
 answer: `A. Memenuhi syarat dengan kadar 98,92%`,
-explanation:`<b>Diketahui:</b> <img src="assets/6J5TO1.1.png"></img><p>Volume pentiter              : 11,25 mLN aktual, N pentiter        : 0,1 NKesetaraan pentiter        : 263,79 mg/meqMassa sampel                  : 300 mgPersyaratan kadar dequalinium klorida  menurut farmakope adalah 98,0–102,0%</p><b>Jawab:</b><br><img src="assets/6J5TO1.2.png"></img>`,
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/6J5TO1.1.png" alt="" /></p><p>Volume pentiter         : 11,25 mL</p><p>N aktual, N pentiter   : 0,1 N</p><p>Kesetaraan pentiter   : 263,79 mg/meq</p><p>Massa sampel           : 300 mg</p><p>Persyaratan kadar dequalinium klorida  menurut farmakope adalah 98,0–102,0%</p><p><strong>Jawab:</strong></p><p><img src="assets/6J5TO1.2.png" alt="" /></p>`,
 expImg:`6J5TO1.1.png
 6J5TO1.2.png`
 },
@@ -627,7 +627,7 @@ question:`Analis di laboratorium obat BBPOM Bandung melakukan penetapan kadar am
 img:``,
 options:["A. 60,16%","B. 70,08%","C. 87,37%","D. 90,24%","E. 100,08%"],
 answer: `C. 87,37%`,
-explanation:`<b>Diketahui:</b> <img src="assets/7J5TO1.1.png"></img><p>Volume pentiter              : 6,0 mLN aktual, N pentiter        : 0,1 NKesetaraan pentiter        : 33,4 mgMassa sampel                  : 250 mg</p><b>Jawab:</b><br><img src="assets/7J5TO1.2.png"></img>`,
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/7J5TO1.1.png" alt="" /></p><p>Volume pentiter         : 6,0 mL</p><p>N aktual                    : 0,1 N</p><p>N pentiter                  : 0,109 N</p><p>Kesetaraan pentiter    : 33,4 mg</p><p>Massa sampel            : 250 mg</p><p><strong>Jawab:</strong></p><p><img src="assets/7J5TO1.2.png" alt="" /></p>`,
 expImg:`7J5TO1.1.png
 7J5TO1.2.png`
 },
@@ -638,7 +638,7 @@ question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetap
 img:``,
 options:["A. 50,72%","B. 66,64%","C. 78,32%","D. 87,64%","E. 97,92%"],
 answer: `E. 97,92%`,
-explanation:`<b>Diketahui:</b> <img src="assets/8J5TO1.1.png"></img><p>Volume pentiter        : 8,98 mLVolume blanko          : 0,12 mLN aktual                      : 0,1 NN pentiter                   : 0,0992 NKesetaraan pentiter  : 33,424 mgMassa sampel            : 300 mg</p><b>Jawab:</b><br><img src="assets/8J5TO1.2.png"></img>`,
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/8J5TO1.1.png" alt="" /></p><p>Volume pentiter           : 8,98 mL</p><p>Volume blanko             : 0,12 mL</p><p>N aktual                      : 0,1 N</p><p>N pentiter                   : 0,0992 N</p><p>Kesetaraan pentiter     : 33,424 mg</p><p>Massa sampel              : 300 mg</p><p><strong>Jawab:</strong></p><p><img src="assets/8J5TO1.2.png" alt="" /></p>`,
 expImg:`8J5TO1.1.png
 8J5TO1.2.png`
 },
@@ -649,61 +649,61 @@ question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk.,  melakukan peneta
 img:``,
 options:["A. 60,44%","B. 72,31%","C. 80,17%","D. 84,26%","E. 90,16%"],
 answer: `C. 80,17%`,
-explanation:`<b>Diketahui:</b> <img src="assets/1J5TO2.1.png"></img><p>Volume NaOH                                          : 20,0 mLVolume pentiter kelebihan NaOH        : 11,1 mLN aktual, N pentiter                                : 0,5 NKesetaraan pentiter                                : 45,04 mgMassa sampel                                          : 500 mg</p><b>Jawab:</b><br><img src="assets/1J5TO2.2.png"></img>`,
+explanation:`<p>Diketahui:</p><p><img src="assets/1J5TO2.1.png"></img></p><p> </p><p>Volume NaOH                                      : 20,0 mL</p><p>Volume pentiter kelebihan NaOH    : 11,1</p><p>N aktual, N pentiter                            : 0,5 N</p><p>Kesetaraan pentiter                            : 45,04 mg</p><p>Massa sampel                                      : 500 mg</p><p>Jawab:</p><p><img src="assets/1J5TO2.2.png"></img></p>`,
 expImg:`1J5TO2.1.png
 1J5TO2.2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Analis QC mikrobiologi di industri obat tradisional PT. Nitro Bedjoe, Tbk.,  melakukan pengujian angka kapang khamir (AKK) terhadap kapsul ekstrak <i>Ginkgo biloba</i>. Hasil pengamatan jumlah koloni diperoleh sebagai berikut: <img src="assets/2S5TO2.png"></img>Persyaratan AKK untuk sediaan tersebut adalah tidak lebih dari 10<sup>5</sup> CFU/g. Apakah kesimpulan hasil pengujian tersebut?`,
+question:`<p>Analis QC mikrobiologi di industri obat tradisional PT. Nitro Pharmaceutical, melakukan pengujian angka kapang khamir (AKK) terhadap kapsul ekstrak <em>Ginkgo biloba</em>. Hasil pengamatan jumlah koloni diperoleh sebagai berikut:</p><p><img src="assets/2S5TO2.png"></img></p><p>Persyaratan AKK untuk sediaan tersebut adalah tidak lebih dari 10<sup>5</sup> CFU/g. Apakah kesimpulan hasil pengujian tersebut?</p>`,
 img:``,
 options:["A. Memenuhi syarat dengan nilai 9,9 × 10<sup>⁴</sup> CFU/g","B. Memenuhi syarat dengan nilai 6,8 × 10<sup>⁵</sup> CFU/g","C. Memenuhi syarat dengan nilai 4,4 × 10<sup>⁶</sup> CFU/g","D. Tidak memenuhi syarat dengan nilai 2,38 × 10<sup>³</sup> CFU/g","E. Tidak memenuhi syarat dengan nilai 1,475 × 10<sup>⁴</sup> CFU/g"],
 answer: `C. Memenuhi syarat dengan nilai 4,4 × 10<sup>⁶</sup> CFU/g`,
-explanation:`Persyaratan untuk jumlah koloni pada pengujian AKK adalah <50 koloni, maka dipilih cawan dengan hasil pengenceran 10-5. Kemudian dilakukan perhitungan sebagai berikut: <img src="assets/2J5TO2.png"></img>`,
+explanation:`<p>Persyaratan untuk jumlah koloni pada pengujian AKK adalah <50 koloni, maka dipilih cawan dengan hasil pengenceran 10<sup>-5</sup>. Kemudian dilakukan perhitungan sebagai berikut:</p><p><img src="assets/2J5TO2.png"></img></p>`,
 expImg:`2S5TO2.png
 2J5TO2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Apoteker bagian penelitian dan pengembangan industri farmasi melakukan validasi metode KCKT untuk analisis campuran amoksisilin, levofloksasin, lansoprazol, dan parasetamol menggunakan kolom C-18 dengan fase gerak metanol:amonium asetat (70:30). Berdasarkan sifat kepolaran senyawa, diperoleh lima puncak kromatogram dengan urutan waktu retensi berbeda. <img src="assets/3S5TO2.png"></img><br><br>Puncak manakah yang paling mungkin menunjukkan levofloksasin?`,
+question:`<p>Apoteker bagian RnD PT. Nitro Pharmaceutical, melakukan validasi metode KCKT untuk analisis campuran amoksisilin, levofloksasin, lansoprazol, dan parasetamol menggunakan kolom C-18 dengan fase gerak metanol:amonium asetat (70:30). Berdasarkan sifat kepolaran senyawa, diperoleh lima puncak kromatogram dengan urutan waktu retensi berbeda. <br /><img src="assets/3S5TO2.png"></img><br />Puncak manakah yang paling mungkin menunjukkan levofloksasin?</p>`,
 img:``,
 options:["A. Puncak A","B. Puncak B","C. Puncak C","D. Puncak D","E. Puncak E"],
 answer: `E. Puncak E`,
-explanation:`Fase gerak yang digunakan adalah metanol:amonium asetat (70:30), fase gerak yang bersifat polar. Sedangkan fase diam yang digunakan adalah kolom C-18, merupakan kolom yang bersifat nonpolar. Maka senyawa yang akan terelusi terlebih dahulu adalah senyawa yang bersifat polar yang kemudiaan diikuti oleh senyawa yang Tingkat polaritas nya lebih rendah.<p><img src="assets/3J5TO2.png"></img></p><p> Dapat terlihat bahwa urutan polaritas senyawa dilihat dari atom penyusunnya yang memiliki pasangan elektron bebas (PEB) adalah sebagai berikut: Polar -> sedikit kurang polar; Amoxicilin -> Paracetamol -> Lansoprazole -> Levofloxacin. Sehingga senyawa Levofloxacin dapat ditunjukkan oleh Puncak E. </p>`,
+explanation:`<p>Fase gerak yang digunakan adalah metanol:amonium asetat (70:30), fase gerak yang bersifat polar. Sedangkan fase diam yang digunakan adalah kolom C-18, merupakan kolom yang bersifat nonpolar. Maka senyawa yang akan terelusi terlebih dahulu adalah senyawa yang bersifat polar yang kemudiaan diikuti oleh senyawa yang Tingkat polaritas nya lebih rendah.<br /><img src="assets/3J5TO2.png"></img><br />Dapat terlihat bahwa urutan polaritas senyawa dilihat dari atom penyusunnya yang memiliki pasangan elektron bebas (PEB) adalah sebagai berikut:</p><p><strong>Polar -&gt; sedikit kurang polar</strong>;</p><p>Amoxicilin -> Paracetamol -> Lansoprazole -> Levofloxacin. Sehingga senyawa Levofloxacin dapat ditunjukkan oleh Puncak E. </p>`,
 expImg:`3S5TO2.png
 3J5TO2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan analisis campuran NaCl dan Na₂SO₄ menggunakan metode gravimetri pengendapan dengan AgNO₃. Sebanyak 0,953 g sampel menghasilkan endapan AgCl sebanyak 0,7033 g. Diketahui Ar Na = 23, Ag = 108, Cl = 35,5. Berapakah kadar NaCl dalam campuran tersebut?`,
+question:`<p>Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan analisis campuran NaCl dan Na₂SO₄ menggunakan metode gravimetri pengendapan dengan AgNO₃. Sebanyak 0,953 g sampel menghasilkan endapan AgCl sebanyak 0,7033 g. Diketahui Ar Na = 23, Ag = 108, Cl = 35,5. Berapakah kadar NaCl dalam campuran tersebut?</p>`,
 img:``,
 options:["A. 30,029%","B. 31,043%","C. 32,035%","D. 33,067%","E. 34,017%"],
 answer: `A. 30,029%`,
-explanation:`Campuran 1: NaCl + Na2SO4 yang diendapkan menggunakan AgNO3.Maka reaksi yang terjadi terhadap cuplikan NaCl adalah:AgNO3+NaCl→AgCl↓+NaNO3;a.        Berat endapan AgCl adalah 0,7033 g;b.        Berat endapan sampel Adalah 0,953 g.<p><img src="assets/4J5TO2.png"></img></p>`,
+explanation:`<p>Campuran 1: NaCl + Na2SO4 yang diendapkan menggunakan AgNO3.<br />Maka reaksi yang terjadi terhadap cuplikan NaCl adalah:<br />AgNO3+NaCl→AgCl↓+NaNO3;<br />a. Berat endapan AgCl adalah 0,7033 g;<br />b. Berat endapan sampel Adalah 0,953 g.</p><p><p><img src="assets/4J5TO2.png"></img></p></p>`,
 expImg:`4J5TO2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan pengujian rotasi optis larutan cefixime trihydrate menggunakan polarimeter. Diketahui rotasi jenis larutan adalah +0,73<sup>°</sup>, panjang tabung pengamatan 75 cm, dan konsentrasi larutan 0,87 g/mL. Berapakah rotasi optis yang terukur?`,
+question:`<p>Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan pengujian rotasi optis larutan cefixime trihydrate menggunakan polarimeter. Diketahui rotasi jenis larutan adalah +0,73<sup>°</sup>, panjang tabung pengamatan 75 cm, dan konsentrasi larutan 0,87 g/mL. Berapakah rotasi optis yang terukur?</p>`,
 img:``,
 options:["A. 3,251°","B. 4,763°","C. 0,565°","D. 5,679°","E. 0,793°"],
 answer: `E. 4,763°`,
-explanation:`<b>Diketahui:</b> <p>Rumus rotasi jenis:</p><img src="assets/5J5TO2.1.png"></img><p>Rotasi jenis                                                        : +0,73<sup>°</sup>Panjang jalan cahaya dalam desimeter        : 75 cm konversi ke dm = 7,5 dmKonsentrasi sampel                                          : 0,87 g/mL</p><b>Jawab:</b><br><img src="assets/5J5TO2.2.png"></img>`,
+explanation:`<p><strong>Diketahui:</strong></p><p>Rumus rotasi jenis:<br /><img src="assets/5J5TO2.1.png" alt="" /></p><p>Rotasi jenis : +0,73°<br />Panjang jalan cahaya dalam desimeter : 75 cm konversi ke dm = 7,5 dm<br />Konsentrasi sampel : 0,87 g/mL</p><p><strong>Jawab:</strong></p><p><img src="assets/5J5TO2.2.png" alt="" /></p>`,
 expImg:`5J5TO2.1.png
 5J5TO2.2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Hard`,
-question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan kadar tablet Metformin menggunakan KCKT. Kurva baku menghasilkan persamaan regresi y = 21,375x − 782. Sampel dibuat dari serbuk tablet setara 850 mg Metformin yang dilarutkan dalam 250 mL pelarut kemudian diencerkan 50 kali. Hasil pengukuran memberikan nilai AUC sebesar 765. Berapakah kadar Metformin dalam tablet tersebut?`,
+question:`Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan penetapan kadar tablet Metformin menggunakan KCKT. Kurva baku menghasilkan persamaan regresi y = 21,375x − 782. Sampel dibuat dari serbuk tablet setara 850 mg Metformin yang dilarutkan dalam 250 mL pelarut kemudian diencerkan 50 kali. Hasil pengukuran memberikan nilai AUC sebesar 765. Berapakah kadar Metformin dalam tablet tersebut?`,
 img:``,
 options:["A. 90,01%","B. 93,42%","C. 96,78%","D. 99,51%","E. 106,63%"],
 answer: `E. 106,63%`,
-explanation:`<b>Diketahui:</b> <p>Persamaan linier:</p><img src="assets/6J5TO2.1.png"></img><p><b>Langkah 1: Tentukan Konsentrasi (ppm) </b>Y = 21,375 x - 782Y = AUC = 765765 = 21,375 x - 782 (y)…….(b)……...…(a)<img src="assets/6J5TO2.2.png"></img></p><p><b>Langkah 2: Tentukan massa API (ppm) </b>Langkah 2: Massa terkandung = ppm x Vol (L)= 72,51 ppm x 50 x 0,25 L= 906,4 mg</p><p><img src="assets/6J5TO2.3.png"></img></p>`,
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/6J5TO2.1.png"></img></p><p>Langkah 1: Tentukan Konsentrasi (ppm)</p><p>Y = 21,375 x - 782</p><p>Y = AUC = 765</p><p>765 = 21,375 x - 782</p><p> (y)…….(b)………(a)</p><p><strong>Langkah 2: Tentukan massa API (ppm) </strong></p><p>Massa terkandung (mg) = ppm x Vol (L)</p><p>Massa terkandung (mg) = 72,51 ppm x 50 x 0,25 L = 906,4 mg</p><p><img src="assets/6J5TO2.3.png"></img></p>`,
 expImg:`6J5TO2.1.png
 6J5TO2.2.png
 6J5TO2.3.png`
@@ -715,18 +715,18 @@ question:`Analis di laboratorium OTSKK BBPOM melakukan penetapan kadar asam asko
 img:``,
 options:["A. 24,56%","B. 57,76%","C. 98,02%","D. 99,78%","E. 102,41%"],
 answer: `E. 102,41%`,
-explanation:`<b>Diketahui:</b> <img src="assets/7J5TO2.1.jpeg"></img><p>N pentiter                   : 0,0998 NV pentiter                    : 5,26 mLBe sampel                   : BM/Valensi = 176, 12/2 = 88,06Massa sampel            : 50 mgKadar pada label        : 650 mgBobot rata-rata obat : 720 mg</p><b>Jawab:</b><br><img src="assets/7J5TO2.2.png"></img>`,
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/7J5TO2.1.jpeg"></img></p><p><br />N pentiter                : 0,0998 N<br />V pentiter                : 5,26 mL<br />Be sampel               : BM/Valensi = 176, 12/2 = 88,06<br />Massa sampel          : 50 mg<br />Kadar pada label      : 650 mg<br />Bobot rata-rata obat : 720 mg<br /><br /><strong>Jawab:</strong></p><p><img src="assets/7J5TO2.2.png"></img></p>`,
 expImg:`7J5TO2.1.jpeg
 7J5TO2.2.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Hard`,
-question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan potensi rifapentin menggunakan metode difusi agar dengan mikroorganisme <i>Staphylococcus aureus </i> (ATCC 29213). Diameter hambat rata-rata sampel adalah 17,391 mm. Konsentrasi dosis tengah baku yang digunakan adalah 1 µg/mL dan diperoleh persamaan regresi y = −284,27x + 17,165, dengan x merupakan ln dosis dan y diameter hambat. Berapakah potensi rifapentin dalam sampel tersebut?`,
+question:`<p>Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan potensi rifapentin menggunakan metode difusi agar dengan mikroorganisme <em>Staphylococcus aureus</em> (ATCC 29213). Diameter hambat rata-rata sampel adalah 17,391 mm. Konsentrasi dosis tengah baku yang digunakan adalah 1 µg/mL dan diperoleh persamaan regresi y = −284,27x + 17,165, dengan x merupakan ln dosis dan y diameter hambat. Berapakah potensi rifapentin dalam sampel tersebut?</p>`,
 img:``,
 options:["A. 79,14%","B. 88,54%","C. 99,92%","D. 100,27%","E. 106,63%"],
 answer: `C. 99,92%`,
-explanation:`<b>Diketahui:</b> <p>Persamaan linier:</p><img src="assets/6J5TO2.1.png"></img><p><b>Langkah 1: Tentukan Konsentrasi (ppm) </b>Y = -254,21x + 15,212Y = Diameter hambat = 15,7817,391 = -284,27x + 17,165 (y)…….(b)……...…(a)<img src="assets/6J5TO2.2.png"></img><p><b>Langkah 2: Hitung dosis (ppm) </b>Langkah 2: Dosis ->  x = Ln Dosis<img src="assets/8J5TO2.2.png"></img></p><p><img src="assets/8J5TO2.3.png"></img></p>`,
+explanation:`<p><strong>Diketahui:</strong></p><p>Persamaan linier:</p><p><img src="assets/6J5TO2.1.png"></img></p><p><p>Langkah 1: Tentukan Konsentrasi (ppm)</p><p>Y = -254,21x + 15,212<br />Y = Diameter hambat = 15,78<br />17,391 = -284,27x + 17,165<br /> (y)…….(b)……...…(a)</p><p><img src="assets/8J5TO2.1.png"></img></p><p><p>Langkah 2: Hitung dosis (ppm) &lt;/b&gt;<br />Dosis = x = Ln Dosis</p><p><img src="assets/8J5TO2.2.png"></img></p><p><img src="assets/8J5TO2.3.png"></img></p>`,
 expImg:`8J5TO2.1.png
 8J5TO2.2.png
 8J5TO2.3.png`
@@ -734,7 +734,7 @@ expImg:`8J5TO2.1.png
 {
 category:`Farmakoekonomi`,
 level:`Medium`,
-question:`Seorang Apoteker di laboratorium BPOM menemukan senyawa Aniline (PhNH2) di dalam makanan yang digunakan sebagai pewarna. Ia ingin menentukan profil absorpsi senyawa tersebut di dalam tubuh. Diketahui bahwa anilin memiliki pKa sebesar 4,6 dan rata-rata pH tubuh manusia sebesar 7,4. <br><br>Bagaimanakah % ionisasi dan prediksi absorpsi senyawa tersebut?`,
+question:`Seorang Apoteker di laboratorium BPOM menemukan senyawa Aniline (PhNH2) di dalam makanan yang digunakan sebagai pewarna. Ia ingin menentukan profil absorpsi senyawa tersebut di dalam tubuh. Diketahui bahwa anilin memiliki pKa sebesar 4,6 dan rata-rata pH tubuh manusia sebesar 7,4. Bagaimanakah % ionisasi dan prediksi absorpsi senyawa tersebut?`,
 img:``,
 options:["A. 0,16% dan terabsorpsi dengan baik","B. 0,16% dan terabsorpsi dengan buruk","C. 6,31% dan terabsorpsi dengan baik","D. 6,31% dan terabsorpsi dengan buruk","E. 15,95% dan terabsorpsi dengan baik"],
 answer: `A. 0,16% dan terabsorpsi dengan baik`,
@@ -744,7 +744,7 @@ expImg:`TO1M6001.png`
 {
 category:`Farmasi Kimia`,
 level:`Hard`,
-question:`Pada pertengahan abad ke-20, Thalidomide dipasarkan sebagai campuran rasemat untuk mengatasi morning sickness pada wanita hamil. Penggunaan obat ini kemudian ditarik dari pasaran karena memicu tragedi kelahiran bayi dengan kelainan bawaan focomelia yang disebabkan oleh sifat stereoisomer obat tersebut di dalam tubuh. <br><br>Bagaimanakah karakteristik farmakologi dari isomer obat tersebut?`,
+question:`Pada pertengahan abad ke-20, Thalidomide dipasarkan sebagai campuran rasemat untuk mengatasi morning sickness pada wanita hamil. Penggunaan obat ini kemudian ditarik dari pasaran karena memicu tragedi kelahiran bayi dengan kelainan bawaan focomelia yang disebabkan oleh sifat stereoisomer obat tersebut di dalam tubuh. Bagaimanakah karakteristik farmakologi dari isomer obat tersebut?`,
 img:`TO1M6002.png`,
 options:["a. Kedua enantiomer (R) dan (S) memiliki efek toksik","b. Enantiomer (R) memiliki efek teratogenik dan enantiomer (S) memiliki efek terapetik","c. Enantiomer (R) bertindak sebagai eutomer dan enantiomer (S) bertindak sebagai distomer","d. Thalidomide sebaiknya diberikan hanya dalam bentuk enantiomer (R) murni saja.","e. Thalidomide sebaiknya diberikan hanya dalam bentuk enantiomer (S) murni saja."],
 answer: `C. Enantiomer (R) bertindak sebagai eutomer dan enantiomer (S) bertindak sebagai distomer`,
@@ -754,7 +754,7 @@ expImg:`TO1M6003.png`
 {
 category:`Farmasi Kimia`,
 level:`Easy`,
-question:`Seorang Apoteker di bagian Penelitian dan Pengembangan sebuah industri farmasi sedang merancang formula sediaan suspensi oral kloramfenikol. Apoteker memutuskan menggunakan bentuk garam ester sintetis berupa kloramfenikol palmitat seperti pada gambar. <br><br> Apakah tujuan utama dari modifikasi struktur molekul obat tersebut? (UKMPPAI FEBRUARI 2025)`,
+question:`Seorang Apoteker di bagian Penelitian dan Pengembangan sebuah industri farmasi sedang merancang formula sediaan suspensi oral kloramfenikol. Apoteker memutuskan menggunakan bentuk garam ester sintetis berupa kloramfenikol palmitat seperti pada gambar. Apakah tujuan utama dari modifikasi struktur molekul obat tersebut? (UKMPPAI FEBRUARI 2025)`,
 img:`TO1M6004.png`,
 options:["a. Untuk meningkatkan kelarutan obat di dalam tubuh","b. Untuk meningkatkan stabilitas obat","c. Untuk mempercepat onset obat sehingga bekerja lebih cepat","d. Untuk memperpanjang efek obat (duration of drug’s action)","e. Untuk menutupi rasa pahit obat"],
 answer: `e. Untuk menutupi rasa pahit obat`,
@@ -784,7 +784,7 @@ expImg:`TO1M6009.png`
 {
 category:`Farmasi Kimia`,
 level:`Hard`,
-question:`Seorang Apoteker di RnD sedang meneliti mengenai struktur obat Gentamisin dan interaksinya terhadap RNA bakteri. Gentamisin adalah salah satu antibiotik yang memiliki aktivitas yang signifikan terhadap infeksi-infeksi yang disebabkan oleh Pseudomonas aeruginosa. Di dalam sel, obat ini berikatan dengan subunit 30S ribosom (16S rRNA) sehingga mengakibatkan misreading mRNA. <br><br>Manakah bagian struktur gentamisin yang khas dalam mengganggu sintesis protein melalui interaksi dengan rRNA bakteri sehingga menimbulkan efek letal pada sel bakteri? (UKMPPAI AGUSTUS 2024)`,
+question:`Seorang Apoteker di RnD sedang meneliti mengenai struktur obat Gentamisin dan interaksinya terhadap RNA bakteri. Gentamisin adalah salah satu antibiotik yang memiliki aktivitas yang signifikan terhadap infeksi-infeksi yang disebabkan oleh Pseudomonas aeruginosa. Di dalam sel, obat ini berikatan dengan subunit 30S ribosom (16S rRNA) sehingga mengakibatkan misreading mRNA. Manakah bagian struktur gentamisin yang khas dalam mengganggu sintesis protein melalui interaksi dengan rRNA bakteri sehingga menimbulkan efek letal pada sel bakteri? (UKMPPAI AGUSTUS 2024)`,
 img:`1TO1M6002.png`,
 options:["a. 1","b. 2","c. 3","d. 4","e. 5"],
 answer: `c. 3`,
@@ -824,7 +824,7 @@ expImg:`TO1M6017.png`
 {
 category:`Farmasi Kimia`,
 level:`Medium`,
-question:`Sebuah industri farmasi sedang mengembangkan formula sediaan emulsi tipe M/A yang menggunakan minyak sebagai zat pembawa (vehicle). Pada sediaan uji stabilitas dipercepat (accelerated stability test), apoteker di bagian R&D mengamati adanya penurunan kualitas sediaan berupa ketengikan (rancidity) akibat terjadinya reaksi autooksidasi radikal bebas pada komponen asam lemak eksipien minyak tersebut. Untuk mengatasinya, apoteker harus mengevaluasi jenis asam lemak penyusun minyak pembawa yang digunakan.<br><br>manakah kandungan asam pada minyak yang paling rentan mengalami kerusakan akibat reaksi oksidasi sehingga membutuhkan perhatian khusus dalam formulasi tersebut?`,
+question:`Sebuah industri farmasi sedang mengembangkan formula sediaan emulsi tipe M/A yang menggunakan minyak sebagai zat pembawa (vehicle). Pada sediaan uji stabilitas dipercepat (accelerated stability test), apoteker di bagian R&D mengamati adanya penurunan kualitas sediaan berupa ketengikan (rancidity) akibat terjadinya reaksi autooksidasi radikal bebas pada komponen asam lemak eksipien minyak tersebut. Untuk mengatasinya, apoteker harus mengevaluasi jenis asam lemak penyusun minyak pembawa yang digunakan. Manakah kandungan asam pada minyak yang paling rentan mengalami kerusakan akibat reaksi oksidasi sehingga membutuhkan perhatian khusus dalam formulasi tersebut?`,
 img:``,
 options:["a. Asam oleat","b. Asam linoleat","c. Asam linolenat","d. Asam stearat","e. Asam palmitat"],
 answer: `c. Asam linolenat`,
@@ -844,7 +844,7 @@ expImg:`TO1M6020.png`
 {
 category:`Farmasi Kimia`,
 level:`Easy`,
-question:`Bagian Quality Control (QC) di industri obat tradisional sedang melakukan standardisasi mutu terhadap ekstrak etanol daun kemuning <i>(Murraya paniculata)</i> yang akan digunakan sebagai bahan baku sediaan kapsul herbal. Salah satu parameter spesifik yang diuji adalah menetapkan kadar metabolit sekunder penanda melalui pengujian Total Flavonoid Content (TFC). Apoteker melakukan analisis secara spektrofotometri UV-Vis menggunakan pereaksi spesifik aluminium klorida AlCl<sub>3</sub> untuk memicu pembentukan senyawa kompleks berwarna (chelation) yang stabil pada panjang gelombang maksimum daerah visibel.<br><br>Gugus fungsi manakah pada struktur inti flavonoid yang bertanggung jawab berinteraksi membentuk kompleks koordinasi dengan ion Al(III) tersebut?`,
+question:`Bagian Quality Control (QC) di industri obat tradisional sedang melakukan standardisasi mutu terhadap ekstrak etanol daun kemuning <i>(Murraya paniculata)</i> yang akan digunakan sebagai bahan baku sediaan kapsul herbal. Salah satu parameter spesifik yang diuji adalah menetapkan kadar metabolit sekunder penanda melalui pengujian Total Flavonoid Content (TFC). Apoteker melakukan analisis secara spektrofotometri UV-Vis menggunakan pereaksi spesifik aluminium klorida AlCl<sub>3</sub> untuk memicu pembentukan senyawa kompleks berwarna (chelation) yang stabil pada panjang gelombang maksimum daerah visibel. Gugus fungsi manakah pada struktur inti flavonoid yang bertanggung jawab berinteraksi membentuk kompleks koordinasi dengan ion Al(III) tersebut?`,
 img:``,
 options:["a. Aldehid","b. Amina","c. Karboksil","d. Karboksilat","e. Hidroksil"],
 answer: `e. Hidroksil`,
@@ -874,7 +874,7 @@ expImg:``
 {
 category:`Farmasi Kimia`,
 level:``,
-question:`Seorang apoteker di Balai Besar POM melakukan sidak di pasar tradisional dan mengambil sampel ikan asin yang diduga mengandung bahan pengawet berbahaya. Untuk mengidentifikasi adanya kandungan formaldehid, apoteker tersebut mereaksikan filtrat sampel dengan asam sulfat pekat dan senyawa fenolik yang akan menghasilkan warna ungu jika positif. <br><br>Apakah pereaksi yang dimaksud? (UKAI FEBRUARI 2023)`,
+question:`Seorang apoteker di Balai Besar POM melakukan sidak di pasar tradisional dan mengambil sampel ikan asin yang diduga mengandung bahan pengawet berbahaya. Untuk mengidentifikasi adanya kandungan formaldehid, apoteker tersebut mereaksikan filtrat sampel dengan asam sulfat pekat dan senyawa fenolik yang akan menghasilkan warna ungu jika positif. Apakah pereaksi yang dimaksud? (UKAI FEBRUARI 2023)`,
 img:``,
 options:["a. Pereaksi Fehling","b. Pereaksi Marquis","c. FeCl3","d. Pereaksi chromotropic acid","e. Pereaksi Tollens"],
 answer: `d. Pereaksi chromotropic acid`,
@@ -884,7 +884,7 @@ expImg:``
 {
 category:`Farmasi Kimia`,
 level:`Easy`,
-question:`Di sebuah industri farmasi, seorang apoteker di departemen Quality Control (QC) sedang melakukan pengujian identitas sampel Parasetamol menggunakan instrumen FTIR. Saat melakukan interpretasi spektrum, apoteker tersebut menelaah hubungan struktur kimia dengan sifat fisiko-kimianya. <br><br>Gugus fungsi manakah dalam struktur Parasetamol yang memberikan kontribusi utama terhadap sifat polar molekul tersebut?`,
+question:`Di sebuah industri farmasi, seorang apoteker di departemen Quality Control (QC) sedang melakukan pengujian identitas sampel Parasetamol menggunakan instrumen FTIR. Saat melakukan interpretasi spektrum, apoteker tersebut menelaah hubungan struktur kimia dengan sifat fisiko-kimianya. Gugus fungsi manakah dalam struktur Parasetamol yang memberikan kontribusi utama terhadap sifat polar molekul tersebut?`,
 img:`TO1M6025.png`,
 options:["a. Gugus benzena","b. Gugus hidroksi dan amida","c. Gugus metil","d. Gugus karboksilat","e. Gugus Nitrat"],
 answer: `b. Gugus hidroksi dan amida`,
@@ -1594,7 +1594,7 @@ expImg:``
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Easy`,
-question:`Seorang pasien laki-laki berusia 58 tahun dirawat di Intensive Care Unit (ICU) dengan diagnosis syok sepsis sekunder akibat pneumonia berat. Hasil pemantauan tanda vital menunjukkan tekanan darah 80/50 mmHg, frekuensi nadi 115 kali/menit, dan suhu tubuh 38,5°C. Dokter telah memberikan resusitasi cairan kristaloid secara adekuat sebanyak 30 mL/kgBB, namun kondisi hemodinamik pasien belum stabil. Dokter berdiskusi dengan apoteker mengenai penambahan terapi vasopressor. <br><br>Apakah obat vasopressor pilihan pertama yang paling tepat direkomendasikan oleh apoteker? (UKMPPAI FEBRUARI 2025)`,
+question:`Seorang pasien laki-laki berusia 58 tahun dirawat di Intensive Care Unit (ICU) dengan diagnosis syok sepsis sekunder akibat pneumonia berat. Hasil pemantauan tanda vital menunjukkan tekanan darah 80/50 mmHg, frekuensi nadi 115 kali/menit, dan suhu tubuh 38,5°C. Dokter telah memberikan resusitasi cairan kristaloid secara adekuat sebanyak 30 mL/kgBB, namun kondisi hemodinamik pasien belum stabil. Dokter berdiskusi dengan apoteker mengenai penambahan terapi vasopressor. Apakah obat vasopressor pilihan pertama yang paling tepat direkomendasikan oleh apoteker? (UKMPPAI FEBRUARI 2025)`,
 img:``,
 options:["a. Dopamin","b. Dobutamin","c. Norepinefrin","d. Epinefrin","e. Vasopresin"],
 answer: `c. Norepinefrin`,
@@ -1604,7 +1604,7 @@ expImg:`04TO1M11.png`
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Hard`,
-question:`Seorang pasien laki-laki berusia 58 tahun dibawa ke IGD rumah sakit daerah dengan keluhan nyeri dada kiri menjalar ke lengan dan punggung sejak 2 jam yang lalu. Hasil pemeriksaan EKG menunjukkan adanya ST-elevation yang signifikan. Karena fasilitas Percutaneous Coronary Intervention (PCI) tidak tersedia di rumah sakit tersebut dan jarak ke pusat rujukan terlalu jauh, dokter memutuskan untuk segera memberikan terapi fibrinolitik dengan Tenecteplase. Sebelum obat disiapkan, apoteker melakukan rekonsiliasi dan penelusuran riwayat medis pasien untuk memastikan keamanan terapi.<br><br>Manakah data klinis pasien yang menunjukkan kontraindikasi absolut terhadap penggunaan terapi tersebut?`,
+question:`Seorang pasien laki-laki berusia 58 tahun dibawa ke IGD rumah sakit daerah dengan keluhan nyeri dada kiri menjalar ke lengan dan punggung sejak 2 jam yang lalu. Hasil pemeriksaan EKG menunjukkan adanya ST-elevation yang signifikan. Karena fasilitas Percutaneous Coronary Intervention (PCI) tidak tersedia di rumah sakit tersebut dan jarak ke pusat rujukan terlalu jauh, dokter memutuskan untuk segera memberikan terapi fibrinolitik dengan Tenecteplase. Sebelum obat disiapkan, apoteker melakukan rekonsiliasi dan penelusuran riwayat medis pasien untuk memastikan keamanan terapi. Manakah data klinis pasien yang menunjukkan kontraindikasi absolut terhadap penggunaan terapi tersebut?`,
 img:``,
 options:["a. Tekanan darah saat masuk 170/100 mmHg","b. Riwayat stroke iskemik 8 bulan yang lalu","c. Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu","d. Sedang mengkonsumsi aspirin 80 mg/hari","e. Riwayat ulkus peptikum 1 tahun yang lalu yang sudah sembuh"],
 answer: `c. Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu`,
@@ -1614,7 +1614,7 @@ expImg:``
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Easy`,
-question:`Seorang pasien laki-laki berusia 62 tahun dilarikan ke UGD rumah sakit dengan keluhan kelemahan anggota gerak sebelah kanan secara mendadak disertai bicara pelo (disartria) sejak 2 jam yang lalu. Hasil pemeriksaan CT-scan kepala menunjukkan adanya infark serebri tanpa tanda perdarahan. Tekanan darah pasien saat masuk adalah 165/95 mmHg. Pasien diketahui memiliki riwayat hipertensi dan rutin mengonsumsi Lisinopril 10 mg sekali sehari. Dokter memutuskan untuk segera memberikan terapi trombolitik menggunakan IV Alteplase (r-tPA). Setelah terapi tersebut selesai, dokter berdiskusi dengan apoteker mengenai rencana inisiasi antiplatelet.<br><br>Kapankah waktu yang paling tepat bagi apoteker untuk merekomendasikan inisiasi pemberian terapi aspirin pada pasien tersebut?`,
+question:`Seorang pasien laki-laki berusia 62 tahun dilarikan ke UGD rumah sakit dengan keluhan kelemahan anggota gerak sebelah kanan secara mendadak disertai bicara pelo (disartria) sejak 2 jam yang lalu. Hasil pemeriksaan CT-scan kepala menunjukkan adanya infark serebri tanpa tanda perdarahan. Tekanan darah pasien saat masuk adalah 165/95 mmHg. Pasien diketahui memiliki riwayat hipertensi dan rutin mengonsumsi Lisinopril 10 mg sekali sehari. Dokter memutuskan untuk segera memberikan terapi trombolitik menggunakan IV Alteplase (r-tPA). Setelah terapi tersebut selesai, dokter berdiskusi dengan apoteker mengenai rencana inisiasi antiplatelet. Kapankah waktu yang paling tepat bagi apoteker untuk merekomendasikan inisiasi pemberian terapi aspirin pada pasien tersebut?`,
 img:``,
 options:["a. Bersamaan dengan pemberian Alteplase untuk efek sinergis","b. Segera setelah infus Alteplase selesai diberikan","c. 6 jam setelah pemberian Alteplase","d. 24 jam setelah pemberian Alteplase","e. 7 hari setelah pemberian Alteplase"],
 answer: `d. 24 jam setelah pemberian Alteplase`,
@@ -1624,7 +1624,7 @@ expImg:`06TO1M11.png`
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang pasien wanita berusia 45 tahun dirawat setelah didiagnosis mengalami stroke iskemik sekunder akibat kardioemboli yang dipicu oleh atrial fibrillation (AF). Pasien diketahui memiliki riwayat kepatuhan yang sangat rendah terhadap jadwal kontrol ke rumah sakit. Riwayat penggunaan antikoagulan terdahulu menggunakan Warfarin telah dihentikan karena pasien mengalami efek samping berupa hematoma luas pada jaringan kulit akibat fluktuasi nilai INR yang tidak terkontrol. Dokter meminta rekomendasi apoteker mengenai pilihan terapi antikoagulan oral baru (DOAC/NOAC) yang efikasinya setara dengan warfarin namun memiliki manajemen dosis yang tetap tanpa memerlukan pemantauan laboratorium rutin.<br><br>Manakah obat yang paling tepat direkomendasikan oleh apoteker untuk pasien tersebut?`,
+question:`Seorang pasien wanita berusia 45 tahun dirawat setelah didiagnosis mengalami stroke iskemik sekunder akibat kardioemboli yang dipicu oleh atrial fibrillation (AF). Pasien diketahui memiliki riwayat kepatuhan yang sangat rendah terhadap jadwal kontrol ke rumah sakit. Riwayat penggunaan antikoagulan terdahulu menggunakan Warfarin telah dihentikan karena pasien mengalami efek samping berupa hematoma luas pada jaringan kulit akibat fluktuasi nilai INR yang tidak terkontrol. Dokter meminta rekomendasi apoteker mengenai pilihan terapi antikoagulan oral baru (DOAC/NOAC) yang efikasinya setara dengan warfarin namun memiliki manajemen dosis yang tetap tanpa memerlukan pemantauan laboratorium rutin. Manakah obat yang paling tepat direkomendasikan oleh apoteker untuk pasien tersebut?`,
 img:``,
 options:["a. Heparin","b. Enoxaparin","c. Fondaparinux","d. Apixaban","e. Klopidogrel"],
 answer: `d. Apixaban`,
@@ -1634,7 +1634,7 @@ expImg:`07TO1M11.png`
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang pasien laki-laki berusia 55 tahun didiagnosis mengalami STEMI akut dan direncanakan untuk menjalani tindakan PCI. Dokter spesialis jantung meresepkan Dual Antiplatelet Therapy (DAPT) sebagai tatalaksana awal menggunakan kombinasi Aspirin dan Ticagrelor. Namun, petugas depo farmasi melaporkan bahwa stok Ticagrelor di Instalasi Farmasi Rumah Sakit sedang kosong. Apoteker klinis di IGD berdiskusi dengan dokter untuk memberikan alternatif inhibitor P2Y12 lain yang sama potennya guna menjaga efikasi antitrombotik pasien.<br><br>Apakah obat antiplatelet yang paling tepat direkomendasikan oleh apoteker sebagai pengganti komponen DAPT tersebut? (TO UKMPPAI NOVEMBER 2024)`,
+question:`Seorang pasien laki-laki berusia 55 tahun didiagnosis mengalami STEMI akut dan direncanakan untuk menjalani tindakan PCI. Dokter spesialis jantung meresepkan Dual Antiplatelet Therapy (DAPT) sebagai tatalaksana awal menggunakan kombinasi Aspirin dan Ticagrelor. Namun, petugas depo farmasi melaporkan bahwa stok Ticagrelor di Instalasi Farmasi Rumah Sakit sedang kosong. Apoteker klinis di IGD berdiskusi dengan dokter untuk memberikan alternatif inhibitor P2Y12 lain yang sama potennya guna menjaga efikasi antitrombotik pasien. Apakah obat antiplatelet yang paling tepat direkomendasikan oleh apoteker sebagai pengganti komponen DAPT tersebut? (TO UKMPPAI NOVEMBER 2024)`,
 img:``,
 options:["a. Prasugrel","b. Cilostazol","c. Dipiridamol","d. Klopidogrel","e. Warfarin"],
 answer: `a. Prasugrel`,
@@ -1644,7 +1644,7 @@ expImg:`08TO1M11.png`
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang pasien laki-laki berusia 64 tahun dengan riwayat stroke iskemik dijadwalkan akan menjalani operasi pengangkatan massa tumor payudara (ginekomastia) dalam satu minggu ke depan. Pasien diketahui rutin mengonsumsi Klopidogrel 75 mg sekali sehari sebagai terapi pencegahan sekunder stroke. Hasil pemeriksaan laboratorium menunjukkan nilai PT, APTT, dan jumlah trombosit pasien dalam batas normal. Apoteker di klinik melakukan rekonsiliasi obat dan memberikan konseling mengenai aturan penghentian sementara obat antiplatelet guna meminimalkan risiko perdarahan perioperatif.<br><br>Berapa harikah sebelum operasi pasien tersebut harus direkomendasikan untuk menghentikan konsumsi Klopidogrel?`,
+question:`Seorang pasien laki-laki berusia 64 tahun dengan riwayat stroke iskemik dijadwalkan akan menjalani operasi pengangkatan massa tumor payudara (ginekomastia) dalam satu minggu ke depan. Pasien diketahui rutin mengonsumsi Klopidogrel 75 mg sekali sehari sebagai terapi pencegahan sekunder stroke. Hasil pemeriksaan laboratorium menunjukkan nilai PT, APTT, dan jumlah trombosit pasien dalam batas normal. Apoteker di klinik melakukan rekonsiliasi obat dan memberikan konseling mengenai aturan penghentian sementara obat antiplatelet guna meminimalkan risiko perdarahan perioperatif. Berapa harikah sebelum operasi pasien tersebut harus direkomendasikan untuk menghentikan konsumsi Klopidogrel?`,
 img:``,
 options:["a. 1 hari","b. 2 hari","c. 3 hari","d. 5 hari","e. 14 hari"],
 answer: `d. 5 hari`,
@@ -1778,7 +1778,7 @@ question:`Seorang perempuan usia 58 tahun datang ke poliklinik penyakit dalam de
 img:``,
 options:["A. Dapaglifozin","B. Glimepirid","C. Liraglutid","D. Metformin","E. Pioglitazon"],
 answer: `A. Dapaglifozin`,
-explanation:`<img src="assets/1J13TO1.png"></img><br><br><b>Referensi:</b><br>Dikutip dari PERKENI, 2021: Pasien yang mengalami PGK disertai DM tipe 2. Obat antidiabetes oral yang dianjurkan adalah SGLT-2 (…fozin): salah satunya Dapaglifozin <br>`,
+explanation:`<p><img src="assets/1J13TO1.png"></img></p><p>Pasien yang mengalami PGK disertai DM tipe 2. Obat antidiabetes oral yang dianjurkan adalah SGLT-2 (…fozin): salah satunya Dapaglifozin</p><p><strong>Referensi:</strong><br />PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia.</p>`,
 expImg:`1J13TO1.png`
 },
 {
@@ -1818,7 +1818,7 @@ question:`Seorang laki-laki usia 60 tahun datang ke IGD dengan diagnosis <i>diab
 img:``,
 options:["A. Insulin degludec","B. Insulin detemir","C. Insulin glargine","D. Insulin lispro","E. Insulin NPH"],
 answer: `D. Insulin lispro`,
-explanation:`Ketoasidosis Diabetik (KAD) dan Hiperglikemia Hiperosmolar (SHH) 1.Cairan saline normal (infus NaCl 0,9 %), 2.Terapi insulin intravena (prandial, missal insulin aspart, lispro, glulisin), 3.Koreksi elektrolit (infus KCl) dan 4.Koreksi asam basa (infus Bicarbonat Na / Bicnat).<br><br><b>Referensi:</b><br>PERKENI.2021.Petunjuk Praktis Terapi Insulin pada Pasien Diabetes Melitus.`,
+explanation:`<p>Ketoasidosis Diabetik (KAD) dan Hiperglikemia Hiperosmolar (SHH)</p><ol><li>Cairan saline normal (infus NaCl 0,9 %),</li><li>Terapi insulin intravena (prandial, missal insulin aspart, lispro, glulisin),</li><li>Koreksi elektrolit (infus KCl) dan</li><li>Koreksi asam basa (infus Bicarbonat Na / Bicnat).</li></ol><p><strong>Referensi:</strong><br />PERKENI.2021.Petunjuk Praktis Terapi Insulin pada Pasien Diabetes Melitus.</p>`,
 expImg:``
 },
 {
@@ -1858,7 +1858,7 @@ question:`Seorang perempuan usia 26 tahun dirawat dengan <i>inflammatory bowel d
 img:``,
 options:["A. Eritropoetin","B. Ferrous sulfat","C. <i>Iron dextran</i>","D. Transfusi <i>packed red cell</i>","E. Vitamin B12"],
 answer: `A. Eritropoetin`,
-explanation:`<p> <b>Jawaban yang benar adalah D. Transfusi packed red cell (PRC)<b>. Pasien didiagnosis mengalami <i>anemia of chronic disease</i> (ACD) dengan kadar hemoglobin 5 g/dL yang menunjukkan anemia berat sehingga memerlukan peningkatan kadar hemoglobin secara cepat. Transfusi PRC merupakan terapi yang paling tepat untuk memperbaiki kapasitas transport oksigen pada kondisi tersebut. </p><p> Pilihan <b>A (eritropoetin)</b> kurang tepat karena onset kerjanya lambat dan umumnya digunakan pada anemia akibat penyakit ginjal kronik atau ACD tertentu yang tidak memerlukan koreksi segera. <b>B (ferrous sulfat)</b> dan <b>C (iron dextran)</b> tidak tepat karena kadar feritin serum 520 µg/L menunjukkan cadangan besi masih tinggi sehingga anemia bukan disebabkan oleh defisiensi besi, melainkan gangguan pemanfaatan besi akibat inflamasi. <b>E (vitamin B12)</b> juga tidak tepat karena tidak terdapat data yang mengarah pada anemia megaloblastik akibat defisiensi vitamin B12. </p><p> Dengan demikian, terapi yang paling tepat pada pasien ini adalah <b>transfusi packed red cell (PRC).</b> </p><br><b> Referensi: </b><p> Kidney Disease: Improving Global Outcomes (KDIGO) Anemia Work Group, 2026. KDIGO 2026 Clinical Practice Guideline for the Management of Anemia in Chronic Kidney Disease (CKD). Kidney International, 109(1 Suppl), pp.S1–S99. doi:10.1016/j.kint.2025.06.006 </p>`,
+explanation:`<p><strong>Jawaban yang benar adalah D. Transfusi packed red cell (PRC)<strong>. Pasien didiagnosis mengalami <em>anemia of chronic disease</em> (ACD) dengan kadar hemoglobin 5 g/dL yang menunjukkan anemia berat sehingga memerlukan peningkatan kadar hemoglobin secara cepat. Transfusi PRC merupakan terapi yang paling tepat untuk memperbaiki kapasitas transport oksigen pada kondisi tersebut. </strong></strong></p><p>Pilihan <strong>A (eritropoetin)</strong> kurang tepat karena onset kerjanya lambat dan umumnya digunakan pada anemia akibat penyakit ginjal kronik atau ACD tertentu yang tidak memerlukan koreksi segera. <strong>B (ferrous sulfat)</strong> dan <strong>C (iron dextran)</strong> tidak tepat karena kadar feritin serum 520 µg/L menunjukkan cadangan besi masih tinggi sehingga anemia bukan disebabkan oleh defisiensi besi, melainkan gangguan pemanfaatan besi akibat inflamasi. <strong>E (vitamin B12)</strong> juga tidak tepat karena tidak terdapat data yang mengarah pada anemia megaloblastik akibat defisiensi vitamin B12.</p><p>Dengan demikian, terapi yang paling tepat pada pasien ini adalah <strong>transfusi packed red cell (PRC).</strong></p><p><br /> <strong> Referensi: </strong></p><p>Kidney Disease: Improving Global Outcomes (KDIGO) Anemia Work Group, 2026. KDIGO 2026 Clinical Practice Guideline for the Management of Anemia in Chronic Kidney Disease (CKD). Kidney International, 109(1 Suppl), pp.S1–S99. doi:10.1016/j.kint.2025.06.006</p>`,
 expImg:`9RTO1.PNG`
 },
 {
@@ -1888,7 +1888,7 @@ question:`Seorang laki-laki usia 50 tahun dengan berat badan 60 kg mendapatkan t
 img:``,
 options:["A. 3 IU","B. 6 IU","C. 12 IU","D. 18 IU","E. 24 IU"],
 answer: `B. 6 IU`,
-explanation:`a. Langkah 1: Kebutuhan insulin = 0,5 unit x 60 kgBB/hari = 30 IU;b. Langkah 2: Dosis Prandial adalah 60% dari dosis total = 18 IU;c. Langkah 3:  18/3 = 6 IU.`,
+explanation:`<p>a. Langkah 1: Kebutuhan insulin = 0,5 unit x 60 kgBB/hari = 30 IU;<br />b. Langkah 2: Dosis Prandial adalah 60% dari dosis total = 18 IU;<br />c. Langkah 3: 18/3 = 6 IU.</p>`,
 expImg:``
 },
 {
