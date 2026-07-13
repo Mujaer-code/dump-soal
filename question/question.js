@@ -422,17 +422,17 @@ expImg:`02M34.png`
 {
 category:`Industri`,
 level:`Medium`,
-question:`Suatu lini produksi di industri farmasi mampu menghasilkan 1.000.000 tablet selama 1 shift (8 jam). Setelah dilakukan pemeriksaan oleh tim IPC terdapat 500 tablet yang nilai friabilitas diatas 1% serta 100 tablet perlu dilakukan rework karena mengalami chipping selama proses produksi. Berapa nilai Quality pada line tersebut?`,
+question:`<p>Suatu lini produksi di industri farmasi mampu menghasilkan 1.000.000 tablet selama 1 shift (8 jam). Setelah dilakukan pemeriksaan oleh tim IPC terdapat 500 tablet yang nilai friabilitas diatas 1% serta 100 tablet perlu dilakukan rework karena mengalami <em>chipping</em> selama proses produksi. Berapa nilai <em>Quality</em> pada line tersebut?</p>`,
 img:``,
 options:["A. 99,99%","B. 99,95%","C. 99,94%","D. 99,90%","E. 99,00%"],
 answer: `C. 99,94%`,
-explanation:`Quality Rate dalam OEE adalah rasio yang mengukur efektivitas proses produksi dalam menghasilkan produk yang memenuhi spesifikasi kualitas<br><br>Total produksi = 1.000.000 tablet<br><br>Tablet friabilitas tinggi (reject)= 500 tablet<br><br>Tablet chipping (rework)=100 tablet,sehingga total defect=500 tablet + 100 tablet=600 tablet<br><br>Jadi produk baik= total produk-produk defect=1.000.000 tablet - 600 tablet = 999.400 tablet<br><br>Quality=(999.400 tablet/1.000.000 tablet) x 100%<br><br>Quality=99,94% <br><br><b>Referensi:</b><br>Zubair (2021).Manufacturing productivity analysis by apply-ing overall equipment effectiveness metric in apharmaceutical industry.Congent engineering`,
+explanation:`<p><em>Quality Rate</em> dalam OEE adalah rasio yang mengukur efektivitas proses produksi dalam menghasilkan produk yang memenuhi spesifikasi kualitas.</p><ul><li>Total produksi = 1.000.000 tablet</li><li>Tablet friabilitas tinggi <em>(reject) =</em> 500 tablet</li><li>Tablet chipping <em>(rework) = 100</em> tablet,sehingga total defect = 500 tablet + 100 tablet=600 tablet</li><li>Jadi produk baik = total produk - produk defect = 1.000.000 tablet - 600 tablet = 999.400 tablet</li></ul><p>Quality = (999.400 tablet/1.000.000 tablet) x 100%<br />Quality = 99,94%</p><p><strong>Referensi:</strong><br />Zubair (2021).Manufacturing productivity analysis by apply-ing overall equipment effectiveness metric in apharmaceutical industry.Congent engineering</p>`,
 expImg:`03M34.png`
 },
 {
 category:`Industri`,
 level:`Easy`,
-question:`Seorang Manajer Produksi di sebuah industri farmasi sedang memimpin proyek evaluasi mesin di lini produksi utamanya dengan mengukur tingkat ketersediaan (Availability), efisiensi kinerja (Performance), dan persentase produk cacat (Quality).Ia menargetkan agar lini produksinya tidak hanya berjalan dengan baik, tetapi juga bisa diakui sejajar dengan pabrik-pabrik top di seluruh dunia. Untuk membuktikan hal tersebut kepada jajaran direksi, ia harus membandingkan hasil perhitungannya dengan patokan global. Berapakah nilai batas (benchmark) Overall Equipment Effectiveness (OEE) yang disepakati secara internasional sebagai standar World Class yang harus dicapai oleh Manager Produksi tersebut?`,
+question:`<p>Seorang Manajer Produksi di sebuah industri farmasi sedang memimpin proyek evaluasi mesin di lini produksi utamanya dengan mengukur tingkat ketersediaan (<em>Availability</em>), efisiensi kinerja (<em>Performance</em>), dan persentase produk cacat (<em>Quality</em>). Ia menargetkan agar lini produksinya tidak hanya berjalan dengan baik, tetapi juga bisa diakui sejajar dengan pabrik-pabrik top di seluruh dunia. Untuk membuktikan hal tersebut kepada jajaran direksi, ia harus membandingkan hasil perhitungannya dengan patokan global. Berapakah nilai batas (<em>benchmark</em>) <em>Overall Equipment Effectiveness</em> (OEE) yang disepakati secara internasional sebagai standar World Class yang harus dicapai oleh Manager Produksi tersebut?</p>`,
 img:``,
 options:["A. 100%","B. 95%","C. 90%","D. 85%","E. 80%"],
 answer: `D. 85%`,
@@ -442,21 +442,21 @@ expImg:``
 {
 category:`Industri`,
 level:`Hard`,
-question:`Sebuah lini produksi tablet (Line A) memiliki data operasional sebagai berikut:<br><br>Waktu Shift: 8 jam (dengan Isoma 60 menit).<br><br>Downtime tidak terencana: total 75 menit.<br><br>Kecepatan Ideal Mesin: 90 tablet/detik.<br><br>Output Aktual: 2.400.000 tablet (dalam 8 jam).<br><br>Defect: 500 tablet friabilitas buruk dan 100 tablet chipping.<br><br>Berdasarkan data tersebut, berapakah nilai Total OEE lini tersebut dan apakah sudah memenuhi standar World Class?`,
+question:`<p>Sebuah lini produksi tablet (Line A) memiliki data operasional sebagai berikut:</p><ul><li>Waktu Shift: 8 jam (dengan Isoma 60 menit).</li><li>Downtime tidak terencana: total 75 menit.</li><li>Kecepatan Ideal Mesin: 90 tablet/detik.</li><li>Output Aktual: 2.400.000 tablet (dalam 8 jam).</li><li>Defect: 500 tablet friabilitas buruk dan 100 tablet chipping.</li></ul><p>Berdasarkan data tersebut, berapakah nilai Total <em>Overall Equipment Effectiveness</em> (OEE) lini tersebut dan apakah sudah memenuhi standar World Class?</p>`,
 img:``,
 options:["A. 76,01% dan sudah memenuhi standard World Class","B. 85,00% dan sudah memenuhi standard World Class","C. 82,14% dan sudah memenuhi standard World Class","D. 82,14 % dan belum memenuhi standard World Class","E. 76,01% dan belum memenuhi standard World Class"],
 answer: `E. 76,01% dan belum memenuhi standard World Class`,
-explanation:`Langkah 1: Hitung Availability (Ketersediaan)<br><br>Planned Production Time: 8 jam (480 menit) - 60 menit (Isoma) = 420 menit.<br><br>Downtime: 75 menit.<br><br>Operating Time: 420 menit - 75 menit = 345 menit.<br><br>Availability: (345/420​)×100%=82,14%.<br><br><br><br>Langkah 2: Hitung Performance (Kinerja)<br><br>Kecepatan 90 tablet/detik<br><br>Waktu kualifikasi 8 jam x 3600 detik = 28.800 detik<br><br>Kapasitas teoritis 90 tablet/detik x 28.800 detik = 2.592.000 detik<br><br>Output aktual = 2.400.000 tablet<br><br>Output teoritis = 2.592.000 tablet<br><br>Performance = (2.400.000 tablet/2.592.000 tablet) x 100%<br><br>Performance = 92,6%<br><br>Langkah 3: Hitung Quality (Kualitas)<br><br>Total Defect: 500+100=600 tablet.<br><br>Good Units: 2.400.000−600=2.399.400 tablet.<br><br>Quality: (2.399.400/2.400.000​)×100%=99,975%.<br><br><br><br>Langkah 4: Hitung OEE Total<br>< br>OEE=Availability×Performance×Quality<br><br>OEE=82,14%×92,59%×99,975%=76,1%<br><br>Hasil yang diperoleh menunjukkan belum memenuhi spesifikasi world class yaitu 85% yang menunjukkan mesin sering rusak,mesin sering berhenti sejenak dan banyak produk yang catat,akan tetapi hasil yang diperoleh masih diatas 60% yang dapat diartikan bahwa produksi masih berjalan stabil akan tetapi masih ada ruang untuk perbaikan<br><br><b>Referensi:</b><br>Zubair (2021).Manufacturing productivity analysis by apply-ing overall equipment effectiveness metric in a pharmaceutical industry. Congent engineering`,
+explanation:`<p><strong>Langkah 1: Hitung Availability (Ketersediaan)</strong></p><ul><li>Planned Production Time: 8 jam (480 menit) - 60 menit (Isoma) = 420 menit.</li><li>Downtime: 75 menit.</li><li>Operating Time: 420 menit - 75 menit = 345 menit.</li><li>Availability: (345/420)×100%=82,14%.</li></ul><p><strong>Langkah 2: Hitung Performance (Kinerja)</strong></p><ul><li>Kecepatan 90 tablet/detik</li><li>Waktu kualifikasi 8 jam x 3600 detik = 28.800 detik</li><li>Kapasitas teoritis 90 tablet/detik x 28.800 detik = 2.592.000 detik</li><li>Output aktual = 2.400.000 tablet</li><li>Output teoritis = 2.592.000 tablet</li><li>Performance = (2.400.000 tablet/2.592.000 tablet) x 100%</li><li>Performance = 92,6%</li></ul><p><strong>Langkah 3: Hitung Quality (Kualitas)</strong></p><ul><li>Total Defect: 500+100=600 tablet.</li><li>Good Units: 2.400.000−600=2.399.400 tablet.</li><li>Quality: (2.399.400/2.400.000)×100%=99,975%.</li></ul><p><strong>Langkah 4: Hitung OEE Total</strong></p><p style="text-align: center;"><strong>OEE=Availability×Performance×Quality</strong></p><p style="text-align: center;">OEE=82,14%×92,59%×99,975%=76,1%</p><p style="text-align: left;">Hasil yang diperoleh menunjukkan belum memenuhi spesifikasi world class yaitu 85% yang menunjukkan mesin sering rusak,mesin sering berhenti sejenak dan banyak produk yang catat,akan tetapi hasil yang diperoleh masih diatas 60% yang dapat diartikan bahwa produksi masih berjalan stabil akan tetapi masih ada ruang untuk perbaikan<br /><br /><strong>Referensi:</strong><br />Zubair (2021).Manufacturing productivity analysis by apply-ing overall equipment effectiveness metric in a pharmaceutical industry. Congent engineering</p>`,
 expImg:`04M34.png`
 },
 {
 category:`Industri`,
 level:`Medium`,
-question:`Sebuah industri farmasi akan memproduksi suplemen kesehatan dalam bentuk tablet salut selaput yang dikemas menggunakan kemasan primer Alu-Alu Blister. Target produksi untuk kuartal pertama (3 bulan) adalah sebanyak 900.000 tablet. Frekuensi produksi dijadwalkan sebanyak 3 batch setiap bulan.<br><br>Adapun spesifikasi material kemasan yang digunakan adalah sebagai berikut:<br><br>Setiap 1 strip berisi 10 tablet.<br><br>Panjang blister yang dibutuhkan untuk setiap 1 strip adalah 15 cm.<br><br>Lebar strip sama dengan lebar roll aluminium yang tersedia.<br><br>Panjang aluminium foil dalam 1 roll adalah 150 meter.<br><br>Berapakah jumlah roll aluminium foil yang harus disediakan untuk memenuhi kebutuhan produksi selama 3 bulan tersebut?`,
+question:`<p>Sebuah industri farmasi akan memproduksi suplemen kesehatan dalam bentuk tablet salut selaput yang dikemas menggunakan kemasan primer Alu-Alu Blister. Target produksi untuk kuartal pertama (3 bulan) adalah sebanyak 900.000 tablet. Frekuensi produksi dijadwalkan sebanyak 3 batch setiap bulan. Adapun spesifikasi material kemasan yang digunakan adalah sebagai berikut:</p><ul><li>Setiap 1 strip berisi 10 tablet.</li><li>Panjang blister yang dibutuhkan untuk setiap 1 strip adalah 15 cm.</li><li>Lebar strip sama dengan lebar roll aluminium yang tersedia.</li><li>Panjang aluminium foil dalam 1 roll adalah 150 meter.</li></ul><p>Berapakah jumlah roll aluminium foil yang harus disediakan untuk memenuhi kebutuhan produksi selama 3 bulan tersebut?</p>`,
 img:``,
 options:["A. 150 roll","B. 135 roll","C. 100 roll","D. 90 roll","E. 60 roll"],
 answer: `D. 90 roll`,
-explanation:`Total tablet 900.000 tablet dan satu strip adalah 10 tablet sehingga total strip adalah 900.000 tab/10 tab = 90.000 tablet<br><br>Panjang per strip = 15 cm atau 0,15 m<br><br>Total material = 90.000 strip x 0,15m =13.500 meter<br><br>Jika 1 roll = 150 meter maka roll yang dibutuhkan adalah 13.500 meter/150 meter/roll = 90 roll<br><br><b>Referensi:</b><br>Heizer, J., & Render, B. (2016). Operations Management: Sustainability and Supply Chain Management. Pearson.`,
+explanation:`<ul><li>Total tablet 900.000 tablet dan satu strip adalah 10 tablet sehingga total strip adalah 900.000 tab/10 tab = 90.000 tablet</li><li>Panjang per strip = 15 cm atau 0,15 m</li><li>Total material = 90.000 strip x 0,15m =13.500 meter</li><li>Jika 1 roll = 150 meter maka roll yang dibutuhkan adalah 13.500 meter/150 meter/roll = 90 roll</li></ul><p><strong>Referensi:</strong><br />Heizer, J., &amp; Render, B. (2016). Operations Management: Sustainability and Supply Chain Management. Pearson.</p>`,
 expImg:``
 },
 {
@@ -466,7 +466,7 @@ question:`Sebuah industri farmasi akan memproduksi sebanyak 150.000 tablet mengg
 img:``,
 options:["A. 15 jam","B. 12,5 jam","C. 10 jam","D. 7,5 jam","E. 5 jam"],
 answer: `B. 12,5 jam`,
-explanation:`Jumlah Tray: 3 tray per siklus<br><br>Isi per Tray: 1.250 tablet<br><br>Kapasitas per Siklus: 3 × 1.250 = 3.750 tablet/siklus<br><br>Untuk mencapai target 150.000 tablet, kita hitung berapa kali mesin harus berputar.<br><br>Total Tablet: 150.000 tablet<br><br>Jumlah Siklus: 150.000/3.750 = 40 siklus<br><br>Waktu satu siklus adalah 18 menit 45 detik, sehingga<br><br>45 detik = 45/60 menit = 0,75 menit<br><br>Waktu per Siklus: 18,75 menit<br><br>Total Waktu (Menit): 40 siklus × 18,75 menit/siklus = 750 menit<br><br>Total Waktu (Jam): 750/60 menit = 12,5 jam<br><br><b>Referensi:</b><br>Heizer, J., & Render, B. (2016). Operations Management: Sustainability and Supply Chain Management. Pearson.`,
+explanation:`<ul><li>Jumlah Tray: 3 tray per siklus</li><li>Isi per Tray: 1.250 tablet</li><li>Kapasitas per Siklus: 3 × 1.250 = 3.750 tablet/siklus</li></ul><p>Untuk mencapai target 150.000 tablet, kita hitung berapa kali mesin harus berputar.</p><ul><li>Total Tablet: 150.000 tablet</li><li>Jumlah Siklus: 150.000/3.750 = 40 siklus</li><li>Waktu satu siklus adalah 18 menit 45 detik, sehingga<br />45 detik = 45/60 menit = 0,75 menit</li><li>Waktu per Siklus: 18,75 menit</li><li>Total Waktu (Menit): 40 siklus × 18,75 menit/siklus = 750 menit</li><li>Total Waktu (Jam): 750/60 menit = 12,5 jam</li></ul><p><strong>Referensi:</strong><br />Heizer, J., &amp; Render, B. (2016). Operations Management: Sustainability and Supply Chain Management. Pearson.</p>`,
 expImg:``
 },
 {
@@ -476,7 +476,7 @@ question:`Bagian produksi akan melakukan proses filling sirup kedalam 306.000 bo
 img:``,
 options:["A. 15,5 jam","B. 32,5 jam","C. 42,5 jam","D. 53,5 jam","E. 60,5 jam"],
 answer: `C. 42,5 jam`,
-explanation:`Pertama tentukan terlebih dahulu Throughput Rate/Laju produksi<br><br>Laju produksi mesin ini adalah (10 botol/5 detik) jadi 2 botol/detik<br><br>Sehingga total waktu yang dibutuhkan adalah 306000 botol/2 botol per detik<br><br>153000 detik<br><br>153000detik/3600 = 42,5 jam<br><br><b>Referensi:</b><br>Heizer, J., & Render, B. (2016). Operations Management: Sustainability and Supply Chain Management. Pearson.`,
+explanation:`<ul><li><strong data-path-to-node="1,1,0" data-index-in-node="0">Menghitung Total Waktu yang Dibutuhkan</strong> <br />Untuk target produksi sebanyak 306.000 botol, perhitungannya adalah:<br />Total waktu = 306.000 botol / 2 botol/detik = <strong data-path-to-node="1,1,1,0,0" data-index-in-node="46">153.000 detik</strong></li></ul><ul><li><strong data-path-to-node="1,0,0" data-index-in-node="0">Menentukan Laju Produksi (<em data-path-to-node="1,0,0" data-index-in-node="26">Throughput Rate</em>)</strong> <br />Laju produksi mesin adalah 10 botol per 5 detik, sehingga:<br />Laju produksi = 10 botol / 5 detik = <strong data-path-to-node="1,0,1,0,0" data-index-in-node="37">2 botol/detik</strong></li></ul><ul><li><strong>Mengonversi Waktu ke Satuan Jam<br /></strong>Total waktu = 153.000 detik / 3.600 (detik dalam 1 jam) = 42,5 jam<strong><br /></strong></li></ul><p><strong>Referensi:</strong><br />Heizer, J., &amp; Render, B. (2016). Operations Management: Sustainability and Supply Chain Management. Pearson.</p>`,
 expImg:``
 },
 {
@@ -492,7 +492,7 @@ expImg:`05M34.png`
 {
 category:`Industri`,
 level:`Medium`,
-question:`Seorang supervisor produksi sedang mengawasi proses filling sebuah batch batch sirup ibuprofen yang memiliki volume teoritis 1000 L. Selama proses pengisian kedalam botol 60 mL terdapat tumpahan sebanyak 1 L dan sisa pada pipa mesin (dead volume) sebanyak 14 L. Selain itu 50 botol di reject karena ketidaksesuain volume. Berapa %yield pada proses pengisian ini?`,
+question:`<p>Seorang supervisor produksi di industri farmasi sedang mengawasi proses <em>filling</em> sebuah batch sirup ibuprofen yang memiliki volume teoritis 1000 L. Selama proses pengisian kedalam botol 60 mL terdapat tumpahan sebanyak 1 L dan sisa pada pipa mesin (dead volume) sebanyak 14 L. Selain itu 50 botol di reject karena ketidaksesuain volume. Berapa % yield pada proses pengisian ini?</p>`,
 img:``,
 options:["A. 99,7%","B. 98,2%","C. 97,0%","D. 96,4%","E. 95,8%"],
 answer: `B. 98,2%`,
@@ -502,11 +502,11 @@ expImg:``
 {
 category:`Industri`,
 level:`Medium`,
-question:`Seorang supervisor produksi melakukan rekonsiliasi pada proses coating. Massa inti tablet hasil dari proses cetak adalah sebanyak 100 kg. Setelah dilakukan proses coating diketahui bahwa bobot yang diperoleh adalah 104 kg. Jika target dari weight gain dari proses coating adalah sebesar 5%, berapa %yield dari proses coating ini`,
+question:`<p>Seorang supervisor produksi di industri farmasi melakukan rekonsiliasi pada proses coating. Massa inti tablet hasil dari proses cetak adalah sebanyak 100 kg. Setelah dilakukan proses coating diketahui bahwa bobot yang diperoleh adalah 104 kg. Jika target dari weight gain dari proses coating adalah sebesar 5%. Berapa % yield dari proses coating ini?</p>`,
 img:``,
 options:["A. 104,0%","B. 99,05%","C. 95,0%","D. 80,0%","E. 100%"],
 answer: `B. 99,05%`,
-explanation:`Massa inti 100 kg <br><br>Target weight gain : 5% dari massa inti (100 kg x 5%) = 5 kg<br><br>Massa teoritis = 100kg + 5 kg= 105 kg<br><br>Massa aktual = 104kg<br><br>%yield = (massa aktual/massa teoritis)%yield = (104 kg / 105 kg)%yield = 99,05%<br><br><b>Referensi:</b><br>Pedoman CPOB 2018 (BPOM R) Dalam Bab 5: Produksi`,
+explanation:`<ul><li><strong>Massa inti</strong> : 100 kg</li><li><strong>Target weight gain</strong> : 5% dari massa inti (100 kg x 5%) = 5 kg</li><li><strong>Massa teoritis</strong> = 100kg + 5 kg= 105 kg</li><li><strong>Massa aktual</strong> = 104kg</li><li><strong>Persentase Hasil (<em data-path-to-node="1,4,0" data-index-in-node="18">% Yield</em>):</strong><br />% yield = (massa aktual / massa teoritis) <br />% yield = (104 kg / 105 kg)<br />% yield = 99,05%</li></ul><p><strong>Referensi:</strong><br />Pedoman CPOB 2018 (BPOM R) Dalam Bab 5: Produksi</p>`,
 expImg:``
 },
 {
@@ -532,27 +532,27 @@ expImg:`08M34.png`
 {
 category:`Industri`,
 level:`Medium`,
-question:`Sebuah industri farmasi akan membuat obat generik Asam Mefenamat. Sebagai bagian dari Drug Master File (DMF) untuk pengajuan izin edar pada BPOM, industri harus mempunyai data Uji Disolusi Terbanding (UDT) antara produk copy yang akan diproduksi dan produk inovator untuk memastikan ekivalensi farmasetik antara obat copy dan produk inovator. Bagaimana ketentuan pelaksanaan uji disolusi terbanding?`,
+question:`<p>Sebuah industri farmasi akan membuat obat generik asam mefenamat. Sebagai bagian dari <em>Drug Master File</em> (DMF) untuk pengajuan izin edar pada BPOM, industri harus mempunyai data Uji Disolusi Terbanding (UDT) antara produk copy yang akan diproduksi dan produk inovator untuk memastikan ekivalensi farmasetik antara obat copy dan produk inovator. Bagaimana ketentuan pelaksanaan uji disolusi terbanding?</p>`,
 img:``,
 options:["A. Uji Disolusi Terbanding dilakukan minimal pada 1 batch skala laboratorium","B. Uji Disolusi Terbanding dilakukan minimal pada 1 batch skala pilot","C. Uji Disolusi Terbanding dilakukan minimal pada 3 batch skala pilot","D. Uji Disolusi Terbanding dilakukan minimal pada 1 skala produksi","E. Uji Disolusi Terbanding dilakukan minimal pada 3 skala produksi"],
 answer: `B. Uji Disolusi Terbanding dilakukan minimal pada 1 batch skala pilot`,
-explanation:`Uji Disolusi Terbanding adala pengujuan secara in vitro yang membandingkan profil pelepasan obat target dengan obat pembanding umumnya inovator di berbagai kondisi pH untuk mencerminkan kondisi tubuh dimana untuk mencapai hal tersebut digunakan 3 media, yaitu: <br><br>pH 1.2: Merepresentasikan kondisi asam lambung menggunakan HCl<br><br>pH 4.5: Merepresentasikan kondisi transisi (duodenum) menggunakan buffer asetat<br><br>pH 6.8: Merepresentasikan kondisi usus halus menggunakan buffer fosfat<br><br>Jumlah Sampel: Standar statistik untuk validitas profil disolusi mengharuskan penggunaan minimal 12 unit per produk (12 tablet copy vs 12 tablet inovator) untuk setiap media. Total untuk 3 media adalah 36 unit.<br><br>Faktor Diferensial (f1): Nilai f1 harus dibawah 15 yang menandakan rendahnya perbedaan pelepasan obat<br><br>Faktor Kemiripan (f2​): Nilai f2​ harus di antara 50 – 100. Nilai di bawah 50 berarti profil disolusi dianggap tidak mirip.<br><br>Pengecualian: Jika kedua produk melarut sangat cepat (lebih dari 85% dalam 15 menit), profil dianggap mirip secara otomatis dan nilai f2​ tidak perlu dihitung<br><br>Untuk registrasi obat copy baru BPOM mewajibkan minimal 1 batch. Namun, batch ini wajib sama dengan batch yang digunakan untuk uji Bioekivalensi (BE). Industri tidak diwajibkan langsung membuat skala produksi penuh. Syarat minimalnya adalah Skala Pilot.<br><br><b>Referensi:</b><br>Peraturan BPOM No. 11 Tahun 2022 tentang Pedoman Uji Bioekivalensi (Lampiran mengenai Uji Disolusi Terbanding).Peraturan BPOM No. 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat.`,
+explanation:`<p>Uji Disolusi Terbanding adala pengujuan secara in vitro yang membandingkan profil pelepasan obat target dengan obat pembanding umumnya inovator di berbagai kondisi pH untuk mencerminkan kondisi tubuh dimana untuk mencapai hal tersebut digunakan <strong>3 media</strong>, yaitu:</p><ul><li>pH 1.2: Merepresentasikan kondisi asam lambung menggunakan HCl</li><li>pH 4.5: Merepresentasikan kondisi transisi (duodenum) menggunakan buffer asetat</li><li>pH 6.8: Merepresentasikan kondisi usus halus menggunakan buffer fosfat</li></ul><p><strong>Jumlah Sampel</strong>: Standar statistik untuk validitas profil disolusi mengharuskan penggunaan minimal 12 unit per produk (12 tablet copy vs 12 tablet inovator) untuk setiap media. Total untuk 3 media adalah 36 unit.<br /><br /><strong>Faktor Diferensial (f1)</strong>: Nilai f1 harus dibawah 15 yang menandakan rendahnya perbedaan pelepasan obat<br /><br /><strong>Faktor Kemiripan (f2)</strong>: Nilai f2 harus di antara 50 – 100. Nilai di bawah 50 berarti profil disolusi dianggap tidak mirip.<br /><br /><strong>Pengecualian</strong>: Jika kedua produk melarut sangat cepat (lebih dari 85% dalam 15 menit), profil dianggap mirip secara otomatis dan nilai f2 tidak perlu dihitung<br /><br />Untuk registrasi obat copy baru BPOM mewajibkan <strong>minimal 1 batch</strong>. Namun, batch ini wajib sama dengan batch yang digunakan untuk uji Bioekivalensi (BE). Industri tidak diwajibkan langsung membuat skala produksi penuh. Syarat minimalnya adalah Skala Pilot.<br /><br /><strong>Referensi:</strong></p><ol><li>Peraturan BPOM No. 11 Tahun 2022 tentang Pedoman Uji Bioekivalensi (Lampiran mengenai Uji Disolusi Terbanding).</li><li>Peraturan BPOM No. 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat.</li></ol>`,
 expImg:``
 },
 {
 category:`Industri`,
 level:`Medium`,
-question:`Suatu industri farmasi menggunakan mesin menggunakan mesin cetak tablet rotary JMCO 33 (33 stasion) untuk memproduksi tablet Paracetamol. Berdasarkan logbook produksi, mesin beroperasi dengan kecepatan putaran turret 30 RPM (30 putaran per menit). Jika satu shift berlangsung selama 8 jam dengan waktu line clerance dan istirahat selama 90 menit. Berapa total jumlah tablet Paracetamol yang diproduksi dalam shift?`,
+question:`<p>Suatu industri farmasi menggunakan mesin menggunakan mesin cetak tablet rotary JMCO 33 (33<em> stasion</em>) untuk memproduksi tablet paracetamol. Berdasarkan logbook produksi, mesin beroperasi dengan kecepatan putaran turret 30 RPM (30 putaran per menit). Jika satu shift berlangsung selama 8 jam dengan waktu <em>line clerance</em> dan istirahat selama 90 menit. Berapa total jumlah tablet Paracetamol yang diproduksi dalam shift tersebut?</p>`,
 img:``,
 options:["A. 643.500 tablet","B. 550.450 tablet","C. 485.200 tablet","D. 400.300 tablet","E. 386.100 tablet"],
 answer: `E. 386.100 tablet`,
-explanation:`Total waktu shift 8 jam x 60 menit = 480 menit <br><br>Line clearance + Ishoma = 90 menit<br><br>Total waktu kerja (T) = 480 menit - 90 menit = 390 menit<br><br>Jumlah station (S) = 33 stasion<br><br>Kecepatan putaran (R)= 30 RPM<br><br>Sehingga output mesin (O) adalah 33 stasiun x 30 RPM x 390 menit<b><b>Output mesin: 386.100 tablet<br><br><b>Referensi:</b><br>Lachman, L., Lieberman, H. A., & Kanig, J. L. (1986). The Theory and Practice of Industrial Pharmacy. Lea & Febiger.`,
+explanation:`<ul><li>Total waktu shift 8 jam x 60 menit = 480 menit</li><li>Line clearance + Ishoma = 90 menit</li><li>Total waktu kerja (T) = 480 menit - 90 menit = 390 menit</li><li>Jumlah station (S) = 33 stasion</li><li>Kecepatan putaran (R)= 30 RPM</li></ul><p>Sehingga output mesin (O) adalah 33 stasiun x 30 RPM x 390 menit</p><p><strong><strong>Output mesin: 386.100 tablet</strong></strong></p><p><strong><strong><strong>Referensi:</strong><br /></strong></strong>Lachman, L., Lieberman, H. A., &amp; Kanig, J. L. (1986). The Theory and Practice of Industrial Pharmacy. Lea &amp; Febiger.</p>`,
 expImg:``
 },
 {
 category:`Industri`,
 level:`Medium`,
-question:`Sebuah industri farmasi melakukan perubahan proses pembuatan tablet Metampiron yang sebelumnya diproduksi dengan metode granulasi kering menggunakan teknik slugging menjadi metode granulasi kering menggunakan mesin roller compactor, perubahan tersebut termasuk ke dalam jenis registrasi apa menurut regulasi BPOM?`,
+question:`<p>Sebuah industri farmasi melakukan perubahan proses pembuatan tablet metampiron yang sebelumnya diproduksi dengan metode granulasi kering menggunakan teknik slugging menjadi metode granulasi kering menggunakan mesin roller compactor. Apakah jenis registrasi pada perubahan metode tersebut?</p>`,
 img:``,
 options:["A. Registrasi variasi mayor","B. Registrasi variasi minor dengan persetujuan","C. Registrasi variasi minor dengan notifikasi","D. Registrasi ulang","E. Registrasi baru"],
 answer: `A. Registrasi variasi mayor`,
@@ -567,7 +567,7 @@ img:``,
 options:["A. 5,54 dan 4,34","B. 7,54 dan 6,84","C. 8,14 dan 11,36","D. 8,64 dan 10,32","E. 9,18 dan 8,41"],
 answer: `E. 9,18 dan 8,41`,
 explanation:`<p>Indeks polaritas campuran fase gerak.</p><p>Diketahui:</p><ol><li>Indeks polaritas metanol adalah 5,1;</li><li>Indeks polaritas air adalah 10,2.</li></ol><p>Indeks polaritas campurannya adalah sebagai berikut:</p><p> <img src="assets/1J5TO1.png"></img></p>`,
-expImg:`1J5TO1.png`
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -577,7 +577,7 @@ img:``,
 options:["A. 30 μg","B. 450 μg","C. 700 μg","D. 45.000 μg","E. 70.000 μg"],
 answer: `E. 70.000 μg`,
 explanation:`<p>Diketahui: </p><p><img src="assets/2J5TO1.png"></img></p>`,
-expImg:`2J5TO1.png`
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -587,7 +587,7 @@ img:``,
 options:["A. Argentometri","B. Iodometri","C. Nitrimetri","D. Kompleksometri","E. Nitrimetri"],
 answer: `E. Nitrimetri`,
 explanation:`<p>Prinsip nitrimetri yaitu <span style="background-color: #ffff00;">reaksi diazotasi</span> terbentuknya garam diazonium oleh reaksi senyawa amin primer aromatis atau alifatik dengan asam nitrit dalam <span style="background-color: #ffff00;">lingkungan asam</span> pada suhu rendah atau didinginkan. Karena asam nitrit tidak stabil, maka digunakan <span style="background-color: #ffff00;">garamnya NaNO<sub>2</sub></span> (Khopar, 1990).</p><p> </p><p><strong>Referensi:</strong></p><p>Khophar. 1990. Konsep Dasar Kimia Analitik. Universitas Indonesia, Jakarta.</p>`,
-expImg:`3J5TO1.png`
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -597,17 +597,17 @@ img:``,
 options:["A. Membersihkan kolom sebelum digunakan kembali","B. Mengencerkan larutan sampel","C. Mengganti jenis fase diam","D. Menurunkan laju alir dan volume injeksi","E. Menurunkan pH fase gerak"],
 answer: `D. Menurunkan laju alir dan volume injeksi`,
 explanation:`<p><strong>Perhatikan ringkasan berikut:</strong></p><p><img src="assets/4J5TO1.png"></img></p>`,
-expImg:`4J5TO1.png`
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`<p><img src="assets/3S5TO1.png"></img></p><p>Analis QC mikrobiologi PT. Nitro Pharmaceutical, melakukan identifikasi <em>Pseudomonas aeruginosa </em>menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media. Media apakah yang digunakan untuk pertumbuhan bakteri tersebut?</p>`,
+question:`<p><img src="assets/3S5TO1.png"></img></p><p>Analis QC mikrobiologi PT. Nitro Pharmaceutical, melakukan identifikasi <em>Pseudomonas aeruginosa</em>menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media. Media apakah yang digunakan untuk pertumbuhan bakteri tersebut?</p>`,
 img:``,
 options:["A. <i>Cetrimide agar</i>","B. <i>Eosin methylene blue agar</i>","C. <i>Mannitol salt agar</i>","D. <i>Mueller Hinton agar</i>","E. <i>Xylose lysine deoxycholate agar</i>"],
 answer: `A. <i>Cetrimide agar</i>`,
 explanation:`<p><strong>Cetrimide Agar</strong> merupakan media selektif sekaligus diferensial yang digunakan untuk mengisolasi dan mengidentifikasi <em>Pseudomonas aeruginosa</em> dari berbagai spesimen, baik yang berasal dari sumber klinis maupun nonklinis. Selektivitas media ini berasal dari kandungan <strong>cetrimide</strong> (cetyltrimethylammonium bromide), yaitu deterjen kationik golongan amonium kuarterner yang mampu menghambat pertumbuhan sebagian besar bakteri selain <strong>P. aeruginosa</strong>. Media ini juga dikenal dengan nama <strong>Pseudomonas Cetrimide Agar</strong> atau <strong>Pseudosel Agar</strong>.</p><p> </p><p><strong>Referensi:</strong></p><p>Aryal, S., 2022. Cetrimide Agar: Composition, Principle, Uses, Preparation and Colony Morphology. Microbiology Info. Available at: <em>https://microbiologyinfo.com/cetrimide-agar-composition-principle-uses-preparation-and-colony-morphology/</em> [Accessed 4 July 2026].</p>`,
-expImg:`3S5TO1.png`
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -616,9 +616,8 @@ question:`Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan pene
 img:``,
 options:["A. Memenuhi syarat dengan kadar 98,92%","B. Memenuhi syarat dengan kadar 99,93%","C. Memenuhi syarat dengan kadar 100,14%","D. Tidak memenuhi syarat dengan kadar 95,67%","E. Tidak memenuhi syarat dengan kadar 97,79%"],
 answer: `A. Memenuhi syarat dengan kadar 98,92%`,
-explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/6J5TO1.1.png" alt="" /></p><p>Volume pentiter         : 11,25 mL</p><p>N aktual, N pentiter   : 0,1 N</p><p>Kesetaraan pentiter   : 263,79 mg/meq</p><p>Massa sampel           : 300 mg</p><p>Persyaratan kadar dequalinium klorida  menurut farmakope adalah 98,0–102,0%</p><p><strong>Jawab:</strong></p><p><img src="assets/6J5TO1.2.png" alt="" /></p>`,
-expImg:`6J5TO1.1.png
-6J5TO1.2.png`
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/6J5TO1.1.png" alt="" /></p><p>Volume pentiter : 11,25 mL</p><p>N aktual, N pentiter: 0,1 N</p><p>Kesetaraan pentiter: 263,79 mg/meq</p><p>Massa sampel : 300 mg</p><p>Persyaratan kadar dequalinium klorida  menurut farmakope adalah 98,0–102,0%</p><p><strong>Jawab:</strong></p><p><img src="assets/6J5TO1.2.png" alt="" /></p>`,
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -627,9 +626,8 @@ question:`Analis di laboratorium obat BBPOM Bandung melakukan penetapan kadar am
 img:``,
 options:["A. 60,16%","B. 70,08%","C. 87,37%","D. 90,24%","E. 100,08%"],
 answer: `C. 87,37%`,
-explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/7J5TO1.1.png" alt="" /></p><p>Volume pentiter         : 6,0 mL</p><p>N aktual                    : 0,1 N</p><p>N pentiter                  : 0,109 N</p><p>Kesetaraan pentiter    : 33,4 mg</p><p>Massa sampel            : 250 mg</p><p><strong>Jawab:</strong></p><p><img src="assets/7J5TO1.2.png" alt="" /></p>`,
-expImg:`7J5TO1.1.png
-7J5TO1.2.png`
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/7J5TO1.1.png" alt="" /></p><p>Volume pentiter : 6,0 mL</p><p>N aktual : 0,1 N</p><p>N pentiter : 0,109 N</p><p>Kesetaraan pentiter : 33,4 mg</p><p>Massa sampel : 250 mg</p><p><strong>Jawab:</strong></p><p><img src="assets/7J5TO1.2.png" alt="" /></p>`,
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -638,9 +636,8 @@ question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetap
 img:``,
 options:["A. 50,72%","B. 66,64%","C. 78,32%","D. 87,64%","E. 97,92%"],
 answer: `E. 97,92%`,
-explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/8J5TO1.1.png" alt="" /></p><p>Volume pentiter           : 8,98 mL</p><p>Volume blanko             : 0,12 mL</p><p>N aktual                      : 0,1 N</p><p>N pentiter                   : 0,0992 N</p><p>Kesetaraan pentiter     : 33,424 mg</p><p>Massa sampel              : 300 mg</p><p><strong>Jawab:</strong></p><p><img src="assets/8J5TO1.2.png" alt="" /></p>`,
-expImg:`8J5TO1.1.png
-8J5TO1.2.png`
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/8J5TO1.1.png" alt="" /></p><p>Volume pentiter : 8,98 mL</p><p>Volume blanko : 0,12 mL</p><p>N aktual : 0,1 N</p><p>N pentiter : 0,0992 N</p><p>Kesetaraan pentiter : 33,424 mg</p><p>Massa sampel : 300 mg</p><p><strong>Jawab:</strong></p><p><img src="assets/8J5TO1.2.png" alt="" /></p>`,
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -649,9 +646,8 @@ question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk.,  melakukan peneta
 img:``,
 options:["A. 60,44%","B. 72,31%","C. 80,17%","D. 84,26%","E. 90,16%"],
 answer: `C. 80,17%`,
-explanation:`<p>Diketahui:</p><p><img src="assets/1J5TO2.1.png"></img></p><p> </p><p>Volume NaOH                                      : 20,0 mL</p><p>Volume pentiter kelebihan NaOH    : 11,1</p><p>N aktual, N pentiter                            : 0,5 N</p><p>Kesetaraan pentiter                            : 45,04 mg</p><p>Massa sampel                                      : 500 mg</p><p>Jawab:</p><p><img src="assets/1J5TO2.2.png"></img></p>`,
-expImg:`1J5TO2.1.png
-1J5TO2.2.png`
+explanation:`<p>Diketahui:</p><img src="assets/1J5TO2.1.png"></img><p>Volume NaOH:  20,0 mL</p><p>Volume pentiter kelebihan NaOH : 11,1</p><p>N aktual, N pentiter : 0,5 N</p><p>Kesetaraan pentiter : 45,04 mg</p><p>Massa sampel : 500 mg</p><p>Jawab:</p><p><img src="assets/1J5TO2.2.png"></img></p>`,
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -661,8 +657,7 @@ img:``,
 options:["A. Memenuhi syarat dengan nilai 9,9 × 10<sup>⁴</sup> CFU/g","B. Memenuhi syarat dengan nilai 6,8 × 10<sup>⁵</sup> CFU/g","C. Memenuhi syarat dengan nilai 4,4 × 10<sup>⁶</sup> CFU/g","D. Tidak memenuhi syarat dengan nilai 2,38 × 10<sup>³</sup> CFU/g","E. Tidak memenuhi syarat dengan nilai 1,475 × 10<sup>⁴</sup> CFU/g"],
 answer: `C. Memenuhi syarat dengan nilai 4,4 × 10<sup>⁶</sup> CFU/g`,
 explanation:`<p>Persyaratan untuk jumlah koloni pada pengujian AKK adalah <50 koloni, maka dipilih cawan dengan hasil pengenceran 10<sup>-5</sup>. Kemudian dilakukan perhitungan sebagai berikut:</p><p><img src="assets/2J5TO2.png"></img></p>`,
-expImg:`2S5TO2.png
-2J5TO2.png`
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -672,8 +667,7 @@ img:``,
 options:["A. Puncak A","B. Puncak B","C. Puncak C","D. Puncak D","E. Puncak E"],
 answer: `E. Puncak E`,
 explanation:`<p>Fase gerak yang digunakan adalah metanol:amonium asetat (70:30), fase gerak yang bersifat polar. Sedangkan fase diam yang digunakan adalah kolom C-18, merupakan kolom yang bersifat nonpolar. Maka senyawa yang akan terelusi terlebih dahulu adalah senyawa yang bersifat polar yang kemudiaan diikuti oleh senyawa yang Tingkat polaritas nya lebih rendah.<br /><img src="assets/3J5TO2.png"></img><br />Dapat terlihat bahwa urutan polaritas senyawa dilihat dari atom penyusunnya yang memiliki pasangan elektron bebas (PEB) adalah sebagai berikut:</p><p><strong>Polar -&gt; sedikit kurang polar</strong>;</p><p>Amoxicilin -> Paracetamol -> Lansoprazole -> Levofloxacin. Sehingga senyawa Levofloxacin dapat ditunjukkan oleh Puncak E. </p>`,
-expImg:`3S5TO2.png
-3J5TO2.png`
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -683,18 +677,17 @@ img:``,
 options:["A. 30,029%","B. 31,043%","C. 32,035%","D. 33,067%","E. 34,017%"],
 answer: `A. 30,029%`,
 explanation:`<p>Campuran 1: NaCl + Na2SO4 yang diendapkan menggunakan AgNO3.<br />Maka reaksi yang terjadi terhadap cuplikan NaCl adalah:<br />AgNO3+NaCl→AgCl↓+NaNO3;<br />a. Berat endapan AgCl adalah 0,7033 g;<br />b. Berat endapan sampel Adalah 0,953 g.</p><p><p><img src="assets/4J5TO2.png"></img></p></p>`,
-expImg:`4J5TO2.png`
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`<p>Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan pengujian rotasi optis larutan cefixime trihydrate menggunakan polarimeter. Diketahui rotasi jenis larutan adalah +0,73<sup>°</sup>, panjang tabung pengamatan 75 cm, dan konsentrasi larutan 0,87 g/mL. Berapakah rotasi optis yang terukur?</p>`,
+question:`<p>Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan pengujian rotasi optis larutan cefixime trihydrate menggunakan polarimeter. Diketahui rotasi jenis larutan adalah +0,73, panjang tabung pengamatan 75 cm, dan konsentrasi larutan 0,87 g/mL. Berapakah rotasi optis yang terukur?</p>`,
 img:``,
-options:["A. 3,251°","B. 4,763°","C. 0,565°","D. 5,679°","E. 0,793°"],
-answer: `E. 4,763°`,
-explanation:`<p><strong>Diketahui:</strong></p><p>Rumus rotasi jenis:<br /><img src="assets/5J5TO2.1.png" alt="" /></p><p>Rotasi jenis : +0,73°<br />Panjang jalan cahaya dalam desimeter : 75 cm konversi ke dm = 7,5 dm<br />Konsentrasi sampel : 0,87 g/mL</p><p><strong>Jawab:</strong></p><p><img src="assets/5J5TO2.2.png" alt="" /></p>`,
-expImg:`5J5TO2.1.png
-5J5TO2.2.png`
+options:["A. 3,251","B. 4,763","C. 0,565","D. 5,679","E. 0,793"],
+answer: `E. 4,763`,
+explanation:`<p><strong>Diketahui:</strong></p><p>Rumus rotasi jenis:<br /><img src="assets/5J5TO2.1.png" alt="" /></p><p>Rotasi jenis : +0,73<br />Panjang jalan cahaya dalam desimeter : 75 cm konversi ke dm = 7,5 dm<br />Konsentrasi sampel : 0,87 g/mL</p><p><strong>Jawab:</strong></p><p><img src="assets/5J5TO2.2.png" alt="" /></p>`,
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -703,10 +696,8 @@ question:`Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan pene
 img:``,
 options:["A. 90,01%","B. 93,42%","C. 96,78%","D. 99,51%","E. 106,63%"],
 answer: `E. 106,63%`,
-explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/6J5TO2.1.png"></img></p><p>Langkah 1: Tentukan Konsentrasi (ppm)</p><p>Y = 21,375 x - 782</p><p>Y = AUC = 765</p><p>765 = 21,375 x - 782</p><p> (y)…….(b)………(a)</p><p><strong>Langkah 2: Tentukan massa API (ppm) </strong></p><p>Massa terkandung (mg) = ppm x Vol (L)</p><p>Massa terkandung (mg) = 72,51 ppm x 50 x 0,25 L = 906,4 mg</p><p><img src="assets/6J5TO2.3.png"></img></p>`,
-expImg:`6J5TO2.1.png
-6J5TO2.2.png
-6J5TO2.3.png`
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/6J5TO2.1.png"></img></p><p>Langkah 1: Tentukan Konsentrasi (ppm)</p><p>Y = 21,375 x - 782</p><p>Y = AUC = 765</p><p>765 = 21,375 x - 782</p><p> (y)…….(b)………(a)</p><p><strong>Langkah 2: Tentukan massa API (ppm) </strong></p><p>Massa terkandung (mg) = ppm x Vol (L)</p><p>Massa terkandung (mg) = 72,51 ppm x 50 x 0,25 L = 906,4 mg</p><p><img src="assets/6J5TO2.2.png"></img></p>`,
+expImg:`6J5TO2.3.png`
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -715,9 +706,8 @@ question:`Analis di laboratorium OTSKK BBPOM melakukan penetapan kadar asam asko
 img:``,
 options:["A. 24,56%","B. 57,76%","C. 98,02%","D. 99,78%","E. 102,41%"],
 answer: `E. 102,41%`,
-explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/7J5TO2.1.jpeg"></img></p><p><br />N pentiter                : 0,0998 N<br />V pentiter                : 5,26 mL<br />Be sampel               : BM/Valensi = 176, 12/2 = 88,06<br />Massa sampel          : 50 mg<br />Kadar pada label      : 650 mg<br />Bobot rata-rata obat : 720 mg<br /><br /><strong>Jawab:</strong></p><p><img src="assets/7J5TO2.2.png"></img></p>`,
-expImg:`7J5TO2.1.jpeg
-7J5TO2.2.png`
+explanation:`<p><strong>Diketahui:</strong></p><p><img src="assets/7J5TO2.1.jpeg"></img></p><p><br />N pentiter : 0,0998 N<br />V pentiter : 5,26 mL<br />Be sampel:  BM/Valensi = 176, 12/2 = 88,06<br />Massa sampel : 50 mg<br />Kadar pada label : 650 mg<br />Bobot rata-rata obat : 720 mg<br /><br /><strong>Jawab:</strong></p><p><img src="assets/7J5TO2.2.png"></img></p>`,
+expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
@@ -727,9 +717,7 @@ img:``,
 options:["A. 79,14%","B. 88,54%","C. 99,92%","D. 100,27%","E. 106,63%"],
 answer: `C. 99,92%`,
 explanation:`<p><strong>Diketahui:</strong></p><p>Persamaan linier:</p><p><img src="assets/6J5TO2.1.png"></img></p><p><p>Langkah 1: Tentukan Konsentrasi (ppm)</p><p>Y = -254,21x + 15,212<br />Y = Diameter hambat = 15,78<br />17,391 = -284,27x + 17,165<br /> (y)…….(b)……...…(a)</p><p><img src="assets/8J5TO2.1.png"></img></p><p><p>Langkah 2: Hitung dosis (ppm) &lt;/b&gt;<br />Dosis = x = Ln Dosis</p><p><img src="assets/8J5TO2.2.png"></img></p><p><img src="assets/8J5TO2.3.png"></img></p>`,
-expImg:`8J5TO2.1.png
-8J5TO2.2.png
-8J5TO2.3.png`
+expImg:``
 },
 {
 category:`Farmakoekonomi`,
@@ -738,15 +726,15 @@ question:`Seorang Apoteker di laboratorium BPOM menemukan senyawa Aniline (PhNH2
 img:``,
 options:["A. 0,16% dan terabsorpsi dengan baik","B. 0,16% dan terabsorpsi dengan buruk","C. 6,31% dan terabsorpsi dengan baik","D. 6,31% dan terabsorpsi dengan buruk","E. 15,95% dan terabsorpsi dengan baik"],
 answer: `A. 0,16% dan terabsorpsi dengan baik`,
-explanation:`Pertama, kita menentukan berapa perbandingan jumlah anilin yang terion dan yang tidak terion dengan persamaan Henderson-Hasselbalch.<br><br><img src="assets/1TO1M6001.png"></img><br><br>Bentuk desimal 0,00158489 dapat diubah menjadi perbandingan 0,16/100. Ini berarti, 100 bagian tak terion (PhNH2) memiliki kesetaraan dengan 0,16 bagian terion (PhNH3+). Maka, persentase ionisasi aniline pada tubuh manusia adalah 0,16%. Karena % ionisasi pada tubuh manusia kecil, yaitu hampir 0%, maka Aniline terabsorpsi dengan baik di dalam tubuh manusia.<br><br><b>Referensi:</b><br>Remington: The Science and Practice of Pharmacy, 21st edition, chapter 17 & 25`,
-expImg:`TO1M6001.png`
+explanation:`Pertama, kita menentukan berapa perbandingan jumlah anilin yang terion dan yang tidak terion dengan persamaan Henderson-Hasselbalch.<img src="assets/1TO1M6001.png"></img>Bentuk desimal 0,00158489 dapat diubah menjadi perbandingan 0,16/100. Ini berarti, 100 bagian tak terion (PhNH2) memiliki kesetaraan dengan 0,16 bagian terion (PhNH3+). Maka, persentase ionisasi aniline pada tubuh manusia adalah 0,16%. Karena % ionisasi pada tubuh manusia kecil, yaitu hampir 0%, maka Aniline terabsorpsi dengan baik di dalam tubuh manusia.<br><br><b>Referensi:</b><br>Remington: The Science and Practice of Pharmacy, 21st edition, chapter 17 & 25<img src="assets/Rep_M6_01.png"></img><img src="assets/Rep_M6_02.png"></img>`,
+expImg:``
 },
 {
 category:`Farmasi Kimia`,
 level:`Hard`,
 question:`Pada pertengahan abad ke-20, Thalidomide dipasarkan sebagai campuran rasemat untuk mengatasi morning sickness pada wanita hamil. Penggunaan obat ini kemudian ditarik dari pasaran karena memicu tragedi kelahiran bayi dengan kelainan bawaan focomelia yang disebabkan oleh sifat stereoisomer obat tersebut di dalam tubuh. Bagaimanakah karakteristik farmakologi dari isomer obat tersebut?`,
 img:`TO1M6002.png`,
-options:["a. Kedua enantiomer (R) dan (S) memiliki efek toksik","b. Enantiomer (R) memiliki efek teratogenik dan enantiomer (S) memiliki efek terapetik","c. Enantiomer (R) bertindak sebagai eutomer dan enantiomer (S) bertindak sebagai distomer","d. Thalidomide sebaiknya diberikan hanya dalam bentuk enantiomer (R) murni saja.","e. Thalidomide sebaiknya diberikan hanya dalam bentuk enantiomer (S) murni saja."],
+options:["A. Kedua enantiomer (R) dan (S) memiliki efek toksik","B. Enantiomer (R) memiliki efek teratogenik dan enantiomer (S) memiliki efek terapetik","C. Enantiomer (R) bertindak sebagai eutomer dan enantiomer (S) bertindak sebagai distomer","D. Thalidomide sebaiknya diberikan hanya dalam bentuk enantiomer (R) murni saja.","E. Thalidomide sebaiknya diberikan hanya dalam bentuk enantiomer (S) murni saja."],
 answer: `C. Enantiomer (R) bertindak sebagai eutomer dan enantiomer (S) bertindak sebagai distomer`,
 explanation:`Sediaan Thalidomide pada masa itu adalah merupakan campuran rasemat, yaitu (R)-Thalidomide dan (S)-Thalidomide. Enantiomer (isomer) (R) memiliki efek sedatif, tetapi enantiomer (S) memiliki efek teratogenik. Enantiomer yang memberikan efek terapetik disebut eutomer, sedangkan enantiomer yang memberikan efek yang tidak diinginkan atau toksik disebut distomer. Dengan demikian:<br><br>Enantiomer (R) berperan sebagai eutomer DAN Enantiomer (S) berperan sebagai distomer<br><br>Selain itu, sumber menyebutkan bahwa pemberian enantiomer (R) murni tidak dapat mengatasi masalah teratogenik pada obat Thalidomide karena di dalam tubuh akan mengalami racemisation in vivo yang dapat menghasilkan campuran rasemat 50/50 kembali di pembuluh darah.<br><br><b>Referensi:</b><br>Donald of pharmaceutical chemistry, 4th edition, Chapter 4`,
 expImg:`TO1M6003.png`
@@ -756,27 +744,27 @@ category:`Farmasi Kimia`,
 level:`Easy`,
 question:`Seorang Apoteker di bagian Penelitian dan Pengembangan sebuah industri farmasi sedang merancang formula sediaan suspensi oral kloramfenikol. Apoteker memutuskan menggunakan bentuk garam ester sintetis berupa kloramfenikol palmitat seperti pada gambar. Apakah tujuan utama dari modifikasi struktur molekul obat tersebut? (UKMPPAI FEBRUARI 2025)`,
 img:`TO1M6004.png`,
-options:["a. Untuk meningkatkan kelarutan obat di dalam tubuh","b. Untuk meningkatkan stabilitas obat","c. Untuk mempercepat onset obat sehingga bekerja lebih cepat","d. Untuk memperpanjang efek obat (duration of drug’s action)","e. Untuk menutupi rasa pahit obat"],
-answer: `e. Untuk menutupi rasa pahit obat`,
+options:["A. Untuk meningkatkan kelarutan obat di dalam tubuh","B. Untuk meningkatkan stabilitas obat","C. Untuk mempercepat onset obat sehingga bekerja lebih cepat","D. Untuk memperpanjang efek obat (duration of drug’s action)","E. Untuk menutupi rasa pahit obat"],
+answer: `E. Untuk menutupi rasa pahit obat`,
 explanation:`Ada 3 bentuk Chloramphenicol yang beredar di pasaran, yaitu Chloramphenicol (Chloromycetin), Chloramphenicol Hemisuccinate (Succinate atau Sodium Succinate), dan Chloramphenicol Palmitate.<br><br>1. Chloramphenicol = bentuk murni/aktif, biasanya ada dalam sediaan tetes mata.<br>2. Chloramphenicol Hemisuccinate = dibuat untuk meningkatkan kelarutan Chloramphenicol dalam air, biasanya ada dalam sediaan Injeksi.<br>3. Chloramphenicol Palmitate = dibuat untuk menutupi rasa pahit. <br><br>Rantai C yang panjang membuatnya tidak larut di mulut sehingga rasanya jadi tasteless.<br><br><b>Referensi:</b><br>Foye's principles of medicinal chemistry, 7th edition, Chapter 33.`,
 expImg:`TO1M6005.png`
 },
 {
 category:`Farmasi Kimia`,
 level:`Medium`,
-question:`Seorang apoteker di bagian penelitian dan pengembangan sebuah industri farmasi sedang menganalisis modifikasi struktur antibiotik beta-laktam untuk sediaan oral. Berdasarkan data stabilitas, amoxicillin terbukti jauh lebih stabil terhadap degradasi asam lambung dibandingkan benzylpenicillin, seperti ditunjukkan pada gambar berikut: <br><br><img src="assets/TO1M6006.png"></img><br><br>Apakah gugus fungsi yang berperan dalam meningkatkan stabilitas terhadap asam tersebut?`,
+question:`Seorang apoteker di bagian penelitian dan pengembangan sebuah industri farmasi sedang menganalisis modifikasi struktur antibiotik beta-laktam untuk sediaan oral. Berdasarkan data stabilitas, amoxicillin terbukti jauh lebih stabil terhadap degradasi asam lambung dibandingkan benzylpenicillin, seperti ditunjukkan pada gambar berikut: <img src="assets/TO1M6006.png"></img>Apakah gugus fungsi yang berperan dalam meningkatkan stabilitas terhadap asam tersebut?`,
 img:``,
-options:["a. Karbonil","b. Karboksilat","c. Amina","d. Amida","e. Fenol"],
+options:["A. Karbonil","B. Karboksilat","C. Amina","D. Amida","E. Fenol"],
 answer: `C. Amina`,
-explanation:`Gugus Amina (NH2) pada rantai acyl dapat meningkatkan stabilitas amoxicillin pada lingkungan asam. Substitusi rantai R pada Amina Primer di struktur 6-APA menggunakan gugus penarik elektron (EWG; Electron Withdrawing Group) akan mengurangi densitas elektron pada sisi rantai karbonil dan ini dapat menjaga inti penisilin dari degradasi karena asam. Dengan kata lain, EWG dapat mencegah gugus carbonil (C=O) pada sisi acylamino bereaksi dengan gugus carbonil (C=O) pada beta laktam. Dengan demikian, jawaban soal di atas adalah <b>C. Amina.</b><br><br>Sebagai catatan, gugus fenol bukan merupakan gugus utama karena letaknya cukup jauh dari gugus carbonil pada rantai acyl.<br><br><b>Referensi:</b><br>Foye's principles of medicinal chemistry, 7th edition, Chapter 33.`,
-expImg:`TO1M6007.png`
+explanation:`Gugus Amina (NH2) pada rantai acyl dapat meningkatkan stabilitas amoxicillin pada lingkungan asam. Substitusi rantai R pada Amina Primer di struktur 6-APA menggunakan gugus penarik elektron (EWG; Electron Withdrawing Group) akan mengurangi densitas elektron pada sisi rantai karbonil dan ini dapat menjaga inti penisilin dari degradasi karena asam. Dengan kata lain, EWG dapat mencegah gugus carbonil (C=O) pada sisi acylamino bereaksi dengan gugus carbonil (C=O) pada beta laktam. Dengan demikian, jawaban soal di atas adalah <b>C. Amina.</b><br><br>Sebagai catatan, gugus fenol bukan merupakan gugus utama karena letaknya cukup jauh dari gugus carbonil pada rantai acyl.<br><br><b>Referensi:</b><br>1. Foye's principles of medicinal chemistry, 7th edition, Chapter 33.<br>2. March's Advanced Organic Chemistry, 7th edition, Chapter 1.<img src="assets/Rep_M6_03.png"></img>`,
+expImg:`Rep_M6_05.png`
 },
 {
 category:`Farmasi Kimia`,
 level:`Easy`,
-question:`Seorang Apoteker di bagian Penelitian dan Pengembangan sebuah industri farmasi sedang mengevaluasi kegagalan terapi akibat resistensi bakteri Staphylococcus aureus terhadap antibiotik golongan penisilin. Bakteri tersebut diketahui memproduksi enzim beta-laktamase yang mampu menonaktifkan obat melalui reaksi hidrolisis seperti yang ditunjukkan pada gambar berikut:<br><br><img src="assets/TO1M6008.png"></img><br><br>Manakah nomor ikatan kimia pada cincin beta-laktam yang akan terputus akibat reaksi tersebut? `,
+question:`Seorang Apoteker di bagian Penelitian dan Pengembangan sebuah industri farmasi sedang mengevaluasi kegagalan terapi akibat resistensi bakteri Staphylococcus aureus terhadap antibiotik golongan penisilin. Bakteri tersebut diketahui memproduksi enzim beta-laktamase yang mampu menonaktifkan obat melalui reaksi hidrolisis seperti yang ditunjukkan pada gambar berikut:<br><img src="assets/TO1M6008.png"></img><br>Manakah nomor ikatan kimia pada cincin beta-laktam yang akan terputus akibat reaksi tersebut? `,
 img:``,
-options:["a. 1","b. 2","c. 3","d. 4","e. 5"],
+options:["A. 1","B. 2","C. 3","D. 4","E. 5"],
 answer: `b. 2`,
 explanation:`Enzim PBP (Penicillin-binding proteins, contohnya carboxypeptidases, endopeptidases, dan transpeptidases) adalah enzim yang secara normal terdapat di membran dalam bakteri dan menjalankan fungsi konstruksi, perbaikan, dan pemeliharaan dinding sel. B-Laktamase adalah enzim (biasanya serin protease) yang dapat mengkatalisis hidrolisis ikatan B-laktam dan menonaktifkan antibiotik B-laktam menjadi penicilloic acids sebelum dapat berikatan dengan PBP. B-laktamase akan memecah cincin B-laktam tepat pada ikatan C-N (pada label nomor 2) sehingga antibiotik menjadi tidak efektif. Dengan demikian, jawaban di atas adalah <b>B. 2.</b><br><br><b>Referensi:</b><br>Foye's principles of medicinal chemistry, 7th edition, Chapter 33.`,
 expImg:`TO1M6009.png`
@@ -786,17 +774,17 @@ category:`Farmasi Kimia`,
 level:`Hard`,
 question:`Seorang Apoteker di RnD sedang meneliti mengenai struktur obat Gentamisin dan interaksinya terhadap RNA bakteri. Gentamisin adalah salah satu antibiotik yang memiliki aktivitas yang signifikan terhadap infeksi-infeksi yang disebabkan oleh Pseudomonas aeruginosa. Di dalam sel, obat ini berikatan dengan subunit 30S ribosom (16S rRNA) sehingga mengakibatkan misreading mRNA. Manakah bagian struktur gentamisin yang khas dalam mengganggu sintesis protein melalui interaksi dengan rRNA bakteri sehingga menimbulkan efek letal pada sel bakteri? (UKMPPAI AGUSTUS 2024)`,
 img:`1TO1M6002.png`,
-options:["a. 1","b. 2","c. 3","d. 4","e. 5"],
-answer: `c. 3`,
-explanation:`Gentamicin C merupakan perwakilan dari kelas aminoglikosida dan merupakan campuran dari tiga komponen, yaitu gentamicin C1a, C2, dan C1, yang memiliki pola metilasi yang berbeda pada posisi 6 di Ring I. Adapun, gentamisin memiliki 3 cincin, dari kiri atas ke kanan bawah, ring 1, ring 2, dan ring 3. Berikut adalah namanya:<br><br>Ring I = purposamine<br>Ring II = 2-deoxystreptamine<br>Ring III = garosamine<br><br>Struktur khas gentamisin yang dapat berinteraksi dengan RNA ribosom adalah ring III. Ring III (garosamine) berikatan secara spesifik pada A-site dari 16S rRNA yang merupakan bagian dari Subunit Ribosom 30S. Dengan demikian, jawaban yang tepat adalah <b>C. 3.</b> <br><br><b>Referensi:</b><br>Katzung: Basic & Clinical Pharmacology, 12th Edition, Chapter 45.`,
-expImg:`TO1M6011.png`
+options:["A. 1","B. 2","C. 3","D. 4","E. 5"],
+answer: `C. 3`,
+explanation:`Gentamicin C merupakan perwakilan dari kelas aminoglikosida dan merupakan campuran dari tiga komponen, yaitu gentamicin C1a, C2, dan C1, yang memiliki pola metilasi yang berbeda pada posisi 6 di Ring I. Adapun, gentamisin memiliki 3 cincin, dari kiri atas ke kanan bawah, ring 1, ring 2, dan ring 3. Berikut adalah namanya:<br><br>Ring I = purposamine<br>Ring II = 2-deoxystreptamine<br>Ring III = garosamine<br><br>Struktur khas gentamisin yang dapat berinteraksi dengan RNA ribosom adalah ring III. Ring III (garosamine) berikatan secara spesifik pada A-site dari 16S rRNA yang merupakan bagian dari Subunit Ribosom 30S. Dengan demikian, jawaban yang tepat adalah <b>C. 3.</b> <br><br><b>Referensi:</b><br>1. The EMBO Journal (1998, Volume 17, pages 6437–6448): “Structural origins of gentamicin antibiotic action”<br>2. Katzung: Basic & Clinical Pharmacology, 12th Edition, Chapter 45.<br>3. Essentials of Medical Biochemistry: With Clinical Cases,  2nd Edition (2015), Chapter 23`,
+expImg:`Rep_M6_04.png`
 },
 {
 category:`Farmasi Kimia`,
 level:`Medium`,
-question:`Seorang wanita berusia 38 tahun didiagnosis menderita GERD berat yang tidak berespon adekuat dengan terapi omeprazole konvensional. Dokter memutuskan untuk mengganti terapinya dengan esomeprazole karena diketahui memiliki bioavailabilitas yang lebih baik dan supresi asam lambung yang lebih stabil. <br><br><img src="assets/TO1M6012.png"></img><br>Secara kimia medisinal, manakah hubungan stereokimia yang benar mengenai omeprazole dan esomeprazole? (UKMPPAI JUNI 2024)`,
+question:`Seorang wanita berusia 38 tahun didiagnosis menderita GERD berat yang tidak berespon adekuat dengan terapi omeprazole konvensional. Dokter memutuskan untuk mengganti terapinya dengan esomeprazole karena diketahui memiliki bioavailabilitas yang lebih baik dan supresi asam lambung yang lebih stabil. <img src="assets/TO1M6012.png"></img>Secara kimia medisinal, manakah hubungan stereokimia yang benar mengenai omeprazole dan esomeprazole? (UKMPPAI JUNI 2024)`,
 img:``,
-options:["a. Omeprazole adalah enantiomer R, sedangkan esomeprazole adalah enantiomer S.","b. Omeprazole adalah enantiomer S, sedangkan esomeprazole adalah enantiomer R.","c. Esomeprazole adalah campuran rasemat dari enantiomer S dan R omeprazole.","d. Esomeprazole adalah enantiomer S dari omeprazole.","e. Esomeprazole adalah enantiomer R dari omeprazole."],
+options:["A. Omeprazole adalah enantiomer R, sedangkan esomeprazole adalah enantiomer S.","B. Omeprazole adalah enantiomer S, sedangkan esomeprazole adalah enantiomer R.","C. Esomeprazole adalah campuran rasemat dari enantiomer S dan R omeprazole.","D. Esomeprazole adalah enantiomer S dari omeprazole.","E. Esomeprazole adalah enantiomer R dari omeprazole."],
 answer: `d. Esomeprazole adalah enantiomer S dari omeprazole.`,
 explanation:`Esomeprazole adalah enantiomer S dari omeprazole. Jawaban yang tepat adalah yang <b>D.</b><br><br><b>Referensi:</b><br>Katzung: Basic & Clinical Pharmacology, 12th Edition, Chapter 62`,
 expImg:`TO1M6013.png`
@@ -804,20 +792,20 @@ expImg:`TO1M6013.png`
 {
 category:`Farmasi Kimia`,
 level:`Medium`,
-question:`Sebuah tim Research and Development (R&D) di industri farmasi sedang melakukan proyek pengembangan sediaan copy product untuk obat golongan Angiotensin Receptor Blocker (ARB). Dalam salah satu diskusi desain molekul, tim membandingkan struktur lead compound Losartan dengan Valsartan yang dikembangkan menggunakan metode modifikasi struktur berbasis bioisosterisme. Perubahan ini dilakukan untuk memodifikasi rantai samping namun tetap mempertahankan gugus farmakofor esensial yang bertanggung jawab atas aktivitas biologis pada reseptor AT1 (TO UKMPPAI JANUARI 2024)<br><br><img src="assets/TO1M6014.png"></img><br>Berdasarkan struktur molekul pada gambar, manakah pernyataan yang benar mengenai karakteristik kimia medisinal atau hubungan struktur-aktivitas dari kedua bahan baku obat tersebut?`,
+question:`Sebuah tim Research and Development (R&D) di industri farmasi sedang melakukan proyek pengembangan sediaan copy product untuk obat golongan Angiotensin Receptor Blocker (ARB). Dalam salah satu diskusi desain molekul, tim membandingkan struktur lead compound Losartan dengan Valsartan yang dikembangkan menggunakan metode modifikasi struktur berbasis bioisosterisme. Perubahan ini dilakukan untuk memodifikasi rantai samping namun tetap mempertahankan gugus farmakofor esensial yang bertanggung jawab atas aktivitas biologis pada reseptor AT1 (TO UKMPPAI JANUARI 2024)<img src="assets/TO1M6014.png"></img>Berdasarkan struktur molekul pada gambar, manakah pernyataan yang benar mengenai karakteristik kimia medisinal atau hubungan struktur-aktivitas dari kedua bahan baku obat tersebut?`,
 img:``,
-options:["a. Valsartan merupakan prodrug sehingga waktu paruhnya lebih lama dibanding losartan.","b. Losartan merupakan prodrug sehingga waktu paruhnya lebih lama dibanding valsartan.","c. Gugus nitrogen pada cincin imidazol Losartan berfungsi sebagai pemberi (donor) ikatan hidrogen, sedangkan karbonil pada Valsartan berfungsi sebagai penerima (acceptor).","d. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang sama","e. Struktur cincin imidazole pada losartan menyebabkan afinitasnya dengan reseptor AT1 lebih besar dibanding valsartan."],
-answer: `d. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang sama`,
-explanation:`Fakta tentang losartan dan valsartan:<br><br>1. Valsartan bukan prodrug. → A salah<br>2. Losartan adalah prodrug yang nantinya akan dimetabolisme menjadi metabolit aktif (EXP 3174). Waktu paruh losartan (2,5 jam) lebih cepat dibanding valsartan (9 jam). → B Salah<br>3. Fungsi gugus imidazole (pada losartan) dan karbonil (pada valsartan) sama-sama berfungsi sebagai penerima ikatan hidrogen/hydrogen bond acceptor. → C Salah<br>4. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang identik / tidak berbeda. → <b> D Benar </b><br>5. Afinitas valsartan = EXP 3174 > losartan. → E Salah<br><br><b>Referensi:</b><br>Foye's principles of medicinal chemistry, 7th edition, Chapter 23.`,
-expImg:`TO1M6015.png`
+options:["A. Valsartan merupakan prodrug sehingga waktu paruhnya lebih lama dibanding losartan.","B. Losartan merupakan prodrug sehingga waktu paruhnya lebih lama dibanding valsartan.","C. Gugus nitrogen pada cincin imidazol Losartan berfungsi sebagai pemberi (donor) ikatan hidrogen, sedangkan karbonil pada Valsartan berfungsi sebagai penerima (acceptor).","D. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang sama","E. Struktur cincin imidazole pada losartan menyebabkan afinitasnya dengan reseptor AT1 lebih besar dibanding valsartan."],
+answer: `D. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang sama`,
+explanation:`Fakta tentang losartan dan valsartan:<br><br>1. Valsartan bukan prodrug. → A salah<br>2. Losartan adalah prodrug yang nantinya akan dimetabolisme menjadi metabolit aktif (EXP 3174). Waktu paruh losartan (2,5 jam) lebih cepat dibanding valsartan (9 jam). → B Salah<br>3. Fungsi gugus imidazole (pada losartan) dan karbonil (pada valsartan) sama-sama berfungsi sebagai penerima ikatan hidrogen/hydrogen bond acceptor. → C Salah<br>4. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang identik / tidak berbeda. → <b> D Benar </b><br>5. Afinitas valsartan = EXP 3174 > losartan. → E Salah<br><br><b>Referensi:</b><br>1. Goodman & Gilman's Manual of Pharmacology and Therapeutics, 1st ed, 2008, Chapter 30.<br>2. Foye's principles of medicinal chemistry, 7th edition, Chapter 23 & 26<br>3. The Practice of Medicinal Chemistry. 4th ed (2015), Chapter 12.<img src="assets/Rep_M6_06.png"></img><img src="assets/Rep_M6_07.png"></img><img src="assets/Rep_M6_08.png"></img>`,
+expImg:``
 },
 {
 category:`Farmasi Kimia`,
 level:`Easy`,
-question:`Bagian Quality Control (QC) di industri farmasi sedang melakukan pengujian kemurnian bahan baku gliseron dan propilen glikol yang akan digunakan sebagai kosolven sediaan sirup. Berdasarkan regulasi pasca-kasus cemaran, industri harus memastikan tidak adanya cemaran etilen glikol (Ethylene Glycol). Apoteker di bagian pemastian mutu meninjau bahwa etilen glikol sangat dihindari karena jika masuk ke dalam tubuh, senyawa ini akan mengalami biotransformasi fase I oleh enzim Alcohol Dehydrogenase (ADH) membentuk senyawa antara aldehid, hingga akhirnya menjadi asam oksalat (Oxalic Acid) yang memicu gagal ginjal akut.<br><br><img src="assets/TO1M6016.png"></img><br>Berdasarkan skema jalur metabolisme pada gambar, jenis reaksi kimia utama yang terjadi pada perubahan struktur Ethylene Glycol hingga menjadi Oxalic Acid adalah?`,
+question:`Bagian Quality Control (QC) di industri farmasi sedang melakukan pengujian kemurnian bahan baku gliseron dan propilen glikol yang akan digunakan sebagai kosolven sediaan sirup. Berdasarkan regulasi pasca-kasus cemaran, industri harus memastikan tidak adanya cemaran etilen glikol (Ethylene Glycol). Apoteker di bagian pemastian mutu meninjau bahwa etilen glikol sangat dihindari karena jika masuk ke dalam tubuh, senyawa ini akan mengalami biotransformasi fase I oleh enzim Alcohol Dehydrogenase (ADH) membentuk senyawa antara aldehid, hingga akhirnya menjadi asam oksalat (Oxalic Acid) yang memicu gagal ginjal akut.<img src="assets/TO1M6016.png"></img>Berdasarkan skema jalur metabolisme pada gambar, jenis reaksi kimia utama yang terjadi pada perubahan struktur Ethylene Glycol hingga menjadi Oxalic Acid adalah?`,
 img:``,
-options:["a. Reduksi","b. Oksidasi","c. Substitusi","d. Hidrolisis","e. Eliminasi"],
-answer: `b. Oksidasi`,
+options:["A. Reduksi","B. Oksidasi","C. Substitusi","D. Hidrolisis","E. Eliminasi"],
+answer: `B. Oksidasi`,
 explanation:`Berikut adalah penjelasan mengenai masing-masing reaksi kimia:<br><br>1. Reduksi adalah pengurangan oksigen, atau penambahan hidrogen/elektron.<br>2. Oksidasi adalah penambahan oksigen, atau pengurangan hidrogen/elektron. <b>(Jawaban yang benar)</b>.<br>3. Substitusi adalah penggantian gugus dengan gugus yang lain.<br>4. Hidrolisis adalah pemutusan ikatan kimia melalui reaksi dengan air.<br>5. Eliminasi adalah reaksi yang terjadi ketika dua gugus terlepas dari atom-atom yang berdekatan sehingga terbentuk ikatan ganda.<br>Pada metabolisme ethylene glycol menjadi oxalic acid, terjadi penambahan atom oksigen.<br><br><b>Referensi:</b><br>Donald Cains: Essentials of pharmaceutical chemistry, 4th edition, Chapter 6`,
 expImg:`TO1M6017.png`
 },
@@ -826,18 +814,18 @@ category:`Farmasi Kimia`,
 level:`Medium`,
 question:`Sebuah industri farmasi sedang mengembangkan formula sediaan emulsi tipe M/A yang menggunakan minyak sebagai zat pembawa (vehicle). Pada sediaan uji stabilitas dipercepat (accelerated stability test), apoteker di bagian R&D mengamati adanya penurunan kualitas sediaan berupa ketengikan (rancidity) akibat terjadinya reaksi autooksidasi radikal bebas pada komponen asam lemak eksipien minyak tersebut. Untuk mengatasinya, apoteker harus mengevaluasi jenis asam lemak penyusun minyak pembawa yang digunakan. Manakah kandungan asam pada minyak yang paling rentan mengalami kerusakan akibat reaksi oksidasi sehingga membutuhkan perhatian khusus dalam formulasi tersebut?`,
 img:``,
-options:["a. Asam oleat","b. Asam linoleat","c. Asam linolenat","d. Asam stearat","e. Asam palmitat"],
-answer: `c. Asam linolenat`,
+options:["A. Asam oleat","B. Asam linoleat","C. Asam linolenat","D. Asam stearat","E. Asam palmitat"],
+answer: `C. Asam linolenat`,
 explanation:`Senyawa yang mengandung pusat alilik sangat rentan terhadap autooksidasi karena radikal yang terbentuk pada proses oksidasi akan distabilkan oleh resonansi. Proses ini terjadi paling mudah pada karbon yang diapit oleh dua ikatan rangkap dua (doubly allylic H's). Terdapat hierarki kemudahan proses H abstraction: doubly allylic H's > singly allylic H's > dll. Semakin banyak ikatan rangkap, molekul tersebut akan semakin rentan mengalami oksidasi. Asam linolenat memiliki 3 ikatan rangkap, sedangkan linoleat (2), dan oleat (1). Asam lemak stearat dan palmitat merupakan asam lemak jenuh. Dengan demikian, jawaban yang tepat adalah <b>C. Asam linolenat.</b> <br><br><b>Referensi:</b><br>Organic chemistry, 2nd ed (2012), chapter 15`,
 expImg:`TO1M6018.png`
 },
 {
 category:`Farmasi Kimia`,
 level:`Easy`,
-question:`Bagian Research and Development (R&D) di sebuah industri farmasi sedang melakukan studi preformulasi untuk membandingkan sifat fisikokimia antara zat aktif Enalaprilate dengan bentuk prodrug-nya, yaitu Enalapril. Pembuatan bentuk prodrug ester etil ini bertujuan untuk meningkatkan lipofilisitas sehingga senyawa lebih mudah diabsorpsi di saluran pencernaan. Apoteker R&D mengonfirmasi bahwa setelah diabsorpsi, gugus fungsi pelindung tersebut harus dipecah secara in vivo oleh bantuan enzim esterase agar melepaskan kembali molekul aktifnya.<br><br><img src="assets/TO1M6019.png"></img><br>Jenis reaksi kimia yang terjadi saat konversi Enalapril menjadi Enalaprilate adalah?`,
+question:`Bagian Research and Development (R&D) di sebuah industri farmasi sedang melakukan studi preformulasi untuk membandingkan sifat fisikokimia antara zat aktif Enalaprilate dengan bentuk prodrug-nya, yaitu Enalapril. Pembuatan bentuk prodrug ester etil ini bertujuan untuk meningkatkan lipofilisitas sehingga senyawa lebih mudah diabsorpsi di saluran pencernaan. Apoteker R&D mengonfirmasi bahwa setelah diabsorpsi, gugus fungsi pelindung tersebut harus dipecah secara in vivo oleh bantuan enzim esterase agar melepaskan kembali molekul aktifnya.<img src="assets/TO1M6019.png"></img>Jenis reaksi kimia yang terjadi saat konversi Enalapril menjadi Enalaprilate adalah?`,
 img:`TO1M6019.png`,
-options:["a. Esterifikasi","b. Oksidasi","c. Reduksi","d. Subtitusi","e. Hidrolisis"],
-answer: `e. Hidrolisis`,
+options:["A. Esterifikasi","B. Oksidasi","C. Reduksi","D. Subtitusi","E. Hidrolisis"],
+answer: `E. Hidrolisis`,
 explanation:`Enalapril mengalami hidrolisis menjadi enalaprilate. Gugus ester pada enalapril terhidrolisis menjadi asam karboksilat melalui pemutusan ikatan kimia yang bereaksi dengan air.<br><br><b>Referensi:</b><br>Donald Cains: Essentials of pharmaceutical chemistry, 4th edition, Chapter 9`,
 expImg:`TO1M6020.png`
 },
@@ -846,28 +834,28 @@ category:`Farmasi Kimia`,
 level:`Easy`,
 question:`Bagian Quality Control (QC) di industri obat tradisional sedang melakukan standardisasi mutu terhadap ekstrak etanol daun kemuning <i>(Murraya paniculata)</i> yang akan digunakan sebagai bahan baku sediaan kapsul herbal. Salah satu parameter spesifik yang diuji adalah menetapkan kadar metabolit sekunder penanda melalui pengujian Total Flavonoid Content (TFC). Apoteker melakukan analisis secara spektrofotometri UV-Vis menggunakan pereaksi spesifik aluminium klorida AlCl<sub>3</sub> untuk memicu pembentukan senyawa kompleks berwarna (chelation) yang stabil pada panjang gelombang maksimum daerah visibel. Gugus fungsi manakah pada struktur inti flavonoid yang bertanggung jawab berinteraksi membentuk kompleks koordinasi dengan ion Al(III) tersebut?`,
 img:``,
-options:["a. Aldehid","b. Amina","c. Karboksil","d. Karboksilat","e. Hidroksil"],
-answer: `e. Hidroksil`,
+options:["A. Aldehid","B. Amina","C. Karboksil","D. Karboksilat","E. Hidroksil"],
+answer: `E. Hidroksil`,
 explanation:`Khelasi ini dapat terjadi berkat adanya gugus oxo (=O) dan hydroxyl (-OH) pada molekul flavonoid, khususnya antara gugus keto C4 (pada cincin kromon) dan salah satu gugus hidroksil pada posisi C3 atau C5. Selain itu, adanya gugus dihidroksil pada cincin A atau B memungkinkan pembentukan acid-labile complexes dengan Al(III). Jawaban yang benar adalah <b>E. Hidroksil</b><br><br><b>Referensi:</b><br>Nicolescu A, et al. Total flavonoid content revised. Anal Biochem. 2025.`,
 expImg:`TO1M6021.png`
 },
 {
 category:`Farmasi Kimia`,
 level:`Easy`,
-question:`Sebuah tim Research and Development (R&D) di industri farmasi sedang merancang sediaan tablet colon-targeted drug delivery system menggunakan bahan aktif Sulfasalazine. Sulfasalazine (Azulfidine) adalah prodrug yang dimetabolisme di dalam tubuh menjadi Sulfapyridine dan 5-ASA. Mikrosom hati mengandung sistem enzim yang mengkatalisis reaksi senyawa azo dan nitro menjadi amina primer. <br><br><img src="assets/TO1M6022.png"></img><br>Jenis reaksi apa yang terjadi?`,
+question:`Sebuah tim Research and Development (R&D) di industri farmasi sedang merancang sediaan tablet colon-targeted drug delivery system menggunakan bahan aktif Sulfasalazine. Sulfasalazine (Azulfidine) adalah prodrug yang dimetabolisme di dalam tubuh menjadi Sulfapyridine dan 5-ASA. Mikrosom hati mengandung sistem enzim yang mengkatalisis reaksi senyawa azo dan nitro menjadi amina primer. <img src="assets/TO1M6022.png"></img>Jenis reaksi apa yang terjadi?`,
 img:``,
-options:["a. Oksidasi","b. Reduksi","c. Adisi","d. Eliminasi","e. Halogenasi"],
-answer: `b. Reduksi`,
+options:["A. Oksidasi","B. Reduksi","C. Adisi","D. Eliminasi","E. Halogenasi"],
+answer: `B. Reduksi`,
 explanation:`Senyawa azo (-N=N-), termasuk Sulfasalazine, diubah menjadi aromatic primary amines oleh azoreductase (sistem enzim NADPH-dependent) yang berada di mikrosom hati sehingga menjadi sulfapyridine dan p-aminosalicylic acid. Tidak hanya azoreductase saja yang dapat mengkatalisis reduksi yang terjadi, tetapi juga flora bakteri pada lingkungan anaerobik di usus. Dengan demikian, reaksi yang terjadi adalah pemutusan dan penambahan hidrogen <b>(reduksi)</b>.<br><br><b>Referensi:</b><br>Foye's principles of medicinal chemistry, 7th edition, Chapter 4.`,
 expImg:`TO1M6023.png`
 },
 {
 category:`Farmasi Kimia`,
 level:`Easy`,
-question:`Bagian Research and Development (R&D) di sebuah industri farmasi sedang melakukan karakterisasi fisikokimia terhadap bahan baku Griseofulvin sebelum diformulasikan menjadi sediaan tablet micronized. Salah satu parameter yang dievaluasi untuk memprediksi permeabilitas membran adalah jumlah donor ikatan hidrogen sesuai dengan hukum Lipinski (Rule of Five). <br><br><img src="assets/TO1M6024.png"></img><br>Berdasarkan struktur molekul Griseofulvin, berapakah jumlah gugus fungsi yang bertindak sebagai donor ikatan hidrogen?`,
+question:`Bagian Research and Development (R&D) di sebuah industri farmasi sedang melakukan karakterisasi fisikokimia terhadap bahan baku Griseofulvin sebelum diformulasikan menjadi sediaan tablet micronized. Salah satu parameter yang dievaluasi untuk memprediksi permeabilitas membran adalah jumlah donor ikatan hidrogen sesuai dengan hukum Lipinski (Rule of Five). <img src="assets/TO1M6024.png"></img>Berdasarkan struktur molekul Griseofulvin, berapakah jumlah gugus fungsi yang bertindak sebagai donor ikatan hidrogen?`,
 img:``,
-options:["a. 0","b. 1","c. 2","d. 4","e. 6"],
-answer: `a. 0`,
+options:["A. 0","B. 1","C. 2","D. 4","E. 6"],
+answer: `A. 0`,
 explanation:`Definisi gugus donor hidrogen (HBD) menurut Lipinski's Rule of Five adalah jumlah total ikatan O-H dan N-H dalam suatu molekul. Suatu atom dikatakan sebagai donor hidrogen apabila ia terikat langsung pada atom hidrogen yang dapat didonorkan. Struktur Griseofulvin hanya memiliki gugus metoksi, karbonil, eter siklik, dan alkil klorida yang semuanya hanya bertindak sebagai akseptor. Karena tidak ada ikatan O-H maupun N-H, maka jumlah <b>HBD = 0</b>.<br><br><b>Referensi:</b><br>Lipinski CA, et al. Experimental and computational approaches to estimate solubility and permeability. 2001.`,
 expImg:``
 },
@@ -876,9 +864,9 @@ category:`Farmasi Kimia`,
 level:``,
 question:`Seorang apoteker di Balai Besar POM melakukan sidak di pasar tradisional dan mengambil sampel ikan asin yang diduga mengandung bahan pengawet berbahaya. Untuk mengidentifikasi adanya kandungan formaldehid, apoteker tersebut mereaksikan filtrat sampel dengan asam sulfat pekat dan senyawa fenolik yang akan menghasilkan warna ungu jika positif. Apakah pereaksi yang dimaksud? (UKAI FEBRUARI 2023)`,
 img:``,
-options:["a. Pereaksi Fehling","b. Pereaksi Marquis","c. FeCl3","d. Pereaksi chromotropic acid","e. Pereaksi Tollens"],
-answer: `d. Pereaksi chromotropic acid`,
-explanation:`Pereaksi yang dimaksud adalah Asam Kromotropat dengan nama IUPAC asam 4,5-dihidroksinaftalen-2,7-disulfonat. Reaksi ini dikenal sebagai Reaksi Eegriwe yang secara spesifik digunakan untuk mengidentifikasi keberadaan formaldehid.<br><br><b>Referensi:</b><br>Dar, A., Shafique, U., Anwar, J., Waheed-uz-Zaman, & Naseer, A. (2016). A simple spot test quantification method to determine formaldehyde in aqueous samples. Journal of Saudi Chemical Society; Standar Nasional Indonesia (SNI) 01-2894-1992 Tentang Cara Uji Bahan Pengawet Makanan dan Bahan Tambahan yang Dilarang Untuk Makanan`,
+options:["A. Pereaksi Fehling","B. Pereaksi Marquis","C. FeCl3","D. Pereaksi chromotropic acid","E. Pereaksi Tollens"],
+answer: `D. Pereaksi chromotropic acid`,
+explanation:`Pereaksi yang dimaksud adalah Asam Kromotropat dengan nama IUPAC asam 4,5-dihidroksinaftalen-2,7-disulfonat. Reaksi ini dikenal sebagai Reaksi Eegriwe yang secara spesifik digunakan untuk mengidentifikasi keberadaan formaldehid.<br><br><b>Referensi:</b><br>1. Dar, A., Shafique, U., Anwar, J., Waheed-uz-Zaman, & Naseer, A. (2016). A simple spot test quantification method to determine formaldehyde in aqueous samples. Journal of Saudi Chemical Society; <br>2. Standar Nasional Indonesia (SNI) 01-2894-1992 Tentang Cara Uji Bahan Pengawet Makanan dan Bahan Tambahan yang Dilarang Untuk Makanan`,
 expImg:``
 },
 {
@@ -886,8 +874,8 @@ category:`Farmasi Kimia`,
 level:`Easy`,
 question:`Di sebuah industri farmasi, seorang apoteker di departemen Quality Control (QC) sedang melakukan pengujian identitas sampel Parasetamol menggunakan instrumen FTIR. Saat melakukan interpretasi spektrum, apoteker tersebut menelaah hubungan struktur kimia dengan sifat fisiko-kimianya. Gugus fungsi manakah dalam struktur Parasetamol yang memberikan kontribusi utama terhadap sifat polar molekul tersebut?`,
 img:`TO1M6025.png`,
-options:["a. Gugus benzena","b. Gugus hidroksi dan amida","c. Gugus metil","d. Gugus karboksilat","e. Gugus Nitrat"],
-answer: `b. Gugus hidroksi dan amida`,
+options:["A. Gugus benzena","B. Gugus hidroksi dan amida","C. Gugus metil","D. Gugus karboksilat","E. Gugus Nitrat"],
+answer: `B. Gugus hidroksi dan amida`,
 explanation:`Parasetamol (N-(4-hidroksifenil) asetamida) memiliki tiga gugus fungsi utama, yaitu hidroksil, amida sekunder, dan cincin benzena. Yang bersifat polar adalah gugus hidroksil (-OH) dan amida sekunder (-NHCOCH3), sedangkan cincin benzena bersifat non-polar.`,
 expImg:``
 },
@@ -898,7 +886,7 @@ question:`Seorang apoteker di bagian QA menerima laporan OOS (Out of Specificati
 img:``,
 options:["A. Magnesium stearat meningkatkan porositas tablet sehingga penetrasi air menjadi lebih lambat.","B. Magnesium stearat yang berlebihan membentuk lapisan hidrofobik pada permukaan granul sehingga menghambat pembasahan dan penetrasi cairan ke dalam tablet.","C. Magnesium stearat meningkatkan daya ikat granul sehingga tablet menjadi lebih keras meskipun hasil uji kekerasan masih memenuhi spesifikasi.","D. Magnesium stearat bereaksi dengan parasetamol membentuk kompleks yang tidak larut sehingga memperpanjang waktu hancur.","E. Magnesium stearat meningkatkan kadar air residu granul sehingga tablet menjadi lebih sulit terdisintegrasi."],
 answer: `B. Magnesium stearat yang berlebihan membentuk lapisan hidrofobik pada permukaan granul sehingga menghambat pembasahan dan penetrasi cairan ke dalam tablet.`,
-explanation:`Penyebab yang paling mungkin adalah penggunaan magnesium stearat yang berlebihan sehingga membentuk lapisan hidrofobik pada permukaan granul. Magnesium stearat merupakan eksipien yang berfungsi sebagai lubrikan untuk mengurangi gesekan selama proses pencetakan tablet. Dalam konsentrasi normal, magnesium stearat membantu proses manufaktur tanpa memengaruhi mutu tablet secara signifikan. Namun, peningkatan konsentrasi dari 0,5% menjadi 3% dapat menyebabkan fenomena overlubrication, yaitu partikel magnesium stearat melapisi permukaan granul dan eksipien lain secara berlebihan.<b>Lapisan hidrofobik tersebut menghambat proses pembasahan (wetting) dan penetrasi medium uji ke dalam pori-pori tablet. Akibatnya, disintegran tidak dapat bekerja secara optimal untuk memecah tablet menjadi partikel-partikel yang lebih kecil. Kondisi ini menyebabkan waktu hancur tablet menjadi lebih lama meskipun parameter lain seperti kadar, keseragaman bobot, friabilitas, dan kekerasan masih memenuhi spesifikasi. Oleh karena itu, akar masalah pada kasus ini bukan berasal dari gaya kompresi atau kadar zat aktif, melainkan dari perubahan konsentrasi eksipien lubrikan yang memengaruhi sifat permukaan tablet.<b>Menurut Handbook of Pharmaceutical Excipients, magnesium stearat merupakan lubrikan hidrofobik yang pada penggunaan berlebih dapat memperlambat disintegrasi dan disolusi tablet. Selain itu, penelitian yang dipublikasikan dalam AAPS PharmSciTech menunjukkan bahwa peningkatan konsentrasi magnesium stearat dapat meningkatkan sifat hidrofobik granul sehingga menghambat penetrasi air ke dalam tablet dan memperpanjang waktu hancur. Oleh karena itu, jawaban yang paling tepat adalah B, karena mekanisme tersebut paling sesuai dengan data investigasi yang diberikan pada soal.<b>Referensi:</b><br>Handbook of Pharmaceutical Excipients (Rowe et al.)<b>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines<b>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems`,
+explanation:`Penyebab yang paling mungkin adalah penggunaan magnesium stearat yang berlebihan sehingga membentuk lapisan hidrofobik pada permukaan granul. Magnesium stearat merupakan eksipien yang berfungsi sebagai lubrikan untuk mengurangi gesekan selama proses pencetakan tablet. Dalam konsentrasi normal, magnesium stearat membantu proses manufaktur tanpa memengaruhi mutu tablet secara signifikan. Namun, peningkatan konsentrasi dari 0,5% menjadi 3% dapat menyebabkan fenomena overlubrication, yaitu partikel magnesium stearat melapisi permukaan granul dan eksipien lain secara berlebihan.<br/>Lapisan hidrofobik tersebut menghambat proses pembasahan (wetting) dan penetrasi medium uji ke dalam pori-pori tablet. Akibatnya, disintegran tidak dapat bekerja secara optimal untuk memecah tablet menjadi partikel-partikel yang lebih kecil. Kondisi ini menyebabkan waktu hancur tablet menjadi lebih lama meskipun parameter lain seperti kadar, keseragaman bobot, friabilitas, dan kekerasan masih memenuhi spesifikasi. Oleh karena itu, akar masalah pada kasus ini bukan berasal dari gaya kompresi atau kadar zat aktif, melainkan dari perubahan konsentrasi eksipien lubrikan yang memengaruhi sifat permukaan tablet.<br/>Menurut Handbook of Pharmaceutical Excipients, magnesium stearat merupakan lubrikan hidrofobik yang pada penggunaan berlebih dapat memperlambat disintegrasi dan disolusi tablet. Selain itu, penelitian yang dipublikasikan dalam AAPS PharmSciTech menunjukkan bahwa peningkatan konsentrasi magnesium stearat dapat meningkatkan sifat hidrofobik granul sehingga menghambat penetrasi air ke dalam tablet dan memperpanjang waktu hancur. Oleh karena itu, jawaban yang paling tepat adalah B, karena mekanisme tersebut paling sesuai dengan data investigasi yang diberikan pada soal.<br/><b>Referensi:</b><br>Handbook of Pharmaceutical Excipients (Rowe et al.)<br/>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines<br/>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems`,
 expImg:``
 },
 {
@@ -908,7 +896,7 @@ question:`Seorang Apoteker di bagian pengawasan mutu (QC) sebuah industri farmas
 img:``,
 options:["A. Memenui syarat","B. Tidak memenuhi syarat","C. Perlu Pengujian ulang","D. Tablet harus di reformulasi","E. Tablet harus uji disintegrasi ulang"],
 answer: `A. Memenuhi syarat`,
-explanation:`Perhitungan : <img src="assets/01M7.png"></imgBatas kehilangan bobot pada uji friabilitas adalah ≤1%, sehingga tablet memenuhi persyaratan.<b><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji kerapuhan tablet`,
+explanation:`Perhitungan : <img src="assets/01M7.png"></imgBatas kehilangan bobot pada uji friabilitas adalah ≤1%, sehingga tablet memenuhi persyaratan.<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji kerapuhan tablet`,
 expImg:``
 },
 {
@@ -918,7 +906,7 @@ question:`Seorang Apoteker di bagian pengawasan mutu sebuah industri farmasi sed
 img:``,
 options:["A. Memenuhi syarat tahap S1","B. Memenuhi syarat tahap S2","C. Tidak memenuhi syarat","D. Harus dilakukan pengujian ulang","E. Dilakukan re-formulasi"],
 answer: `A. Memenuhi syarat tahap S1`,
-explanation:`Pada soal di sebutkan 6 tablet artinya untuk pengujian tahap 1, dan interpretasi untuk pengujian disolusi berdasarkan Farmakope VI yaitu :<img src="assets/02M7.png"></imgseingga hasil pengujian memenuhi syarat pada tahap 1 karena Q+5 diatas 80%<b><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Disolusi halaman 2117`,
+explanation:`Pada soal di sebutkan 6 tablet artinya untuk pengujian tahap 1, dan interpretasi untuk pengujian disolusi berdasarkan Farmakope VI yaitu :<img src="assets/02M7.png"></imgseingga hasil pengujian memenuhi syarat pada tahap 1 karena Q+5 diatas 80%<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Disolusi halaman 2117`,
 expImg:``
 },
 {
@@ -928,7 +916,7 @@ question:`Apoteker di bagian Penelitian dan Pengembangan (R&D) suatu industri fa
 img:``,
 options:["A. Croscarmellose sodium","B. Sodium starch glycolate","C. Crospovidone","D. Amilum pragelatinisasi","E. Mikrokristalin selulosa"],
 answer: `A. Croscarmellose sodium`,
-explanation:`Crospovidone merupakan superdisintegrant yang bekerja terutama melalui mekanisme wicking (kapilaritas) dan sedikit pengembangan (swelling). Crospovidone mampu menarik air dengan sangat cepat ke dalam matriks tablet sehingga tablet segera terdisintegrasi. Berbeda dengan beberapa superdisintegrant lain, crospovidone tidak membentuk lapisan gel yang signifikan saat kontak dengan air. Oleh karena itu, penetrasi medium tetap berlangsung cepat dan waktu hancur dapat dipersingkat.<b>Referensi:</b><br>Handbook of Pharmaceutical Excipients`,
+explanation:`Crospovidone merupakan superdisintegrant yang bekerja terutama melalui mekanisme wicking (kapilaritas) dan sedikit pengembangan (swelling). Crospovidone mampu menarik air dengan sangat cepat ke dalam matriks tablet sehingga tablet segera terdisintegrasi. Berbeda dengan beberapa superdisintegrant lain, crospovidone tidak membentuk lapisan gel yang signifikan saat kontak dengan air. Oleh karena itu, penetrasi medium tetap berlangsung cepat dan waktu hancur dapat dipersingkat.<br/><b>Referensi:</b><br>Handbook of Pharmaceutical Excipients`,
 expImg:``
 },
 {
@@ -948,7 +936,7 @@ question:`Divisi QC PT Nitro Pharmaceutical melakukan pengawasan mutu terhadap g
 img:``,
 options:["A. 4,23% – granul memenuhi spesifikasi","B. 5,23% – granul memenuhi spesifikasi","C. 5,23% – granul tidak memenuhi spesifikasi","D. 6,23% – granul memenuhi spesifikasi","E. 6,23% – granul tidak memenuhi spesifikasi"],
 answer: `B. 5,23% – granul memenuhi spesifikasi`,
-explanation:`<img src="assets/03M7.png"></imgInterpretasi : Hasil pengujian memenuhi syarat <b>Referensi:</b><br>Farmakope Indonesia Edisi VI - Estimasi Distribusi Ukuran PArtikel Dengan Pengayak Halaman 2013`,
+explanation:`<img src="assets/03M7.png"></imgInterpretasi : Hasil pengujian memenuhi syarat<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI - Estimasi Distribusi Ukuran Partikel Dengan Pengayak Halaman 2013`,
 expImg:``
 },
 {
@@ -1596,8 +1584,8 @@ category:`Klinis (Kardiovaskular) `,
 level:`Easy`,
 question:`Seorang pasien laki-laki berusia 58 tahun dirawat di Intensive Care Unit (ICU) dengan diagnosis syok sepsis sekunder akibat pneumonia berat. Hasil pemantauan tanda vital menunjukkan tekanan darah 80/50 mmHg, frekuensi nadi 115 kali/menit, dan suhu tubuh 38,5°C. Dokter telah memberikan resusitasi cairan kristaloid secara adekuat sebanyak 30 mL/kgBB, namun kondisi hemodinamik pasien belum stabil. Dokter berdiskusi dengan apoteker mengenai penambahan terapi vasopressor. Apakah obat vasopressor pilihan pertama yang paling tepat direkomendasikan oleh apoteker? (UKMPPAI FEBRUARI 2025)`,
 img:``,
-options:["a. Dopamin","b. Dobutamin","c. Norepinefrin","d. Epinefrin","e. Vasopresin"],
-answer: `c. Norepinefrin`,
+options:["A. Dopamin","B. Dobutamin","C. Norepinefrin","D. Epinefrin","E. Vasopresin"],
+answer: `C. Norepinefrin`,
 explanation:`Norepinefrin adalah vasopressor pilihan pertama (first-line) pada syok sepsis setelah resusitasi cairan kristaloid (NaCl 0,9% atau ringer laktat) tidak berhasil mencapai target MAP ≥65 mmHg. Sebagai catatan, MAP pasien = (80 + 2*50)/(3) = 60. Norepinefrin bekerja dominan pada reseptor α1-adrenergik (vasokonstriksi kuat → meningkatkan SVR) dengan efek β1 ringan yang mempertahankan cardiac output tanpa menimbulkan takikardia bermakna.  <br><br><b>Referensi:</b><br>DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 142.`,
 expImg:`04TO1M11.png`
 },
@@ -1606,8 +1594,8 @@ category:`Klinis (Kardiovaskular) `,
 level:`Hard`,
 question:`Seorang pasien laki-laki berusia 58 tahun dibawa ke IGD rumah sakit daerah dengan keluhan nyeri dada kiri menjalar ke lengan dan punggung sejak 2 jam yang lalu. Hasil pemeriksaan EKG menunjukkan adanya ST-elevation yang signifikan. Karena fasilitas Percutaneous Coronary Intervention (PCI) tidak tersedia di rumah sakit tersebut dan jarak ke pusat rujukan terlalu jauh, dokter memutuskan untuk segera memberikan terapi fibrinolitik dengan Tenecteplase. Sebelum obat disiapkan, apoteker melakukan rekonsiliasi dan penelusuran riwayat medis pasien untuk memastikan keamanan terapi. Manakah data klinis pasien yang menunjukkan kontraindikasi absolut terhadap penggunaan terapi tersebut?`,
 img:``,
-options:["a. Tekanan darah saat masuk 170/100 mmHg","b. Riwayat stroke iskemik 8 bulan yang lalu","c. Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu","d. Sedang mengkonsumsi aspirin 80 mg/hari","e. Riwayat ulkus peptikum 1 tahun yang lalu yang sudah sembuh"],
-answer: `c. Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu`,
+options:["A. Tekanan darah saat masuk 170/100 mmHg","B. Riwayat stroke iskemik 8 bulan yang lalu","C. Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu","D. Sedang mengkonsumsi aspirin 80 mg/hari","E. Riwayat ulkus peptikum 1 tahun yang lalu yang sudah sembuh"],
+answer: `C. Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu`,
 explanation:`Pada gambar berikut terdapat indikasi, kontraindikasi absolut, dan kontraindikasi relatif saat pemberian terapi fibrinolitik.<br><br><img src="assets/05TO1M11.png"></img><br>Terdapat kalimat <i>”Any prior hemorrhagic stroke”</i> yang berarti obat fibrinolitik kontraindikasi absolut terhadap pasien. yang memiliki riwayat stroke hemoragik. Dengan demikian, jawaban yang benar adalah C.  Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu.<br><br><b>Referensi:</b><br> DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 34.`,
 expImg:``
 },
@@ -1616,8 +1604,8 @@ category:`Klinis (Kardiovaskular) `,
 level:`Easy`,
 question:`Seorang pasien laki-laki berusia 62 tahun dilarikan ke UGD rumah sakit dengan keluhan kelemahan anggota gerak sebelah kanan secara mendadak disertai bicara pelo (disartria) sejak 2 jam yang lalu. Hasil pemeriksaan CT-scan kepala menunjukkan adanya infark serebri tanpa tanda perdarahan. Tekanan darah pasien saat masuk adalah 165/95 mmHg. Pasien diketahui memiliki riwayat hipertensi dan rutin mengonsumsi Lisinopril 10 mg sekali sehari. Dokter memutuskan untuk segera memberikan terapi trombolitik menggunakan IV Alteplase (r-tPA). Setelah terapi tersebut selesai, dokter berdiskusi dengan apoteker mengenai rencana inisiasi antiplatelet. Kapankah waktu yang paling tepat bagi apoteker untuk merekomendasikan inisiasi pemberian terapi aspirin pada pasien tersebut?`,
 img:``,
-options:["a. Bersamaan dengan pemberian Alteplase untuk efek sinergis","b. Segera setelah infus Alteplase selesai diberikan","c. 6 jam setelah pemberian Alteplase","d. 24 jam setelah pemberian Alteplase","e. 7 hari setelah pemberian Alteplase"],
-answer: `d. 24 jam setelah pemberian Alteplase`,
+options:["A. Bersamaan dengan pemberian Alteplase untuk efek sinergis","B. Segera setelah infus Alteplase selesai diberikan","C. 6 jam setelah pemberian Alteplase","D. 24 jam setelah pemberian Alteplase","E. 7 hari setelah pemberian Alteplase"],
+answer: `D. 24 jam setelah pemberian Alteplase`,
 explanation:`Pada pasien yang mendapatkan terapi alteplase, pemberian aspirin biasanya ditunda hingga 24 setelah terapi untuk mencegah risiko hemoragik. Dengan demikian, jawabannya adalah D. 24 jam setelah pemberian Alteplase.<br><br><b>Referensi:</b><br>Kemenkes RI Nomor Hk.01.07/menkes/394/2019 Tentang Pedoman Nasional Pelayanan Kedokteran Tata Laksana Stroke; DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 34`,
 expImg:`06TO1M11.png`
 },
@@ -1626,8 +1614,8 @@ category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
 question:`Seorang pasien wanita berusia 45 tahun dirawat setelah didiagnosis mengalami stroke iskemik sekunder akibat kardioemboli yang dipicu oleh atrial fibrillation (AF). Pasien diketahui memiliki riwayat kepatuhan yang sangat rendah terhadap jadwal kontrol ke rumah sakit. Riwayat penggunaan antikoagulan terdahulu menggunakan Warfarin telah dihentikan karena pasien mengalami efek samping berupa hematoma luas pada jaringan kulit akibat fluktuasi nilai INR yang tidak terkontrol. Dokter meminta rekomendasi apoteker mengenai pilihan terapi antikoagulan oral baru (DOAC/NOAC) yang efikasinya setara dengan warfarin namun memiliki manajemen dosis yang tetap tanpa memerlukan pemantauan laboratorium rutin. Manakah obat yang paling tepat direkomendasikan oleh apoteker untuk pasien tersebut?`,
 img:``,
-options:["a. Heparin","b. Enoxaparin","c. Fondaparinux","d. Apixaban","e. Klopidogrel"],
-answer: `d. Apixaban`,
+options:["A. Heparin","B. Enoxaparin","C. Fondaparinux","D. Apixaban","E. Klopidogrel"],
+answer: `D. Apixaban`,
 explanation:`Pasien adalah wanita 45 tahun dengan stroke kardioemboli yang membutuhkan terapi antikoagulan oral untuk pencegahan sekunder. Berdasarkan tabel rekomendasi DiPiro 12th ed., untuk stroke etiologi kardioemboli (terutama akibat fibrilasi atrium), pilihan terapi yang direkomendasikan dengan Class I, Level of Evidence A adalah: <br>- Vitamin K antagonist (warfarin) dengan target INR 2–3;<br>- Apixaban 5 mg dua kali sehari;<br>- Dabigatran 150 mg dua kali sehari;<br>- Edoxaban 60 mg sekali sehari;<br>- Rivaroxaban 20 mg sekali sehari.<br><br>Tabel juga secara eksplisit menyatakan bahwa pada pasien dengan fibrilasi atrium tanpa stenosis mitral sedang-berat atau katup jantung mekanik, golongan DOAC (apixaban, dabigatran, edoxaban, atau rivaroxaban) lebih dipilih dibanding warfarin (Class I, Level B-R). Dengan demikian, jawaban yang tepat adalah D. Apixaban. <br><br><b>Referensi:</b><br>DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 34`,
 expImg:`07TO1M11.png`
 },
@@ -1636,8 +1624,8 @@ category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
 question:`Seorang pasien laki-laki berusia 55 tahun didiagnosis mengalami STEMI akut dan direncanakan untuk menjalani tindakan PCI. Dokter spesialis jantung meresepkan Dual Antiplatelet Therapy (DAPT) sebagai tatalaksana awal menggunakan kombinasi Aspirin dan Ticagrelor. Namun, petugas depo farmasi melaporkan bahwa stok Ticagrelor di Instalasi Farmasi Rumah Sakit sedang kosong. Apoteker klinis di IGD berdiskusi dengan dokter untuk memberikan alternatif inhibitor P2Y12 lain yang sama potennya guna menjaga efikasi antitrombotik pasien. Apakah obat antiplatelet yang paling tepat direkomendasikan oleh apoteker sebagai pengganti komponen DAPT tersebut? (TO UKMPPAI NOVEMBER 2024)`,
 img:``,
-options:["a. Prasugrel","b. Cilostazol","c. Dipiridamol","d. Klopidogrel","e. Warfarin"],
-answer: `a. Prasugrel`,
+options:["A. Prasugrel","B. Cilostazol","C. Dipiridamol","D. Klopidogrel","E. Warfarin"],
+answer: `A. Prasugrel`,
 explanation:`Ticagrelor dan prasugrel termasuk P2Y12 inhibitor poten generasi ketiga dengan efikasi antiplatelet superior dibanding klopidogrel berdasarkan AHA 2025. Hal ini juga didukung oleh Pedoman Tata Laksana Sindrom Koroner Akut 2024 bahwa utamakan prasugrel atau ticagrelor terlebih dahulu serta gunakan clopidogrel BILA prasugrel dan ticagrelor tidak tersedia. Dengan demikian, jawaban yang tepat adalah A. Prasugrel. <br><br><b>Referensi:</b><br>[Perhimpunan Dokter Spesialis Kardiovaskular Indonesia. (2024). Pedoman Tata Laksana Sindrom Koroner Akut (Edisi ke-5). PERKI; 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes].`,
 expImg:`08TO1M11.png`
 },
@@ -1646,8 +1634,8 @@ category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
 question:`Seorang pasien laki-laki berusia 64 tahun dengan riwayat stroke iskemik dijadwalkan akan menjalani operasi pengangkatan massa tumor payudara (ginekomastia) dalam satu minggu ke depan. Pasien diketahui rutin mengonsumsi Klopidogrel 75 mg sekali sehari sebagai terapi pencegahan sekunder stroke. Hasil pemeriksaan laboratorium menunjukkan nilai PT, APTT, dan jumlah trombosit pasien dalam batas normal. Apoteker di klinik melakukan rekonsiliasi obat dan memberikan konseling mengenai aturan penghentian sementara obat antiplatelet guna meminimalkan risiko perdarahan perioperatif. Berapa harikah sebelum operasi pasien tersebut harus direkomendasikan untuk menghentikan konsumsi Klopidogrel?`,
 img:``,
-options:["a. 1 hari","b. 2 hari","c. 3 hari","d. 5 hari","e. 14 hari"],
-answer: `d. 5 hari`,
+options:["A. 1 hari","B. 2 hari","C. 3 hari","D. 5 hari","E. 14 hari"],
+answer: `D. 5 hari`,
 explanation:`Berdasarkan 2024 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, waktu minimal untuk mengembalikan fungsi platelet agar meminimalkan risiko pendarahan saat operasi dari obat clopidogrel adalah 5-7 hari. Dengan demikian, jawaban yang tepat adalah yang D. 5 hari`,
 expImg:`09TO1M11.png`
 },
