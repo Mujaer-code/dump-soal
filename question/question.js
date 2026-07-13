@@ -476,13 +476,13 @@ question:`Bagian produksi akan melakukan proses filling sirup kedalam 306.000 bo
 img:``,
 options:["A. 15,5 jam","B. 32,5 jam","C. 42,5 jam","D. 53,5 jam","E. 60,5 jam"],
 answer: `C. 42,5 jam`,
-explanation:`<ul><li><strong data-path-to-node="1,1,0" data-index-in-node="0">Menghitung Total Waktu yang Dibutuhkan</strong> <br />Untuk target produksi sebanyak 306.000 botol, perhitungannya adalah:<br />Total waktu = 306.000 botol / 2 botol/detik = <strong data-path-to-node="1,1,1,0,0" data-index-in-node="46">153.000 detik</strong></li></ul><ul><li><strong data-path-to-node="1,0,0" data-index-in-node="0">Menentukan Laju Produksi (<em data-path-to-node="1,0,0" data-index-in-node="26">Throughput Rate</em>)</strong> <br />Laju produksi mesin adalah 10 botol per 5 detik, sehingga:<br />Laju produksi = 10 botol / 5 detik = <strong data-path-to-node="1,0,1,0,0" data-index-in-node="37">2 botol/detik</strong></li></ul><ul><li><strong>Mengonversi Waktu ke Satuan Jam<br /></strong>Total waktu = 153.000 detik / 3.600 (detik dalam 1 jam) = 42,5 jam<strong><br /></strong></li></ul><p><strong>Referensi:</strong><br />Heizer, J., &amp; Render, B. (2016). Operations Management: Sustainability and Supply Chain Management. Pearson.</p>`,
+explanation:`<ul><li>Pertama tentukan terlebih dahulu Throughput Rate/Laju produksi</li><li>Laju produksi mesin ini adalah (10 botol/5 detik) jadi 2 botol/detik</li><li>Sehingga total waktu yang dibutuhkan adalah 306000 botol/2 botol per detik</li><li>153000 detik</li><li>153000detik/3600 = 42,5 jam<br /><br /><strong>Referensi:</strong><br />Heizer, J., &amp; Render, B. (2016). Operations Management: Sustainability and Supply Chain Management. Pearson.</li></ul>`,
 expImg:``
 },
 {
 category:`Industri`,
 level:`Medium`,
-question:`Seorang Apoteker di bagian fasilitas produksi sedang melakukan kualifikasi kinerja sistem Tata Udara (HVAC) pada ruang produksi steril (Kelas B). Diketahui data ruangan tersebut adalah sebagai berikut:<br><br>Panjang ruangan: 10 meter<br><br>Lebar ruangan: 5 meter<br><br>Tinggi ruangan: 3 meter<br><br>Rata-rata kecepatan udara dari grill: 4.500 m<sup>3</sup>/jam<br><br>Berapakah nilai pertukaran udara (kali per jam) di ruangan tersebut?`,
+question:`<p>Seorang Apoteker di bagian fasilitas produksi sedang melakukan kualifikasi kinerja sistem Tata Udara (HVAC) pada ruang produksi steril (Kelas B). Diketahui data ruangan tersebut adalah sebagai berikut:</p><ul><li>Panjang ruangan: 10 meter</li><li>Lebar ruangan: 5 meter</li><li>Tinggi ruangan: 3 meter</li><li>Rata-rata kecepatan udara dari grill: 4.500 m<sup>3</sup>/jam</li></ul><p>Berapakah nilai pertukaran udara (kali per jam) di ruangan tersebut?</p>`,
 img:``,
 options:["A. 20 kali/jam","B. 30 kali/jam","C. 45 kali/jam","D. 60 kali/jam","E. 90 kali/jam"],
 answer: `B. 30 kali/jam`,
@@ -496,7 +496,7 @@ question:`<p>Seorang supervisor produksi di industri farmasi sedang mengawasi pr
 img:``,
 options:["A. 99,7%","B. 98,2%","C. 97,0%","D. 96,4%","E. 95,8%"],
 answer: `B. 98,2%`,
-explanation:`<p data-path-to-node="1"><strong data-path-to-node="1" data-index-in-node="0">1. Menghitung Volume yang Hilang (Loss)</strong></p><p data-path-to-node="2">Kita identifikasi semua volume yang tidak menjadi produk jadi:</p><ul data-path-to-node="3"><li><p data-path-to-node="3,0,0"><strong data-path-to-node="3,0,0" data-index-in-node="0">Tumpahan:</strong> 1 L</p></li><li><p data-path-to-node="3,1,0"><strong data-path-to-node="3,1,0" data-index-in-node="0">Sisa Pipa (Dead Volume):</strong> 14 L</p></li><li><p data-path-to-node="3,2,0"><strong data-path-to-node="3,2,0" data-index-in-node="0">Reject Botol:</strong> 50 botol × 60 mL = 3.000 mL = 3 L</p></li></ul><p data-path-to-node="4"><strong data-path-to-node="4" data-index-in-node="0">Total Volume Hilang:</strong> 1 + 14 + 3 = 18 L</p><p data-path-to-node="5"><strong data-path-to-node="5" data-index-in-node="0">2. Menghitung Volume Produk Jadi (Actual Yield)</strong></p><p data-path-to-node="6">Volume produk jadi adalah volume teoritis dikurangi total volume yang hilang:</p><ul data-path-to-node="7"><li><p data-path-to-node="7,0,0"><strong data-path-to-node="7,0,0" data-index-in-node="0">Volume Teoritis:</strong> 1.000 L</p></li><li><p data-path-to-node="7,1,0"><strong data-path-to-node="7,1,0" data-index-in-node="0">Volume Aktual:</strong> 1.000 L - 18 L = 982 L</p></li></ul><p data-path-to-node="8"><strong data-path-to-node="8" data-index-in-node="0">3. Menghitung %Yield</strong></p><p data-path-to-node="9">Rumus %yield adalah:</p><div data-path-to-node="10"><div class="math-block" data-math="\% Yield = \left( \frac{\text{Volume Aktual}}{\text{Volume Teoritis}} \right) \times 100\%">$$\% Yield = \left( \frac{\text{Volume Aktual}}{\text{Volume Teoritis}} \right) \times 100\%$$</div></div><ul data-path-to-node="11"><li><p data-path-to-node="11,0,0"><strong data-path-to-node="11,0,0" data-index-in-node="0">%Yield:</strong></p><div data-path-to-node="11,0,1"><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%">$$\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%$$</div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%"> </div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%">Referensi</div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%">Heizer, J., Render, B., &amp; Munson, C. (2019). <em data-path-to-node="15,2,1,0,0" data-index-in-node="61">Operations Management: Sustainability and Supply Chain Management</em>. Pearson.</div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%"> </div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%"> </div></div></li></ul>`,
+explanation:`<b>1. Menghitung Volume yang Hilang (Loss)</b><br/>Kita identifikasi semua volume yang tidak menjadi produk jadi:<br/><ul><li><b>Tumpahan:</b> 1 L</li><li><b>Sisa Pipa (Dead Volume):</b> 14 L</li><li><b>Reject Botol:</b> 50 botol × 60 mL = 3.000 mL = 3 L</li></ul><b>Total Volume Hilang:</b> 1 + 14 + 3 = 18 L<p >2. Menghitung Volume Produk Jadi (Actual Yield)</strong></p><p data-path-to-node="6">Volume produk jadi adalah volume teoritis dikurangi total volume yang hilang:</p><ul data-path-to-node="7"><li><p data-path-to-node="7,0,0"><strong data-path-to-node="7,0,0" data-index-in-node="0">Volume Teoritis:</strong> 1.000 L</p></li><li><p data-path-to-node="7,1,0"><strong data-path-to-node="7,1,0" data-index-in-node="0">Volume Aktual:</strong> 1.000 L - 18 L = 982 L</p></li></ul><p data-path-to-node="8"><strong data-path-to-node="8" data-index-in-node="0">3. Menghitung %Yield</strong></p><p data-path-to-node="9">Rumus %yield adalah:</p><ul><li><p data-path-to-node="6,0,0">Rumus: % Yield = (Volume Aktual dibagi Volume Teoritis) dikali 100%</p></li><li><p data-path-to-node="6,1,0">Perhitungan: % Yield = (982 Liter / 1.000 Liter) x 100%</p></li><li><p data-path-to-node="6,2,0">Perhitungan: % Yield = 0,982 x 100%</p></li><li><p data-path-to-node="6,3,0"><strong data-path-to-node="6,3,0" data-index-in-node="0">Hasil Akhir</strong> = <strong data-path-to-node="6,3,0" data-index-in-node="14">98,2%</strong></p></li></ul><p> </p>`,
 expImg:``
 },
 {
@@ -506,7 +506,7 @@ question:`<p>Seorang supervisor produksi di industri farmasi melakukan rekonsili
 img:``,
 options:["A. 104,0%","B. 99,05%","C. 95,0%","D. 80,0%","E. 100%"],
 answer: `B. 99,05%`,
-explanation:`<ul><li><strong>Massa inti</strong> : 100 kg</li><li><strong>Target weight gain</strong> : 5% dari massa inti (100 kg x 5%) = 5 kg</li><li><strong>Massa teoritis</strong> = 100kg + 5 kg= 105 kg</li><li><strong>Massa aktual</strong> = 104kg</li><li><strong>Persentase Hasil (<em data-path-to-node="1,4,0" data-index-in-node="18">% Yield</em>):</strong><br />% yield = (massa aktual / massa teoritis) <br />% yield = (104 kg / 105 kg)<br />% yield = 99,05%</li></ul><p><strong>Referensi:</strong><br />Pedoman CPOB 2018 (BPOM R) Dalam Bab 5: Produksi</p>`,
+explanation:`<ul><li>Massa inti 100 kg</li><li>Target weight gain : 5% dari massa inti (100 kg x 5%) = 5 kg</li><li>Massa teoritis = 100kg + 5 kg= 105 kg</li><li>Massa aktual = 104kg</li><li>%yield = (massa aktual/massa teoritis)%yield = (104 kg / 105 kg)%yield = 99,05%<br /><br /><strong>Referensi:</strong><br />Pedoman CPOB 2018 (BPOM R) Dalam Bab 5: Produksi</li></ul>`,
 expImg:``
 },
 {
@@ -526,7 +526,7 @@ question:`Sebuah industri farmasi ingin memindahkan fasilitas produksi obat tabl
 img:``,
 options:["A. Tidak perlu melakukan validasi,hanya perlu data uji stabilita dipercepat selama 6 bulan","B. Tidak perlu melakukan validasi karena proses produksi di tempat lama sudah tervalidasi","C. Tidak perlu melakukan validasi karena pemindahan fasilitas produksi tidak mempengaruhi mutu produk","D. Melakukan validasi proses pada 3 batch skala produksi","E. Menyertakan data validasi dari satu batch skala pilot formulas baru dan komitmen untuk validasi tiga batch skala produksi"],
 answer: `D. Melakukan validasi proses pada 3 batch skala produksi`,
-explanation:`Validasi proses adalah upaya untuk mengetahuI apakah proses produksi sudah dapat menghasilkan produk yang sesuai standar mutu secara konsisten. Tahapan validasi proses adalah sebagai berikut<br><br>Pembuatan protokol validasi<br><br>Setelah batch record suatu produk dibuat oleh bagian RnD, departemen QA akan melakukan assesment terkait Critical Procecces Parameter (CPP) selama proses produksi seperti suhu ,waktu, dan kapasitas dari granulator. Setelah itu QA akan menyusun protokol validasi proses<br><br>Pelaksanaan validasi proses<br><br>Departemen QA akan bekerja sama dengan departemen produksi untuk menjalankan proses produksi pada 3 batch skala produksi dan semua parameter kritis (CPP) dipantau sesuai dengan protokol untuk melihat terdapat deviasi atau tidak<br><br>Departemen QA akan berkoordinasi dengan departemen QC untuk memeriksa produk yang dihasilkan menggunakan proses yang divalidasi untuk mengetahui sudah sesuai dengan standar mutu atau tidak. Setelahnya departemen QA akan mengolah data yang diperoleh secara statistik, sehingga diperoleh Cp (Capability Process) yang menunjukkan potensi dan presisi dari proses yang divalidasi dan memasuki rentang dari batas atas dan batas bawah. Selain itu juga diperoleh Cpk yang menunjukkan hasil aktual dari proses yang divalidasi yang tidak hanya melihat konsistensi dari proses tapi akurasi dari proses. Umumnya di industri farmasi besar setelah proses validasi akan dilakukan proses verifikasi on going sehingga akan diperoleh data Pp/Ppk yang merupakan versi continue dari Cp/Cpk<br><br>Berdasarkan PerBPOM No 15 tahun 2023, pemindahan lokasi proses produksi termasuk registrasi mayor karena di lokasi berbeda menggunakan mesin yang berbeda yang mempunyai hasil kualifikasi yang berbeda serta perbedaan lokasi pabrik dapat mempengaruhi parameter lingkungan<br><br>Persyaratan BPOM terkait validasi proses pada registrasi mayor jika hanya terdapat data skala pilot<br><br>Diperbolehkan menyertakan data validasi dari satu batch skala pilot.<br><br>Harus melampirkan komitmen untuk melakukan validasi tiga batch skala produksi pertama.<br><br>Komitmen harus mencantumkan prediksi waktu pelaporan data validasi.<br><br>Produk tidak boleh diedarkan sebelum komitmen validasi dipenuhi.<br><br><b>Referensi:</b><br>PerBPOM No 15 tahun 2023 Perubahan Keempat Atas Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat`,
+explanation:`<h2>Pembahasan</h2><div class="explanation-text">Validasi proses adalah upaya untuk mengetahuI apakah proses produksi sudah dapat menghasilkan produk yang sesuai standar mutu secara konsisten. Tahapan validasi proses adalah sebagai berikut<br /><br />Pembuatan protokol validasi<br /><br />Setelah batch record suatu produk dibuat oleh bagian RnD, departemen QA akan melakukan assesment terkait Critical Procecces Parameter (CPP) selama proses produksi seperti suhu ,waktu, dan kapasitas dari granulator. Setelah itu QA akan menyusun protokol validasi proses<br /><br />Pelaksanaan validasi proses<br /><br />Departemen QA akan bekerja sama dengan departemen produksi untuk menjalankan proses produksi pada 3 batch skala produksi dan semua parameter kritis (CPP) dipantau sesuai dengan protokol untuk melihat terdapat deviasi atau tidak<br /><br />Departemen QA akan berkoordinasi dengan departemen QC untuk memeriksa produk yang dihasilkan menggunakan proses yang divalidasi untuk mengetahui sudah sesuai dengan standar mutu atau tidak. Setelahnya departemen QA akan mengolah data yang diperoleh secara statistik, sehingga diperoleh Cp (Capability Process) yang menunjukkan potensi dan presisi dari proses yang divalidasi dan memasuki rentang dari batas atas dan batas bawah. Selain itu juga diperoleh Cpk yang menunjukkan hasil aktual dari proses yang divalidasi yang tidak hanya melihat konsistensi dari proses tapi akurasi dari proses. Umumnya di industri farmasi besar setelah proses validasi akan dilakukan proses verifikasi on going sehingga akan diperoleh data Pp/Ppk yang merupakan versi continue dari Cp/Cpk<br /><br />Berdasarkan PerBPOM No 15 tahun 2023, pemindahan lokasi proses produksi termasuk registrasi mayor karena di lokasi berbeda menggunakan mesin yang berbeda yang mempunyai hasil kualifikasi yang berbeda serta perbedaan lokasi pabrik dapat mempengaruhi parameter lingkungan<br /><br />Persyaratan BPOM terkait validasi proses pada registrasi mayor jika hanya terdapat data skala pilot</div><ul><li class="explanation-text">Diperbolehkan menyertakan data validasi dari satu batch skala pilot.</li><li class="explanation-text">Harus melampirkan komitmen untuk melakukan validasi tiga batch skala produksi pertama.</li><li class="explanation-text">Komitmen harus mencantumkan prediksi waktu pelaporan data validasi.</li><li class="explanation-text">Produk tidak boleh diedarkan sebelum komitmen validasi dipenuhi.</li></ul>`,
 expImg:`08M34.png`
 },
 {
@@ -536,7 +536,7 @@ question:`<p>Sebuah industri farmasi akan membuat obat generik asam mefenamat. S
 img:``,
 options:["A. Uji Disolusi Terbanding dilakukan minimal pada 1 batch skala laboratorium","B. Uji Disolusi Terbanding dilakukan minimal pada 1 batch skala pilot","C. Uji Disolusi Terbanding dilakukan minimal pada 3 batch skala pilot","D. Uji Disolusi Terbanding dilakukan minimal pada 1 skala produksi","E. Uji Disolusi Terbanding dilakukan minimal pada 3 skala produksi"],
 answer: `B. Uji Disolusi Terbanding dilakukan minimal pada 1 batch skala pilot`,
-explanation:`<p>Uji Disolusi Terbanding adala pengujuan secara in vitro yang membandingkan profil pelepasan obat target dengan obat pembanding umumnya inovator di berbagai kondisi pH untuk mencerminkan kondisi tubuh dimana untuk mencapai hal tersebut digunakan <strong>3 media</strong>, yaitu:</p><ul><li>pH 1.2: Merepresentasikan kondisi asam lambung menggunakan HCl</li><li>pH 4.5: Merepresentasikan kondisi transisi (duodenum) menggunakan buffer asetat</li><li>pH 6.8: Merepresentasikan kondisi usus halus menggunakan buffer fosfat</li></ul><p><strong>Jumlah Sampel</strong>: Standar statistik untuk validitas profil disolusi mengharuskan penggunaan minimal 12 unit per produk (12 tablet copy vs 12 tablet inovator) untuk setiap media. Total untuk 3 media adalah 36 unit.<br /><br /><strong>Faktor Diferensial (f1)</strong>: Nilai f1 harus dibawah 15 yang menandakan rendahnya perbedaan pelepasan obat<br /><br /><strong>Faktor Kemiripan (f2)</strong>: Nilai f2 harus di antara 50 – 100. Nilai di bawah 50 berarti profil disolusi dianggap tidak mirip.<br /><br /><strong>Pengecualian</strong>: Jika kedua produk melarut sangat cepat (lebih dari 85% dalam 15 menit), profil dianggap mirip secara otomatis dan nilai f2 tidak perlu dihitung<br /><br />Untuk registrasi obat copy baru BPOM mewajibkan <strong>minimal 1 batch</strong>. Namun, batch ini wajib sama dengan batch yang digunakan untuk uji Bioekivalensi (BE). Industri tidak diwajibkan langsung membuat skala produksi penuh. Syarat minimalnya adalah Skala Pilot.<br /><br /><strong>Referensi:</strong></p><ol><li>Peraturan BPOM No. 11 Tahun 2022 tentang Pedoman Uji Bioekivalensi (Lampiran mengenai Uji Disolusi Terbanding).</li><li>Peraturan BPOM No. 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat.</li></ol>`,
+explanation:`<p>Uji Disolusi Terbanding adala pengujuan secara in vitro yang membandingkan profil pelepasan obat target dengan obat pembanding umumnya inovator di berbagai kondisi pH untuk mencerminkan kondisi tubuh dimana untuk mencapai hal tersebut digunakan 3 media, yaitu:</p><ul><li>pH 1.2: Merepresentasikan kondisi asam lambung menggunakan HCl</li><li>pH 4.5: Merepresentasikan kondisi transisi (duodenum) menggunakan buffer asetat</li><li>pH 6.8: Merepresentasikan kondisi usus halus menggunakan buffer fosfat</li></ul><p>Jumlah Sampel: Standar statistik untuk validitas profil disolusi mengharuskan penggunaan minimal 12 unit per produk (12 tablet copy vs 12 tablet inovator) untuk setiap media. Total untuk 3 media adalah 36 unit.<br /><br />Faktor Diferensial (f1): Nilai f1 harus dibawah 15 yang menandakan rendahnya perbedaan pelepasan obat<br /><br />Faktor Kemiripan (f2): Nilai f2 harus di antara 50 – 100. Nilai di bawah 50 berarti profil disolusi dianggap tidak mirip.<br /><br />Pengecualian: Jika kedua produk melarut sangat cepat (lebih dari 85% dalam 15 menit), profil dianggap mirip secara otomatis dan nilai f2 tidak perlu dihitung<br /><br />Untuk registrasi obat copy baru BPOM mewajibkan minimal 1 batch. Namun, batch ini wajib sama dengan batch yang digunakan untuk uji Bioekivalensi (BE). Industri tidak diwajibkan langsung membuat skala produksi penuh. Syarat minimalnya adalah Skala Pilot.<br /><br /><strong>Referensi:</strong><br />Peraturan BPOM No. 11 Tahun 2022 tentang Pedoman Uji Bioekivalensi (Lampiran mengenai Uji Disolusi Terbanding).Peraturan BPOM No. 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat.</p>`,
 expImg:``
 },
 {
@@ -546,7 +546,7 @@ question:`<p>Suatu industri farmasi menggunakan mesin menggunakan mesin cetak ta
 img:``,
 options:["A. 643.500 tablet","B. 550.450 tablet","C. 485.200 tablet","D. 400.300 tablet","E. 386.100 tablet"],
 answer: `E. 386.100 tablet`,
-explanation:`<ul><li>Total waktu shift 8 jam x 60 menit = 480 menit</li><li>Line clearance + Ishoma = 90 menit</li><li>Total waktu kerja (T) = 480 menit - 90 menit = 390 menit</li><li>Jumlah station (S) = 33 stasion</li><li>Kecepatan putaran (R)= 30 RPM</li></ul><p>Sehingga output mesin (O) adalah 33 stasiun x 30 RPM x 390 menit</p><p><strong><strong>Output mesin: 386.100 tablet</strong></strong></p><p><strong><strong><strong>Referensi:</strong><br /></strong></strong>Lachman, L., Lieberman, H. A., &amp; Kanig, J. L. (1986). The Theory and Practice of Industrial Pharmacy. Lea &amp; Febiger.</p>`,
+explanation:`<ul><li>Total waktu shift 8 jam x 60 menit = 480 menit</li><li>Line clearance + Ishoma = 90 menit</li><li>Total waktu kerja (T) = 480 menit - 90 menit = 390 menit</li><li>Jumlah station (S) = 33 stasion</li><li>Kecepatan putaran (R)= 30 RPM</li><li>Sehingga output mesin (O) adalah 33 stasiun x 30 RPM x 390 menit </li><li><strong><strong>Output mesin: 386.100 tablet<br /></strong></strong></li></ul><p><strong><strong><strong>Referensi:</strong><br /></strong></strong>Lachman, L., Lieberman, H. A., &amp; Kanig, J. L. (1986). The Theory and Practice of Industrial Pharmacy. Lea &amp; Febiger.</p>`,
 expImg:``
 },
 {
@@ -806,8 +806,8 @@ question:`Bagian Quality Control (QC) di industri farmasi sedang melakukan pengu
 img:``,
 options:["A. Reduksi","B. Oksidasi","C. Substitusi","D. Hidrolisis","E. Eliminasi"],
 answer: `B. Oksidasi`,
-explanation:`Berikut adalah penjelasan mengenai masing-masing reaksi kimia:<br><br>1. Reduksi adalah pengurangan oksigen, atau penambahan hidrogen/elektron.<br>2. Oksidasi adalah penambahan oksigen, atau pengurangan hidrogen/elektron. <b>(Jawaban yang benar)</b>.<br>3. Substitusi adalah penggantian gugus dengan gugus yang lain.<br>4. Hidrolisis adalah pemutusan ikatan kimia melalui reaksi dengan air.<br>5. Eliminasi adalah reaksi yang terjadi ketika dua gugus terlepas dari atom-atom yang berdekatan sehingga terbentuk ikatan ganda.<br>Pada metabolisme ethylene glycol menjadi oxalic acid, terjadi penambahan atom oksigen.<br><br><b>Referensi:</b><br>Donald Cains: Essentials of pharmaceutical chemistry, 4th edition, Chapter 6`,
-expImg:`TO1M6017.png`
+explanation:`Berikut adalah penjelasan mengenai masing-masing reaksi kimia:<br><br>1. Reduksi adalah pengurangan oksigen, atau penambahan hidrogen/elektron.<br>2. Oksidasi adalah penambahan oksigen, atau pengurangan hidrogen/elektron. <b>(Jawaban yang benar)</b>.<br>3. Substitusi adalah penggantian gugus dengan gugus yang lain.<br>4. Hidrolisis adalah pemutusan ikatan kimia melalui reaksi dengan air.<br>5. Eliminasi adalah reaksi yang terjadi ketika dua gugus terlepas dari atom-atom yang berdekatan sehingga terbentuk ikatan ganda.<br>Pada metabolisme ethylene glycol menjadi oxalic acid, terjadi penambahan atom oksigen.<br><br><b>Referensi:</b><br>1. Donald Cains: Essentials of pharmaceutical chemistry, 4th edition, Chapter 6 & 9.<br>2. Organic chemistry, 2nd ed (2012), chapter 15.<br>3. March's Advanced Organic Chemistry, 7th edition, Chapter 17.<img src="assets/Rep_M6_09.png"></img><img src="assets/Rep_M6_10.png"></img>`,
+expImg:``
 },
 {
 category:`Farmasi Kimia`,
@@ -816,8 +816,8 @@ question:`Sebuah industri farmasi sedang mengembangkan formula sediaan emulsi ti
 img:``,
 options:["A. Asam oleat","B. Asam linoleat","C. Asam linolenat","D. Asam stearat","E. Asam palmitat"],
 answer: `C. Asam linolenat`,
-explanation:`Senyawa yang mengandung pusat alilik sangat rentan terhadap autooksidasi karena radikal yang terbentuk pada proses oksidasi akan distabilkan oleh resonansi. Proses ini terjadi paling mudah pada karbon yang diapit oleh dua ikatan rangkap dua (doubly allylic H's). Terdapat hierarki kemudahan proses H abstraction: doubly allylic H's > singly allylic H's > dll. Semakin banyak ikatan rangkap, molekul tersebut akan semakin rentan mengalami oksidasi. Asam linolenat memiliki 3 ikatan rangkap, sedangkan linoleat (2), dan oleat (1). Asam lemak stearat dan palmitat merupakan asam lemak jenuh. Dengan demikian, jawaban yang tepat adalah <b>C. Asam linolenat.</b> <br><br><b>Referensi:</b><br>Organic chemistry, 2nd ed (2012), chapter 15`,
-expImg:`TO1M6018.png`
+explanation:`Senyawa yang mengandung pusat alilik sangat rentan terhadap autooksidasi karena radikal yang terbentuk pada proses oksidasi akan distabilkan oleh resonansi. Proses ini terjadi paling mudah pada karbon yang diapit oleh dua ikatan rangkap dua (doubly allylic H's). Terdapat hierarki kemudahan proses H abstraction: doubly allylic H's > singly allylic H's > dll. Semakin banyak ikatan rangkap, molekul tersebut akan semakin rentan mengalami oksidasi. Asam linolenat memiliki 3 ikatan rangkap, sedangkan linoleat (2), dan oleat (1). Asam lemak stearat dan palmitat merupakan asam lemak jenuh. Dengan demikian, jawaban yang tepat adalah <b>C. Asam linolenat.</b> <br><br><b>Referensi:</b><br>1. Organic chemistry, 2nd ed (2012), chapter 15<br>2. Akoh, C. C. (2017). Food Lipids: Chemistry, Nutrition, and Biotechnology (4th ed.). CRC Press. https://doi.org/10.1201/9781315151854<img src="assets/Rep_M6_11.png"></img>`,
+expImg:``
 },
 {
 category:`Farmasi Kimia`,
@@ -896,7 +896,7 @@ question:`Seorang Apoteker di bagian pengawasan mutu (QC) sebuah industri farmas
 img:``,
 options:["A. Memenui syarat","B. Tidak memenuhi syarat","C. Perlu Pengujian ulang","D. Tablet harus di reformulasi","E. Tablet harus uji disintegrasi ulang"],
 answer: `A. Memenuhi syarat`,
-explanation:`Perhitungan : <img src="assets/01M7.png"></imgBatas kehilangan bobot pada uji friabilitas adalah ≤1%, sehingga tablet memenuhi persyaratan.<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji kerapuhan tablet`,
+explanation:`Perhitungan : <img src="assets/01M7.png"></img>Batas kehilangan bobot pada uji friabilitas adalah ≤1%, sehingga tablet memenuhi persyaratan.<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji kerapuhan tablet`,
 expImg:``
 },
 {
@@ -906,7 +906,7 @@ question:`Seorang Apoteker di bagian pengawasan mutu sebuah industri farmasi sed
 img:``,
 options:["A. Memenuhi syarat tahap S1","B. Memenuhi syarat tahap S2","C. Tidak memenuhi syarat","D. Harus dilakukan pengujian ulang","E. Dilakukan re-formulasi"],
 answer: `A. Memenuhi syarat tahap S1`,
-explanation:`Pada soal di sebutkan 6 tablet artinya untuk pengujian tahap 1, dan interpretasi untuk pengujian disolusi berdasarkan Farmakope VI yaitu :<img src="assets/02M7.png"></imgseingga hasil pengujian memenuhi syarat pada tahap 1 karena Q+5 diatas 80%<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Disolusi halaman 2117`,
+explanation:`Pada soal di sebutkan 6 tablet artinya untuk pengujian tahap 1, dan interpretasi untuk pengujian disolusi berdasarkan Farmakope VI yaitu :<img src="assets/02M7.png"></img>sehingga hasil pengujian memenuhi syarat pada tahap 1 karena Q+5 diatas 80%<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Disolusi halaman 2117`,
 expImg:``
 },
 {
@@ -926,7 +926,7 @@ question:`Apoteker di bagian pengawasan mutu sebuah industri farmasi sedang mela
 img:``,
 options:["A. Melakukan uji ulang dengan menambahkan 12 tablet","B. Melakukan uji ulang dengan menambahkan 6 tablet","C. Meluluskan pengujian karena rerata waktu masih di bawah 15 menit","D. Menolak seluruh bets karena terdapat tablet yang tidak memenuhi syarat","E. Mengulang pengujian dari awal menggunakan 6 tablet yang baru"],
 answer: `A. Melakukan uji ulang dengan menambahkan 12 tablet`,
-explanation:`Berdasarkan hasil pengujian waktu hancur terhadap 6 tablet valsartan 80 mg, diperoleh satu tablet dengan waktu hancur 16,2 menit, sedangkan lima tablet lainnya masih memenuhi persyaratan yaitu kurang dari 15 menit. Dalam pengujian waktu hancur, penilaian tidak didasarkan pada nilai rata-rata waktu hancur seluruh tablet, melainkan pada kemampuan masing-masing unit untuk memenuhi batas waktu yang telah ditetapkan dalam monografi. Pengujian awal dilakukan terhadap 6 tablet. Apabila seluruh tablet hancur dalam waktu yang dipersyaratkan, maka bets dinyatakan memenuhi syarat. Namun, jika terdapat 1 atau 2 tablet yang gagal memenuhi persyaratan, pengujian tidak langsung dinyatakan gagal maupun lulus. Dalam kondisi tersebut, pengujian harus dilanjutkan dengan menambahkan 12 tablet lagi untuk memastikan apakah kegagalan yang terjadi bersifat insidental atau mencerminkan mutu bets secara keseluruhan.<br>Pada kasus ini hanya terdapat 1 tablet yang tidak memenuhi syarat, sehingga tindakan yang paling tepat adalah melakukan pengujian lanjutan terhadap 12 tablet tambahan. Hasil dari total 18 tablet kemudian dievaluasi sesuai kriteria penerimaan yang berlaku. Oleh karena itu, bets tidak dapat langsung diluluskan hanya karena rata-rata waktu hancurnya masih di bawah 15 menit, dan juga tidak dapat langsung ditolak karena masih terdapat kesempatan untuk dilakukan pengujian tahap kedua sesuai prosedur farmakope.<b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Waktu Hancur halaman 2120`,
+explanation:`Berdasarkan hasil pengujian waktu hancur terhadap 6 tablet valsartan 80 mg, diperoleh satu tablet dengan waktu hancur 16,2 menit, sedangkan lima tablet lainnya masih memenuhi persyaratan yaitu kurang dari 15 menit. Dalam pengujian waktu hancur, penilaian tidak didasarkan pada nilai rata-rata waktu hancur seluruh tablet, melainkan pada kemampuan masing-masing unit untuk memenuhi batas waktu yang telah ditetapkan dalam monografi. Pengujian awal dilakukan terhadap 6 tablet. Apabila seluruh tablet hancur dalam waktu yang dipersyaratkan, maka bets dinyatakan memenuhi syarat. Namun, jika terdapat 1 atau 2 tablet yang gagal memenuhi persyaratan, pengujian tidak langsung dinyatakan gagal maupun lulus. Dalam kondisi tersebut, pengujian harus dilanjutkan dengan menambahkan 12 tablet lagi untuk memastikan apakah kegagalan yang terjadi bersifat insidental atau mencerminkan mutu bets secara keseluruhan.<br/>Pada kasus ini hanya terdapat 1 tablet yang tidak memenuhi syarat, sehingga tindakan yang paling tepat adalah melakukan pengujian lanjutan terhadap 12 tablet tambahan. Hasil dari total 18 tablet kemudian dievaluasi sesuai kriteria penerimaan yang berlaku. Oleh karena itu, bets tidak dapat langsung diluluskan hanya karena rata-rata waktu hancurnya masih di bawah 15 menit, dan juga tidak dapat langsung ditolak karena masih terdapat kesempatan untuk dilakukan pengujian tahap kedua sesuai prosedur farmakope.<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Waktu Hancur halaman 2120`,
 expImg:``
 },
 {
@@ -936,7 +936,7 @@ question:`Divisi QC PT Nitro Pharmaceutical melakukan pengawasan mutu terhadap g
 img:``,
 options:["A. 4,23% – granul memenuhi spesifikasi","B. 5,23% – granul memenuhi spesifikasi","C. 5,23% – granul tidak memenuhi spesifikasi","D. 6,23% – granul memenuhi spesifikasi","E. 6,23% – granul tidak memenuhi spesifikasi"],
 answer: `B. 5,23% – granul memenuhi spesifikasi`,
-explanation:`<img src="assets/03M7.png"></imgInterpretasi : Hasil pengujian memenuhi syarat<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI - Estimasi Distribusi Ukuran Partikel Dengan Pengayak Halaman 2013`,
+explanation:`<img src="assets/03M7.png"></img>Interpretasi : Hasil pengujian memenuhi syarat<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI - Estimasi Distribusi Ukuran Partikel Dengan Pengayak Halaman 2013`,
 expImg:``
 },
 {
@@ -946,7 +946,7 @@ question:`Seorang apoteker di bagian produksi sedang menyiapkan 10 suppositoria 
 img:``,
 options:["A. 19,82 gram","B. 18,80 gram","C. 16,45 gram","D. 21,95 gram","E. 17, 42 gram"],
 answer: `E. 17, 42 gram`,
-explanation:`<img src="assets/04M7.png"></img<br><b>Referensi:</b><br>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Bab Suppositories dan Displacement Value.<br>Remington: The Science and Practice of Pharmacy – Perhitungan basis suppositoria dan nilai tukar.<br>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Formulasi sediaan rektal dan displacement value.`,
+explanation:`<img src="assets/04M7.png"></img><br/><b>Referensi:</b><br>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Bab Suppositories dan Displacement Value.<br/>Remington: The Science and Practice of Pharmacy – Perhitungan basis suppositoria dan nilai tukar.<br/>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Formulasi sediaan rektal dan displacement value.`,
 expImg:``
 },
 {
@@ -966,7 +966,7 @@ question:`Industri Farmasi PT.Nitro Pharmaceutical akan melakukan produksi table
 img:``,
 options:["A. 325 mg","B. 338 mg","C. 350 mg","D. 360 mg","E. 420 mg"],
 answer: `B. 338 mg`,
-explanation:`Klindamisin yang dibutuhkan :<img src="assets/05M7.png"></imgArtinya setiap tablet harus mengandung ±338 mg klindamisin HCl agar setara dengan 300 mg klindamisin<br>Ingat : Yang ditanya selalu di atas <b>Referensi:</b><br>United States Pharmacopeia. Clindamycin Hydrochloride. USP–NF. Rockville, MD: United States Pharmacopeia.`,
+explanation:`Klindamisin yang dibutuhkan :<img src="assets/05M7.png"></imgArtinya setiap tablet harus mengandung ±338 mg klindamisin HCl agar setara dengan 300 mg klindamisin<br/>Ingat : Yang ditanya selalu di atas <br/><b>Referensi:</b><br>United States Pharmacopeia. Clindamycin Hydrochloride. USP–NF. Rockville, MD: United States Pharmacopeia.`,
 expImg:``
 },
 {
@@ -976,7 +976,7 @@ question:`Apoteker di Departemen RnD PT Nitro Pharmaceutical sedang melakukan pe
 img:``,
 options:["A. Tablet bukal","B. Tablet enteric-coated","C. Tablet floating","D. Tablet sublingual","E. Tablet salut gula"],
 answer: `C. Tablet floating`,
-explanation:`Floating Drug Delivery System (FDDS) merupakan salah satu sistem penghantaran obat yang dirancang untuk memperpanjang waktu tinggal obat di lambung (gastric retention time). Sistem ini bekerja dengan prinsip bahwa sediaan memiliki berat jenis (densitas) lebih kecil daripada cairan lambung, sehingga sediaan dapat mengapung di permukaan cairan lambung.. Ketika sediaan mengapung di lambung, obat akan dilepaskan secara bertahap (controlled release atau sustained release). Dengan demikian, obat dapat berada lebih lama di lambung sehingga meningkatkan bioavailabilitas obat<b>Referensi:</b><br>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Modified release dosage forms.Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Gastroretentive drug delivery system.`,
+explanation:`Floating Drug Delivery System (FDDS) merupakan salah satu sistem penghantaran obat yang dirancang untuk memperpanjang waktu tinggal obat di lambung (gastric retention time). Sistem ini bekerja dengan prinsip bahwa sediaan memiliki berat jenis (densitas) lebih kecil daripada cairan lambung, sehingga sediaan dapat mengapung di permukaan cairan lambung. Ketika sediaan mengapung di lambung, obat akan dilepaskan secara bertahap (controlled release atau sustained release). Dengan demikian, obat dapat berada lebih lama di lambung sehingga meningkatkan bioavailabilitas obat.<br/><b>Referensi:</b><br>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Modified release dosage forms.Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Gastroretentive drug delivery system.`,
 expImg:``
 },
 {
@@ -986,7 +986,7 @@ question:`Apoteker di Departemen RnD sebuah industri farmasi sedang mengevaluasi
 img:``,
 options:["A. Kelas I","B. Kelas II","C. Kelas III","D. Kelas IV","E. Kelas V"],
 answer: `C. Kelas III`,
-explanation:`<img src="assets/06M7.png"></img<b>Referensi:</b><br>Shargel L, Yu ABC. Applied Biopharmaceutics and Pharmacokinetics. 7th ed. New York: McGraw-Hill Education; 2016. p. 455–458.`,
+explanation:`<img src="assets/06M7.png"></img><b>Referensi:</b><br>Shargel L, Yu ABC. Applied Biopharmaceutics and Pharmacokinetics. 7th ed. New York: McGraw-Hill Education; 2016. p. 455–458.>`,
 expImg:``
 },
 {
@@ -996,7 +996,7 @@ question:`Apoteker di bagian produksi sebuah industri farmasi sedang melakukan p
 img:``,
 options:["A. 15%","B. 18%","C. 20%","D. 22%","E. 25%"],
 answer: `E. 25%`,
-explanation:`<img src="assets/07M7.png"></img`,
+explanation:`<img src="assets/07M7.png"></img>`,
 expImg:``
 },
 {
@@ -1006,7 +1006,7 @@ question:`Sebuah industri farmasi PT Nitro Apoteker memproduksi sediaan tablet m
 img:``,
 options:["A. Diluent","B. Disintegrant","C. Anti-adherent","D. Binder","E. Lubricant"],
 answer: `D. Binder`,
-explanation:`Tablet yang menunjukkan kekerasan rendah dan kerapuhan tinggi menandakan bahwa ikatan antar partikel granul selama proses kompresi tidak cukup kuat. Hal ini menyebabkan tablet menjadi kurang kompak sehingga mudah pecah atau hancur ketika mengalami gesekan atau tekanan mekanik. Untuk meningkatkan kekuatan mekanik tablet, diperlukan peningkatan penggunaan bahan pengikat (binder) dalam formulasi.<b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
+explanation:`Tablet yang menunjukkan kekerasan rendah dan kerapuhan tinggi menandakan bahwa ikatan antar partikel granul selama proses kompresi tidak cukup kuat. Hal ini menyebabkan tablet menjadi kurang kompak sehingga mudah pecah atau hancur ketika mengalami gesekan atau tekanan mekanik. Untuk meningkatkan kekuatan mekanik tablet, diperlukan peningkatan penggunaan bahan pengikat (binder) dalam formulasi.<br/><b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
 expImg:``
 },
 {
@@ -1016,7 +1016,7 @@ question:`Seorang apoteker yang bekerja di industri farmasi PT Nitro Apoteker ak
 img:``,
 options:["A. Seal coating","B. Sub coating","C. Coloring","D. Smoothing","E. Polishing"],
 answer: `A. Seal coating`,
-explanation:`Pada proses penyalutan tablet salut gula, terdapat beberapa tahapan yang dilakukan secara berurutan untuk menghasilkan tablet dengan lapisan yang seragam dan stabil.<img src="assets/08M7.PNG"></img<b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
+explanation:`Pada proses penyalutan tablet salut gula, terdapat beberapa tahapan yang dilakukan secara berurutan untuk menghasilkan tablet dengan lapisan yang seragam dan stabil.<img src="assets/08M7.PNG"></img><br/><b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
 expImg:``
 },
 {
@@ -1026,7 +1026,7 @@ question:`Sebuah industri farmasi PT Nitro Apoteker memproduksi tablet amlodipin
 img:``,
 options:["A. Sticking","B. Picking","C. Lamination","D. Capping","E. Chipping"],
 answer: `D. Capping`,
-explanation:`Capping merupakan salah satu jenis cacat tablet yang terjadi ketika bagian atas atau bawah tablet terpisah dari badan tablet setelah proses kompresi atau selama proses ejeksi dari cetakan.Kondisi ini biasanya disebabkan oleh beberapa faktor, antara lain:<br>1. udara yang terperangkap dalam granul<br>2. tekanan kompresi yang tidak optimal<br>3. kelembaban granul yang tidak sesuai<br>4. distribusi ukuran partikel yang tidak seragam.<b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
+explanation:`Capping merupakan salah satu jenis cacat tablet yang terjadi ketika bagian atas atau bawah tablet terpisah dari badan tablet setelah proses kompresi atau selama proses ejeksi dari cetakan.Kondisi ini biasanya disebabkan oleh beberapa faktor, antara lain:<br/>1. udara yang terperangkap dalam granul<br/>2. tekanan kompresi yang tidak optimal<br/>3. kelembaban granul yang tidak sesuai<br/>4. distribusi ukuran partikel yang tidak seragam.<br/><b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
 expImg:``
 },
 {
@@ -1036,7 +1036,7 @@ question:`Bagian pengawasan mutu sedang melakukan uji keseragaman sediaan terhad
 img:``,
 options:["A. 2,952","B.2,594","C.2,595","D.2,553","E.2,597"],
 answer: `A. 2,952`,
-explanation:`<img src="assets/09M7.PNG"></img<b>Referensi:</b><br>Farmakope VI- Uji Keseragaman Kandungan halaman 2025`,
+explanation:`<img src="assets/09M7.PNG"></img><br/><b>Referensi:</b><br>Farmakope VI- Uji Keseragaman Kandungan halaman 2025`,
 expImg:``
 },
 {
