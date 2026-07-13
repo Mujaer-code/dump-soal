@@ -422,7 +422,7 @@ expImg:`02M34.png`
 {
 category:`Industri`,
 level:`Medium`,
-question:`Suatu lini produksi di industri farmasi mampu menghasilkan 1.000.000 tablet selama 1 shift (8 jam). Setelah dilakukan pemeriksaan oleh tim IPC terdapat 500 tablet yang nilai friabilitas diatas 1% serta 100 tablet perlu dilakukan rework karena mengalami chipping selama proses produksi. Berdasarkan data tersebut berapa nilai Quality pada line tersebut?`,
+question:`Suatu lini produksi di industri farmasi mampu menghasilkan 1.000.000 tablet selama 1 shift (8 jam). Setelah dilakukan pemeriksaan oleh tim IPC terdapat 500 tablet yang nilai friabilitas diatas 1% serta 100 tablet perlu dilakukan rework karena mengalami chipping selama proses produksi. Berapa nilai Quality pada line tersebut?`,
 img:``,
 options:["A. 99,99%","B. 99,95%","C. 99,94%","D. 99,90%","E. 99,00%"],
 answer: `C. 99,94%`,
@@ -432,7 +432,7 @@ expImg:`03M34.png`
 {
 category:`Industri`,
 level:`Easy`,
-question:`Berapakah nilai batas (benchmark) Overal Equiment Effectiveness (OEE) yang disepakati secara internasional sebagai standard World Class?`,
+question:`Seorang Manajer Produksi di sebuah industri farmasi sedang memimpin proyek evaluasi mesin di lini produksi utamanya dengan mengukur tingkat ketersediaan (Availability), efisiensi kinerja (Performance), dan persentase produk cacat (Quality).Ia menargetkan agar lini produksinya tidak hanya berjalan dengan baik, tetapi juga bisa diakui sejajar dengan pabrik-pabrik top di seluruh dunia. Untuk membuktikan hal tersebut kepada jajaran direksi, ia harus membandingkan hasil perhitungannya dengan patokan global. Berapakah nilai batas (benchmark) Overall Equipment Effectiveness (OEE) yang disepakati secara internasional sebagai standar World Class yang harus dicapai oleh Manager Produksi tersebut?`,
 img:``,
 options:["A. 100%","B. 95%","C. 90%","D. 85%","E. 80%"],
 answer: `D. 85%`,
@@ -456,7 +456,7 @@ question:`Sebuah industri farmasi akan memproduksi suplemen kesehatan dalam bent
 img:``,
 options:["A. 150 roll","B. 135 roll","C. 100 roll","D. 90 roll","E. 60 roll"],
 answer: `D. 90 roll`,
-explanation:`Total tablet 900.000 tablet dan satu strip adalah 10 tablet sehingga total strip adalah 900.000 tab/10 tab = 90.000 tablet<br><br>Panjang per strip = 15 cm atau 0,15 m<br><br>Total material = 90.000 strip x 0,15m =13.500 meter<br><br>Jika 1 roll = 150 meter maka roll yang dibutuhkan adalah 13.500 meter/150 meter/roll = 90 roll`,
+explanation:`Total tablet 900.000 tablet dan satu strip adalah 10 tablet sehingga total strip adalah 900.000 tab/10 tab = 90.000 tablet<br><br>Panjang per strip = 15 cm atau 0,15 m<br><br>Total material = 90.000 strip x 0,15m =13.500 meter<br><br>Jika 1 roll = 150 meter maka roll yang dibutuhkan adalah 13.500 meter/150 meter/roll = 90 roll<br><br><b>Referensi:</b><br>Heizer, J., & Render, B. (2016). Operations Management: Sustainability and Supply Chain Management. Pearson.`,
 expImg:``
 },
 {
@@ -496,8 +496,8 @@ question:`Seorang supervisor produksi sedang mengawasi proses filling sebuah bat
 img:``,
 options:["A. 99,7%","B. 98,2%","C. 97,0%","D. 96,4%","E. 95,8%"],
 answer: `B. 98,2%`,
-explanation:``,
-expImg:`06M34.png`
+explanation:`<p data-path-to-node="1"><strong data-path-to-node="1" data-index-in-node="0">1. Menghitung Volume yang Hilang (Loss)</strong></p><p data-path-to-node="2">Kita identifikasi semua volume yang tidak menjadi produk jadi:</p><ul data-path-to-node="3"><li><p data-path-to-node="3,0,0"><strong data-path-to-node="3,0,0" data-index-in-node="0">Tumpahan:</strong> 1 L</p></li><li><p data-path-to-node="3,1,0"><strong data-path-to-node="3,1,0" data-index-in-node="0">Sisa Pipa (Dead Volume):</strong> 14 L</p></li><li><p data-path-to-node="3,2,0"><strong data-path-to-node="3,2,0" data-index-in-node="0">Reject Botol:</strong> 50 botol × 60 mL = 3.000 mL = 3 L</p></li></ul><p data-path-to-node="4"><strong data-path-to-node="4" data-index-in-node="0">Total Volume Hilang:</strong> 1 + 14 + 3 = 18 L</p><p data-path-to-node="5"><strong data-path-to-node="5" data-index-in-node="0">2. Menghitung Volume Produk Jadi (Actual Yield)</strong></p><p data-path-to-node="6">Volume produk jadi adalah volume teoritis dikurangi total volume yang hilang:</p><ul data-path-to-node="7"><li><p data-path-to-node="7,0,0"><strong data-path-to-node="7,0,0" data-index-in-node="0">Volume Teoritis:</strong> 1.000 L</p></li><li><p data-path-to-node="7,1,0"><strong data-path-to-node="7,1,0" data-index-in-node="0">Volume Aktual:</strong> 1.000 L - 18 L = 982 L</p></li></ul><p data-path-to-node="8"><strong data-path-to-node="8" data-index-in-node="0">3. Menghitung %Yield</strong></p><p data-path-to-node="9">Rumus %yield adalah:</p><div data-path-to-node="10"><div class="math-block" data-math="\% Yield = \left( \frac{\text{Volume Aktual}}{\text{Volume Teoritis}} \right) \times 100\%">$$\% Yield = \left( \frac{\text{Volume Aktual}}{\text{Volume Teoritis}} \right) \times 100\%$$</div></div><ul data-path-to-node="11"><li><p data-path-to-node="11,0,0"><strong data-path-to-node="11,0,0" data-index-in-node="0">%Yield:</strong></p><div data-path-to-node="11,0,1"><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%">$$\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%$$</div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%"> </div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%">Referensi</div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%">Heizer, J., Render, B., &amp; Munson, C. (2019). <em data-path-to-node="15,2,1,0,0" data-index-in-node="61">Operations Management: Sustainability and Supply Chain Management</em>. Pearson.</div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%"> </div><div class="math-block" data-math="\left( \frac{982}{1.000} \right) \times 100\% = 98,2\%"> </div></div></li></ul>`,
+expImg:``
 },
 {
 category:`Industri`,
