@@ -6,7 +6,7 @@ question:`Apoteker di Komite Farmasi dan Terapi (KFT) RS Nitro Medica melakukan 
 img:``,
 options:["A. Layak karena nilai ICUR < WTP","B. Layak karena nilai ICUR > WTP","C. Tidak layak karena nilai ICUR < WTP","D. Tidak layak karena nilai ICUR > WTP","E. Tidak layak karena biaya Regimen B lebih tinggi"],
 answer: `A. Layak karena nilai ICUR < WTP`,
-explanation:`Suatu intervensi dikatakan hemat biaya (<i>cost-effective</i>) atau layak jika nilai rasio inkrementalnya (ICUR) berada di bawah ambang batas kesediaan membayar (WTP). <img src="assets/1PTO1.PNG"></imgInterpretasi: Hasil perhitungan menunjukkan nilai ICUR sebesar Rp1.000.000/QALY. Nilai ini lebih kecil dibandingkan nilai ambang batas WTP yang ditetapkan (Rp3.000.000/QALY). Karena ICUR < WTP, maka penggantian terapi ke Regimen B dinyatakan layak atau hemat biaya.<p><b>Referensi:</b><br></p><ol><li>Kementerian Kesehatan RI. (2016). Pedoman Teknis Analisis Farmakoekonomi di Fasilitas Kesehatan.</li><li>Kementerian Kesehatan RI. (2025). Pedoman Kajian Farmakoekonomi dalam Pelayanan Kesehatan.</li> </ol>`,
+explanation:`Suatu intervensi dikatakan hemat biaya (<i>cost-effective</i>) atau layak jika nilai rasio inkrementalnya (ICUR) berada di bawah ambang batas kesediaan membayar (WTP). <img src="assets/1PTO1.PNG"></imgInterpretasi: Hasil perhitungan menunjukkan nilai ICUR sebesar Rp1.000.000/QALY. Nilai ini lebih kecil dibandingkan nilai ambang batas WTP yang ditetapkan (Rp3.000.000/QALY). Karena ICUR < WTP, maka penggantian terapi ke Regimen B dinyatakan layak atau hemat biaya.<p><b>Referensi:</b><br/></p><ol><li>Kementerian Kesehatan RI. (2016). Pedoman Teknis Analisis Farmakoekonomi di Fasilitas Kesehatan.</li><li>Kementerian Kesehatan RI. (2025). Pedoman Kajian Farmakoekonomi dalam Pelayanan Kesehatan.</li> </ol>`,
 expImg:`1RTO1.png`
 },
 {
@@ -16,7 +16,7 @@ question:`Apoteker di RS Nitro Medica sedang melakukan pemetaan beban penyakit p
 img:``,
 options:["A. 100","B. 200","C. 300","D. 400","E. 500"],
 answer: `C. 300`,
-explanation:`<p><em>Disability Adjusted Life Year</em> (DALY) mencerminkan besarnya waktu yang dinyatakan dalam tahun individu kehilangan kondisi sehat. Nilai DALY didapatkan dari penjumlahan Y<em>ears of Life Lost</em> (YLL) sebagai akibat dari kematian dini dan Y<em>ears Lost Due to Disability</em> (YLD) untuk individu yang hidup dengan gangguan kesehatan.</p> <img src="assets/2PTO1.PNG"></img><p><b>Referensi:</b><br></p><ol><li>Kementerian Kesehatan RI. (2016). Pedoman Teknis Analisis Farmakoekonomi di Fasilitas Kesehatan. </li><li>Sassi, F. (2006). Calculating QALYs, comparing QALY and DALY calculations.</li></ol>`,
+explanation:`<p><em>Disability Adjusted Life Year</em> (DALY) mencerminkan besarnya waktu yang dinyatakan dalam tahun individu kehilangan kondisi sehat. Nilai DALY didapatkan dari penjumlahan Y<em>ears of Life Lost</em> (YLL) sebagai akibat dari kematian dini dan Y<em>ears Lost Due to Disability</em> (YLD) untuk individu yang hidup dengan gangguan kesehatan.</p> <img src="assets/2PTO1.PNG"></img><p><b>Referensi:</b><br/></p><ol><li>Kementerian Kesehatan RI. (2016). Pedoman Teknis Analisis Farmakoekonomi di Fasilitas Kesehatan. </li><li>Sassi, F. (2006). Calculating QALYs, comparing QALY and DALY calculations.</li></ol>`,
 expImg:`2RTO1.png`
 },
 {
@@ -26,7 +26,7 @@ question:`Apoteker di Komite Farmasi dan Terapi (KFT) RS Nitro Medica sedang mel
 img:``,
 options:["A. 5","B. 10","C. 15","D. 20","E. 25"],
 answer: `A. 5`,
-explanation:`<img src="assets/3PTO1.PNG"></img><p>NNT = 5, artinya 5 orang harus diterapi dengan ARB untuk mengurangi 1 angka insiden stroke.<br /><br /><em>Number Needed to Treat</em> (NNT) = Jumlah orang yang perlu diterapi (intervensi) untuk mengurangi 1 insiden. Semakin rendah NNT, semakin baik.</p><b>Referensi:</b><br>Centers for Disease Control and Prevention. (2012). Principles of epidemiology in public health practice: An introduction to applied epidemiology and biostatistics (3rd ed.). U.S. Department of Health and Human Services.`,
+explanation:`<img src="assets/3PTO1.PNG"></img><p>NNT = 5, artinya 5 orang harus diterapi dengan ARB untuk mengurangi 1 angka insiden stroke.<br /><br /><em>Number Needed to Treat</em> (NNT) = Jumlah orang yang perlu diterapi (intervensi) untuk mengurangi 1 insiden. Semakin rendah NNT, semakin baik.</p><b>Referensi:</b><br/>Centers for Disease Control and Prevention. (2012). Principles of epidemiology in public health practice: An introduction to applied epidemiology and biostatistics (3rd ed.). U.S. Department of Health and Human Services.`,
 expImg:`3RTO1.png`
 },
 {
@@ -36,7 +36,7 @@ question:`Apoteker di Komite Farmasi dan Terapi (KFT) RS Nitro Medica sedang men
 img:``,
 options:["A. 2,0","B. 3,0","C. 5,0","D. 6,0","E. 7,0"],
 answer: `C. 5,0`,
-explanation:`<img src="assets/4PTO1.PNG"></img>Pasien yang menggunakan lisinopril memiliki risiko 5 kali lebih besar mengalami batuk kering dibandingkan pasien yang menggunakan amlodipin.<br><br><b>Interpretasi RR</b>:<br><ol><li>RR < 1,0: Paparan/perlakuan menurunkan risiko terjadinya outcome (memiliki efek protektif).</li><li>RR = 1,0: Tidak ada hubungan antara intervensi atau paparan dan penyakit.</li><li>RR > 1,0: Paparan/perlakuan meningkatkan risiko terjadinya outcome.</li></ol><b>Referensi:</b><br>Centers for Disease Control and Prevention. (2012). Principles of epidemiology in public health practice: An introduction to applied epidemiology and biostatistics (3rd ed.). U.S. Department of Health and Human Services. `,
+explanation:`<img src="assets/4PTO1.PNG"></img>Pasien yang menggunakan lisinopril memiliki risiko 5 kali lebih besar mengalami batuk kering dibandingkan pasien yang menggunakan amlodipin.<br/><br/><b>Interpretasi RR</b>:<br/><ol><li>RR < 1,0: Paparan/perlakuan menurunkan risiko terjadinya outcome (memiliki efek protektif).</li><li>RR = 1,0: Tidak ada hubungan antara intervensi atau paparan dan penyakit.</li><li>RR > 1,0: Paparan/perlakuan meningkatkan risiko terjadinya outcome.</li></ol><b>Referensi:</b><br/>Centers for Disease Control and Prevention. (2012). Principles of epidemiology in public health practice: An introduction to applied epidemiology and biostatistics (3rd ed.). U.S. Department of Health and Human Services. `,
 expImg:`4RTO1.PNG`
 },
 {
@@ -46,7 +46,7 @@ question:`Apoteker di Instalasi Farmasi RS Nitro Medica menerima resep untuk seo
 img:``,
 options:["A. Melayani resep hanya dengan jumlah obat yang tersedia saat ini","B. Melakukan konfirmasi rencana substitusi terapeutik ke dokter","C. Menganjurkan pasien untuk menebus obat di apotek luar RS","D. Melakukan substitusi generik dengan persetujuan pasien saja","E. Menunda pelayanan resep sampai obat yang tertulis tersedia"],
 answer: `B. Melakukan konfirmasi rencana substitusi terapeutik ke dokter`,
-explanation:`<p>Penggantian obat dengan <span style="color: #ff0000;">zat aktif berbeda</span> namun dalam <span style="color: #0000ff;">kelas terapi yang sama</span> dikategorikan sebagai <strong>substitusi terapeutik</strong>. Substitusi jenis ini wajib dilakukan oleh instalasi farmasi dengan terlebih dahulu meminta <strong>persetujuan dokter penulis resep</strong>. Setelah disetujui, apoteker harus mencatat nama obat pengganti, waktu komunikasi, dan nama dokter pada lembar resep atau sistem informasi farmasi.</p><b>Referensi:</b><br>Keputusan Menteri Kesehatan Republik Indonesia Nomor HK.01.07/MENKES/200/2020 tentang Pedoman Penyusunan Formularium Rumah Sakit.`,
+explanation:`<p>Penggantian obat dengan <span style="color: #ff0000;">zat aktif berbeda</span> namun dalam <span style="color: #0000ff;">kelas terapi yang sama</span> dikategorikan sebagai <strong>substitusi terapeutik</strong>. Substitusi jenis ini wajib dilakukan oleh instalasi farmasi dengan terlebih dahulu meminta <strong>persetujuan dokter penulis resep</strong>. Setelah disetujui, apoteker harus mencatat nama obat pengganti, waktu komunikasi, dan nama dokter pada lembar resep atau sistem informasi farmasi.</p><b>Referensi:</b><br/>Keputusan Menteri Kesehatan Republik Indonesia Nomor HK.01.07/MENKES/200/2020 tentang Pedoman Penyusunan Formularium Rumah Sakit.`,
 expImg:`5RTO1.png`
 },
 {
@@ -56,7 +56,7 @@ question:`Apoteker di RS Nitro Medica sedang menyusun Rencana Kebutuhan Obat (RK
 img:``,
 options:["A. Amlodipin 5 mg","B. Asam askorbat tablet 50 mg","C. Kalsium laktat tablet 500 mg","D. Klorokuin tablet 150 mg","E. Piridoksin tablet 100 mg"],
 answer: `E. Piridoksin tablet 100 mg`,
-explanation:`<p>Dalam penyesuaian rencana kebutuhan obat dengan alokasi anggaran yang terbatas (efisiensi), apoteker menggunakan metode matriks <strong>kombinasi ABC-VEN</strong>. Kategori pemilihan obat<strong> dibagi menjadi tiga (3)</strong>, yaitu:</p> <img src="assets/6P1TO1.PNG"></img><p>Jika dana tidak mencukupi, target utama untuk <strong>ditunda</strong> pengadaannya adalah <span style="color: #ff0000;">kelompok Tambahan (N)</span>, terutama kategori <span style="color: #000000; background-color: #ffff00;"><strong>AN</strong></span>. <strong>Piridoksin</strong> merupakan obat <span style="color: #0000ff;">penunjang</span> (Non-esensial) namun menyedot <span style="color: #ff0000;">anggaran paling besar</span> (kelompok A). Oleh karena itu, obat dengan kategori AN (Piridoksin) harus ditunda terlebih dahulu dibandingkan BN atau CN.</p><img src="assets/6P2TO1.PNG"></img><p><strong>Urutan pengurangan/eleminasi</strong> obat berdasarkan matriks ABC-VEN adalah <span style="color: #ff0000;">AN &gt; AB &gt; AC &gt; AE &gt; AB</span> dan seterusnya.</p><b>Referensi:</b><br>Kementerian Kesehatan RI. 2023. Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan. `,
+explanation:`<p>Dalam penyesuaian rencana kebutuhan obat dengan alokasi anggaran yang terbatas (efisiensi), apoteker menggunakan metode matriks <strong>kombinasi ABC-VEN</strong>. Kategori pemilihan obat<strong> dibagi menjadi tiga (3)</strong>, yaitu:</p> <img src="assets/6P1TO1.PNG"></img><p>Jika dana tidak mencukupi, target utama untuk <strong>ditunda</strong> pengadaannya adalah <span style="color: #ff0000;">kelompok Tambahan (N)</span>, terutama kategori <span style="color: #000000; background-color: #ffff00;"><strong>AN</strong></span>. <strong>Piridoksin</strong> merupakan obat <span style="color: #0000ff;">penunjang</span> (Non-esensial) namun menyedot <span style="color: #ff0000;">anggaran paling besar</span> (kelompok A). Oleh karena itu, obat dengan kategori AN (Piridoksin) harus ditunda terlebih dahulu dibandingkan BN atau CN.</p><img src="assets/6P2TO1.PNG"></img><p><strong>Urutan pengurangan/eleminasi</strong> obat berdasarkan matriks ABC-VEN adalah <span style="color: #ff0000;">AN &gt; AB &gt; AC &gt; AE &gt; AB</span> dan seterusnya.</p><b>Referensi:</b><br/>Kementerian Kesehatan RI. 2023. Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan. `,
 expImg:``
 },
 {
@@ -66,7 +66,7 @@ question:`Apoteker di sebuah RSUD Provinsi sedang melakukan proses pengadaan sed
 img:``,
 options:["A. E-purchasing","B. Pengadaan langsung","C. Penunjukan langsung","D. Tender tertutup","E. Tender terbuka"],
 answer: `B. Pengadaan langsung`,
-explanation:`<p>Berdasarkan Peraturan Presiden tentang Pengadaan Barang/Jasa Pemerintah, metode pemilihan penyedia ditentukan berdasarkan <strong>nilai paket pengadaan</strong> dan<strong> karakteristik barang/jasanya</strong>.</p><ol><li><strong>Pengadaan Langsung</strong>: Digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak 200 juta rupiah (&lt; 200 jt).</li><li><strong>E-purchasing</strong>: Untuk pelayanan kesehatan Jaminan Kesehatan Nasional, pembelian obat dilakukan melalui e-purchasing berdasarkan obat yang ada di e-katalog.</li><li><strong>Penunjukan Langsung</strong>: Digunakan untuk keadaan tertentu (seperti bencana atau barang spesifik).</li><li><strong>Tender Tertutup atau Terbatas</strong>: Hanya pada PBF tertentu yang sudah terdaftar atau memenuhi syarat (&gt; 200 jt).</li><li><strong>Tender Terbuka</strong>: Semua PBF memiliki kesempatan yang sama (&gt; 200 jt).</li></ol><p>Karena nilai pengadaan adalah <span style="color: #ff0000;">180 juta rupiah</span> dan <span style="color: #ff0000;">tidak tersedia di katalog</span>, maka metode yang digunakan adalah <strong>Pengadaan Langsung</strong>.</p> <b>Referensi:</b><br><ol><li>Kementerian Kesehatan RI (2019). Petunjuk Teknis Standar Pelayanan Kefarmasian di Rumah Sakit. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.</li><li>Peraturan Presiden Nomor 46 Tahun 2025 tentang Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah.</li> </ol>`,
+explanation:`<p>Berdasarkan Peraturan Presiden tentang Pengadaan Barang/Jasa Pemerintah, metode pemilihan penyedia ditentukan berdasarkan <strong>nilai paket pengadaan</strong> dan<strong> karakteristik barang/jasanya</strong>.</p><ol><li><strong>Pengadaan Langsung</strong>: Digunakan untuk Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya yang bernilai paling banyak 200 juta rupiah (&lt; 200 jt).</li><li><strong>E-purchasing</strong>: Untuk pelayanan kesehatan Jaminan Kesehatan Nasional, pembelian obat dilakukan melalui e-purchasing berdasarkan obat yang ada di e-katalog.</li><li><strong>Penunjukan Langsung</strong>: Digunakan untuk keadaan tertentu (seperti bencana atau barang spesifik).</li><li><strong>Tender Tertutup atau Terbatas</strong>: Hanya pada PBF tertentu yang sudah terdaftar atau memenuhi syarat (&gt; 200 jt).</li><li><strong>Tender Terbuka</strong>: Semua PBF memiliki kesempatan yang sama (&gt; 200 jt).</li></ol><p>Karena nilai pengadaan adalah <span style="color: #ff0000;">180 juta rupiah</span> dan <span style="color: #ff0000;">tidak tersedia di katalog</span>, maka metode yang digunakan adalah <strong>Pengadaan Langsung</strong>.</p> <b>Referensi:</b><br/><ol><li>Kementerian Kesehatan RI (2019). Petunjuk Teknis Standar Pelayanan Kefarmasian di Rumah Sakit. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.</li><li>Peraturan Presiden Nomor 46 Tahun 2025 tentang Perubahan Kedua atas Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah.</li> </ol>`,
 expImg:`7RTO1.png`
 },
 {
@@ -76,7 +76,7 @@ question:`Seorang apoteker di RS Nitro Medica akan melakukan pemesanan obat kepa
 img:``,
 options:["A. 3","B. 4","C. 5","D. 6","E. 7"],
 answer: `C. 5`,
-explanation:`<ol><li><strong>SP Narkotika (PBF A)</strong>: Terdiri dari <strong>2 SP</strong>. Surat pesanan narkotika hanya dapat digunakan untuk 1 jenis narkotika. <span style="color: #ff0000;">Kodein 10 mg dan 20 mg</span> memiliki kekuatan berbeda sehingga harus dibuat dalam SP terpisah.</li><li><strong>SP Psikotropika (PBF A)</strong>: Terdiri dari <strong>1 SP</strong>. <span style="color: #ff0000;">Fenobarbital 1 mg dan Diazepam 2 mg</span> dapat digabung karena satu SP psikotropika boleh memuat beberapa jenis obat sekaligus.</li><li><strong>SP Reguler (PBF A)</strong>: Terdiri dari 1 SP. Klorokuin dan Lidokain merupakan obat keras reguler yang dipesan ke PBF yang sama.</li><li><strong>SP Obat-Obat Tertentu/OOT (PBF B)</strong>: Terdiri dari <strong>1 SP</strong>. <span style="color: #ff0000;">Triheksifenidil, Haloperidol, dan Tramadol</span> termasuk golongan OOT yang dapat digabung dalam satu SP khusus untuk satu distributor.</li></ol><p><strong>Total SP</strong> = 2 (Narkotika) + 1 (Psikotropika) + 1 (Reguler) + 1 (OOT) = 5 Surat Pesanan.</p><img src="assets/8PTO1.PNG"></img><p><b>Referensi:</b><br></p><ol><li>Peraturan BPOM No. 24 Tahun 2021 tentang Pengawasan Pengelolaan Obat, Bahan Obat, Narkotika, Psikotropika, dan Prekursor Farmasi di Fasilitas Pelayanan Kefarmasian.</li><li>Peraturan Menteri Kesehatan No. 5 Tahun 2023 tentang Narkotika, Psikotropika, dan Prekursor Farmasi.</li></ol>`,
+explanation:`<ol><li><strong>SP Narkotika (PBF A)</strong>: Terdiri dari <strong>2 SP</strong>. Surat pesanan narkotika hanya dapat digunakan untuk 1 jenis narkotika. <span style="color: #ff0000;">Kodein 10 mg dan 20 mg</span> memiliki kekuatan berbeda sehingga harus dibuat dalam SP terpisah.</li><li><strong>SP Psikotropika (PBF A)</strong>: Terdiri dari <strong>1 SP</strong>. <span style="color: #ff0000;">Fenobarbital 1 mg dan Diazepam 2 mg</span> dapat digabung karena satu SP psikotropika boleh memuat beberapa jenis obat sekaligus.</li><li><strong>SP Reguler (PBF A)</strong>: Terdiri dari 1 SP. Klorokuin dan Lidokain merupakan obat keras reguler yang dipesan ke PBF yang sama.</li><li><strong>SP Obat-Obat Tertentu/OOT (PBF B)</strong>: Terdiri dari <strong>1 SP</strong>. <span style="color: #ff0000;">Triheksifenidil, Haloperidol, dan Tramadol</span> termasuk golongan OOT yang dapat digabung dalam satu SP khusus untuk satu distributor.</li></ol><p><strong>Total SP</strong> = 2 (Narkotika) + 1 (Psikotropika) + 1 (Reguler) + 1 (OOT) = 5 Surat Pesanan.</p><img src="assets/8PTO1.PNG"></img><p><b>Referensi:</b><br/></p><ol><li>Peraturan BPOM No. 24 Tahun 2021 tentang Pengawasan Pengelolaan Obat, Bahan Obat, Narkotika, Psikotropika, dan Prekursor Farmasi di Fasilitas Pelayanan Kefarmasian.</li><li>Peraturan Menteri Kesehatan No. 5 Tahun 2023 tentang Narkotika, Psikotropika, dan Prekursor Farmasi.</li></ol>`,
 expImg:`8RTO1.png`
 },
 {
@@ -96,7 +96,7 @@ question:`Apoteker Penanggung Jawab (APJ) di Apotek Nitro Farma sedang melakukan
 img:``,
 options:["A. Dinas Kesehatan Kabupaten/Kota dan UPT BPOM","B. Dinas Kesehatan Provinsi dan UPT BPOM","C. Kementerian Kesehatan dan BPOM","D. Dinas Kesehatan Provinsi dan Dinas Kesehatan Kabupaten/Kota","E. BPOM dan Dinas Kesehatan Provinsi"],
 answer: `A. Dinas Kesehatan Kabupaten/Kota dan UPT BPOM`,
-explanation:`<p>Berdasarkan Permenkes No. 5 Tahun 2023 Pasal 63 ayat (a) angka 3, permohonan saksi pemusnahan untuk <strong>Apotek, Rumah Sakit, Klinik, dan Toko Obat</strong> harus disampaikan <span style="color: #ff0000;">kepada Dinas Kesehatan Kabupaten/Kota</span> dan/atau <span style="color: #ff0000;">unit pelaksana teknis (UPT) BPOM setempat</span>.</p> <b>Referensi:</b><br>Peraturan Menteri Kesehatan No. 5 Tahun 2023 tentang Narkotika, Psikotropika, dan Prekursor Farmasi.`,
+explanation:`<p>Berdasarkan Permenkes No. 5 Tahun 2023 Pasal 63 ayat (a) angka 3, permohonan saksi pemusnahan untuk <strong>Apotek, Rumah Sakit, Klinik, dan Toko Obat</strong> harus disampaikan <span style="color: #ff0000;">kepada Dinas Kesehatan Kabupaten/Kota</span> dan/atau <span style="color: #ff0000;">unit pelaksana teknis (UPT) BPOM setempat</span>.</p> <b>Referensi:</b><br/>Peraturan Menteri Kesehatan No. 5 Tahun 2023 tentang Narkotika, Psikotropika, dan Prekursor Farmasi.`,
 expImg:`10RTO1.png`
 },
 {
@@ -106,7 +106,7 @@ question:`Apoteker Penanggung Jawab (APJ) di PBF PT Nitro Global Distribusi seda
 img:``,
 options:["A. 1 bulan sekali","B. 3 bulan sekali","C. 6 bulan sekali","D. 9 bulan sekali","E. 12 bulan sekali"],
 answer: `A. 1 bulan sekali`,
-explanation:`<p>Berdasarkan Peraturan BPOM Nomor 2 Tahun 2022 Pasal 7 ayat (2), <strong>laporan pemasukan dan distribusi</strong> untuk obat yang termasuk dalam golongan Narkotika, Psikotropika, Prekursor Farmasi, dan <span style="color: #ff0000;">Obat-Obat Tertentu (OOT)</span> wajib disampaikan kepada Kepala Badan secara berkala <strong>setiap 1 (satu) kali dalam 1 (satu) bulan</strong>, paling lambat <strong>tanggal 10 bulan berikutnya</strong>. Ketamin termasuk dalam golongan OOT sesuai PerBPOM No. 12 Tahun 2025.</p><b>Referensi:</b><br><ol><li> Peraturan BPOM Nomor 2 Tahun 2022 tentang Pelaporan Kegiatan Industri Farmasi dan PBF.</li> <li> Peraturan BPOM Nomor 12 Tahun 2025 tentang Obat-Obat Tertentu yang Sering Disalahgunakan.</li><li> Peraturan BPOM Nomor 14 Tahun 2023 tentang Perubahan atas Peraturan BPOM Nomor 2 Tahun 2022 tentang Pelaporan Kegiatan Industri Farmasi dan PBF.</li></ol>`,
+explanation:`<p>Berdasarkan Peraturan BPOM Nomor 2 Tahun 2022 Pasal 7 ayat (2), <strong>laporan pemasukan dan distribusi</strong> untuk obat yang termasuk dalam golongan Narkotika, Psikotropika, Prekursor Farmasi, dan <span style="color: #ff0000;">Obat-Obat Tertentu (OOT)</span> wajib disampaikan kepada Kepala Badan secara berkala <strong>setiap 1 (satu) kali dalam 1 (satu) bulan</strong>, paling lambat <strong>tanggal 10 bulan berikutnya</strong>. Ketamin termasuk dalam golongan OOT sesuai PerBPOM No. 12 Tahun 2025.</p><b>Referensi:</b><br/><ol><li> Peraturan BPOM Nomor 2 Tahun 2022 tentang Pelaporan Kegiatan Industri Farmasi dan PBF.</li> <li> Peraturan BPOM Nomor 12 Tahun 2025 tentang Obat-Obat Tertentu yang Sering Disalahgunakan.</li><li> Peraturan BPOM Nomor 14 Tahun 2023 tentang Perubahan atas Peraturan BPOM Nomor 2 Tahun 2022 tentang Pelaporan Kegiatan Industri Farmasi dan PBF.</li></ol>`,
 expImg:`11RTO1.PNG`
 },
 {
@@ -156,7 +156,7 @@ question:`Apoteker di apotek Nitro Farma sedang menghitung jumlah tablet amoksis
 img:``,
 options:["A. 7.500","B. 7.700","C. 8.050","D. 8.250","E. 8.450"],
 answer: `C. 8.050`,
-explanation:`Rumus RKO (Rencana Kebutuhan Obat) Metode Konsumsi:<br><br><b>A = (B + C + D) – E </b> <br><br><b>Keterangan: </b><br>A = Rencana Kebutuhan<br>a = Pemakaian rata-rata<br>B = Stok Kerja<br>C = Buffer stock (stok penyangga)<br>D = Lead Time Stock (stok waktu tunggu)<br>E = Sisa stok yang masih dapat digunakan<br><br><img src="assets/16P1TO1.PNG"></img><br><img src="assets/16P2TO1.PNG"></img><p><b>Referensi:</b><br>Kementerian Kesehatan RI. (2023). Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.</p> `,
+explanation:`Rumus RKO (Rencana Kebutuhan Obat) Metode Konsumsi:<br/><br/><b>A = (B + C + D) – E </b> <br/><br/><b>Keterangan: </b><br/>A = Rencana Kebutuhan<br/>a = Pemakaian rata-rata<br/>B = Stok Kerja<br/>C = Buffer stock (stok penyangga)<br/>D = Lead Time Stock (stok waktu tunggu)<br/>E = Sisa stok yang masih dapat digunakan<br/><br/><img src="assets/16P1TO1.PNG"></img><br/><img src="assets/16P2TO1.PNG"></img><p><b>Referensi:</b><br/>Kementerian Kesehatan RI. (2023). Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.</p> `,
 expImg:``
 },
 {
@@ -166,7 +166,7 @@ question:`Apoteker di industri farmasi PT Nitro Pharmaceutical bagian <i>Product
 img:``,
 options:["A. 45.268","B. 64.018","C. 78.406","D. 90.536","E. 110.883"],
 answer: `D. 90.536`,
-explanation:`<p>EOQ adalah jumlah pembelian paling ekonomis yang meminimalkan total biaya persediaan, yaitu gabungan antara:</p><ol><li><em>Ordering cost</em> (biaya pemesanan) → biaya setiap kali melakukan pemesanan barang</li><li><em>Carrying cost</em> (biaya penyimpanan) → biaya penyimpanan barang di gudang</li></ol><p>*Note: Jika biaya simpan diketahui pada soal dalam persen (%), cari dulu biaya simpan dalam Rp.</p><ul><li>Biaya simpan (Rp) = harga per unit (Rp) x biaya simpan (%)</li><li>Biaya simpan (Rp) = 9.150 x 25% = Rp2,287.5 per kg/tahun</li></ul><br><br><img src="assets/17PTO1.PNG"></img><p><b>Referensi:</b><br>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.</p>`,
+explanation:`<p>EOQ adalah jumlah pembelian paling ekonomis yang meminimalkan total biaya persediaan, yaitu gabungan antara:</p><ol><li><em>Ordering cost</em> (biaya pemesanan) → biaya setiap kali melakukan pemesanan barang</li><li><em>Carrying cost</em> (biaya penyimpanan) → biaya penyimpanan barang di gudang</li></ol><p>*Note: Jika biaya simpan diketahui pada soal dalam persen (%), cari dulu biaya simpan dalam Rp.</p><ul><li>Biaya simpan (Rp) = harga per unit (Rp) x biaya simpan (%)</li><li>Biaya simpan (Rp) = 9.150 x 25% = Rp2,287.5 per kg/tahun</li></ul><br/><br/><img src="assets/17PTO1.PNG"></img><p><b>Referensi:</b><br/>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.</p>`,
 expImg:``
 },
 {
@@ -176,7 +176,7 @@ question:`Pada akhir tahun 2025, apoteker di apotek Nitro Farma mengevaluasi pro
 img:``,
 options:["A. 15","B. 32","C. 45","D. 60","E. 78"],
 answer: `D. 60`,
-explanation:`<b>Hitung Harga Pokok Penjualan (HPP)</b><br>HPP = (Stok Awal + Pembelian) – Stok Akhir<br> HPP = (400.000.000 + 1.650.000.000) − 350.000.000 = Rp1.700.000.000<br> <br><b>Hitung Laba Bersih</b><br>Laba Bersih = Omzet – HPP – Beban usaha<br> Laba Bersih = 2.800.000.000 − 1.700.000.000 − 830.000.000 = Rp270.000.000<br> *Contoh beban usaha = Beban/ Biaya operasional atau beban usaha, beban pajak, beban gaji, dan lain-lain<br> <br><b>Hitung Persentase ROI</b><br> ROI adalah persentase hasil/tingkat pengembalian dari suatu investasi (modal awal)<img src="assets/18PTO1.PNG"></img><p><b>Referensi:</b><br>Satibi, Rokhman, M. R., & Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
+explanation:`<b>Hitung Harga Pokok Penjualan (HPP)</b><br/>HPP = (Stok Awal + Pembelian) – Stok Akhir<br/> HPP = (400.000.000 + 1.650.000.000) − 350.000.000 = Rp1.700.000.000<br/> <br/><b>Hitung Laba Bersih</b><br/>Laba Bersih = Omzet – HPP – Beban usaha<br/> Laba Bersih = 2.800.000.000 − 1.700.000.000 − 830.000.000 = Rp270.000.000<br/> *Contoh beban usaha = Beban/ Biaya operasional atau beban usaha, beban pajak, beban gaji, dan lain-lain<br/> <br/><b>Hitung Persentase ROI</b><br/> ROI adalah persentase hasil/tingkat pengembalian dari suatu investasi (modal awal)<img src="assets/18PTO1.PNG"></img><p><b>Referensi:</b><br/>Satibi, Rokhman, M. R., & Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
 expImg:``
 },
 {
@@ -196,7 +196,7 @@ question:`Seorang pasien laki-laki berusia 50 tahun datang ke Apotek Nitro Farma
 img:``,
 options:["A. Rp254.950","B. Rp260.950","C. Rp261.234","D. Rp263.950","E. Rp270.000"],
 answer: `B. Rp260.950`,
-explanation:`<b>Hitung sisa obat</b><br>Metformin: 30 – 10 = 20 tabletAtorvastatin: 30 – 15 = 15 tablet<br>Kandesartan: 60 – 25 = 35 tablet<br><br><b>Hitung total harga obat</b><br>Metformin: 20 x Rp284 = Rp5.680<br>Atorvastatin: 15 x Rp4.148 = Rp62.220<br>Kandesartan: 35 x Rp4.830 = Rp169.050<br>Subtotal obat = Rp236.950<br><br><b>Hitung biaya tuslah dan embalase</b><br>Tuslah: 3 R/ x Rp5.000 = Rp15.000<br>Embalase: 3 R/ x Rp3.000 = Rp9.000<br>Subtotal = Rp24.000<br><br><b>Total</b><br>Rp236.950 + Rp24.000 = Rp260.950<br> <br><b>Referensi:</b><br>Ikatan Apoteker Indonesia. (2021). ISO Indonesia: Informasi Spesialite Obat Indonesia (Vol. 53). PT ISFI Penerbitan. `,
+explanation:`<b>Hitung sisa obat</b><br/>Metformin: 30 – 10 = 20 tabletAtorvastatin: 30 – 15 = 15 tablet<br/>Kandesartan: 60 – 25 = 35 tablet<br/><br/><b>Hitung total harga obat</b><br/>Metformin: 20 x Rp284 = Rp5.680<br/>Atorvastatin: 15 x Rp4.148 = Rp62.220<br/>Kandesartan: 35 x Rp4.830 = Rp169.050<br/>Subtotal obat = Rp236.950<br/><br/><b>Hitung biaya tuslah dan embalase</b><br/>Tuslah: 3 R/ x Rp5.000 = Rp15.000<br/>Embalase: 3 R/ x Rp3.000 = Rp9.000<br/>Subtotal = Rp24.000<br/><br/><b>Total</b><br/>Rp236.950 + Rp24.000 = Rp260.950<br/> <br/><b>Referensi:</b><br/>Ikatan Apoteker Indonesia. (2021). ISO Indonesia: Informasi Spesialite Obat Indonesia (Vol. 53). PT ISFI Penerbitan. `,
 expImg:``
 },
 {
@@ -236,7 +236,7 @@ question:`Seorang apoteker di bagian QA <i>Pharmacovigilance</i> industri farmas
 img:``,
 options:["A. 25%","B. 50%","C. 65%","D. 75%","E. 80%"],
 answer: `D. 75%`,
-explanation:`<img src="assets/4PTO2.PNG"></img>Penggunaan antiplatelet baru mampu menurunkan risiko relatif kejadian infark miokard sebesar 75% dibandingkan dengan terapi standar.<br><br><b>Referensi:</b><br> Centers for Disease Control and Prevention. (2012). Principles of epidemiology in public health practice: An introduction to applied epidemiology and biostatistics (3rd ed.). U.S. Department of Health and Human Services.`,
+explanation:`<img src="assets/4PTO2.PNG"></img>Penggunaan antiplatelet baru mampu menurunkan risiko relatif kejadian infark miokard sebesar 75% dibandingkan dengan terapi standar.<br/><br/><b>Referensi:</b><br/> Centers for Disease Control and Prevention. (2012). Principles of epidemiology in public health practice: An introduction to applied epidemiology and biostatistics (3rd ed.). U.S. Department of Health and Human Services.`,
 expImg:`4RTO2.PNG`
 },
 {
@@ -256,7 +256,7 @@ question:`Apoteker di RS Nitro Medica sedang mengevaluasi Rencana Kebutuhan Obat
 img:``,
 options:["A. Aminofilin injeksi","B. Ibuprofen tablet","C. Metformin tablet","D. Omeprazol kapsul","E. Seftriakson injeksi"],
 answer: `E. Seftriakson injeksi`,
-explanation:`<img src="assets/6P1TO2.PNG"></img><p>Analisis Pareto ABC (Berdasarkan persentase kumulatif investasi):</p><ol><li><strong>Kelompok A (≤ 70%)</strong>: <span style="color: #ff0000;">aminofilin injeksi</span> (45%) dan seftriakson injeksi (68%)</li><li><strong>Kelompok B (71-90%)</strong>: <span style="color: #ff0000;">metformin tablet</span> (83%)</li><li><strong>Kelompok C (91-100%)</strong>: <span style="color: #ff0000;">ibuprofen tablet</span> (93%) dan <span style="color: #ff0000;">omeprazol kapsul</span> (100%)</li></ol><p>Analisis VEN (Berdasarkan urgensi klinis):</p><ol><li><strong>Vital (V)</strong>:<span style="color: #0000ff;"> aminofilin injeksi</span> (<em>life-saving</em> untuk kegawatdaruratan)</li><li><strong>Esensial (E)</strong>: <span style="color: #0000ff;">seftriakson injeksi</span> (antibiotik/kausal), <span style="color: #0000ff;">metformin tablet</span> (antidiabetes),<span style="color: #0000ff;"> ibuprofen tablet</span> (analgesik), omeprazol kapsul.</li></ol><p>Obat yang masuk <strong>kategori AE</strong> menjadi target untuk <span style="color: #ff0000;">dikurangi</span> jumlah pengadaannya karena memakan anggaran yang besar (Kategori A) namun tingkatnya esensial (E) masih di bawah vital (V).</p><img src="assets/6P2TO2.PNG"></img><p>Urutan pengurangan/eleminasi obat berdasarkan matriks ABC-VEN adalah AN > AB > AC > AE > AB dan seterusnya.</p><b>Referensi:</b><br>Kementerian Kesehatan RI. 2023. Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
+explanation:`<img src="assets/6P1TO2.PNG"></img><p>Analisis Pareto ABC (Berdasarkan persentase kumulatif investasi):</p><ol><li><strong>Kelompok A (≤ 70%)</strong>: <span style="color: #ff0000;">aminofilin injeksi</span> (45%) dan seftriakson injeksi (68%)</li><li><strong>Kelompok B (71-90%)</strong>: <span style="color: #ff0000;">metformin tablet</span> (83%)</li><li><strong>Kelompok C (91-100%)</strong>: <span style="color: #ff0000;">ibuprofen tablet</span> (93%) dan <span style="color: #ff0000;">omeprazol kapsul</span> (100%)</li></ol><p>Analisis VEN (Berdasarkan urgensi klinis):</p><ol><li><strong>Vital (V)</strong>:<span style="color: #0000ff;"> aminofilin injeksi</span> (<em>life-saving</em> untuk kegawatdaruratan)</li><li><strong>Esensial (E)</strong>: <span style="color: #0000ff;">seftriakson injeksi</span> (antibiotik/kausal), <span style="color: #0000ff;">metformin tablet</span> (antidiabetes),<span style="color: #0000ff;"> ibuprofen tablet</span> (analgesik), omeprazol kapsul.</li></ol><p>Obat yang masuk <strong>kategori AE</strong> menjadi target untuk <span style="color: #ff0000;">dikurangi</span> jumlah pengadaannya karena memakan anggaran yang besar (Kategori A) namun tingkatnya esensial (E) masih di bawah vital (V).</p><img src="assets/6P2TO2.PNG"></img><p>Urutan pengurangan/eleminasi obat berdasarkan matriks ABC-VEN adalah AN > AB > AC > AE > AB dan seterusnya.</p><b>Referensi:</b><br/>Kementerian Kesehatan RI. 2023. Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
 expImg:``
 },
 {
@@ -366,7 +366,7 @@ question:`Apotek Nitro Farma berinvestasi sebesar Rp250.000.000 untuk melakukan 
 img:``,
 options:["A. 3,1 tahun","B. 3,4 tahun","C. 3,5 tahun","D. 4,1 tahun","E. 4,4 tahun"],
 answer: `B. 3,4 tahun`,
-explanation:`<p><em>Payback Period</em> (PBP) = waktu yang diperlukan untuk balik modal.</p><img src="assets/17PTO2.PNG"></img><p><b>Referensi:</b><br>Satibi, Rokhman, M. R., & Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
+explanation:`<p><em>Payback Period</em> (PBP) = waktu yang diperlukan untuk balik modal.</p><img src="assets/17PTO2.PNG"></img><p><b>Referensi:</b><br/>Satibi, Rokhman, M. R., & Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
 expImg:``
 },
 {
@@ -376,7 +376,7 @@ question:`Apoteker Penanggung Jawab di apotek Nitro Farma mengevaluasi efisiensi
 img:``,
 options:["A. 4,5 kali","B. 5,0 kali","C. 6,0 kali","D. 7,0 kali","E. 8,3 kali"],
 answer: `C. 6,0 kali`,
-explanation:`<b>Hitung Pembelian Bersih</b><br>Pembelian Bersih = Pembelian – Diskon Pembelian – Retur Pembelian <br>Pembelian Bersih = 1.800.000.000 – 60.000.000 – 40.000.000<br>Pembelian Bersih = 1.700.000.000 <br><br><b>Hitung Harga Pokok Penjualan (HPP)</b><br> HPP = (Persediaan Awal + Pembelian Bersih) – Persediaan Akhir<br>HPP = (350.000.000 + 1.700.000.000) – 250.000.000<br>HPP = 1.800.000.000<br><br><img src="assets/18PTO2.PNG"></img><p><em>Inventory Turn Over Ratio</em> (TOR) = Perputaran Persediaan. TOR yang baik <span style="color: #ff0000;">8 sampai 12 kali per tahun</span>, semakin kecil TOR maka makin menumpuk sediaan.</p><p><strong>Referensi:</strong><br />Satibi, Rokhman, M. R., &amp; Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
+explanation:`<b>Hitung Pembelian Bersih</b><br/>Pembelian Bersih = Pembelian – Diskon Pembelian – Retur Pembelian <br/>Pembelian Bersih = 1.800.000.000 – 60.000.000 – 40.000.000<br/>Pembelian Bersih = 1.700.000.000 <br/><br/><b>Hitung Harga Pokok Penjualan (HPP)</b><br/> HPP = (Persediaan Awal + Pembelian Bersih) – Persediaan Akhir<br/>HPP = (350.000.000 + 1.700.000.000) – 250.000.000<br/>HPP = 1.800.000.000<br/><br/><img src="assets/18PTO2.PNG"></img><p><em>Inventory Turn Over Ratio</em> (TOR) = Perputaran Persediaan. TOR yang baik <span style="color: #ff0000;">8 sampai 12 kali per tahun</span>, semakin kecil TOR maka makin menumpuk sediaan.</p><p><strong>Referensi:</strong><br />Satibi, Rokhman, M. R., &amp; Aditama, H. (2024). Manajemen apotek (Cetakan ke-5). Gadjah Mada University Press.</p>`,
 expImg:``
 },
 {
@@ -386,7 +386,7 @@ question:`Sebuah Klinik Utama baru saja membuka layanan praktik dokter spesialis
 img:``,
 options:["A. 175","B. 180","C. 193","D. 198","E. 203"],
 answer: `D. 198`,
-explanation:`Rumus RKO Metode Proxy Consumption:<br><b>A = (CA × CE) × T + BS − E</b><br><br>Keterangan:<br>CA = Pemakaian rata-rata<br>CE = Perhitungan standar pengobatan<br>T = Lama kebutuhan<br> BS = Buffer stock<br>E = Sisa stok yang masih dapat digunakan<br> <br><img src="assets/19PTO2.PNG"></img>Note: 1.1 adalah faktor kali %BS. Prinsipnya adalah 1 + (%  BS). e.g., 10% → 1.10; 15% → 1.15; 20% → 1.20, etc.<br> <br><b>Referensi:</b><br>Kementerian Kesehatan RI. (2023). Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
+explanation:`Rumus RKO Metode Proxy Consumption:<br/><b>A = (CA × CE) × T + BS − E</b><br/><br/>Keterangan:<br/>CA = Pemakaian rata-rata<br/>CE = Perhitungan standar pengobatan<br/>T = Lama kebutuhan<br/> BS = Buffer stock<br/>E = Sisa stok yang masih dapat digunakan<br/> <br/><img src="assets/19PTO2.PNG"></img>Note: 1.1 adalah faktor kali %BS. Prinsipnya adalah 1 + (%  BS). e.g., 10% → 1.10; 15% → 1.15; 20% → 1.20, etc.<br/> <br/><b>Referensi:</b><br/>Kementerian Kesehatan RI. (2023). Petunjuk Teknis Perencanaan Kebutuhan Obat. Jakarta: Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
 expImg:``
 },
 {
@@ -396,7 +396,7 @@ question:`Apoteker di industri farmasi PT Nitro Pharmaceutical bagian <i>Product
 img:``,
 options:["A. 1 kali","B. 2 kali","C. 3 kali","D. 4 kali","E. 5 kali"],
 answer: `B. 2 kali`,
-explanation:`<img src="assets/20PTO2.PNG"></img><p>Kesimpulan: Untuk mencapai efisiensi biaya, pemesanan dilakukan sebanyak 2 kali dalam setahun dengan interval waktu setiap 0,5 tahun (6 bulan) sekali.</p><p><b>Referensi:</b><br></p>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.`,
+explanation:`<img src="assets/20PTO2.PNG"></img><p>Kesimpulan: Untuk mencapai efisiensi biaya, pemesanan dilakukan sebanyak 2 kali dalam setahun dengan interval waktu setiap 0,5 tahun (6 bulan) sekali.</p><p><b>Referensi:</b><br/></p>Priyambodo, B. (2025). Manajemen farmasi industri modern: Strategi menuju industri farmasi generatif (Bagian kedua) (Ed. 1). Global Health Science Group.`,
 expImg:``
 },
 {
@@ -516,7 +516,7 @@ question:`Sebuah industri farmasi sebelumnya telah memproduksi injeksi ceftriaxo
 img:``,
 options:["A. Tidak diperlukan validasi tambahan,hanya menyertakan uji stabilitas dipercepat selama 6 bulan","B. Tidak dilakukan validasi karena penurunan ukuran batch size tidak mempengaruhi aspek kualitas dari produk","C. Validasi dilakukan pada 3 batch produksi ukuran 50 kg","D. Validasi dilakukan cukup hanya pada 1 batch ukuran 50 kg","E. Validasi dilakukan pada skala pilot"],
 answer: `C. Validasi dilakukan pada 3 batch produksi ukuran 50 kg`,
-explanation:`Penurunan atau peningkatan ukuran batch pada produk steril adalah perubahan yang bersifat kritikal karena dapat mempengaruhi parameter kritis/Critical Process Parameter (CPP) seperti waktu tinggal produk di mesin filling, kecepatan, waktu dan suhu proses filling yang dapat mempengaruhi Critical Quality Attributes (CQA) dari produk seperti homogenitas dan sterilitas. Oleh karena itu, untuk memastikan konsistensi produksi dan dapat menjaga CPP tidak mengalami deviasi BPOM mensyaratkan untuk validasi dilakukan pada 3 batch ukuran produksi atau pada satu batch pilot disertai dengan komitmen untuk menjalankan validasi proses pada 3 batch produksi disertai dengan perkiraan waktu serta tidak mengedarkan produk sebelum proses validasi selesai<br><br><b>Referensi:</b><br>PerBPOM No 15 tahun 2023 Perubahan Keempat Atas Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat`,
+explanation:`Penurunan atau peningkatan ukuran batch pada produk steril adalah perubahan yang bersifat kritikal karena dapat mempengaruhi parameter kritis/Critical Process Parameter (CPP) seperti waktu tinggal produk di mesin filling, kecepatan, waktu dan suhu proses filling yang dapat mempengaruhi Critical Quality Attributes (CQA) dari produk seperti homogenitas dan sterilitas. Oleh karena itu, untuk memastikan konsistensi produksi dan dapat menjaga CPP tidak mengalami deviasi BPOM mensyaratkan untuk validasi dilakukan pada 3 batch ukuran produksi atau pada satu batch pilot disertai dengan komitmen untuk menjalankan validasi proses pada 3 batch produksi disertai dengan perkiraan waktu serta tidak mengedarkan produk sebelum proses validasi selesai<br/><br/><b>Referensi:</b><br/>PerBPOM No 15 tahun 2023 Perubahan Keempat Atas Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2017 tentang Kriteria dan Tata Laksana Registrasi Obat`,
 expImg:``
 },
 {
@@ -556,7 +556,7 @@ question:`<p>Sebuah industri farmasi melakukan perubahan proses pembuatan tablet
 img:``,
 options:["A. Registrasi variasi mayor","B. Registrasi variasi minor dengan persetujuan","C. Registrasi variasi minor dengan notifikasi","D. Registrasi ulang","E. Registrasi baru"],
 answer: `A. Registrasi variasi mayor`,
-explanation:`Menurut pedoman variasi BPOM, perubahan proses pembuatan yang menggunakan peralatan dengan prinsip desain yang berbeda seperti kedua metode tersebut yang walaupun sama-sama granulasi kering tetapi memliki prinsip kerja yang berbeda, dimana metode slugging yang menggunakan tekanan vertikal dan metode roller compactor yang menggunakan kanan dari dua roda berputar (roller) untuk membentuk ribbon. Perbedaan ini dapat meningkatkan kepadatan granul secara signifikan dan memengaruhi profil pelepasan zat aktif, mutu, dan stabilitas obat sehingga diklasifikasikan sebagai Variasi Mayor.<br><br><b>Referensi:</b><br>PerBPOM No 15 tahun 2023`,
+explanation:`Menurut pedoman variasi BPOM, perubahan proses pembuatan yang menggunakan peralatan dengan prinsip desain yang berbeda seperti kedua metode tersebut yang walaupun sama-sama granulasi kering tetapi memliki prinsip kerja yang berbeda, dimana metode slugging yang menggunakan tekanan vertikal dan metode roller compactor yang menggunakan kanan dari dua roda berputar (roller) untuk membentuk ribbon. Perbedaan ini dapat meningkatkan kepadatan granul secara signifikan dan memengaruhi profil pelepasan zat aktif, mutu, dan stabilitas obat sehingga diklasifikasikan sebagai Variasi Mayor.<br/><br/><b>Referensi:</b><br/>PerBPOM No 15 tahun 2023`,
 expImg:`09M34.png`
 },
 {
@@ -602,7 +602,7 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`<p><img src="assets/5S5TO1.png"></img></p><p>Analis QC mikrobiologi industri farmasi PT Nitro Pharmaceutical melakukan identifikasi <em>Pseudomonas aeruginosa </em>menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media.  Apakah media yang digunakan untuk pertumbuhan bakteri tersebut?</p>`,
+question:`<p><img src="assets/5S5TO1.jpg"></img></p><p>Analis QC mikrobiologi industri farmasi PT Nitro Pharmaceutical melakukan identifikasi <em>Pseudomonas aeruginosa </em>menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media.  Apakah media yang digunakan untuk pertumbuhan bakteri tersebut?</p>`,
 img:``,
 options:["A. <i>Cetrimide agar</i>","B. <i>Eosin methylene blue agar</i>","C. <i>Mannitol salt agar</i>","D. <i>Mueller Hinton agar</i>","E. <i>Xylose lysine deoxycholate agar</i>"],
 answer: `A. <i>Cetrimide agar</i>`,
@@ -686,7 +686,7 @@ question:`<p>Analis QC di industri farmasi PT Nitro Pharmaceutical melakukan pen
 img:``,
 options:["A. 3,251","B. 4,763","C. 0,565","D. 5,679","E. 0,793"],
 answer: `E. 4,763`,
-explanation:`<p><strong>Diketahui:</strong></p><p>Rumus rotasi jenis:<br /><img src="assets/5J5TO2.1.png" alt="" /></p><p>Rotasi jenis : 0,73<sup>o</sup><br />Panjang jalan cahaya dalam desimeter : 75 cm konversi ke dm = 7,5 dm<br />Konsentrasi sampel : 0,87 g/mL</p><p><strong>Jawab:</strong></p><p><img src="assets/5J5TO2.2.png" alt="" /></p>`,
+explanation:`<p><strong>Diketahui:</strong></p><p>Rumus rotasi jenis:<br /><img src="assets/5J5TO2.1.png" alt="" /></p><p>Rotasi jenis : 0,73<br />Panjang jalan cahaya dalam desimeter : 75 cm konversi ke dm = 7,5 dm<br />Konsentrasi sampel : 0,87 g/mL</p><p><strong>Jawab:</strong></p><p><img src="assets/5J5TO2.2.png" alt="" /></p>`,
 expImg:``
 },
 {
@@ -726,7 +726,7 @@ question:`Seorang Apoteker di laboratorium BPOM menemukan senyawa Aniline (PhNH2
 img:``,
 options:["A. 0,16% dan terabsorpsi dengan baik","B. 0,16% dan terabsorpsi dengan buruk","C. 6,31% dan terabsorpsi dengan baik","D. 6,31% dan terabsorpsi dengan buruk","E. 15,95% dan terabsorpsi dengan baik"],
 answer: `A. 0,16% dan terabsorpsi dengan baik`,
-explanation:`Pertama, kita menentukan berapa perbandingan jumlah anilin yang terion dan yang tidak terion dengan persamaan Henderson-Hasselbalch.<img src="assets/1TO1M6001.png"></img>Bentuk desimal 0,00158489 dapat diubah menjadi perbandingan 0,16/100. Ini berarti, 100 bagian tak terion (PhNH2) memiliki kesetaraan dengan 0,16 bagian terion (PhNH3+). Maka, persentase ionisasi aniline pada tubuh manusia adalah 0,16%. Karena % ionisasi pada tubuh manusia kecil, yaitu hampir 0%, maka Aniline terabsorpsi dengan baik di dalam tubuh manusia.<br><br><b>Referensi:</b><br>Remington: The Science and Practice of Pharmacy, 21st edition, chapter 17 & 25<img src="assets/Rep_M6_01.png"></img><img src="assets/Rep_M6_02.png"></img>`,
+explanation:`Pertama, kita menentukan berapa perbandingan jumlah anilin yang terion dan yang tidak terion dengan persamaan Henderson-Hasselbalch.<img src="assets/1TO1M6001.png"></img>Bentuk desimal 0,00158489 dapat diubah menjadi perbandingan 0,16/100. Ini berarti, 100 bagian tak terion (PhNH2) memiliki kesetaraan dengan 0,16 bagian terion (PhNH3+). Maka, persentase ionisasi aniline pada tubuh manusia adalah 0,16%. Karena % ionisasi pada tubuh manusia kecil, yaitu hampir 0%, maka Aniline terabsorpsi dengan baik di dalam tubuh manusia.<br/><br/><b>Referensi:</b><br/>Remington: The Science and Practice of Pharmacy, 21st edition, chapter 17 & 25<img src="assets/Rep_M6_01.png"></img><img src="assets/Rep_M6_02.png"></img>`,
 expImg:``
 },
 {
@@ -736,7 +736,7 @@ question:`Pada pertengahan abad ke-20, Thalidomide dipasarkan sebagai campuran r
 img:`TO1M6002.png`,
 options:["A. Kedua enantiomer (R) dan (S) memiliki efek toksik","B. Enantiomer (R) memiliki efek teratogenik dan enantiomer (S) memiliki efek terapetik","C. Enantiomer (R) bertindak sebagai eutomer dan enantiomer (S) bertindak sebagai distomer","D. Thalidomide sebaiknya diberikan hanya dalam bentuk enantiomer (R) murni saja.","E. Thalidomide sebaiknya diberikan hanya dalam bentuk enantiomer (S) murni saja."],
 answer: `C. Enantiomer (R) bertindak sebagai eutomer dan enantiomer (S) bertindak sebagai distomer`,
-explanation:`Sediaan Thalidomide pada masa itu adalah merupakan campuran rasemat, yaitu (R)-Thalidomide dan (S)-Thalidomide. Enantiomer (isomer) (R) memiliki efek sedatif, tetapi enantiomer (S) memiliki efek teratogenik. Enantiomer yang memberikan efek terapetik disebut eutomer, sedangkan enantiomer yang memberikan efek yang tidak diinginkan atau toksik disebut distomer. Dengan demikian:<br><br>Enantiomer (R) berperan sebagai eutomer DAN Enantiomer (S) berperan sebagai distomer<br><br>Selain itu, sumber menyebutkan bahwa pemberian enantiomer (R) murni tidak dapat mengatasi masalah teratogenik pada obat Thalidomide karena di dalam tubuh akan mengalami racemisation in vivo yang dapat menghasilkan campuran rasemat 50/50 kembali di pembuluh darah.<br><br><b>Referensi:</b><br>Donald of pharmaceutical chemistry, 4th edition, Chapter 4`,
+explanation:`Sediaan Thalidomide pada masa itu adalah merupakan campuran rasemat, yaitu (R)-Thalidomide dan (S)-Thalidomide. Enantiomer (isomer) (R) memiliki efek sedatif, tetapi enantiomer (S) memiliki efek teratogenik. Enantiomer yang memberikan efek terapetik disebut eutomer, sedangkan enantiomer yang memberikan efek yang tidak diinginkan atau toksik disebut distomer. Dengan demikian:<br/><br/>Enantiomer (R) berperan sebagai eutomer DAN Enantiomer (S) berperan sebagai distomer<br/><br/>Selain itu, sumber menyebutkan bahwa pemberian enantiomer (R) murni tidak dapat mengatasi masalah teratogenik pada obat Thalidomide karena di dalam tubuh akan mengalami racemisation in vivo yang dapat menghasilkan campuran rasemat 50/50 kembali di pembuluh darah.<br/><br/><b>Referensi:</b><br/>Donald of pharmaceutical chemistry, 4th edition, Chapter 4`,
 expImg:`TO1M6003.png`
 },
 {
@@ -746,7 +746,7 @@ question:`Seorang Apoteker di bagian Penelitian dan Pengembangan sebuah industri
 img:`TO1M6004.png`,
 options:["A. Untuk meningkatkan kelarutan obat di dalam tubuh","B. Untuk meningkatkan stabilitas obat","C. Untuk mempercepat onset obat sehingga bekerja lebih cepat","D. Untuk memperpanjang efek obat (duration of drug’s action)","E. Untuk menutupi rasa pahit obat"],
 answer: `E. Untuk menutupi rasa pahit obat`,
-explanation:`Ada 3 bentuk Chloramphenicol yang beredar di pasaran, yaitu Chloramphenicol (Chloromycetin), Chloramphenicol Hemisuccinate (Succinate atau Sodium Succinate), dan Chloramphenicol Palmitate.<br><br>1. Chloramphenicol = bentuk murni/aktif, biasanya ada dalam sediaan tetes mata.<br>2. Chloramphenicol Hemisuccinate = dibuat untuk meningkatkan kelarutan Chloramphenicol dalam air, biasanya ada dalam sediaan Injeksi.<br>3. Chloramphenicol Palmitate = dibuat untuk menutupi rasa pahit. <br><br>Rantai C yang panjang membuatnya tidak larut di mulut sehingga rasanya jadi tasteless.<br><br><b>Referensi:</b><br>Foye's principles of medicinal chemistry, 7th edition, Chapter 33.`,
+explanation:`Ada 3 bentuk Chloramphenicol yang beredar di pasaran, yaitu Chloramphenicol (Chloromycetin), Chloramphenicol Hemisuccinate (Succinate atau Sodium Succinate), dan Chloramphenicol Palmitate.<br/><br/>1. Chloramphenicol = bentuk murni/aktif, biasanya ada dalam sediaan tetes mata.<br/>2. Chloramphenicol Hemisuccinate = dibuat untuk meningkatkan kelarutan Chloramphenicol dalam air, biasanya ada dalam sediaan Injeksi.<br/>3. Chloramphenicol Palmitate = dibuat untuk menutupi rasa pahit. <br/><br/>Rantai C yang panjang membuatnya tidak larut di mulut sehingga rasanya jadi tasteless.<br/><br/><b>Referensi:</b><br/>Foye's principles of medicinal chemistry, 7th edition, Chapter 33.`,
 expImg:`TO1M6005.png`
 },
 {
@@ -756,17 +756,17 @@ question:`Seorang apoteker di bagian penelitian dan pengembangan sebuah industri
 img:``,
 options:["A. Karbonil","B. Karboksilat","C. Amina","D. Amida","E. Fenol"],
 answer: `C. Amina`,
-explanation:`Gugus Amina (NH2) pada rantai acyl dapat meningkatkan stabilitas amoxicillin pada lingkungan asam. Substitusi rantai R pada Amina Primer di struktur 6-APA menggunakan gugus penarik elektron (EWG; Electron Withdrawing Group) akan mengurangi densitas elektron pada sisi rantai karbonil dan ini dapat menjaga inti penisilin dari degradasi karena asam. Dengan kata lain, EWG dapat mencegah gugus carbonil (C=O) pada sisi acylamino bereaksi dengan gugus carbonil (C=O) pada beta laktam. Dengan demikian, jawaban soal di atas adalah <b>C. Amina.</b><br><br>Sebagai catatan, gugus fenol bukan merupakan gugus utama karena letaknya cukup jauh dari gugus carbonil pada rantai acyl.<br><br><b>Referensi:</b><br>1. Foye's principles of medicinal chemistry, 7th edition, Chapter 33.<br>2. March's Advanced Organic Chemistry, 7th edition, Chapter 1.<img src="assets/Rep_M6_03.png"></img>`,
+explanation:`Gugus Amina (NH2) pada rantai acyl dapat meningkatkan stabilitas amoxicillin pada lingkungan asam. Substitusi rantai R pada Amina Primer di struktur 6-APA menggunakan gugus penarik elektron (EWG; Electron Withdrawing Group) akan mengurangi densitas elektron pada sisi rantai karbonil dan ini dapat menjaga inti penisilin dari degradasi karena asam. Dengan kata lain, EWG dapat mencegah gugus carbonil (C=O) pada sisi acylamino bereaksi dengan gugus carbonil (C=O) pada beta laktam. Dengan demikian, jawaban soal di atas adalah <b>C. Amina.</b><br/><br/>Sebagai catatan, gugus fenol bukan merupakan gugus utama karena letaknya cukup jauh dari gugus carbonil pada rantai acyl.<br/><br/><b>Referensi:</b><br/>1. Foye's principles of medicinal chemistry, 7th edition, Chapter 33.<br/>2. March's Advanced Organic Chemistry, 7th edition, Chapter 1.<img src="assets/Rep_M6_03.png"></img>`,
 expImg:`Rep_M6_05.png`
 },
 {
 category:`Farmasi Kimia`,
 level:`Easy`,
-question:`Seorang Apoteker di bagian Penelitian dan Pengembangan sebuah industri farmasi sedang mengevaluasi kegagalan terapi akibat resistensi bakteri Staphylococcus aureus terhadap antibiotik golongan penisilin. Bakteri tersebut diketahui memproduksi enzim beta-laktamase yang mampu menonaktifkan obat melalui reaksi hidrolisis seperti yang ditunjukkan pada gambar berikut:<br><img src="assets/TO1M6008.png"></img><br>Manakah nomor ikatan kimia pada cincin beta-laktam yang akan terputus akibat reaksi tersebut? `,
+question:`Seorang Apoteker di bagian Penelitian dan Pengembangan sebuah industri farmasi sedang mengevaluasi kegagalan terapi akibat resistensi bakteri Staphylococcus aureus terhadap antibiotik golongan penisilin. Bakteri tersebut diketahui memproduksi enzim beta-laktamase yang mampu menonaktifkan obat melalui reaksi hidrolisis seperti yang ditunjukkan pada gambar berikut:<br/><img src="assets/TO1M6008.png"></img><br/>Manakah nomor ikatan kimia pada cincin beta-laktam yang akan terputus akibat reaksi tersebut? `,
 img:``,
 options:["A. 1","B. 2","C. 3","D. 4","E. 5"],
 answer: `b. 2`,
-explanation:`Enzim PBP (Penicillin-binding proteins, contohnya carboxypeptidases, endopeptidases, dan transpeptidases) adalah enzim yang secara normal terdapat di membran dalam bakteri dan menjalankan fungsi konstruksi, perbaikan, dan pemeliharaan dinding sel. B-Laktamase adalah enzim (biasanya serin protease) yang dapat mengkatalisis hidrolisis ikatan B-laktam dan menonaktifkan antibiotik B-laktam menjadi penicilloic acids sebelum dapat berikatan dengan PBP. B-laktamase akan memecah cincin B-laktam tepat pada ikatan C-N (pada label nomor 2) sehingga antibiotik menjadi tidak efektif. Dengan demikian, jawaban di atas adalah <b>B. 2.</b><br><br><b>Referensi:</b><br>Foye's principles of medicinal chemistry, 7th edition, Chapter 33.`,
+explanation:`Enzim PBP (Penicillin-binding proteins, contohnya carboxypeptidases, endopeptidases, dan transpeptidases) adalah enzim yang secara normal terdapat di membran dalam bakteri dan menjalankan fungsi konstruksi, perbaikan, dan pemeliharaan dinding sel. B-Laktamase adalah enzim (biasanya serin protease) yang dapat mengkatalisis hidrolisis ikatan B-laktam dan menonaktifkan antibiotik B-laktam menjadi penicilloic acids sebelum dapat berikatan dengan PBP. B-laktamase akan memecah cincin B-laktam tepat pada ikatan C-N (pada label nomor 2) sehingga antibiotik menjadi tidak efektif. Dengan demikian, jawaban di atas adalah <b>B. 2.</b><br/><br/><b>Referensi:</b><br/>Foye's principles of medicinal chemistry, 7th edition, Chapter 33.`,
 expImg:`TO1M6009.png`
 },
 {
@@ -776,7 +776,7 @@ question:`Seorang Apoteker di RnD sedang meneliti mengenai struktur obat Gentami
 img:`1TO1M6002.png`,
 options:["A. 1","B. 2","C. 3","D. 4","E. 5"],
 answer: `C. 3`,
-explanation:`Gentamicin C merupakan perwakilan dari kelas aminoglikosida dan merupakan campuran dari tiga komponen, yaitu gentamicin C1a, C2, dan C1, yang memiliki pola metilasi yang berbeda pada posisi 6 di Ring I. Adapun, gentamisin memiliki 3 cincin, dari kiri atas ke kanan bawah, ring 1, ring 2, dan ring 3. Berikut adalah namanya:<br><br>Ring I = purposamine<br>Ring II = 2-deoxystreptamine<br>Ring III = garosamine<br><br>Struktur khas gentamisin yang dapat berinteraksi dengan RNA ribosom adalah ring III. Ring III (garosamine) berikatan secara spesifik pada A-site dari 16S rRNA yang merupakan bagian dari Subunit Ribosom 30S. Dengan demikian, jawaban yang tepat adalah <b>C. 3.</b> <br><br><b>Referensi:</b><br>1. The EMBO Journal (1998, Volume 17, pages 6437–6448): “Structural origins of gentamicin antibiotic action”<br>2. Katzung: Basic & Clinical Pharmacology, 12th Edition, Chapter 45.<br>3. Essentials of Medical Biochemistry: With Clinical Cases,  2nd Edition (2015), Chapter 23`,
+explanation:`Gentamicin C merupakan perwakilan dari kelas aminoglikosida dan merupakan campuran dari tiga komponen, yaitu gentamicin C1a, C2, dan C1, yang memiliki pola metilasi yang berbeda pada posisi 6 di Ring I. Adapun, gentamisin memiliki 3 cincin, dari kiri atas ke kanan bawah, ring 1, ring 2, dan ring 3. Berikut adalah namanya:<br/><br/>Ring I = purposamine<br/>Ring II = 2-deoxystreptamine<br/>Ring III = garosamine<br/><br/>Struktur khas gentamisin yang dapat berinteraksi dengan RNA ribosom adalah ring III. Ring III (garosamine) berikatan secara spesifik pada A-site dari 16S rRNA yang merupakan bagian dari Subunit Ribosom 30S. Dengan demikian, jawaban yang tepat adalah <b>C. 3.</b> <br/><br/><b>Referensi:</b><br/>1. The EMBO Journal (1998, Volume 17, pages 6437–6448): “Structural origins of gentamicin antibiotic action”<br/>2. Katzung: Basic & Clinical Pharmacology, 12th Edition, Chapter 45.<br/>3. Essentials of Medical Biochemistry: With Clinical Cases,  2nd Edition (2015), Chapter 23`,
 expImg:`Rep_M6_04.png`
 },
 {
@@ -786,7 +786,7 @@ question:`Seorang wanita berusia 38 tahun didiagnosis menderita GERD berat yang 
 img:``,
 options:["A. Omeprazole adalah enantiomer R, sedangkan esomeprazole adalah enantiomer S.","B. Omeprazole adalah enantiomer S, sedangkan esomeprazole adalah enantiomer R.","C. Esomeprazole adalah campuran rasemat dari enantiomer S dan R omeprazole.","D. Esomeprazole adalah enantiomer S dari omeprazole.","E. Esomeprazole adalah enantiomer R dari omeprazole."],
 answer: `d. Esomeprazole adalah enantiomer S dari omeprazole.`,
-explanation:`Esomeprazole adalah enantiomer S dari omeprazole. Jawaban yang tepat adalah yang <b>D.</b><br><br><b>Referensi:</b><br>Katzung: Basic & Clinical Pharmacology, 12th Edition, Chapter 62`,
+explanation:`Esomeprazole adalah enantiomer S dari omeprazole. Jawaban yang tepat adalah yang <b>D.</b><br/><br/><b>Referensi:</b><br/>Katzung: Basic & Clinical Pharmacology, 12th Edition, Chapter 62`,
 expImg:`TO1M6013.png`
 },
 {
@@ -796,7 +796,7 @@ question:`Sebuah tim Research and Development (R&D) di industri farmasi sedang m
 img:``,
 options:["A. Valsartan merupakan prodrug sehingga waktu paruhnya lebih lama dibanding losartan.","B. Losartan merupakan prodrug sehingga waktu paruhnya lebih lama dibanding valsartan.","C. Gugus nitrogen pada cincin imidazol Losartan berfungsi sebagai pemberi (donor) ikatan hidrogen, sedangkan karbonil pada Valsartan berfungsi sebagai penerima (acceptor).","D. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang sama","E. Struktur cincin imidazole pada losartan menyebabkan afinitasnya dengan reseptor AT1 lebih besar dibanding valsartan."],
 answer: `D. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang sama`,
-explanation:`Fakta tentang losartan dan valsartan:<br><br>1. Valsartan bukan prodrug. → A salah<br>2. Losartan adalah prodrug yang nantinya akan dimetabolisme menjadi metabolit aktif (EXP 3174). Waktu paruh losartan (2,5 jam) lebih cepat dibanding valsartan (9 jam). → B Salah<br>3. Fungsi gugus imidazole (pada losartan) dan karbonil (pada valsartan) sama-sama berfungsi sebagai penerima ikatan hidrogen/hydrogen bond acceptor. → C Salah<br>4. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang identik / tidak berbeda. → <b> D Benar </b><br>5. Afinitas valsartan = EXP 3174 > losartan. → E Salah<br><br><b>Referensi:</b><br>1. Goodman & Gilman's Manual of Pharmacology and Therapeutics, 1st ed, 2008, Chapter 30.<br>2. Foye's principles of medicinal chemistry, 7th edition, Chapter 23 & 26<br>3. The Practice of Medicinal Chemistry. 4th ed (2015), Chapter 12.<img src="assets/Rep_M6_06.png"></img><img src="assets/Rep_M6_07.png"></img><img src="assets/Rep_M6_08.png"></img>`,
+explanation:`Fakta tentang losartan dan valsartan:<br/><br/>1. Valsartan bukan prodrug. → A salah<br/>2. Losartan adalah prodrug yang nantinya akan dimetabolisme menjadi metabolit aktif (EXP 3174). Waktu paruh losartan (2,5 jam) lebih cepat dibanding valsartan (9 jam). → B Salah<br/>3. Fungsi gugus imidazole (pada losartan) dan karbonil (pada valsartan) sama-sama berfungsi sebagai penerima ikatan hidrogen/hydrogen bond acceptor. → C Salah<br/>4. Losartan dan Valsartan memiliki struktur tetrazolyl-diphenyl yang identik / tidak berbeda. → <b> D Benar </b><br/>5. Afinitas valsartan = EXP 3174 > losartan. → E Salah<br/><br/><b>Referensi:</b><br/>1. Goodman & Gilman's Manual of Pharmacology and Therapeutics, 1st ed, 2008, Chapter 30.<br/>2. Foye's principles of medicinal chemistry, 7th edition, Chapter 23 & 26<br/>3. The Practice of Medicinal Chemistry. 4th ed (2015), Chapter 12.<img src="assets/Rep_M6_06.png"></img><img src="assets/Rep_M6_07.png"></img><img src="assets/Rep_M6_08.png"></img>`,
 expImg:``
 },
 {
@@ -806,7 +806,7 @@ question:`Bagian Quality Control (QC) di industri farmasi sedang melakukan pengu
 img:``,
 options:["A. Reduksi","B. Oksidasi","C. Substitusi","D. Hidrolisis","E. Eliminasi"],
 answer: `B. Oksidasi`,
-explanation:`Berikut adalah penjelasan mengenai masing-masing reaksi kimia:<br><br>1. Reduksi adalah pengurangan oksigen, atau penambahan hidrogen/elektron.<br>2. Oksidasi adalah penambahan oksigen, atau pengurangan hidrogen/elektron. <b>(Jawaban yang benar)</b>.<br>3. Substitusi adalah penggantian gugus dengan gugus yang lain.<br>4. Hidrolisis adalah pemutusan ikatan kimia melalui reaksi dengan air.<br>5. Eliminasi adalah reaksi yang terjadi ketika dua gugus terlepas dari atom-atom yang berdekatan sehingga terbentuk ikatan ganda.<br>Pada metabolisme ethylene glycol menjadi oxalic acid, terjadi penambahan atom oksigen.<br><br><b>Referensi:</b><br>1. Donald Cains: Essentials of pharmaceutical chemistry, 4th edition, Chapter 6 & 9.<br>2. Organic chemistry, 2nd ed (2012), chapter 15.<br>3. March's Advanced Organic Chemistry, 7th edition, Chapter 17.<img src="assets/Rep_M6_09.png"></img><img src="assets/Rep_M6_10.png"></img>`,
+explanation:`Berikut adalah penjelasan mengenai masing-masing reaksi kimia:<br/><br/>1. Reduksi adalah pengurangan oksigen, atau penambahan hidrogen/elektron.<br/>2. Oksidasi adalah penambahan oksigen, atau pengurangan hidrogen/elektron. <b>(Jawaban yang benar)</b>.<br/>3. Substitusi adalah penggantian gugus dengan gugus yang lain.<br/>4. Hidrolisis adalah pemutusan ikatan kimia melalui reaksi dengan air.<br/>5. Eliminasi adalah reaksi yang terjadi ketika dua gugus terlepas dari atom-atom yang berdekatan sehingga terbentuk ikatan ganda.<br/>Pada metabolisme ethylene glycol menjadi oxalic acid, terjadi penambahan atom oksigen.<br/><br/><b>Referensi:</b><br/>1. Donald Cains: Essentials of pharmaceutical chemistry, 4th edition, Chapter 6 & 9.<br/>2. Organic chemistry, 2nd ed (2012), chapter 15.<br/>3. March's Advanced Organic Chemistry, 7th edition, Chapter 17.<img src="assets/Rep_M6_09.png"></img><img src="assets/Rep_M6_10.png"></img>`,
 expImg:``
 },
 {
@@ -816,7 +816,7 @@ question:`Sebuah industri farmasi sedang mengembangkan formula sediaan emulsi ti
 img:``,
 options:["A. Asam oleat","B. Asam linoleat","C. Asam linolenat","D. Asam stearat","E. Asam palmitat"],
 answer: `C. Asam linolenat`,
-explanation:`Senyawa yang mengandung pusat alilik sangat rentan terhadap autooksidasi karena radikal yang terbentuk pada proses oksidasi akan distabilkan oleh resonansi. Proses ini terjadi paling mudah pada karbon yang diapit oleh dua ikatan rangkap dua (doubly allylic H's). Terdapat hierarki kemudahan proses H abstraction: doubly allylic H's > singly allylic H's > dll. Semakin banyak ikatan rangkap, molekul tersebut akan semakin rentan mengalami oksidasi. Asam linolenat memiliki 3 ikatan rangkap, sedangkan linoleat (2), dan oleat (1). Asam lemak stearat dan palmitat merupakan asam lemak jenuh. Dengan demikian, jawaban yang tepat adalah <b>C. Asam linolenat.</b> <br><br><b>Referensi:</b><br>1. Organic chemistry, 2nd ed (2012), chapter 15<br>2. Akoh, C. C. (2017). Food Lipids: Chemistry, Nutrition, and Biotechnology (4th ed.). CRC Press. https://doi.org/10.1201/9781315151854<img src="assets/Rep_M6_11.png"></img>`,
+explanation:`Senyawa yang mengandung pusat alilik sangat rentan terhadap autooksidasi karena radikal yang terbentuk pada proses oksidasi akan distabilkan oleh resonansi. Proses ini terjadi paling mudah pada karbon yang diapit oleh dua ikatan rangkap dua (doubly allylic H's). Terdapat hierarki kemudahan proses H abstraction: doubly allylic H's > singly allylic H's > dll. Semakin banyak ikatan rangkap, molekul tersebut akan semakin rentan mengalami oksidasi. Asam linolenat memiliki 3 ikatan rangkap, sedangkan linoleat (2), dan oleat (1). Asam lemak stearat dan palmitat merupakan asam lemak jenuh. Dengan demikian, jawaban yang tepat adalah <b>C. Asam linolenat.</b> <br/><br/><b>Referensi:</b><br/>1. Organic chemistry, 2nd ed (2012), chapter 15<br/>2. Akoh, C. C. (2017). Food Lipids: Chemistry, Nutrition, and Biotechnology (4th ed.). CRC Press. https://doi.org/10.1201/9781315151854<img src="assets/Rep_M6_11.png"></img>`,
 expImg:``
 },
 {
@@ -826,7 +826,7 @@ question:`Bagian Research and Development (R&D) di sebuah industri farmasi sedan
 img:`TO1M6019.png`,
 options:["A. Esterifikasi","B. Oksidasi","C. Reduksi","D. Subtitusi","E. Hidrolisis"],
 answer: `E. Hidrolisis`,
-explanation:`Enalapril mengalami hidrolisis menjadi enalaprilate. Gugus ester pada enalapril terhidrolisis menjadi asam karboksilat melalui pemutusan ikatan kimia yang bereaksi dengan air.<br><br><b>Referensi:</b><br>Donald Cains: Essentials of pharmaceutical chemistry, 4th edition, Chapter 9`,
+explanation:`Enalapril mengalami hidrolisis menjadi enalaprilate. Gugus ester pada enalapril terhidrolisis menjadi asam karboksilat melalui pemutusan ikatan kimia yang bereaksi dengan air.<br/><br/><b>Referensi:</b><br/>Donald Cains: Essentials of pharmaceutical chemistry, 4th edition, Chapter 9`,
 expImg:`TO1M6020.png`
 },
 {
@@ -836,7 +836,7 @@ question:`Bagian Quality Control (QC) di industri obat tradisional sedang melaku
 img:``,
 options:["A. Aldehid","B. Amina","C. Karboksil","D. Karboksilat","E. Hidroksil"],
 answer: `E. Hidroksil`,
-explanation:`Khelasi ini dapat terjadi berkat adanya gugus oxo (=O) dan hydroxyl (-OH) pada molekul flavonoid, khususnya antara gugus keto C4 (pada cincin kromon) dan salah satu gugus hidroksil pada posisi C3 atau C5. Selain itu, adanya gugus dihidroksil pada cincin A atau B memungkinkan pembentukan acid-labile complexes dengan Al(III). Jawaban yang benar adalah <b>E. Hidroksil</b><br><br><b>Referensi:</b><br>Nicolescu A, et al. Total flavonoid content revised. Anal Biochem. 2025.`,
+explanation:`Khelasi ini dapat terjadi berkat adanya gugus oxo (=O) dan hydroxyl (-OH) pada molekul flavonoid, khususnya antara gugus keto C4 (pada cincin kromon) dan salah satu gugus hidroksil pada posisi C3 atau C5. Selain itu, adanya gugus dihidroksil pada cincin A atau B memungkinkan pembentukan acid-labile complexes dengan Al(III). Jawaban yang benar adalah <b>E. Hidroksil</b><br/><br/><b>Referensi:</b><br/>Nicolescu A, et al. Total flavonoid content revised. Anal Biochem. 2025.`,
 expImg:`TO1M6021.png`
 },
 {
@@ -846,7 +846,7 @@ question:`Sebuah tim Research and Development (R&D) di industri farmasi sedang m
 img:``,
 options:["A. Oksidasi","B. Reduksi","C. Adisi","D. Eliminasi","E. Halogenasi"],
 answer: `B. Reduksi`,
-explanation:`Senyawa azo (-N=N-), termasuk Sulfasalazine, diubah menjadi aromatic primary amines oleh azoreductase (sistem enzim NADPH-dependent) yang berada di mikrosom hati sehingga menjadi sulfapyridine dan p-aminosalicylic acid. Tidak hanya azoreductase saja yang dapat mengkatalisis reduksi yang terjadi, tetapi juga flora bakteri pada lingkungan anaerobik di usus. Dengan demikian, reaksi yang terjadi adalah pemutusan dan penambahan hidrogen <b>(reduksi)</b>.<br><br><b>Referensi:</b><br>Foye's principles of medicinal chemistry, 7th edition, Chapter 4.`,
+explanation:`Senyawa azo (-N=N-), termasuk Sulfasalazine, diubah menjadi aromatic primary amines oleh azoreductase (sistem enzim NADPH-dependent) yang berada di mikrosom hati sehingga menjadi sulfapyridine dan p-aminosalicylic acid. Tidak hanya azoreductase saja yang dapat mengkatalisis reduksi yang terjadi, tetapi juga flora bakteri pada lingkungan anaerobik di usus. Dengan demikian, reaksi yang terjadi adalah pemutusan dan penambahan hidrogen <b>(reduksi)</b>.<br/><br/><b>Referensi:</b><br/>Foye's principles of medicinal chemistry, 7th edition, Chapter 4.`,
 expImg:`TO1M6023.png`
 },
 {
@@ -856,7 +856,7 @@ question:`Bagian Research and Development (R&D) di sebuah industri farmasi sedan
 img:``,
 options:["A. 0","B. 1","C. 2","D. 4","E. 6"],
 answer: `A. 0`,
-explanation:`Definisi gugus donor hidrogen (HBD) menurut Lipinski's Rule of Five adalah jumlah total ikatan O-H dan N-H dalam suatu molekul. Suatu atom dikatakan sebagai donor hidrogen apabila ia terikat langsung pada atom hidrogen yang dapat didonorkan. Struktur Griseofulvin hanya memiliki gugus metoksi, karbonil, eter siklik, dan alkil klorida yang semuanya hanya bertindak sebagai akseptor. Karena tidak ada ikatan O-H maupun N-H, maka jumlah <b>HBD = 0</b>.<br><br><b>Referensi:</b><br>Lipinski CA, et al. Experimental and computational approaches to estimate solubility and permeability. 2001.`,
+explanation:`Definisi gugus donor hidrogen (HBD) menurut Lipinski's Rule of Five adalah jumlah total ikatan O-H dan N-H dalam suatu molekul. Suatu atom dikatakan sebagai donor hidrogen apabila ia terikat langsung pada atom hidrogen yang dapat didonorkan. Struktur Griseofulvin hanya memiliki gugus metoksi, karbonil, eter siklik, dan alkil klorida yang semuanya hanya bertindak sebagai akseptor. Karena tidak ada ikatan O-H maupun N-H, maka jumlah <b>HBD = 0</b>.<br/><br/><b>Referensi:</b><br/>Lipinski CA, et al. Experimental and computational approaches to estimate solubility and permeability. 2001.`,
 expImg:``
 },
 {
@@ -866,7 +866,7 @@ question:`Seorang apoteker di Balai Besar POM melakukan sidak di pasar tradision
 img:``,
 options:["A. Pereaksi Fehling","B. Pereaksi Marquis","C. FeCl3","D. Pereaksi chromotropic acid","E. Pereaksi Tollens"],
 answer: `D. Pereaksi chromotropic acid`,
-explanation:`Pereaksi yang dimaksud adalah Asam Kromotropat dengan nama IUPAC asam 4,5-dihidroksinaftalen-2,7-disulfonat. Reaksi ini dikenal sebagai Reaksi Eegriwe yang secara spesifik digunakan untuk mengidentifikasi keberadaan formaldehid.<br><br><b>Referensi:</b><br>1. Dar, A., Shafique, U., Anwar, J., Waheed-uz-Zaman, & Naseer, A. (2016). A simple spot test quantification method to determine formaldehyde in aqueous samples. Journal of Saudi Chemical Society; <br>2. Standar Nasional Indonesia (SNI) 01-2894-1992 Tentang Cara Uji Bahan Pengawet Makanan dan Bahan Tambahan yang Dilarang Untuk Makanan`,
+explanation:`Pereaksi yang dimaksud adalah Asam Kromotropat dengan nama IUPAC asam 4,5-dihidroksinaftalen-2,7-disulfonat. Reaksi ini dikenal sebagai Reaksi Eegriwe yang secara spesifik digunakan untuk mengidentifikasi keberadaan formaldehid.<br/><br/><b>Referensi:</b><br/>1. Dar, A., Shafique, U., Anwar, J., Waheed-uz-Zaman, & Naseer, A. (2016). A simple spot test quantification method to determine formaldehyde in aqueous samples. Journal of Saudi Chemical Society; <br/>2. Standar Nasional Indonesia (SNI) 01-2894-1992 Tentang Cara Uji Bahan Pengawet Makanan dan Bahan Tambahan yang Dilarang Untuk Makanan`,
 expImg:``
 },
 {
@@ -1016,7 +1016,7 @@ question:`<p>Seorang apoteker yang bekerja di industri farmasi PT Nitro Pharmace
 img:``,
 options:["A. Seal coating","B. Sub coating","C. Coloring","D. Smoothing","E. Polishing"],
 answer: `A. Seal coating`,
-explanation:`Pada proses penyalutan tablet salut gula, terdapat beberapa tahapan yang dilakukan secara berurutan untuk menghasilkan tablet dengan lapisan yang seragam dan stabil.<img src="assets/08M7.png"></img><br/><b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
+explanation:`Pada proses penyalutan tablet salut gula, terdapat beberapa tahapan yang dilakukan secara berurutan untuk menghasilkan tablet dengan lapisan yang seragam dan stabil.<img src="assets/08M7.png"></img><br/><b>Referensi:</b><br/>Remington The Science and Practice of Pharmacy`,
 expImg:``
 },
 {
@@ -1026,7 +1026,7 @@ question:`<p>Sebuah industri farmasi PT Nitro Pharmaceutical memproduksi tablet 
 img:``,
 options:["A. Sticking","B. Picking","C. Lamination","D. Capping","E. Chipping"],
 answer: `D. Capping`,
-explanation:`<p><em>Capping</em> merupakan salah satu jenis cacat tablet yang terjadi ketika bagian atas atau bawah tablet terpisah dari badan tablet setelah proses kompresi atau selama proses ejeksi dari cetakan. Kondisi ini biasanya disebabkan oleh beberapa faktor, antara lain:</p><ol><li>Udara yang terperangkap dalam granul</li><li>Tekanan kompresi yang tidak optimal</li><li>Kelembaban granul yang tidak sesuai</li><li>Distribusi ukuran partikel yang tidak seragam.</li></ol><br/><p><strong>Referensi:</strong><br />Remington The Science and Practice of Pharmacy</p>`,
+explanation:`<p><em>Capping</em> merupakan salah satu jenis cacat tablet yang terjadi ketika bagian atas atau bawah tablet terpisah dari badan tablet setelah proses kompresi atau selama proses ejeksi dari cetakan. Kondisi ini biasanya disebabkan oleh beberapa faktor, antara lain:</p><ol><li>Udara yang terperangkap dalam granul</li><li>Tekanan kompresi yang tidak optimal</li><li>Kelembaban granul yang tidak sesuai</li><li>Distribusi ukuran partikel yang tidak seragam.</li></ol><p><strong>Referensi:</strong><br />Remington The Science and Practice of Pharmacy</p>`,
 expImg:``
 },
 {
@@ -1036,7 +1036,7 @@ question:`<p>Bagian pengawasan mutu di sebuah industri farmasi sedang melakukan 
 img:``,
 options:["A. 2,952","B.2,594","C.2,595","D.2,553","E.2,597"],
 answer: `A. 2,952`,
-explanation:`<img src="assets/09M7.png"></img><br/><b>Referensi:</b><br>Farmakope VI- Uji Keseragaman Kandungan halaman 2025`,
+explanation:`<img src="assets/09M7.png"></img><br/><b>Referensi:</b><br/>Farmakope VI- Uji Keseragaman Kandungan halaman 2025`,
 expImg:``
 },
 {
@@ -1106,17 +1106,17 @@ question:`<p>Bagian <em>Quality Assurance</em> (QA) PT Nitro Pharmaceutical mela
 img:``,
 options:["A. Uji tidak valid karena kontrol negatif menunjukkan hasil negatif","B. Uji valid dan sampel langsung dinyatakan memenuhi syarat","C. Uji valid, tetapi sampel langsung dinyatakan tidak memenuhi syarat","D. Uji valid, tetapi pengujian larutan sampel harus diulang karena replikasi A tidak konsisten","E. Uji tidak valid karena kontrol positif reagen negatif pada 0,25λ"],
 answer: `D. Uji valid, tetapi pengujian larutan sampel harus diulang karena replikasi A tidak konsisten`,
-explanation:`Kontrol positif produk dan kontrol positif reagen menunjukkan respons yang sesuai, sedangkan kontrol negatif tetap negatif. Sistem uji valid.<br>Masalahnya ada pada larutan A karena satu replikasi positif dan satu replikasi negatif. Untuk metode jendal gel, hasil sampel yang tidak konsisten tidak boleh langsung diputuskan lulus atau gagal, sehingga pengujian sampel perlu diulang.<br><br><b>Referensi:</b><br>Kementerian Kesehatan Republik Indonesia. (2020). <201> Uji endotoksin bakteri. In <i>Farmakope Indonesia</i> (6th ed., pp. 1779–1787). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
+explanation:`Kontrol positif produk dan kontrol positif reagen menunjukkan respons yang sesuai, sedangkan kontrol negatif tetap negatif. Sistem uji valid.<br/>Masalahnya ada pada larutan A karena satu replikasi positif dan satu replikasi negatif. Untuk metode jendal gel, hasil sampel yang tidak konsisten tidak boleh langsung diputuskan lulus atau gagal, sehingga pengujian sampel perlu diulang.<br/><br/><b>Referensi:</b><br/>Kementerian Kesehatan Republik Indonesia. (2020). <201> Uji endotoksin bakteri. In <i>Farmakope Indonesia</i> (6th ed., pp. 1779–1787). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
 expImg:``
 },
 {
 category:`Semisolid Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`Apoteker QC di PT Nitro Pharmaceutical mengevaluasi stabilitas fisik emulsi o/w minyak ikan. Data hasil pengujian:<br><img src="assets/M08-01.png"></img><br><br>Formula manakah yang memiliki risiko koalesensi paling tinggi?`,
+question:`Apoteker QC di PT Nitro Pharmaceutical mengevaluasi stabilitas fisik emulsi o/w minyak ikan. Data hasil pengujian:<br/><img src="assets/M08-01.png"></img><br/><br/>Formula manakah yang memiliki risiko koalesensi paling tinggi?`,
 img:``,
 options:["A. Formula A","B. Formula B","C. Formula C","D. Formula D","E. Formula E"],
 answer: `B. Formula B`,
-explanation:`Emulsi lebih stabil bila droplet relatif seragam dan gaya tolak elektrostatiknya cukup besar. PDI ideal umumnya < 0,3, sedangkan zeta potensial mendekati atau melewati ±30 mV menunjukkan stabilitas elektrostatik lebih baik.<br>Formula B memiliki PDI tertinggi 0,47 dan zeta potensial hanya -17 mV. Artinya distribusi droplet sangat heterogen dan gaya tolak antar droplet lemah, sehingga risiko koalesensi paling tinggi.<br><br><b>Referensi:</b><br>Taylor, K. M., & Aulton, M. E. (2022). <i>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</i> (6th ed.). Elsevier Health Sciences.`,
+explanation:`Emulsi lebih stabil bila droplet relatif seragam dan gaya tolak elektrostatiknya cukup besar. PDI ideal umumnya < 0,3, sedangkan zeta potensial mendekati atau melewati ±30 mV menunjukkan stabilitas elektrostatik lebih baik.<br/>Formula B memiliki PDI tertinggi 0,47 dan zeta potensial hanya -17 mV. Artinya distribusi droplet sangat heterogen dan gaya tolak antar droplet lemah, sehingga risiko koalesensi paling tinggi.<br/><br/><b>Referensi:</b><br/>Taylor, K. M., & Aulton, M. E. (2022). <i>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</i> (6th ed.). Elsevier Health Sciences.`,
 expImg:``
 },
 {
@@ -1126,7 +1126,7 @@ question:`Pada sistem distribusi Purified Water di PT Nitro Pharmaceutical, dite
 img:``,
 options:["A. Reverse osmosis terlalu efektif menurunkan TDS","B. Kecepatan alir loop terlalu tinggi sehingga shear stress meningkat","C. Adanya dead leg yang menyebabkan stagnasi dan pembentukan biofilm","D. Penggunaan UV menyebabkan peningkatan endotoksin","E. Ozonisasi menurunkan konduktivitas air terlalu jauh"],
 answer: `C. Adanya dead leg yang menyebabkan stagnasi dan pembentukan biofilm`,
-explanation:`Sistem Purified Water harus dirancang sebagai loop dengan sirkulasi kontinu untuk mencegah stagnasi. Area dead leg membuat air diam, sanitasi tidak efektif, dan mikroorganisme dapat melekat membentuk biofilm. Biofilm kemudian menjadi sumber kontaminasi berulang pada titik pemakaian.<br><br><b>Referensi:</b><br>Kementerian Kesehatan Republik Indonesia. (2020). <1121> Air untuk keperluan farmasi. In <i>Farmakope Indonesia</i> (6th ed., pp. 2133–2155). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
+explanation:`Sistem Purified Water harus dirancang sebagai loop dengan sirkulasi kontinu untuk mencegah stagnasi. Area dead leg membuat air diam, sanitasi tidak efektif, dan mikroorganisme dapat melekat membentuk biofilm. Biofilm kemudian menjadi sumber kontaminasi berulang pada titik pemakaian.<br/><br/><b>Referensi:</b><br/>Kementerian Kesehatan Republik Indonesia. (2020). <1121> Air untuk keperluan farmasi. In <i>Farmakope Indonesia</i> (6th ed., pp. 2133–2155). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
 expImg:``
 },
 {
@@ -1136,7 +1136,7 @@ question:`<p>Departemen produksi sediaan steril PT Nitro Pharmaceutical menyiap
 img:``,
 options:["A. 121 °C selama 15 menit dengan uap panas","B. 160 °C selama 60 menit dengan udara panas","C. 180 °C selama 30 menit dengan udara panas","D. 250 °C selama minimal 30 menit dengan udara panas","E. 0,22 µm filtrasi membran sebelum pengisian"],
 answer: `D. 250 °C selama minimal 30 menit dengan udara panas`,
-explanation:`Depirogenasi alat gelas untuk menginaktivasi endotoksin dilakukan dengan panas kering suhu tinggi. Sterilisasi 121 °C selama 15 menit membunuh mikroorganisme vegetatif/spora tertentu, tetapi bukan kondisi utama untuk depirogenasi endotoksin. Kondisi yang digunakan untuk depirogenasi adalah sekitar 250 °C selama minimal 30 menit.<br><br><b>Referensi:</b><br>Kementerian Kesehatan Republik Indonesia. (2020). <201> Uji endotoksin bakteri. In <i>Farmakope Indonesia</i> (6th ed., pp. 1779–1787). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
+explanation:`Depirogenasi alat gelas untuk menginaktivasi endotoksin dilakukan dengan panas kering suhu tinggi. Sterilisasi 121 °C selama 15 menit membunuh mikroorganisme vegetatif/spora tertentu, tetapi bukan kondisi utama untuk depirogenasi endotoksin. Kondisi yang digunakan untuk depirogenasi adalah sekitar 250 °C selama minimal 30 menit.<br/><br/><b>Referensi:</b><br/>Kementerian Kesehatan Republik Indonesia. (2020). <201> Uji endotoksin bakteri. In <i>Farmakope Indonesia</i> (6th ed., pp. 1779–1787). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
 expImg:``
 },
 {
@@ -1146,7 +1146,7 @@ question:`<p>Departemen R&amp;D PT Nitro Pharmaceutical mengembangkan sediaan l
 img:``,
 options:["A. Sterilisasi akhir dengan panas basah 121 °C selama 15 menit","B. Sterilisasi panas kering 170 °C selama 1 jam","C. Filtrasi steril 0,22 µm diikuti pengisian aseptis ke wadah steril","D. Sterilisasi gas etilen oksida terhadap larutan akhir","E. Penambahan pengawet antimikroba sebagai pengganti sterilisasi"],
 answer: `C. Filtrasi steril 0,22 µm diikuti pengisian aseptis ke wadah steril`,
-explanation:`Untuk larutan yang mengandung zat aktif termolabil, sterilisasi panas dapat merusak zat aktif. Bila larutan kompatibel dengan membran, filtrasi steril 0,22 µm adalah pilihan yang tepat, dilanjutkan pengisian aseptis ke wadah dan komponen yang sudah steril. Pengawet tidak menggantikan sterilisasi untuk sediaan injeksi.<br><br><b>Referensi:</b><br>Allen, L. V., & Ansel, H. C. (2014). <i>Ansel’s pharmaceutical dosage forms and drug delivery systems</i> (10th ed.). Lippincott Williams & Wilkins.`,
+explanation:`Untuk larutan yang mengandung zat aktif termolabil, sterilisasi panas dapat merusak zat aktif. Bila larutan kompatibel dengan membran, filtrasi steril 0,22 µm adalah pilihan yang tepat, dilanjutkan pengisian aseptis ke wadah dan komponen yang sudah steril. Pengawet tidak menggantikan sterilisasi untuk sediaan injeksi.<br/><br/><b>Referensi:</b><br/>Allen, L. V., & Ansel, H. C. (2014). <i>Ansel’s pharmaceutical dosage forms and drug delivery systems</i> (10th ed.). Lippincott Williams & Wilkins.`,
 expImg:``
 },
 {
@@ -1166,7 +1166,7 @@ question:`<p>Apoteker <em>Quality Control</em> (QC) di PT Nitro Pharmaceutical m
 img:``,
 options:["A. Koloni merah muda menunjukkan bakteri non-fermenter laktosa seperti Salmonella","B. Koloni pucat menunjukkan fermentasi laktosa kuat oleh Escherichia coli","C. Koloni merah muda menunjukkan fermentasi laktosa menghasilkan asam dan menurunkan pH medium","D. Perubahan warna terjadi karena produksi H<sub>2</sub>S oleh bakteri Gram positif","E. MacConkey agar hanya membedakan bakteri berdasarkan pembentukan spora"],
 answer: `C. Koloni merah muda menunjukkan fermentasi laktosa menghasilkan asam dan menurunkan pH medium`,
-explanation:`MacConkey agar bersifat selektif untuk bakteri Gram-negatif dan diferensial untuk fermentasi laktosa. Fermenter laktosa seperti E. coli menghasilkan asam sehingga indikator pH berubah dan koloni tampak merah muda/merah. Non-fermenter seperti Salmonella umumnya pucat atau tidak berwarna.<br><br><b>Referensi:</b><br>Kementerian Kesehatan Republik Indonesia. (2020). <51> Uji batas mikroba. In <i>Farmakope Indonesia</i> (6th ed., pp. 1323–1341). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
+explanation:`MacConkey agar bersifat selektif untuk bakteri Gram-negatif dan diferensial untuk fermentasi laktosa. Fermenter laktosa seperti E. coli menghasilkan asam sehingga indikator pH berubah dan koloni tampak merah muda/merah. Non-fermenter seperti Salmonella umumnya pucat atau tidak berwarna.<br/><br/><b>Referensi:</b><br/>Kementerian Kesehatan Republik Indonesia. (2020). <51> Uji batas mikroba. In <i>Farmakope Indonesia</i> (6th ed., pp. 1323–1341). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
 expImg:``
 },
 {
@@ -1176,7 +1176,7 @@ question:`<p>Apoteker di bagian produksi industri farmasi PT Nitro Pharmaceutica
 img:``,
 options:["A. Panas kering 170 °C selama 1 jam","B. Panas basah 121 °C selama 15 menit","C. Panas kering 250 °C selama 30 menit","D. Filtrasi 0,22 µm","E. Radiasi UV selama 5 menit"],
 answer: `B. Panas basah 121 °C selama 15 menit`,
-explanation:`Rubber stopper lazim disterilisasi dengan panas basah/autoklaf karena bahan elastomer kompatibel dengan uap panas dan perlu disiapkan steril untuk proses aseptis. Panas kering suhu tinggi lebih sesuai untuk depirogenasi alat gelas, bukan rubber stopper. Filtrasi tidak relevan untuk komponen padat<br><br><b>Referensi:</b><br>Badan Pengawas Obat dan Makanan Republik Indonesia. (2013). <i>Petunjuk Operasional Penerapan Pedoman Cara Pembuatan Obat yang Baik</i>. Direktorat Pengawasan Produk Terapetik dan PKRT.`,
+explanation:`Rubber stopper lazim disterilisasi dengan panas basah/autoklaf karena bahan elastomer kompatibel dengan uap panas dan perlu disiapkan steril untuk proses aseptis. Panas kering suhu tinggi lebih sesuai untuk depirogenasi alat gelas, bukan rubber stopper. Filtrasi tidak relevan untuk komponen padat<br/><br/><b>Referensi:</b><br/>Badan Pengawas Obat dan Makanan Republik Indonesia. (2013). <i>Petunjuk Operasional Penerapan Pedoman Cara Pembuatan Obat yang Baik</i>. Direktorat Pengawasan Produk Terapetik dan PKRT.`,
 expImg:``
 },
 {
@@ -1186,7 +1186,7 @@ question:`<p>Rumah Sakit Nitro Medica meminta evaluasi mutu sediaan injeksi mult
 img:``,
 options:["A. Produk tetap dapat digunakan karena sterilitas lebih penting daripada partikulat","B. Produk dapat digunakan setelah dikocok sampai partikel tidak terlihat","C. Produk harus ditahan/ditolak karena sediaan parenteral harus bebas partikel tampak","D. Produk dapat digunakan bila pasien diberi informed consent","E. Produk cukup diberi label peringatan sebelum distribusi"],
 answer: `C. Produk harus ditahan/ditolak karena sediaan parenteral harus bebas partikel tampak`,
-explanation:`Sediaan parenteral harus memenuhi persyaratan sterilitas dan kejernihan/bebas partikel tampak sesuai karakteristik produknya. Temuan partikel asing pada vial merupakan masalah mutu serius karena dapat membahayakan pasien. Produk tidak boleh dilepas hanya karena sterilitasnya terpenuhi.<br><br><b>Referensi:</b><br>Kementerian Kesehatan Republik Indonesia. (2020). <751> Partikel asing dalam suntikan. In <i>Farmakope Indonesia</i> (6th ed., pp. 1993–1997). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
+explanation:`Sediaan parenteral harus memenuhi persyaratan sterilitas dan kejernihan/bebas partikel tampak sesuai karakteristik produknya. Temuan partikel asing pada vial merupakan masalah mutu serius karena dapat membahayakan pasien. Produk tidak boleh dilepas hanya karena sterilitasnya terpenuhi.<br/><br/><b>Referensi:</b><br/>Kementerian Kesehatan Republik Indonesia. (2020). <751> Partikel asing dalam suntikan. In <i>Farmakope Indonesia</i> (6th ed., pp. 1993–1997). Direktorat Jenderal Kefarmasian dan Alat Kesehatan.`,
 expImg:``
 },
 {
@@ -1206,7 +1206,7 @@ question:`Apoteker di Komite Pengendalian Resistensi Antimikroba (KPRA) RS Nitro
 img:``,
 options:["A. 20,00","B. 33,33","C. 58,82","D. 60,00","E. 75,00"],
 answer: `C. 58,82`,
-explanation:`<img src="assets/2PTO9.PNG"></img><br><br><b>Referensi:</b><br>Kementerian Kesehatan RI. 2011. Pedoman Pelayanan Kefarmasian untuk Terapi Antibiotik. Jakarta: Direktorat Jenderal Bina Kefarmasian dan Alat Kesehatan.`,
+explanation:`<img src="assets/2PTO9.PNG"></img><br/><br/><b>Referensi:</b><br/>Kementerian Kesehatan RI. 2011. Pedoman Pelayanan Kefarmasian untuk Terapi Antibiotik. Jakarta: Direktorat Jenderal Bina Kefarmasian dan Alat Kesehatan.`,
 expImg:`2RTO9.PNG`
 },
 {
@@ -1216,7 +1216,7 @@ question:`Seorang pasien laki-laki berusia 45 tahun datang ke Apotek Nitro Farma
 img:``,
 options:["A. 12 tablet Salbutamol dan 6 tablet CTM","B. 16 tablet Salbutamol dan 8 tablet CTM","C. 24 tablet Salbutamol dan 6 tablet CTM","D. 24 tablet Salbutamol dan 12 tablet CTM","E. 40 tablet Salbutamol dan 10 tablet CTM"],
 answer: `C. 24 tablet Salbutamol dan 6 tablet CTM`,
-explanation:`<img src="assets/3PTO9.PNG"></img><br><br><b> NOTE:</b>  <br>Pada resep ini, tidak menggunakan da tales doses (dtd). Artinya: Angka yang tertera (0,08 dan 0,04) adalah TOTAL jumlah zat aktif untuk seluruh sediaan yang diminta (20 kapsul), bukan jumlah per kapsul.<br><br><b>Referensi:</b><br>Ansel, H. C., & Stockton, S. J. (2017). Pharmaceutical Calculations (15th ed.).`,
+explanation:`<img src="assets/3PTO9.PNG"></img><br/><br/><b> NOTE:</b>  <br/>Pada resep ini, tidak menggunakan da tales doses (dtd). Artinya: Angka yang tertera (0,08 dan 0,04) adalah TOTAL jumlah zat aktif untuk seluruh sediaan yang diminta (20 kapsul), bukan jumlah per kapsul.<br/><br/><b>Referensi:</b><br/>Ansel, H. C., & Stockton, S. J. (2017). Pharmaceutical Calculations (15th ed.).`,
 expImg:``
 },
 {
@@ -1226,7 +1226,7 @@ question:`Seorang pasien laki-laki usia 28 tahun dengan berat badan 60 kg dirawa
 img:``,
 options:["A. 8,24 mg/L","B. 9,32 mg/L","C. 10,61 mg/L","D. 11,54 mg/L","E. 12,50 mg/L"],
 answer: `C. 10,61 mg/L`,
-explanation:`<img src="assets/5PTO9.PNG"></img><br><br><b>Referensi:</b><br><ol><li>Sweetman, S. C. (2009). Martindale: The Complete Drug Reference. 36th Edition. London: Pharmaceutical Press. (Monograph: Phenytoin Sodium).</li><li>Shargel, L., & Yu, A. B. (2016). Applied Biopharmaceutics & Pharmacokinetics. 7th Edition. New York: McGraw-Hill Education. (Chapter 6: Continuous Intravenous Infusion).</li></ol>`,
+explanation:`<img src="assets/5PTO9.PNG"></img><br/><br/><b>Referensi:</b><br/><ol><li>Sweetman, S. C. (2009). Martindale: The Complete Drug Reference. 36th Edition. London: Pharmaceutical Press. (Monograph: Phenytoin Sodium).</li><li>Shargel, L., & Yu, A. B. (2016). Applied Biopharmaceutics & Pharmacokinetics. 7th Edition. New York: McGraw-Hill Education. (Chapter 6: Continuous Intravenous Infusion).</li></ol>`,
 expImg:``
 },
 {
@@ -1236,7 +1236,7 @@ question:`Seorang pasien wanita berusia 50 tahun dengan berat badan 56,8 kg didi
 img:``,
 options:["A. 86,21 mg","B. 431,05 mg","C. 556,05 mg","D. 654,17 mg","E. 750,00 mg"],
 answer: `C. 556,05 mg`,
-explanation:`<img src="assets/7PTO9.PNG"></img><br><br><b>Referensi:</b><br><ol><li>Cockcroft DW, Gault MH. Prediction of creatinine clearance from serum creatinine. Nephron. 1976;16(1):31-41. </li><li>Calvert AH, Newell DR, Gumbrell LA, et al. Carboplatin dosage: prospective evaluation of a regression formula during a phase II study. J Clin Oncol. 1989;7(11):1748-1756.</li><li>Oncology Nursing Society (ONS). Huddle Card: Safe Administration: Clinical Calculations - Area Under The Curve (AUC). October 2022.</li></ol>`,
+explanation:`<img src="assets/7PTO9.PNG"></img><br/><br/><b>Referensi:</b><br/><ol><li>Cockcroft DW, Gault MH. Prediction of creatinine clearance from serum creatinine. Nephron. 1976;16(1):31-41. </li><li>Calvert AH, Newell DR, Gumbrell LA, et al. Carboplatin dosage: prospective evaluation of a regression formula during a phase II study. J Clin Oncol. 1989;7(11):1748-1756.</li><li>Oncology Nursing Society (ONS). Huddle Card: Safe Administration: Clinical Calculations - Area Under The Curve (AUC). October 2022.</li></ol>`,
 expImg:``
 },
 {
@@ -1266,7 +1266,7 @@ question:`Seorang laki-laki berusia 39 tahun datang ke Apotek Nitro Farma ingin 
 img:``,
 options:["A. 4","B. 7","C. 10","D. 15","E. 20"],
 answer: `A. 4`,
-explanation:`Berdasarkan Lampiran Permenkes Nomor 3 Tahun 2021, aminofilin termasuk dalam daftar obat yang mengalami perubahan pembatasan. Ketentuan penyerahan aminofilin sebagai obat bebas terbatas adalah: <br><ol><li> Kemasan tidak lebih dari 4 tablet.</li><li> Kadar maksimal 150 mg per tablet.</li><li> Penggunaan tidak lebih dari 1 tablet per kali minum.</li><li> Maksimum penggunaan 2 kali sehari.</li></ol>Hanya diperbolehkan menyerahkan maksimal 4 tablet dalam satu kali penyerahan kepada pasien.<br><br><b>Referensi:</b><br>Peraturan Menteri Kesehatan Republik Indonesia Nomor 3 Tahun 2021 tentang Perubahan Penggolongan, Pembatasan, dan Kategori Obat.`,
+explanation:`Berdasarkan Lampiran Permenkes Nomor 3 Tahun 2021, aminofilin termasuk dalam daftar obat yang mengalami perubahan pembatasan. Ketentuan penyerahan aminofilin sebagai obat bebas terbatas adalah: <br/><ol><li> Kemasan tidak lebih dari 4 tablet.</li><li> Kadar maksimal 150 mg per tablet.</li><li> Penggunaan tidak lebih dari 1 tablet per kali minum.</li><li> Maksimum penggunaan 2 kali sehari.</li></ol>Hanya diperbolehkan menyerahkan maksimal 4 tablet dalam satu kali penyerahan kepada pasien.<br/><br/><b>Referensi:</b><br/>Peraturan Menteri Kesehatan Republik Indonesia Nomor 3 Tahun 2021 tentang Perubahan Penggolongan, Pembatasan, dan Kategori Obat.`,
 expImg:`1RTO9.PNG`
 },
 {
@@ -1286,7 +1286,7 @@ question:`Seorang pasien laki-laki berusia 7 tahun dengan berat badan 20 kg didi
 img:``,
 options:["A. 3,0","B. 4,5","C. 6,0","D. 7,5","E. 9,0"],
 answer: `C. 6,0`,
-explanation:`<img src="assets/6PTO9.PNG"></img><p><b>Referensi:</b><br>Ansel, H. C., & Stockton, S. J. (2017). Pharmaceutical Calculations (15th ed.).</p>`,
+explanation:`<img src="assets/6PTO9.PNG"></img><p><b>Referensi:</b><br/>Ansel, H. C., & Stockton, S. J. (2017). Pharmaceutical Calculations (15th ed.).</p>`,
 expImg:``
 },
 {
@@ -1296,7 +1296,7 @@ question:`Seorang pasien laki-laki usia 35 tahun dengan berat badan 60 kg dirawa
 img:``,
 options:["A. 1,00 mg/L","B. 2,00 mg/L","C. 4,00 mg/L","D. 8,00 mg/L","E. 16,00 mg/L"],
 answer: `B. 2,00 mg/L`,
-explanation:`<img src="assets/8PTO9.PNG"></img><p><b>Referensi:</b><br>Shargel, L., & Yu, A. B. (2016). Applied Biopharmaceutics & Pharmacokinetics. 7th Edition. New York: McGraw-Hill Education. </p>`,
+explanation:`<img src="assets/8PTO9.PNG"></img><p><b>Referensi:</b><br/>Shargel, L., & Yu, A. B. (2016). Applied Biopharmaceutics & Pharmacokinetics. 7th Edition. New York: McGraw-Hill Education. </p>`,
 expImg:``
 },
 {
@@ -1352,7 +1352,7 @@ expImg:`Moxifloxacin.png`
 {
 category:`Infeksi`,
 level:`Hard`,
-question:`Seorang pasien dijadwalkan untuk operasi pembedahan tulang pada pukul 10.00 pagi dan direncanakan akan diberikan cefazolin intravena sebagai antibiotik profilaksis.Manakah waktu paling tepat untuk pemberian cefazolin intravena agar agar mencapai kadar puncak saat insisi kulit dilakukan? (TO UKOMNAS PDPA FEBRUARI 2026)`,
+question:`Seorang pasien dijadwalkan untuk operasi pembedahan tulang pada pukul 10.00 pagi dan direncanakan akan diberikan cefazolin intravena sebagai antibiotik profilaksis. Manakah waktu paling tepat untuk pemberian cefazolin intravena agar agar mencapai kadar puncak saat insisi kulit dilakukan? (TO UKOMNAS PDPA FEBRUARI 2026)`,
 img:``,
 options:["A. 08.00 – 08.30","B. 08.30 – 09.00","C. 09.00 – 09.30","D. 09.30 – 10.00","E. 10.00 – 10.30"],
 answer: `D. 09.30 – 10.00`,
@@ -1362,41 +1362,41 @@ expImg:`Cefazolin.png`
 {
 category:`Infeksi`,
 level:`Easy`,
-question:`Seorang pasien laki-laki (35 tahun) terdiagnosis Infeksi Laten Tuberkulosis setelah dilakukan tes Mantoux ,namun hasil foto rontgen dada normal dan tidak ada gejala klinis TB aktif.Setelah dilakukan penelusuran tinggal bersama istrinya yang merupakan penderitan TB aktif. Dokter ingin memberikan pengobatan profilaksis. Manakah regimen yang saat ini direkomendasikan? (TO Nas Jan 2026)`,
+question:`Seorang pasien, laki-laki, usia 35 tahun, terdiagnosis infeksi laten tuberkulosis setelah dilakukan tes Mantoux. Hasil foto rontgen dada pasien normal dan tidak ada gejala klinis tuberkulosis aktif. Setelah dilakukan penelusuran, pasien diketahui tinggal bersama istrinya yang merupakan penderita tuberkulosis aktif. Dokter meminta rekomendasi apoteker mengenai pengobatan profilaksis untuk pasien tersebut. Apakah regimen pengobatan yang tepat direkomendasikan? (TO UKOMNAS PDPA FEBRUARI 2026)`,
 img:``,
-options:["A. Isoniazid (INH) harian selama 6 bulan (6H)","B. Isoniazid (INH) harian selama 3 bulan","C. Isoniazid dan Rifapentin selama 3 bulan (3HP)","D. Isoniazid, Rifampisin, Pirazinamid, dan Etambutol selama 6 bulan (2RHZE/4RH)","E. Pirizinamid harian selama 6 bulan"],
-answer: `C. Isoniazid dan Rifapentin selama 3 bulan (3HP)`,
-explanation:`Pasien termasuk dalam kategori Sasaran nomor 3: Kontak serumah usia diatas 5 tahun. Berdasarkan pedoman Kemenkes RI yang tercantum pada tabel di gambar, pilihan utama untuk kelompok ini adalah regimen 3HP.<br><br>3HP yang terdiri dari Isoniazid dan rifapentin diberikan setiap minggu selama 3 bulan frekuensi minum obat yang sangat jarang (total hanya 12 dosis) terbukti meningkatkan kepatuhan pasien (adherence) dibandingkan harus minum obat setiap hari selama berbulan-bulan.<br><br>Analisis Opsi lain <br><br>6H (6 bulan isoniazid) adalah regimen konvensional (Isoniazid diberikan setiap hari selama 6 bulan).Meskipun masih efektif, regimen ini mulai digantikan oleh regimen jangka pendek karena durasinya yang lama sering menyebabkan pasien putus obat.<br><br>2RHZE/4RH (2 bulan rifampisin isoniazid pirizinamid dan etambutol serta 4 bulan rifampisin dan isoniazid)  adalah terapi untuk TB Aktif. Karena pasien pada soal memiliki rontgen normal dan tidak ada gejala klinis, memberikan regimen ini dapat meningkatkan risiko efek samping serta resistensi bakt                                                                                                                                                                                                                                                                                                                                                                 <br><br> Pirazinamid tidak digunakan secara mandiri untuk profilaksis karena risiko hepatotoksisitas yang tinggi jika tanpa kombinasi yang tepat.<br><br><b>Referensi:</b><br>Juknis TB Laten,Kemenkes (2020)`,
+options:["A. Isoniazid dan rifapentin selama 3 bulan","B. Isoniazid selama 3 bulan","C. Isoniazid selama 6 bulan","D. Isoniazid, rifampisin, pirazinamid, dan etambutol selama 6 bulan","E. Pirazinamid selama 6 bulan"],
+answer: `A. Isoniazid dan rifapentin selama 3 bulan`,
+explanation:`<p>Pasien termasuk dalam kategori Sasaran nomor 3: <strong>Kontak serumah usia diatas 5 tahun</strong>. Berdasarkan pedoman Kemenkes RI yang tercantum pada tabel di gambar, pilihan utama untuk kelompok ini adalah regimen 3HP.<br /><br /><strong>3HP</strong> yang terdiri dari<span style="color: #ff0000;"><strong> Isoniazid dan rifapentin diberikan setiap minggu selama 3 bulan</strong></span> frekuensi minum obat yang sangat jarang (total hanya 12 dosis) terbukti meningkatkan kepatuhan pasien (adherence) dibandingkan harus minum obat setiap hari selama berbulan-bulan.<br /><br /><strong>Referensi:</strong><br />Juknis TB Laten,Kemenkes (2020)</p>`,
 expImg:`ProfilaksisTB.png`
 },
 {
 category:`Infeksi`,
 level:`Hard`,
-question:`Seorang pasien(40 tahun) didiagnosis menderita TB Paru (BTA positif). Namun, hasil pemeriksaan fungsi hati menunjukkan bahwa pasien menderita Sirosis (gangguan hati kronis) dengan nilai SGOT/SGPT > 5 kali lipat dari batas normal tertinggi (ULN) dan tampak ikterik (kuning). Dokter bertanya pada apoteker apakah ada regimen terapi TB yang tidak terdiri dari obat antiTB yang bersifat hepatotoksis.Mana regimen obat yang paling sesuai untuk pasien tersebut?`,
+question:`Seorang pasien(40 tahun) didiagnosis menderita TB Paru (BTA positif). Namun, hasil pemeriksaan fungsi hati menunjukkan bahwa pasien menderita Sirosis (gangguan hati kronis) dengan nilai SGOT/SGPT > 5 kali lipat dari batas normal tertinggi (ULN) dan tampak ikterik (kuning). Dokter bertanya pada apoteker apakah ada regimen terapi TB yang tidak terdiri dari obat antiTB yang bersifat hepatotoksis. Mana regimen obat yang paling sesuai untuk pasien tersebut?`,
 img:``,
-options:["A. 2 bulan Isoniazid (H), Rifampisin (R), Pirazinamid (Z), Etambutol (E) diikuti 4 bulan Isoniazid (H) dan Rifampisin (R) (2RHZE / 4RH).","B. 2 bulan Streptomisin (S), Isoniazid (H), Etambutol (E) diikuti 10 bulan Isoniazid (H) dan Etambutol (E) (2SHE / 10HE).","C. 9 bulan Isoniazid (H), Rifampisin (R), dan Etambutol (E) (9 RHE).","D. 18 hingga 24 bulan Streptomisin (S), Etambutol (E), dan golongan Fluorokuinolon (Q/Lfx) (18 – 24 SEQ)","E. 9 hingga 11 bulan Bedaquiline (Bdl), Levofloksasin (Lfx), Klofazimin (Cfz), Pirazinamid (Z), Etambutol (E), Isoniazid dosis tinggi (Hh), dan Protianamid (Pto)."],
-answer: `D. 18 hingga 24 bulan Streptomisin (S), Etambutol (E), dan golongan Fluorokuinolon (Q/Lfx) (18 – 24 SEQ)`,
-explanation:`Obat lini pertama Anti TB seperti Isoniazid,Rifampicin dan Pirizinamid bersifat hepatotoksik dengan pirizinamid yang paling hepatotoksik.Sedangkan obat OAT yang aman untuk hati adalah streptomisin karena dieksresikan oleh ginjal dan etambutol serta floroquinolon yang aman terhadap hati.Dikarenakan obat yang digunakan tidak sekuat regimen standar (tanpa R dan H), durasi pengobatan menjadi jauh lebih lama, yaitu 18 hingga 24 bulan.Menurut PNPK penggunaan OAT yang bersifat hepatotoksik seperti Isoniazid ,rifampisin dan pirizinamid masih diperbolehkan dengan maksimal 2 obat yang bersifat hepatotoksik dalam satu regimen dan perlu pemantauan fungsi hati yang ketat,akan tetapi karena pasien menderita sirosis yang bersifat kronis dan parah serta dokter menginginkan regimen tanpa OAT hepatotoksik,sehingga 18-24 SEQ) adalah jawaban yang paling tepatobat yang digunakan tidak sekuat regimen standar (tanpa R dan H), durasi pengobatan<br><br>Analisis opsi lain<br><br>Opsi A (2RHZE/4RH): Regimen standar TB sensitif. Sangat berbahaya untuk pasien ini karena mengandung R, H, dan Z yang semuanya hepatotoksik.<br><br>Opsi B (2SHE/10HE): Regimen dengan satu obat hepatotoksik (H/Isoniazid). Masih terlalu berisiko untuk pasien dengan SGOT/SGPT > 5x ULN.                                                                                                                                                                                                                                                                                                                                                      <br><br>Opsi C (9-11 Bdl-Lfx-Cfz-Z-E-Hh-Pto): Ini adalah regimen jangka pendek TB-RO (Resisten Obat). Mengandung Pirazinamid (Z) dan Isoniazid dosis tinggi (INH) yang bersifat hepatotoksik.<br><br>Opsi E (6-9 RZE): Regimen dengan dua obat hepatotoksik (R dan Z). Pirazinamid (Z) adalah obat yang paling harus dihindari pada gangguan hati kronik.<br><br><b>Referensi:</b><br>Pedoman Nasional Pelayanan Kedokteran (PNPK) Tata Laksana Tuberkulosis (2020)`,
+options:["A. 2RHZE/4RH","B. 2SHE/10HE","C. 9RHE","D. 9–11 Bdq-Lfx-Cfz-Z-E-Hh-Pto","E. 18–24 SEQ"],
+answer: `E. 18–24 SEQ`,
+explanation:`<p>Obat lini pertama Anti TB seperti <strong>Isoniazid, Rifampicin dan Pirizinamid</strong> bersifat <strong><span style="color: #ff0000;">hepatotoksik</span></strong> dengan pirizinamid yang paling hepatotoksik. Sedangkan obat OAT yang <strong>aman untuk hati</strong> adalah <span style="color: #0000ff;"><strong>streptomisin</strong></span> karena dieksresikan oleh ginjal dan <span style="color: #0000ff;"><strong>etambutol</strong></span> serta <span style="color: #0000ff;"><strong>floroquinolon</strong></span> yang aman terhadap <strong>hati.</strong> Dikarenakan obat yang digunakan tidak sekuat regimen standar (tanpa R dan H), durasi pengobatan menjadi jauh lebih lama, yaitu <strong>18 hingga 24 bulan</strong>. Menurut PNPK penggunaan OAT yang bersifat hepatotoksik seperti Isoniazid ,rifampisin dan pirizinamid masih diperbolehkan dengan <strong>maksimal 2 obat</strong> yang bersifat hepatotoksik dalam satu regimen dan perlu pemantauan fungsi hati yang ketat, akan tetapi karena pasien menderita sirosis yang bersifat kronis dan parah serta dokter menginginkan regimen tanpa OAT hepatotoksik, sehingga 18-24 SEQ) adalah jawaban yang paling tepatobat yang digunakan tidak sekuat regimen standar (tanpa R dan H), durasi pengobatan.<br /><br /><strong>Referensi:</strong><br />Pedoman Nasional Pelayanan Kedokteran (PNPK) Tata Laksana Tuberkulosis (2020)</p>`,
 expImg:`TBhepatotoksik.png`
 },
 {
 category:`Infeksi`,
 level:`Medium`,
-question:`Seorang bayi berusia 3 hari dibawa ke klinik dengan kondisi kedua kelopak mata bengkak parah (edema), kemerahan, dan mengeluarkan nanah (sekret purulen) yang kental.Setelah dilakukan penelusuran ternyata bayi tersebut terinfeksi <i>Neisseria gonorrhoeae<i> yang ditularkan oleh sang ibu saat mengandung .Manakah terapi yang paling tepat diberikan untuk bayi tersebut.`,
+question:`<p>Seorang pasien bayi, usia 3 hari, dibawa ke klinik dengan kondisi kedua kelopak mata mengalami edema parah, kemerahan, dan mengeluarkan sekret purulen yang kental. Setelah dilakukan penelusuran, diketahui bahwa infeksi tersebut disebabkan oleh bakteri <em>Neisseria gonorrhoeae</em> yang ditularkan oleh ibu pada saat persalinan. Apakah terapi yang tepat diberikan untuk pasien tersebut?</p>`,
 img:``,
 options:["A. Levofloksasin IV","B. Salep mata kloramfenikol","C. Doksisiklin IV","D. Ceftriaxone IV","E. Salep mata eritromisin"],
 answer: `D. Ceftriaxone IV`,
-explanation:`Seftriakson IV : Infeksi gonokokal pada mata bayi baru lahir bersifat sangat invasif dan dapat menyebabkan kebutaan dalam waktu singkat. Oleh karena itu, diperlukan terapi sistemik (IV atau IM) agar antibiotik dapat mencapai jaringan mata dengan konsentrasi yang adekuat. Seftriakson (sefalosporin generasi ke-3) adalah pilihan utama (drug of choice) karena efektivitasnya yang tinggi terhadap N. gonorrhoeae.<br><br>Salep Mata Eritromisin: kapasitasnya hanya sebagai profilaksis (pencegahan) yang diberikan rutin 1 jam setelah bayi lahir. Jika infeksi aktif sudah terjadi dengan gejala nanah kental, pemberian topikal saja tidak cukup dan tidak dianggap sebagai terapi definitif.<br><br>Levofloksasin IV: pertimbangan risiko pada perkembangan jaringan ikat/tulang rawan (meskipun pada penggunaan jangka pendek risikonya minimal).<br><br>Doksisiklin IV: Ini adalah kontraindikasi mutlak bagi bayi dan anak-anak di bawah usia 8 tahun. Golongan tetrasiklin dapat menyebabkan deposisi kalsium pada jaringan gigi yang sedang berkembang, menyebabkan pewarnaan gigi permanen menjadi kuning-kecokelatan serta berisiko mengganggu pertumbuhan tulang.<br><br>Tetes Mata Kloramfenikol: Selain karena masalah resistensi bakteri N. gonorrhoeae yang sudah tinggi terhadap kloramfenikol, pemberian obat tetas mata saja tidak akan mampu mengatasi infeksi gonokokal yang sudah masuk ke tahap purulen sistemik pada bayi baru lahir. Selain itu, ada risiko efek samping sistemik (meski kecil dari tetes mata) seperti Grey Baby Syndrome.                                                                                                                                                                                                                                                                                                                                        <br><br><br><br><b>Referensi:</b><br>Pedoman Penggunaan Antibiotik, Permenkes no. 28 / 2021`,
+explanation:`<p><strong>Seftriakson IV:</strong> Infeksi gonokokal pada mata bayi baru lahir bersifat sangat invasif dan dapat menyebabkan kebutaan dalam waktu singkat. Oleh karena itu, diperlukan terapi sistemik (IV atau IM) agar antibiotik dapat mencapai jaringan mata dengan konsentrasi yang adekuat. <span style="color: #ff0000;"><strong>Seftriakson</strong></span> (sefalosporin generasi ke-3) adalah <span style="color: #0000ff;"><strong>pilihan utama (<em>drug of choice</em>)</strong></span> karena efektivitasnya yang tinggi terhadap N. gonorrhoeae.<br /><br /><strong>Salep Mata Eritromisin:</strong> kapasitasnya hanya sebagai profilaksis (pencegahan) yang diberikan rutin 1 jam setelah bayi lahir. Jika infeksi aktif sudah terjadi dengan gejala nanah kental, pemberian topikal saja tidak cukup dan tidak dianggap sebagai terapi definitif.<br /><br /><strong>Levofloksasin IV:</strong> pertimbangan risiko pada perkembangan jaringan ikat/tulang rawan (meskipun pada penggunaan jangka pendek risikonya minimal).<br /><br /><strong>Doksisiklin IV:</strong> Ini adalah kontraindikasi mutlak bagi bayi dan anak-anak di bawah usia 8 tahun. Golongan tetrasiklin dapat menyebabkan deposisi kalsium pada jaringan gigi yang sedang berkembang, menyebabkan pewarnaan gigi permanen menjadi kuning-kecokelatan serta berisiko mengganggu pertumbuhan tulang.<br /><br /><strong>Tetes Mata Kloramfenikol:</strong> Selain karena masalah resistensi bakteri N. gonorrhoeae yang sudah tinggi terhadap kloramfenikol, pemberian obat tetas mata saja tidak akan mampu mengatasi infeksi gonokokal yang sudah masuk ke tahap purulen sistemik pada bayi baru lahir. Selain itu, ada risiko efek samping sistemik (meski kecil dari tetes mata) seperti Grey Baby Syndrome.<br /><br /><strong>Referensi:</strong><br />Pedoman Penggunaan Antibiotik, Permenkes no. 28 / 2021</p>`,
 expImg:`Gonorebayi.png`
 },
 {
 category:`Infeksi`,
 level:`Medium`,
-question:`Seorang anak-anak (5 tahun) datang ke puskesmas dengan keluhan demam tinggi mendadak, menggigil, nyeri otot hebat , dan sakit kepala sejak 3 hari yang lalu. Pasien mengaku seminggu sebelumnya ikut membersihkan selokan di lingkungan rumahnya yang banyak terdapat tikus setelah banjir. Pada pemeriksaan fisik, tidak ditemukan adanya ikterus pada sklera maupun kulit. Dokter mendiagnosis pasien mengalami Leptospirosis ringan ..Antibiotik apa yang paling tepat untuk pasien tersebut?`,
+question:`<p>Seorang pasien anak, usia 5 tahun, dibawa ke puskesmas dengan keluhan demam tinggi mendadak, menggigil, nyeri otot hebat, dan sakit kepala sejak 3 hari yang lalu. Keluarga pasien mengatakan bahwa seminggu sebelumnya pasien ikut bermain air di selokan lingkungan rumahnya yang banyak terdapat tikus setelah banjir. Pada pemeriksaan fisik, tidak ditemukan adanya ikterus pada sklera maupun kulit. Dokter mendiagnosis pasien mengalami leptospirosis ringan dan meminta rekomendasi apoteker untuk terapi pasien tersebut. Apakah antibiotik yang tepat direkomendasikan?</p>`,
 img:``,
 options:["A. Doksisiklin","B. Benzatin Penicillin G","C. Amoxicillin","D. Levofloxacin","E. Azithromicin"],
 answer: `C. Amoxicillin`,
-explanation:`Amoxicillin: Untuk kasus Leptospirosis kategori ringan pada anak-anak di bawah usia 8 tahun serta ibu hamil, Amoxicillin adalah lini pertama (drug of choice). Obat ini efektif mengeradikasi bakteri Leptospira dan memiliki profil keamanan yang sangat baik karena tidak mengganggu pertumbuhan anak dan tidak menyebabkan efek samping kronis.<br><br>Doksisiklin: Meskipun Doksisiklin adalahl lini terapi untuk Leptospirosis ringan pada orang dewasa, obat ini umumnya dihindari pada anak di bawah usia 8 tahun. Penggunaan golongan tetrasiklin pada usia pertumbuhan berisiko menyebabkan efek samping permanen berupa diskolorisasi gigi (gigi menjadi kuning-kecokelatan) <br><br>Penicillin G: Penicillin G  adalah terapi pilihan utama untuk Leptospirosis derajat sedang hingga berat (misalnya yang disertai ikterus atau gangguan ginjal) yang diberikan secara intravena (IV). Karena pasien didiagnosis Leptospirosis ringan, maka pemberian antibiotik oral seperti Amoxicillin lebih tepat dan praktis.<br><br>Levofloksasin: Golongan fluoroquinolone biasanya tidak menjadi pilihan pertama untuk anak-anak karena adanya kekhawatiran terkait risiko kerusakan tulang rawa. Selain itu, efektivitasnya dalam studi klinis Leptospirosis tidak lebih unggul daripada lini pertama.<br><br>Azithromisin: Azithromisin dapat digunakan sebagai alternatif jika pasien memiliki alergi berat terhadap golongan penisilin (seperti Amoxicillin). Namun, dalam konteks pertanyaan "paling tepat" sebagai lini pertama untuk kasus ringan tanpa penyerta alergi, Amoxicillin tetap menjadi prioritas utama di puskesmas maupun rumah sakit.                                                                                                                                                                                                                                                                                                                                <br><br><br><br><b>Referensi:</b><br>Pedoman Penggunaan Antibiotik, Permenkes no. 28 / 2021`,
+explanation:`<p><strong>Amoxicillin:</strong> Untuk kasus Leptospirosis kategori ringan pada anak-anak di bawah usia 8 tahun serta ibu hamil, Amoxicillin adalah lini pertama (drug of choice). Obat ini efektif mengeradikasi bakteri Leptospira dan memiliki profil keamanan yang sangat baik karena tidak mengganggu pertumbuhan anak dan tidak menyebabkan efek samping kronis.<br /><br /><strong>Doksisiklin:</strong> Meskipun Doksisiklin adalahl lini terapi untuk Leptospirosis ringan pada orang dewasa, obat ini umumnya dihindari pada anak di bawah usia 8 tahun. Penggunaan golongan tetrasiklin pada usia pertumbuhan berisiko menyebabkan efek samping permanen berupa diskolorisasi gigi (gigi menjadi kuning-kecokelatan)<br /><br /><strong>Penicillin G:</strong> Penicillin G adalah terapi pilihan utama untuk Leptospirosis derajat sedang hingga berat (misalnya yang disertai ikterus atau gangguan ginjal) yang diberikan secara intravena (IV). Karena pasien didiagnosis Leptospirosis ringan, maka pemberian antibiotik oral seperti Amoxicillin lebih tepat dan praktis.<br /><br /><strong>Levofloksasin:</strong> Golongan fluoroquinolone biasanya tidak menjadi pilihan pertama untuk anak-anak karena adanya kekhawatiran terkait risiko kerusakan tulang rawa. Selain itu, efektivitasnya dalam studi klinis Leptospirosis tidak lebih unggul daripada lini pertama.<br /><br /><strong>Azithromisin:</strong> Azithromisin dapat digunakan sebagai alternatif jika pasien memiliki alergi berat terhadap golongan penisilin (seperti Amoxicillin). Namun, dalam konteks pertanyaan "paling tepat" sebagai lini pertama untuk kasus ringan tanpa penyerta alergi, Amoxicillin tetap menjadi prioritas utama di puskesmas maupun rumah sakit.<br /><br /><strong>Referensi:</strong><br />Pedoman Penggunaan Antibiotik, Permenkes no. 28 / 2021</p>`,
 expImg:`Leptospirosisringan.png`
 },
 {
@@ -1406,7 +1406,7 @@ question:`Seorang pasien wanita (26 tahun) sedang hamil trimester kedua (22 ming
 img:``,
 options:["A. Doksisiklin","B. Azithromicin","C. Tetrasiklin","D. Siprofloksasin","E. Amoxicillin"],
 answer: `B. Azithromicin`,
-explanation:`Azitromisin adalah obat lini pertama untuk ibu hamil dan anak-anak yang menderita kolera. Azitromisin masuk dalam Kategori B pada kehamilan (studi pada hewan tidak menunjukkan risiko, studi pada manusia belum memadai tapi dianggap aman). Selain aman, Azitromisin dosis tunggal sangat efektif dalam mengurangi durasi diare dan volume tinja pada infeksi Vibrio cholerae.<br><br>Doksisiklin: Doksisiklin sebenarnya adalah lini pertama untuk kolera pada orang dewasa non-hamil. Namun, pada ibu hamil, Doksisiklin masuk dalam Kategori D. Penggunaan golongan tetrasiklin pada trimester kedua dan ketiga berisiko menyebabkan diskolorisasi gigi permanen pada janin dan mengganggu pertumbuhan tulang (osteogenesis).<br><br>Tetrasiklin: Sama seperti Doksisiklin, Tetrasiklin masuk dalam Kategori D dan sangat dihindari untuk ibu hamil karena efek toksik pada jaringan keras janin (gigi dan tulang) serta potensi hepatotoksisitas pada ibu.<br><br>Siprofloksasin: Golongan fluoroquinolone (Kategori C) umumnya dihindari pada kehamilan karena adanya kekhawatiran terhadap kerusakan tulang rawan sendi (arthropathy) pada janin. Meskipun dalam keadaan darurat tertentu bisa dipertimbangkan, Azitromisin tetap jauh lebih aman dan menjadi prioritas utama.<br><br>Amoxicillin: Meskipun Amoxicillin sangat aman untuk ibu hamil (Kategori B), obat ini tidak efektif melawan Vibrio cholerae. Bakteri ini secara alami memiliki tingkat resistensi yang tinggi terhadap golongan penisilin, sehingga Amoxicillin tidak digunakan dalam protokol terapi kolera.                                                                                                                                                                                                                                                                                                                                <br><br><br><br><b>Referensi:</b><br>KONSENSUS NASIONAL PENATALAKSANAAN DIARE PADA PASIEN DEWASA DI INDONESIA TAHUN 2024 `,
+explanation:`Azitromisin adalah obat lini pertama untuk ibu hamil dan anak-anak yang menderita kolera. Azitromisin masuk dalam Kategori B pada kehamilan (studi pada hewan tidak menunjukkan risiko, studi pada manusia belum memadai tapi dianggap aman). Selain aman, Azitromisin dosis tunggal sangat efektif dalam mengurangi durasi diare dan volume tinja pada infeksi Vibrio cholerae.<br/><br/>Doksisiklin: Doksisiklin sebenarnya adalah lini pertama untuk kolera pada orang dewasa non-hamil. Namun, pada ibu hamil, Doksisiklin masuk dalam Kategori D. Penggunaan golongan tetrasiklin pada trimester kedua dan ketiga berisiko menyebabkan diskolorisasi gigi permanen pada janin dan mengganggu pertumbuhan tulang (osteogenesis).<br/><br/>Tetrasiklin: Sama seperti Doksisiklin, Tetrasiklin masuk dalam Kategori D dan sangat dihindari untuk ibu hamil karena efek toksik pada jaringan keras janin (gigi dan tulang) serta potensi hepatotoksisitas pada ibu.<br/><br/>Siprofloksasin: Golongan fluoroquinolone (Kategori C) umumnya dihindari pada kehamilan karena adanya kekhawatiran terhadap kerusakan tulang rawan sendi (arthropathy) pada janin. Meskipun dalam keadaan darurat tertentu bisa dipertimbangkan, Azitromisin tetap jauh lebih aman dan menjadi prioritas utama.<br/><br/>Amoxicillin: Meskipun Amoxicillin sangat aman untuk ibu hamil (Kategori B), obat ini tidak efektif melawan Vibrio cholerae. Bakteri ini secara alami memiliki tingkat resistensi yang tinggi terhadap golongan penisilin, sehingga Amoxicillin tidak digunakan dalam protokol terapi kolera.                                                                                                                                                                                                                                                                                                                                <br/><br/><br/><br/><b>Referensi:</b><br/>KONSENSUS NASIONAL PENATALAKSANAAN DIARE PADA PASIEN DEWASA DI INDONESIA TAHUN 2024 `,
 expImg:`KoleraBumil.png`
 },
 {
@@ -1416,7 +1416,7 @@ question:`Seorang pasien wanita sedang mengonsumsi antibiotik untuk mengobati in
 img:``,
 options:["A. Amoxicillin","B. Eritromisin","C. Siprofloksasin","D. Metronidazole","E. Doksisiklin"],
 answer: `D. Metronidazole`,
-explanation:`Reaksi yang terjadi diakibatkan oleh interaksi antara metronidazol dan alkohol/etanol yang disebut disulfiram-like reaction.Reaksi ini terjadi karena gangguan pada metabolisme alkohol (etanol) di dalam hati. Berikut adalah tahapan normal metabolisme alkohol:<br><br>Mekanisme Penghambatan: Metronidazole bekerja dengan cara menghambat enzim Asetaldehida Dehidrogenase (ALDH) secara reversibel.<br><br>Akumulasi Toksik: Akibat penghambatan ini, asetaldehida dari alkohol  tidak dapat diubah menjadi asam asetat dan menumpuk di dalam darah hingga kadar yang toksik.<br><br>Gejala Klinis: Penumpukan asetaldehida inilah yang memicu gejala sistemik berupa wajah memerah panas (flushing), mual-muntah hebat, denyut jantung cepat (palpitasi/takikardia), sesak napas, dan hipotensi.<br><br><b>Referensi:</b><br>Stockley : Drug Interaction `,
+explanation:`Reaksi yang terjadi diakibatkan oleh interaksi antara metronidazol dan alkohol/etanol yang disebut disulfiram-like reaction.Reaksi ini terjadi karena gangguan pada metabolisme alkohol (etanol) di dalam hati. Berikut adalah tahapan normal metabolisme alkohol:<br/><br/>Mekanisme Penghambatan: Metronidazole bekerja dengan cara menghambat enzim Asetaldehida Dehidrogenase (ALDH) secara reversibel.<br/><br/>Akumulasi Toksik: Akibat penghambatan ini, asetaldehida dari alkohol  tidak dapat diubah menjadi asam asetat dan menumpuk di dalam darah hingga kadar yang toksik.<br/><br/>Gejala Klinis: Penumpukan asetaldehida inilah yang memicu gejala sistemik berupa wajah memerah panas (flushing), mual-muntah hebat, denyut jantung cepat (palpitasi/takikardia), sesak napas, dan hipotensi.<br/><br/><b>Referensi:</b><br/>Stockley : Drug Interaction `,
 expImg:`InteraksiMetronidazole.png`
 },
 {
@@ -1426,7 +1426,7 @@ question:`Seorang pasien laki-laki berusia 24 tahun mengeluh diare berlemak dan 
 img:``,
 options:["A. Metronidazole","B. Albendazole","C. Siprofloksasin","D. Tinidazole","E. Doksisiklin"],
 answer: `B. Albendazole`,
-explanation:`Albendazole adalah anggota golongan benzimidazole yang terbukti efektif sebagai alternatif untuk terapi Giardiasis ketika pasien tidak dapat mentoleransi golongan nitroimidazole.Obat ini bekerja dengan menghambat polimerisasi tubulin pada parasit, yang mengganggu pengambilan glukosa dan menyebabkan kematian sel parasit.<br><br>Metronidazole dan tinidazole tidak dapat digunakan pada pasien tersebut karena kedua obat tersebut termasuk kedalam golongan nitroamidazole.<br><br>Golongan Florokuinolon, digunakan untuk infeksi bakteri, bukan Giardiasis.<br><br>Siprofloksasin: Golongan fluoroquinolone (Kategori C) umumnya dihindari pada kehamilan karena adanya kekhawatiran terhadap kerusakan tulang rawan sendi (arthropathy) pada janin. Meskipun dalam keadaan darurat tertentu bisa dipertimbangkan, Azitromisin tetap jauh lebih aman dan menjadi prioritas utama.<br><br>Doksisiklin memiliki aktivitas penghambatan terhadap sintesis protein pada beberapa protozoa, namun efikasinya terhadap Giardia lamblia secara in vivo (pada manusia) dianggap tidak konsisten jika dibandingkan dengan obat lini pertama.                                                                                                                                                                                                                                                                                                                                <br><br><b>Referensi:</b><br> DiPiro's Pharmacotherapy: A Pathophysiologic Approach, 12th Edition  `,
+explanation:`Albendazole adalah anggota golongan benzimidazole yang terbukti efektif sebagai alternatif untuk terapi Giardiasis ketika pasien tidak dapat mentoleransi golongan nitroimidazole.Obat ini bekerja dengan menghambat polimerisasi tubulin pada parasit, yang mengganggu pengambilan glukosa dan menyebabkan kematian sel parasit.<br/><br/>Metronidazole dan tinidazole tidak dapat digunakan pada pasien tersebut karena kedua obat tersebut termasuk kedalam golongan nitroamidazole.<br/><br/>Golongan Florokuinolon, digunakan untuk infeksi bakteri, bukan Giardiasis.<br/><br/>Siprofloksasin: Golongan fluoroquinolone (Kategori C) umumnya dihindari pada kehamilan karena adanya kekhawatiran terhadap kerusakan tulang rawan sendi (arthropathy) pada janin. Meskipun dalam keadaan darurat tertentu bisa dipertimbangkan, Azitromisin tetap jauh lebih aman dan menjadi prioritas utama.<br/><br/>Doksisiklin memiliki aktivitas penghambatan terhadap sintesis protein pada beberapa protozoa, namun efikasinya terhadap Giardia lamblia secara in vivo (pada manusia) dianggap tidak konsisten jika dibandingkan dengan obat lini pertama.                                                                                                                                                                                                                                                                                                                                <br/><br/><b>Referensi:</b><br/> DiPiro's Pharmacotherapy: A Pathophysiologic Approach, 12th Edition  `,
 expImg:`Albendazole.png`
 },
 {
@@ -1436,7 +1436,7 @@ question:`Seorang bayi perempuan lahir dari ibu yang baru terdiagnosis HIV saat 
 img:``,
 options:["A. Nevirapine (NVP) dosis tunggal saat lahir","B. Zidovudine (AZT) selama 6 minggu","C. Nevirapine (NVP) selama 6 minggu","D. Kombinasi Zidovudine (AZT) dan Nevirapine (NVP) selama 6 minggu.","E. Kombinasi Zidovudine (AZT), Lamivudine (3TC), dan Abacavir (ABC) selama 4 minggu."],
 answer: `D. Kombinasi Zidovudine (AZT) dan Nevirapine (NVP) selama 6 minggu.`,
-explanation:`Digunakan double teraphy karena enyusui adalah paparan virus yang terjadi terus-menerus setiap hari. Kombinasi dua obat (AZT + NVP) memberikan tingkat hambatan replikasi virus yang lebih kuat dibandingkan hanya satu obat, sehingga dapat menangkal virus yang mungkin masuk melalui ASI selama periode awal yang paling rentan.<br><br>Opsi A ,B dan C: Pemberian dosis tunggal (single dose) tidak lagi direkomendasikan karena tidak memberikan perlindungan yang adekuat terhadap paparan virus terus-menerus selama masa menyusui.<br><br>Penggunaan tiga jenis obat ARV (Triple Therapy) pada bayi merupakan regimen terapi (ART) untuk bayi yang sudah terdiagnosis positif HIV, bukan merupakan profilaksis pascapersalinan.                                                                                                                                                                                                                                                                                                          <br><br><b>Referensi:</b><br> PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA HIV ,2019 `,
+explanation:`Digunakan double teraphy karena enyusui adalah paparan virus yang terjadi terus-menerus setiap hari. Kombinasi dua obat (AZT + NVP) memberikan tingkat hambatan replikasi virus yang lebih kuat dibandingkan hanya satu obat, sehingga dapat menangkal virus yang mungkin masuk melalui ASI selama periode awal yang paling rentan.<br/><br/>Opsi A ,B dan C: Pemberian dosis tunggal (single dose) tidak lagi direkomendasikan karena tidak memberikan perlindungan yang adekuat terhadap paparan virus terus-menerus selama masa menyusui.<br/><br/>Penggunaan tiga jenis obat ARV (Triple Therapy) pada bayi merupakan regimen terapi (ART) untuk bayi yang sudah terdiagnosis positif HIV, bukan merupakan profilaksis pascapersalinan.                                                                                                                                                                                                                                                                                                          <br/><br/><b>Referensi:</b><br/> PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA HIV ,2019 `,
 expImg:`profilaksishiv.png`
 },
 {
@@ -1446,17 +1446,17 @@ question:`Seorang anak SD berusia 9 tahun mengalami demam dan dehidrasi setelah 
 img:``,
 options:["A. Ampicillin","B. Tiamfenikol","C. Amoxycillin","D. Seftriakson","E. Erithromisin"],
 answer: `B. Tiamfenikol`,
-explanation:`Tiamfenikol adalah antibiotik spektrum luas yang merupakan turunan dari kloramfenikol dan memiliki aktivitas bakterisidal dan bakteriostatik yang kuat terhadap Salmonella typhi dengan menghambat ribosom subunit 50s.Selain itu Dibandingkan dengan kloramfenikol, tiamfenikol dianggap memiliki risiko supresi sumsum tulang belakang (anemia aplastik) yang relatif lebih rendah, sehingga sering menjadi pilihan pada pasien pediatrik (anak-anak) di atas usia bayi. <br><br>Analisis opsi lain<br><br>Ampicillin & Amoxycillin,seftriakson: Merupakan lini pertama untuk anak usia dua tahun, namun dipilih tiamfenikol karena lebih efektif terhadap bakteri gram negatif seperti salmonella serta karena pasien berusia >2 tahun,sehingga risiko grey baby sindrom lebih rendah dan aman  mengkonsumsi tiamfenikol<br><br>Erithromisin: Merupakan golongan makrolida yang biasanya digunakan untuk infeksi saluran pernapasan atau pasien yang alergi penisilin, namun bukan merupakan terapi pilihan untuk Salmonella typhi.                                                                                                                                                                                                                                                                                            <br><br><b>Referensi:</b><br>PERATURAN MENTERI KESEHATAN REPUBLIK INDONESIA NOMOR 28 TAHUN 2021 TENTANG PEDOMAN PENGGUNAAN ANTIBIOTIK `,
+explanation:`<p>Tiamfenikol adalah antibiotik spektrum luas yang merupakan turunan dari kloramfenikol dan memiliki aktivitas bakterisidal dan bakteriostatik yang kuat terhadap Salmonella typhi dengan menghambat ribosom subunit 50s. Selain itu Dibandingkan dengan kloramfenikol, tiamfenikol dianggap memiliki risiko supresi sumsum tulang belakang (anemia aplastik) yang relatif lebih rendah, sehingga sering menjadi pilihan pada pasien pediatrik (anak-anak) di atas usia bayi.</p><p>Analisis opsi lain</p><ul><li>Ampicillin &amp; Amoxycillin, seftriakson: Merupakan lini pertama untuk anak usia dua tahun, namun dipilih tiamfenikol karena lebih efektif terhadap bakteri gram negatif seperti salmonella serta karena pasien berusia &gt;2 tahun, sehingga risiko grey baby sindrom lebih rendah dan aman mengkonsumsi tiamfenikol</li><li>Erithromisin: Merupakan golongan makrolida yang biasanya digunakan untuk infeksi saluran pernapasan atau pasien yang alergi penisilin, namun bukan merupakan terapi pilihan untuk Salmonella typhi.</li></ul><p><strong>Referensi:</strong></p><p>PERATURAN MENTERI KESEHATAN REPUBLIK INDONESIA NOMOR 28 TAHUN 2021 TENTANG PEDOMAN PENGGUNAAN ANTIBIOTIK</p>`,
 expImg:`MBG.png`
 },
 {
 category:`Infeksi`,
 level:`Medium`,
-question:`Pak Budi (45 tahun), seorang transmigran yang baru tinggal di pedalaman Papua, datang ke rumah sakit dengan keluhan pembengkakan kronis pada tungkai kanan bawah sejak 6 bulan lalu. Melalui pemeriksaan dokter mendeteksi adanya mikrofilaria Wuchereria bancrofti sebelumnya dokter di puskesmas setempat telah memberikan terapi standar kombinasi Dietilkarbamazin (DEC) dan Albendazole akan tetapi pembengkakannya masih belum hilang.Berdasarkan pedoman tata laksana untuk mengoptimalkan pembersihan mikrofilaria pada kasus dengan densitas tinggi di wilayah endemik tertentu, strategi regimen terapi apa yang paling tepat dipertimbangkan?`,
+question:`Pak Budi (45 tahun), seorang transmigran yang baru tinggal di pedalaman Papua, datang ke rumah sakit dengan keluhan pembengkakan kronis pada tungkai kanan bawah sejak 6 bulan lalu. Melalui pemeriksaan dokter mendeteksi adanya mikrofilaria Wuchereria bancrofti sebelumnya dokter di puskesmas setempat telah memberikan terapi standar kombinasi Dietilkarbamazin (DEC) dan Albendazole akan tetapi pembengkakannya masih belum hilang. Berdasarkan pedoman tata laksana untuk mengoptimalkan pembersihan mikrofilaria pada kasus dengan densitas tinggi di wilayah endemik tertentu, strategi regimen terapi apa yang paling tepat dipertimbangkan?`,
 img:``,
 options:["A. Menghentikan semua obat dan menggantinya dengan antibiotik doksisiklin dosis tinggi selama 6 minggu untuk membunuh bakteri simbion Wolbachia.","B. Menambahkan Ivermectin dalam regimen terapi (menjadi Triple Therapy: IDA) untuk meningkatkan efikasi pembersihan mikrofilaria secara cepat","C. Meningkatkan dosis DEC hingga dua kali lipat dari dosis terapeutik normal untuk mengejar kegagalan respons","D. Memberikan kortikosteroid dosis tinggi untuk meredakan reaksi inflamasi.","E. Menambahkan antibiotik kotrimoksazol untuk mencegah infeksi sekunder yang memperparah pembengkakan di kaki pasien"],
 answer: `C. Ivarmectin`,
-explanation:`Menurut standar pengobatan filariasis, pemberian Ivermectin ditujukan sebagai mikrofilarisida yang sangat efektif untuk menurunkan jumlah mikrofilaria dalam darah secara cepat. kombinasi tiga obat (Triple Therapy: DEC + Albendazole + Ivermectin) telah terbukti mempercepat eliminasi parasit dimana mekanisme kerja Triple Therapy (IDA) adalah sebagai berikut<br><br>Ivarmectin memicu hiperpolarisasi dan kelumpuhan mikrofilaria melalui pembukaan saluran ion klorida<br><br>Diethylcarbamazine (DEC) mengubah permukaan tubuh parasit agar mudah dihancurkan sistem imun inang serta mengganggu metabolisme asam arakidonatnya <br<br> Albendazole menghambat polimerisasi mikrotubulus yang mengakibatkan kegagalan penyerapan glukosa dan kematian parasit akibat kekurangan energi.<br><br><b>Referensi:</b><br>Guideline Alternatives Mass Drug Administration Regimen to Eliminate Lymphatic Filiarisis,WHO,2017 `,
+explanation:`<p>Menurut standar pengobatan filariasis, pemberian Ivermectin ditujukan sebagai mikrofilarisida yang sangat efektif untuk menurunkan jumlah mikrofilaria dalam darah secara cepat. Kombinasi tiga obat (Triple Therapy: DEC + Albendazole + Ivermectin) telah terbukti mempercepat eliminasi parasit dimana mekanisme kerja Triple Therapy (IDA) adalah sebagai berikut:</p><ol><li>Ivarmectin memicu hiperpolarisasi dan kelumpuhan mikrofilaria melalui pembukaan saluran ion klorida</li><li>Diethylcarbamazine (DEC) mengubah permukaan tubuh parasit agar mudah dihancurkan sistem imun inang serta mengganggu metabolisme asam arakidonatnya</li><li>Albendazole menghambat polimerisasi mikrotubulus yang mengakibatkan kegagalan penyerapan glukosa dan kematian parasit akibat kekurangan energi.</li></ol><p><strong>Referensi:</strong></p><p>Guideline Alternatives Mass Drug Administration Regimen to Eliminate Lymphatic Filiarisis, WHO, 2017</p> `,
 expImg:`Filiarisis.png`
 },
 {
@@ -1466,67 +1466,67 @@ question:`Seorang wanita berusia 28 tahun datang ke apotek dengan keluhan gatal 
 img:``,
 options:["A. Clotrimazole","B. Fluconazole","C. Metronidazol","D. Nistatin","E. Mikonazol"],
 answer: `B. Fluconazole`,
-explanation:`Berdasarkan analisis kasus tersebut pasien mengalami  Kandidiasis Vulvovaginal (VVC) diklasifikasikan sebagai rekuren (RVVC) karena terjadi 4 kali atau lebih episode simtomatik dalam satu tahun.Digunakan Flukonazol  karena mampu berpenetrasi dengan sangat baik ke dalam cairan dan jaringan vagina, memastikan kadar terapeutik tercapai tepat di lokasi infeksi dan bekerja spesifik menghambat enzim sitokrom P450 jamur (yang menghentikan konversi lanosterol menjadi ergosterol menyebabkan integritas sel membran dari Candida albicans bocor.<br><br>Clotrimazole, Nistatin, & Mikonazol: Merupakan antijamur topikal/intravaginal yang efektif untuk episode akut non-komplikata, namun tidak menjadi pilihan utama untuk rejimen pemeliharaan jangka panjang pada kasus rekuren.<br><br>Metronidazol: Merupakan antibiotik/antiprotozoa yang digunakan untuk mengobati Bacterial Vaginosis atau Trichomoniasis, bukan untuk infeksi jamur Candida.                                                                                                                                                                                                                                                                        <br><br><b>Referensi:</b><br>Panduan Praktik Klinis Dermatologi Venereologi, Perdoski, 2024 `,
+explanation:`Berdasarkan analisis kasus tersebut pasien mengalami  Kandidiasis Vulvovaginal (VVC) diklasifikasikan sebagai rekuren (RVVC) karena terjadi 4 kali atau lebih episode simtomatik dalam satu tahun.Digunakan Flukonazol  karena mampu berpenetrasi dengan sangat baik ke dalam cairan dan jaringan vagina, memastikan kadar terapeutik tercapai tepat di lokasi infeksi dan bekerja spesifik menghambat enzim sitokrom P450 jamur (yang menghentikan konversi lanosterol menjadi ergosterol menyebabkan integritas sel membran dari Candida albicans bocor.<br/><br/>Clotrimazole, Nistatin, & Mikonazol: Merupakan antijamur topikal/intravaginal yang efektif untuk episode akut non-komplikata, namun tidak menjadi pilihan utama untuk rejimen pemeliharaan jangka panjang pada kasus rekuren.<br/><br/>Metronidazol: Merupakan antibiotik/antiprotozoa yang digunakan untuk mengobati Bacterial Vaginosis atau Trichomoniasis, bukan untuk infeksi jamur Candida.                                                                                                                                                                                                                                                                        <br/><br/><b>Referensi:</b><br/>Panduan Praktik Klinis Dermatologi Venereologi, Perdoski, 2024`,
 expImg:`Kandidasis.png`
 },
 {
 category:`Infeksi`,
 level:`Medium`,
-question:`Seorang bapak berusia 62 tahun dibawa ke rumah sakit dengan keluhan sesak napas, batuk berdahak berwarna karat, dan demam tinggi sejak 2 hari yang lalu. Pasien memiliki riwayat medis Diabetes Mellitus tipe 2 dan memiliki kebiasaan mengonsumsi alkohol secara rutin.Setelah dilakukan Roentgen pasien didiagnosis CAP.Berdasarkan kondisi pasien antibiotik apa yang tepat untuk pasien`,
+question:`Seorang bapak berusia 62 tahun dibawa ke rumah sakit dengan keluhan sesak napas, batuk berdahak berwarna karat, dan demam tinggi sejak 2 hari yang lalu. Pasien memiliki riwayat medis Diabetes Mellitus tipe 2 dan memiliki kebiasaan mengonsumsi alkohol secara rutin. Setelah dilakukan Roentgen pasien didiagnosis CAP. Berdasarkan kondisi pasien antibiotik apa yang tepat untuk pasien`,
 img:``,
 options:["A. Doksisiklin","B. Ceftriaxone","C. Azithromisin","D. Levofloksasin","E. Amoxicillin"],
 answer: `D. Levofloksasin`,
-explanation:`Berdasarkan analisis kasus tersebut pasien mengalami  didiagnosis CAP disertai komorbid dimana dapat diberikan monoterapi florokuinolon (Levofloksasin/Moxifloxacin) atau Terapi Kombinasi (Beta-laktam + Makrolida/Doksisiklin).Alasan Memilih Levofloksasin karena Levofloksasin memiliki spektrum luas yang mencakup bakteri tipikal (seperti S. pneumoniae yang resisten penisilin) dan bakteri atipikal. Pada pasien alkoholisme, risiko infeksi bakteri Gram-negatif seperti Klebsiella pneumoniae meningkat, dan kuinolon memiliki efikasi yang baik terhadap patogen tersebut.<br><br>Analisis opsi lain<br><br>Opsi Amoksisilin,Ceftriaxone,Azithromisin dan Doksisiklin) Hanya ditujukan untuk pasien CAP tanpa komorbiditas (sehat) dan tanpa faktor risiko resistensi. Pada pasien diabetes dan alkoholisme, risiko kegagalan terapi dengan monoterapi ini sangat tinggi.                                                                                                                                                                                                                                                                       <br><br><b>Referensi:</b><br>PNPK Tatalaksana Pneumonia pada Dewasa, KMK no. 2147 / 2023 `,
+explanation:`Berdasarkan analisis kasus tersebut pasien mengalami didiagnosis CAP disertai komorbid dimana dapat diberikan monoterapi florokuinolon (Levofloksasin/Moxifloxacin) atau Terapi Kombinasi (Beta-laktam + Makrolida/Doksisiklin). Alasan Memilih Levofloksasin karena Levofloksasin memiliki spektrum luas yang mencakup bakteri tipikal (seperti S. pneumoniae yang resisten penisilin) dan bakteri atipikal. Pada pasien alkoholisme, risiko infeksi bakteri Gram-negatif seperti Klebsiella pneumoniae meningkat, dan kuinolon memiliki efikasi yang baik terhadap patogen tersebut.<br/><br/>Analisis opsi lain<br/><br/>Opsi Amoksisilin, Ceftriaxone, Azithromisin dan Doksisiklin hanya ditujukan untuk pasien CAP tanpa komorbiditas (sehat) dan tanpa faktor risiko resistensi. Pada pasien diabetes dan alkoholisme, risiko kegagalan terapi dengan monoterapi ini sangat tinggi.<br/><br/><b>Referensi:</b><br/>PNPK Tatalaksana Pneumonia pada Dewasa, KMK no. 2147 / 2023`,
 expImg:`CAPKomorbid.png`
 },
 {
 category:`Infeksi`,
 level:`Medium`,
-question:`Seorang pria berusia 34 tahun baru saja kembali dari perjalanan wisata ke India (kawasan Asia selatan).Ia datang ke klinik dengan keluhan diare berat (lebih dari 4 kali buang air besar encer dalam 24 jam) yang disertai kram perut hebat dan mual. Pasien tidak menemukan adanya darah pada fesesnya dan dokter memutuskan untuk memberikan antibiotik  untuk pasien tersebut.Manakan antibiotik yang direkomendasikan apoteker untuk pasien tersebut?`,
+question:`Seorang pria berusia 34 tahun baru saja kembali dari perjalanan wisata ke India (kawasan Asia selatan). Ia datang ke klinik dengan keluhan diare berat (lebih dari 4 kali buang air besar encer dalam 24 jam) yang disertai kram perut hebat dan mual. Pasien tidak menemukan adanya darah pada fesesnya dan dokter memutuskan untuk memberikan antibiotik  untuk pasien tersebut. Manakah antibiotik yang direkomendasikan apoteker untuk pasien tersebut?`,
 img:``,
 options:["A. Siprofloksasin","B. Kotrimoksazol","C. Doksisilin","D. Azithromisin","E. Metronidazol"],
 answer: `D. Azithromisin`,
-explanation:`Berdasarkan analisis kasus tersebut pasien mengalami travel diarrhea dimana brdasarkan pedoman , Azitromisin adalah obat pilihan utama untuk Traveler's Diarrhea yang terjadi di wilayah dengan risiko resistensi kuinolon yang tinggi atau jika diare bersifat berat/disentri dimana  Azitromisin efektif melawan Campylobacter yang resisten terhadap fluoroquinolone dan juga efektif terhadap patogen enterik lainnya seperti E. coli<br><br>Analisis opsi lain<br><br>Siprofloksasin:Di wilayah Asia Selatan (termasuk India/Prindavan) dan Asia Tenggara, bakteri Campylobacter merupakan penyebab umum diare dan telah menunjukkan tingkat resistensi yang sangat tinggi terhadap golongan Flurokuinolon (seperti Siprofloksasin).<br><br>Kotrimoksazol : Tidak lagi direkomendasikan secara rutin karena tingkat resistensi patogen usus yang sudah meluas secara global.<br><br>Doksisiklin:Terkadang digunakan untuk pencegahan kolera, namun bukan merupakan standar terapi untuk Traveler's Diarrhea umum karena efektivitasnya yang rendah.<br><br>Metronidazole:Digunakan untuk diare akibat protozoa (seperti Giardia atau Amoeba), namun tidak efektif untuk diare bakteri yang merupakan penyebab sebagian besar kasus traveler's diarrhea akut.br><br><b>Referensi:</b><br>Dipiro 12th Edition `,
+explanation:`Berdasarkan analisis kasus tersebut pasien mengalami travel diarrhea dimana brdasarkan pedoman, Azitromisin adalah obat pilihan utama untuk Traveler's Diarrhea yang terjadi di wilayah dengan risiko resistensi kuinolon yang tinggi atau jika diare bersifat berat/disentri dimana Azitromisin efektif melawan Campylobacter yang resisten terhadap fluoroquinolone dan juga efektif terhadap patogen enterik lainnya seperti E. coli<br/><br/>Analisis opsi lain<br/><br/>Siprofloksasin: Di wilayah Asia Selatan (termasuk India/Prindavan) dan Asia Tenggara, bakteri Campylobacter merupakan penyebab umum diare dan telah menunjukkan tingkat resistensi yang sangat tinggi terhadap golongan Flurokuinolon (seperti Siprofloksasin).<br/><br/>Kotrimoksazol : Tidak lagi direkomendasikan secara rutin karena tingkat resistensi patogen usus yang sudah meluas secara global.<br/><br/>Doksisiklin: Terkadang digunakan untuk pencegahan kolera, namun bukan merupakan standar terapi untuk Traveler's Diarrhea umum karena efektivitasnya yang rendah.<br/><br/>Metronidazole: Digunakan untuk diare akibat protozoa (seperti Giardia atau Amoeba), namun tidak efektif untuk diare bakteri yang merupakan penyebab sebagian besar kasus traveler's diarrhea akut.<br/><br/><b>Referensi:</b><br/>Dipiro 12th Edition `,
 expImg:`Traveldiarrhea.png`
 },
 {
 category:`Infeksi`,
 level:`Easy`,
-question:`Seorang pria berusia 35 tahun datang ke klinik dengan keluhan kurap yang meluas di area dada, perut, hingga ke kedua pahanya. Sebelumnya pasien sudah mencoba mengobati dengan krim miconazole selama 3 minggu, namun infeksi justru semakin menyebar.Dokter mendiagnosis pasien mengalami tinea corporis yang telah meluas.Manakah obat antijamur yang tepat untuk pasien tersebut`,
+question:`Seorang pria berusia 35 tahun datang ke klinik dengan keluhan kurap yang meluas di area dada, perut, hingga ke kedua pahanya. Sebelumnya pasien sudah mencoba mengobati dengan krim miconazole selama 3 minggu, namun infeksi justru semakin menyebar. Dokter mendiagnosis pasien mengalami tinea corporis yang telah meluas. Manakah obat antijamur yang tepat untuk pasien tersebut`,
 img:``,
 options:["A. Ciclopirox","B. Terbinafin","C. Flukonazol","D. Amfoterisin B","E. Griseofulvin"],
 answer: `B. Terbinafin`,
-explanation:`Berdasarkan analisis kasus tersebut pasien menderita Tinea Corporis yang bersifat meluas (extensive),sehingga Penggunaan antijamur oral (sistemik) diperlukan karena infeksi sudah menyebar luas ke beberapa area tubuh (dada, perut, paha) dan telah gagal dengan pengobatan topikal (krim miconazole) selama 3 minggu.<br><br>Terbinafin merupakan lini pertama untuk ntuk infeksi dermatofit sistemik. Terbinafin bersifat fungisidal (membunuh jamur) dengan menghambat enzim skualen epoksidase, yang mengakibatkan kematian sel jamur lebih cepat dibandingkan agen fungistatik.<br><br>Analisis opsi lain<br><br>Ciclopirox: Umumnya digunakan untuk tine oncoris (infeksi jamur di kuku) dan tersedia dalam bentuk topikal (krim/kutek kuku). Tidak efektif untuk kasus yang memerlukan penanganan sistemik karena luasnya infeksi.<br><br>Amfoterisin B: Merupakan antijamur sistemik yang sangat kuat dengan toksisitas tinggi, dicadangkan hanya untuk infeksi jamur sistemik yang mengancam nyawa (seperti meningitis kriptokokus), bukan untuk jamur kulit biasa<br><br>Flukonazol: Lebih efektif untuk infeksi Candida (ragi). Meskipun bisa digunakan untuk tinea, efikasinya terhadap jamur dermatofit seringkali di bawah Terbinafin.br><br>Griseofulvin: Merupakan antijamur sistemik lini lama. Meskipun bisa digunakan, Griseofulvin bersifat fungistatik dan memerlukan durasi pengobatan yang jauh lebih lama (4–6 minggu) dibandingkan Terbinafin.<br><br><b>Referensi:</b><br>Panduan Praktik Klinis Dermatologi Venereologi,Perdoski, 2021`,
+explanation:`Berdasarkan analisis kasus tersebut pasien menderita Tinea Corporis yang bersifat meluas (extensive), sehingga penggunaan antijamur oral (sistemik) diperlukan karena infeksi sudah menyebar luas ke beberapa area tubuh (dada, perut, paha) dan telah gagal dengan pengobatan topikal (krim miconazole) selama 3 minggu.<br/><br/>Terbinafin merupakan lini pertama untuk infeksi dermatofit sistemik. Terbinafin bersifat fungisidal (membunuh jamur) dengan menghambat enzim skualen epoksidase, yang mengakibatkan kematian sel jamur lebih cepat dibandingkan agen fungistatik.<br/><br/>Analisis opsi lain<br/><br/>Ciclopirox: Umumnya digunakan untuk tine oncoris (infeksi jamur di kuku) dan tersedia dalam bentuk topikal (krim/kutek kuku). Tidak efektif untuk kasus yang memerlukan penanganan sistemik karena luasnya infeksi.<br/><br/>Amfoterisin B: Merupakan antijamur sistemik yang sangat kuat dengan toksisitas tinggi, dicadangkan hanya untuk infeksi jamur sistemik yang mengancam nyawa (seperti meningitis kriptokokus), bukan untuk jamur kulit biasa<br/><br/>Flukonazol: Lebih efektif untuk infeksi Candida (ragi). Meskipun bisa digunakan untuk tinea, efikasinya terhadap jamur dermatofit seringkali di bawah Terbinafin.br><br/>Griseofulvin: Merupakan antijamur sistemik lini lama. Meskipun bisa digunakan, Griseofulvin bersifat fungistatik dan memerlukan durasi pengobatan yang jauh lebih lama (4–6 minggu) dibandingkan Terbinafin.<br/><br/><b>Referensi:</b><br/>Panduan Praktik Klinis Dermatologi Venereologi, Perdoski, 2021`,
 expImg:`Tineacorporis.png`
 },
 {
 category:`Infeksi`,
 level:`Hard`,
-question:`Seorang pasien laki-laki berusia 40 tahun dengan riwayat HIV/AIDS dirawat di rumah sakit karena didiagnosis menderita Meningitis Kriptokokus. Pasien mendapatkan terapi induksi antijamur melalui infus intravena. Sesaat setelah pemberian infus dimulai, pasien mengalami reaksi akut berupa demam, menggigil, dan gemetar hebat (rigors). Hasil pemeriksaan laboratorium setelah beberapa hari terapi menunjukkan adanya penurunan kadar kalium (hipokalemia) dan magnesium.Manakah obat antijamur yang paling mungkin menyebabkan reaksi tersebut`,
+question:`Seorang pasien laki-laki berusia 40 tahun dengan riwayat HIV/AIDS dirawat di rumah sakit karena didiagnosis menderita Meningitis Kriptokokus. Pasien mendapatkan terapi induksi antijamur melalui infus intravena. Sesaat setelah pemberian infus dimulai, pasien mengalami reaksi akut berupa demam, menggigil, dan gemetar hebat (rigors). Hasil pemeriksaan laboratorium setelah beberapa hari terapi menunjukkan adanya penurunan kadar kalium (hipokalemia) dan magnesium. Manakah obat antijamur yang paling mungkin menyebabkan reaksi tersebut?`,
 img:``,
 options:["A. Flukonazol","B. Terbinafin","C. Itraconazol","D. Amfoterisin B","E. Griseofulvin"],
 answer: `D. Amfoterisin B`,
-explanation:`Amfoterisin B adalah lini pertama ( untuk fase induksi pada meningitis kriptokokus karena spektrumnya yang sangat luas dan sifatnya yang fungisidal kuat.<br><br>Amfoterisin B dikenal sering menyebabkan reaksi yang disebut "shake and bake", yaitu demam, menggigil, dan gemetar hebat sesaat setelah infus diberikan. Hal ini disebabkan oleh pelepasan sitokin pro-inflamasi.Selain itu lah satu efek samping yang paling khas dari Amfoterisin B adalah nefrotoksisitas, yang secara spesifik menyebabkan kebocoran elektrolit di tubulus ginjal. Hal ini mengakibatkan pasien mengalami hipokalemia dan hipomagnesemia yang signifikan.<br><br>Untuk pencegahan efek samping tersebut biasanya untuk shake and bake reaction dipremedikasi dengan antipiretik atau antihistamin, sementara hipokalemia dicegah dengan pemberian hidrasi cairan salin (NaCl 0,9%) serta suplemen kalium.<br><br><b>Referensi:</b><br>WHO Guidelines. Diagnosis, Prevention and Management of Cryptococcal Disease.`,
+explanation:`Amfoterisin B adalah lini pertama ( untuk fase induksi pada meningitis kriptokokus karena spektrumnya yang sangat luas dan sifatnya yang fungisidal kuat.<br/><br/>Amfoterisin B dikenal sering menyebabkan reaksi yang disebut "shake and bake", yaitu demam, menggigil, dan gemetar hebat sesaat setelah infus diberikan. Hal ini disebabkan oleh pelepasan sitokin pro-inflamasi.Selain itu lah satu efek samping yang paling khas dari Amfoterisin B adalah nefrotoksisitas, yang secara spesifik menyebabkan kebocoran elektrolit di tubulus ginjal. Hal ini mengakibatkan pasien mengalami hipokalemia dan hipomagnesemia yang signifikan.<br/><br/>Untuk pencegahan efek samping tersebut biasanya untuk shake and bake reaction dipremedikasi dengan antipiretik atau antihistamin, sementara hipokalemia dicegah dengan pemberian hidrasi cairan salin (NaCl 0,9%) serta suplemen kalium.<br/><br/><b>Referensi:</b><br/>WHO Guidelines. Diagnosis, Prevention and Management of Cryptococcal Disease.`,
 expImg:``
 },
 {
 category:`Infeksi`,
 level:`Hard`,
-question:`Seorang pria berusia 58 tahun dengan riwayat Diabetes Mellitus tipe 2 yang tidak terkontrol datang dengan luka pada telapak kaki kanan yang sudah menghitam (gangren), berbau busuk, dan mengeluarkan nanah. Hasil pemeriksaan menunjukkan adanya infeksi berat yang melibatkan jaringan lunak hingga ke tulang (osteomielitis). Pasien memiliki riwayat alergi berat terhadap Penisilin (mengalami anafilaksis).manakah pilihan antibiotik oral yang paling tepat diberikan kepada pasien tersebut sebagai alternatif karena adanya riwayat alergi beta-laktam?`,
+question:`Seorang pria berusia 58 tahun dengan riwayat Diabetes Mellitus tipe 2 yang tidak terkontrol datang dengan luka pada telapak kaki kanan yang sudah menghitam (gangren), berbau busuk, dan mengeluarkan nanah. Hasil pemeriksaan menunjukkan adanya infeksi berat yang melibatkan jaringan lunak hingga ke tulang (osteomielitis). Pasien memiliki riwayat alergi berat terhadap Penisilin (mengalami anafilaksis). Manakah pilihan antibiotik oral yang paling tepat diberikan kepada pasien tersebut sebagai alternatif karena adanya riwayat alergi beta-laktam?`,
 img:``,
 options:["A. Ampisillin-Sulbaktam","B. Metronidazole","C. Klindamisin","D. Levofloksasin","E. Vankomisin"],
 answer: `C. Klindamisin`,
-explanation:`Klindamisin merupakan pilihan alternatif an aman bagi  pasien yang menderita osteomilitis (infeksi tulang yang tidak terkendali dapat menyebabkan gangrene) pasien alergi Penisilin. Klindamisin memiliki cakupan yang sangat baik terhadap bakteri Gram-positif dan bakteri anaerob (seperti B. fragilis), serta memiliki penetrasi tulang yang baik untuk kasus osteomielitis.<br><br><b>Referensi:</b><br>Pedoman Penggunaan Antibiotik, Permenkes no. 28 / 2021`,
+explanation:`Klindamisin merupakan pilihan alternatif an aman bagi  pasien yang menderita osteomilitis (infeksi tulang yang tidak terkendali dapat menyebabkan gangrene) pasien alergi Penisilin. Klindamisin memiliki cakupan yang sangat baik terhadap bakteri Gram-positif dan bakteri anaerob (seperti B. fragilis), serta memiliki penetrasi tulang yang baik untuk kasus osteomielitis.<br/><br/><b>Referensi:</b><br/>Pedoman Penggunaan Antibiotik, Permenkes no. 28 / 2021`,
 expImg:`Osteomilitis.png`
 },
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang laki-laki 56 tahun datang kontrol rutin. Pasien memiliki riwayat diabetes melitus tipe 2 sejak 8 tahun lalu. Tekanan darah saat ini 158/96 mmHg. Pemeriksaan laboratorium menunjukkan mikroalbuminuria positif.Golongan antihipertensi yang paling tepat diberikan adalah :`,
+question:`Seorang laki-laki berusia 56 tahun datang ke poliklinik untuk kontrol rutin. Pasien memiliki riwayat menderita Diabetes Melitus (DM) tipe 2 sejak 8 tahun yang lalu dan rutin mengonsumsi obat antidiabetik oral. Pada pemeriksaan fisik didapatkan tekanan darah 158/96 mmHg. Hasil pemeriksaan laboratorium urin menunjukkan adanya mikroalbuminuria positif (+). Apakah golongan obat antihipertensi yang paling tepat diberikan pada pasien tersebut?`,
 img:``,
 options:["A. Calcium channel blocker","B. Beta blocker","C. ACE inhibitor","D. Diuretik osmotik","E. Vasodilator langsung"],
 answer: `C. ACEI inhibitor`,
-explanation:`Golongan antihipertensi untuk albuminuria yaitu ACEI Inhibitor. ACE inhibitor (ACEI) dapat menurunkan albuminuria melalui efek hemodinamik dan renoprotektif pada ginjal. Pada kondisi hipertensi atau diabetes, aktivasi sistem renin-angiotensin-aldosteron (RAAS) menyebabkan peningkatan kadar angiotensin II yang memicu vasokonstriksi arteriol eferen glomerulus. Akibatnya tekanan intraglomerulus meningkat dan permeabilitas membran glomerulus terhadap protein menjadi lebih besar sehingga albumin bocor ke urin.<br>ACEI bekerja dengan menghambat konversi angiotensin I menjadi angiotensin II sehingga terjadi dilatasi arteriol eferen glomerulus. Hal ini menurunkan tekanan intraglomerulus, mengurangi hiperfiltrasi, dan menurunkan kebocoran albumin ke urin. Selain itu, ACEI juga memiliki efek antifibrotik dan antiinflamasi yang membantu memperlambat progresivitas kerusakan ginjal kronis. Oleh karena itu, ACEI direkomendasikan sebagai terapi lini pertama pada pasien hipertensi atau diabetes dengan albuminuria.<b>Referensi:</b><br>KDIGO Clinical Practice Guideline for Diabetes Management in CKD 2022<br>Keputusan MENKES NOMOR HK.01.07/MENKES/1634/2023`,
+explanation:`Golongan antihipertensi untuk albuminuria yaitu ACEI Inhibitor. ACE inhibitor (ACEI) dapat menurunkan albuminuria melalui efek hemodinamik dan renoprotektif pada ginjal. Pada kondisi hipertensi atau diabetes, aktivasi sistem renin-angiotensin-aldosteron (RAAS) menyebabkan peningkatan kadar angiotensin II yang memicu vasokonstriksi arteriol eferen glomerulus. Akibatnya tekanan intraglomerulus meningkat dan permeabilitas membran glomerulus terhadap protein menjadi lebih besar sehingga albumin bocor ke urin.<br/><br/>ACEI bekerja dengan menghambat konversi angiotensin I menjadi angiotensin II sehingga terjadi dilatasi arteriol eferen glomerulus. Hal ini menurunkan tekanan intraglomerulus, mengurangi hiperfiltrasi, dan menurunkan kebocoran albumin ke urin. Selain itu, ACEI juga memiliki efek antifibrotik dan antiinflamasi yang membantu memperlambat progresivitas kerusakan ginjal kronis. Oleh karena itu, ACEI direkomendasikan sebagai terapi lini pertama pada pasien hipertensi atau diabetes dengan albuminuria.<br/><br/><b>Referensi:</b><br/>1. KDIGO Clinical Practice Guideline for Diabetes Management in CKD 2022<br/>2. Keputusan MENKES NOMOR HK.01.07/MENKES/1634/2023`,
 expImg:``
 },
 {
@@ -1536,47 +1536,47 @@ question:`Seorang pasien laki-laki dibawa ke IGD setelah ditemukan tidak sadarka
 img:``,
 options:["A. Nitropusside","B. Labetolol","C. Kaptopril","D. Valsartan","E. Bisoprolol"],
 answer: `A. Nitropuside`,
-explanation:`Hipertensi urgensi: tekanan darah 180/120mmHg tanpa kerusakan organ. Terapi: antihipertensi oral kerja pendek seperti kaptopril, klonidin, labetolol.Hipertensi emergensi: tekanan darah 180/120mmHg disertai kerusakan organ. Terapi: Nitropusside (vasodilator yang bekerja langsung menurunkan pulmonary vascular resistance).<b>Referensi:</b><br>Dipiro ed 12 th halaman 128`,
+explanation:`Hipertensi urgensi: tekanan darah 180/120mmHg tanpa kerusakan organ. Terapi: antihipertensi oral kerja pendek seperti kaptopril, klonidin, labetolol.Hipertensi emergensi: tekanan darah 180/120mmHg disertai kerusakan organ. Terapi: Nitropusside (vasodilator yang bekerja langsung menurunkan pulmonary vascular resistance).<br/><br/><b>Referensi:</b><br/> Dipiro ed 12 th halaman 128`,
 expImg:``
 },
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang wanita ditemukan mengantuk berat setelah mengonsumsi alprazolam dosis tinggi. Tanda vital stabil dan tidak ditemukan depresi napas berat.Seorang perempuan berusia 24 tahun dibawa ke Instalasi Gawat Darurat (IGD) oleh keluarganya karena mengalami penurunan kesadaran setelah mengonsumsi sejumlah tablet obat antikecemasan miliknya sekitar 2 jam sebelumnya. Hasil pemeriksaan menunjukkan pasien tampak mengantuk, dapat dibangunkan dengan rangsangan verbal, tekanan darah 110/70 mmHg, nadi 84 kali/menit, frekuensi napas 18 kali/menit, dan saturasi oksigen 98%. Dari riwayat pengobatan diketahui pasien rutin menggunakan alprazolam untuk gangguan kecemasan. <br>Antidotum spesifik yang dapat diberikan adalah:`,
+question:`Seorang wanita ditemukan mengantuk berat setelah mengonsumsi alprazolam dosis tinggi. Tanda vital stabil dan tidak ditemukan depresi napas berat.Seorang perempuan berusia 24 tahun dibawa ke Instalasi Gawat Darurat (IGD) oleh keluarganya karena mengalami penurunan kesadaran setelah mengonsumsi sejumlah tablet obat antikecemasan miliknya sekitar 2 jam sebelumnya. Hasil pemeriksaan menunjukkan pasien tampak mengantuk, dapat dibangunkan dengan rangsangan verbal, tekanan darah 110/70 mmHg, nadi 84 kali/menit, frekuensi napas 18 kali/menit, dan saturasi oksigen 98%. Dari riwayat pengobatan diketahui pasien rutin menggunakan alprazolam untuk gangguan kecemasan. Antidotum spesifik yang dapat diberikan adalah:`,
 img:``,
 options:["A. Nalokson","B. Flumazenil","C. Atropin","D. Etanol","E. Vitamin K"],
 answer: `B. Flumazenil`,
-explanation:`Flumazenil merupakan antagonis reseptor benzodiazepin yang digunakan untuk membalikkan efek sedatif benzodiazepin. Penggunaan harus hati-hati karena dapat memicu kejang pada pengguna kronik.<b>Referensi:</b><br>Brunton LL, Hilal-Dandan R, Knollmann BC. Goodman & Gilman’s The Pharmacological Basis of Therapeutics. 14th ed. McGraw-Hill; 2023.`,
+explanation:`Flumazenil merupakan antagonis reseptor benzodiazepin yang digunakan untuk membalikkan efek sedatif benzodiazepin. Penggunaan harus hati-hati karena dapat memicu kejang pada pengguna kronik.<br/><br/><b>Referensi:</b><br/>Brunton LL, Hilal-Dandan R, Knollmann BC. Goodman & Gilman’s The Pharmacological Basis of Therapeutics. 14th ed. McGraw-Hill; 2023.`,
 expImg:``
 },
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang ibu datang ke apotek dengan keluhan nyeri kepala dan badan terasa tidak nyaman. Pasien menyampaikan bahwa dirinya rutin mengonsumsi simvastatin untuk menurunkan kadar kolesterol. Berdasarkan hasil pemeriksaan laboratorium terbaru, diperoleh kadar kolesterol total 300 mg/dL, LDL 180 mg/dL, dan HDL 40 mg/dL.<br>Apoteker menilai bahwa target penurunan kadar LDL belum tercapai sehingga diperlukan penambahan terapi untuk membantu mengendalikan kadar kolesterol pasien. Obat yang paling tepat untuk ditambahkan pada terapi pasien adalah : `,
+question:`Seorang ibu datang ke apotek dengan keluhan nyeri kepala dan badan terasa tidak nyaman. Pasien menyampaikan bahwa dirinya rutin mengonsumsi simvastatin untuk menurunkan kadar kolesterol. Berdasarkan hasil pemeriksaan laboratorium terbaru, diperoleh kadar kolesterol total 300 mg/dL, LDL 180 mg/dL, dan HDL 40 mg/dL. Apoteker menilai bahwa target penurunan kadar LDL belum tercapai sehingga diperlukan penambahan terapi untuk membantu mengendalikan kadar kolesterol pasien. Obat yang paling tepat untuk ditambahkan pada terapi pasien adalah`,
 img:``,
 options:["A. Gemfibrozil","B. Kolestiramin","C. Ezetimibe","D. Asam nikotinat","E. Fenofibrat"],
 answer: `C. Ezetimibe`,
-explanation:`Pasien masih memiliki kadar LDL yang tinggi meskipun telah menggunakan simvastatin secara rutin. Pada pasien yang belum mencapai target LDL dengan terapi statin, dapat diberikan terapi kombinasi dengan ezetimibe. Ezetimibe bekerja dengan menghambat absorpsi kolesterol di usus melalui transporter NPC1L1 sehingga memberikan tambahan penurunan kadar LDL. Kombinasi statin dan ezetimibe direkomendasikan pada pasien dengan risiko kardiovaskular tinggi atau yang gagal mencapai target terapi menggunakan statin tunggal. Sementara itu, fibrat lebih diutamakan untuk hipertrigliseridemia.<b>Referensi:</b><br>PERKENI. Panduan Pengelolaan Dislipidemia di Indonesia 2021. Jakarta: PB PERKENI; 2021.`,
+explanation:`Pasien masih memiliki kadar LDL yang tinggi meskipun telah menggunakan simvastatin secara rutin. Pada pasien yang belum mencapai target LDL dengan terapi statin, dapat diberikan terapi kombinasi dengan ezetimibe. Ezetimibe bekerja dengan menghambat absorpsi kolesterol di usus melalui transporter NPC1L1 sehingga memberikan tambahan penurunan kadar LDL. Kombinasi statin dan ezetimibe direkomendasikan pada pasien dengan risiko kardiovaskular tinggi atau yang gagal mencapai target terapi menggunakan statin tunggal. Sementara itu, fibrat lebih diutamakan untuk hipertrigliseridemia.<br/><br/><b>Referensi:</b><br/>PERKENI. Panduan Pengelolaan Dislipidemia di Indonesia 2021. Jakarta: PB PERKENI; 2021.`,
 expImg:``
 },
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang apoteker melakukan visite bersama dokter di ruang rawat inap untuk mengevaluasi terapi obat pada pasien hipertensi tanpa komorbid. Hasil pemeriksaan menunjukkan tekanan darah pasien masih 170/105 mmHg sehingga dokter berencana memberikan terapi kombinasi antihipertensi untuk membantu mencapai target tekanan darah.Terapi kombinasi antihipertensi yang direkomendasikan untuk pasien tersebut adalah:`,
+question:`Seorang apoteker melakukan visite bersama dokter di ruang rawat inap untuk mengevaluasi terapi obat pada pasien hipertensi tanpa komorbid. Hasil pemeriksaan menunjukkan tekanan darah pasien masih 170/105 mmHg sehingga dokter berencana memberikan terapi kombinasi antihipertensi untuk membantu mencapai target tekanan darah. Terapi kombinasi antihipertensi yang direkomendasikan untuk pasien tersebut adalah`,
 img:``,
 options:["A. ACE inhibitor + ARB","B. Beta blocker + ARB","C. ACE inhibitor + CCB","D. ARB + ARB","E. Beta blocker tungga"],
 answer: `C. ACE inhibitor + CCB`,
-explanation:`Kombinasi yang tepat menurut tatalaksana yaitu ACEI Inhibitor + CCB<img src="assets/01TO1M11.jpeg"></img<b>Referensi:</b><br>Lukito AA, Harmeiwaty E, Hustrini NM, editors. Konsensus Penatalaksanaan Hipertensi 2019. Jakarta: Perhimpunan Dokter Hipertensi Indonesia; 2019.<br>Keputusan Menteri Kesehatan Republik Indonesia Nomor HK 01.07/Menkes/4634/2021 Tentang Pedoman Nasional Pelayanan Kedokteran Tata Laksana Hipertensi Dewasa`,
-expImg:`01TO1M11.jpeg`
+explanation:`Kombinasi yang tepat menurut tatalaksana yaitu ACEI Inhibitor + CCB<img src="assets/01TO1M11.jpeg"></img<b>Referensi:</b><br/>Lukito AA, Harmeiwaty E, Hustrini NM, editors. Konsensus Penatalaksanaan Hipertensi 2019. Jakarta: Perhimpunan Dokter Hipertensi Indonesia; 2019.<br/>Keputusan Menteri Kesehatan Republik Indonesia Nomor HK 01.07/Menkes/4634/2021 Tentang Pedoman Nasional Pelayanan Kedokteran Tata Laksana Hipertensi Dewasa`,
+expImg:``
 },
 {
 category:`Klinis (Kardiovaskular) `,
 level:`Medium`,
-question:`Seorang laki-laki berusia 25 tahun dibawa ke Instalasi Gawat Darurat (IGD) oleh temannya karena ditemukan tidak responsif sekitar 30 menit setelah menyuntikkan suatu zat yang diduga merupakan narkotika. Hasil pemeriksaan menunjukkan tekanan darah 90/60 mmHg, frekuensi nadi 58 kali/menit, frekuensi napas 6 kali/menit, saturasi oksigen 82%, dan pupil tampak sangat kecil (pinpoint pupil). Dokter menegakkan diagnosis overdosis opioid dan meminta rekomendasi terapi antidotum kepada apoteker klinis. Antidotum yang paling tepat diberikan pada pasien tersebut adalah ?`,
+question:`Seorang laki-laki berusia 25 tahun dibawa ke Instalasi Gawat Darurat (IGD) oleh temannya karena ditemukan tidak responsif sekitar 30 menit setelah menyuntikkan suatu zat yang diduga merupakan narkotika. Hasil pemeriksaan menunjukkan tekanan darah 90/60 mmHg, frekuensi nadi 58 kali/menit, frekuensi napas 6 kali/menit, saturasi oksigen 82%, dan pupil tampak sangat kecil (pinpoint pupil). Dokter menegakkan diagnosis overdosis opioid dan meminta rekomendasi terapi antidotum kepada apoteker klinis. Antidotum yang paling tepat diberikan pada pasien tersebut adalah?`,
 img:``,
 options:["A. Flumazenil","B. Atropin","C. Nalokson","D. Vitamin K","E. N-asetilsistein"],
 answer: `C. Nalokson`,
-explanation:`Pasien mengalami overdosis opioid yang ditandai dengan trias klasik berupa depresi napas, penurunan kesadaran, dan miosis (pinpoint pupil). Nalokson merupakan antagonis reseptor opioid yang bekerja cepat membalikkan efek opioid terutama depresi napas yang mengancam nyawa. Pemberian nalokson menjadi terapi utama pada keracunan opioid akut. Sementara flumazenil digunakan untuk overdosis benzodiazepin, atropin untuk keracunan organofosfat, vitamin K sebagai antidotum warfarin, dan N-asetilsistein untuk overdosis parasetamol.<b>Referensi:</b><br>World Health Organization (WHO) – Community Management of Opioid Overdose`,
+explanation:`Pasien mengalami overdosis opioid yang ditandai dengan trias klasik berupa depresi napas, penurunan kesadaran, dan miosis (pinpoint pupil). Nalokson merupakan antagonis reseptor opioid yang bekerja cepat membalikkan efek opioid terutama depresi napas yang mengancam nyawa. Pemberian nalokson menjadi terapi utama pada keracunan opioid akut. Sementara flumazenil digunakan untuk overdosis benzodiazepin, atropin untuk keracunan organofosfat, vitamin K sebagai antidotum warfarin, dan N-asetilsistein untuk overdosis parasetamol.<br/><br/><b>Referensi:</b><br/>World Health Organization (WHO) – Community Management of Opioid Overdose`,
 expImg:``
 },
 {
@@ -1586,7 +1586,7 @@ question:`Seorang pasien laki-laki berusia 58 tahun dirawat di Intensive Care Un
 img:``,
 options:["A. Dopamin","B. Dobutamin","C. Norepinefrin","D. Epinefrin","E. Vasopresin"],
 answer: `C. Norepinefrin`,
-explanation:`Norepinefrin adalah vasopressor pilihan pertama (first-line) pada syok sepsis setelah resusitasi cairan kristaloid (NaCl 0,9% atau ringer laktat) tidak berhasil mencapai target MAP ≥65 mmHg. Sebagai catatan, MAP pasien = (80 + 2*50)/(3) = 60. Norepinefrin bekerja dominan pada reseptor α1-adrenergik (vasokonstriksi kuat → meningkatkan SVR) dengan efek β1 ringan yang mempertahankan cardiac output tanpa menimbulkan takikardia bermakna.  <br><br><b>Referensi:</b><br>DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 142.`,
+explanation:`Norepinefrin adalah vasopressor pilihan pertama (first-line) pada syok sepsis setelah resusitasi cairan kristaloid (NaCl 0,9% atau ringer laktat) tidak berhasil mencapai target MAP ≥65 mmHg. Sebagai catatan, MAP pasien = (80 + 2*50)/(3) = 60. Norepinefrin bekerja dominan pada reseptor α1-adrenergik (vasokonstriksi kuat → meningkatkan SVR) dengan efek β1 ringan yang mempertahankan cardiac output tanpa menimbulkan takikardia bermakna.  <br/><br/><b>Referensi:</b><br/>DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 142.`,
 expImg:`04TO1M11.png`
 },
 {
@@ -1596,7 +1596,7 @@ question:`Seorang pasien laki-laki berusia 58 tahun dibawa ke IGD rumah sakit da
 img:``,
 options:["A. Tekanan darah saat masuk 170/100 mmHg","B. Riwayat stroke iskemik 8 bulan yang lalu","C. Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu","D. Sedang mengkonsumsi aspirin 80 mg/hari","E. Riwayat ulkus peptikum 1 tahun yang lalu yang sudah sembuh"],
 answer: `C. Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu`,
-explanation:`Pada gambar berikut terdapat indikasi, kontraindikasi absolut, dan kontraindikasi relatif saat pemberian terapi fibrinolitik.<br><br><img src="assets/05TO1M11.png"></img><br>Terdapat kalimat <i>”Any prior hemorrhagic stroke”</i> yang berarti obat fibrinolitik kontraindikasi absolut terhadap pasien. yang memiliki riwayat stroke hemoragik. Dengan demikian, jawaban yang benar adalah C.  Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu.<br><br><b>Referensi:</b><br> DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 34.`,
+explanation:`Pada gambar berikut terdapat indikasi, kontraindikasi absolut, dan kontraindikasi relatif saat pemberian terapi fibrinolitik.<br/><br/><img src="assets/05TO1M11.png"></img><br/>Terdapat kalimat <i>”Any prior hemorrhagic stroke”</i> yang berarti obat fibrinolitik kontraindikasi absolut terhadap pasien. yang memiliki riwayat stroke hemoragik. Dengan demikian, jawaban yang benar adalah C.  Riwayat perdarahan intrakranial (stroke hemoragik) 2 tahun yang lalu.<br/><br/><b>Referensi:</b><br/> DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 34.`,
 expImg:``
 },
 {
@@ -1606,7 +1606,7 @@ question:`Seorang pasien laki-laki berusia 62 tahun dilarikan ke UGD rumah sakit
 img:``,
 options:["A. Bersamaan dengan pemberian Alteplase untuk efek sinergis","B. Segera setelah infus Alteplase selesai diberikan","C. 6 jam setelah pemberian Alteplase","D. 24 jam setelah pemberian Alteplase","E. 7 hari setelah pemberian Alteplase"],
 answer: `D. 24 jam setelah pemberian Alteplase`,
-explanation:`Pada pasien yang mendapatkan terapi alteplase, pemberian aspirin biasanya ditunda hingga 24 setelah terapi untuk mencegah risiko hemoragik. Dengan demikian, jawabannya adalah D. 24 jam setelah pemberian Alteplase.<br><br><b>Referensi:</b><br>Kemenkes RI Nomor Hk.01.07/menkes/394/2019 Tentang Pedoman Nasional Pelayanan Kedokteran Tata Laksana Stroke; DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 34`,
+explanation:`Pada pasien yang mendapatkan terapi alteplase, pemberian aspirin biasanya ditunda hingga 24 setelah terapi untuk mencegah risiko hemoragik. Dengan demikian, jawabannya adalah D. 24 jam setelah pemberian Alteplase.<br/><br/><b>Referensi:</b><br/>Kemenkes RI Nomor Hk.01.07/menkes/394/2019 Tentang Pedoman Nasional Pelayanan Kedokteran Tata Laksana Stroke; DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 34`,
 expImg:`06TO1M11.png`
 },
 {
@@ -1616,7 +1616,7 @@ question:`Seorang pasien wanita berusia 45 tahun dirawat setelah didiagnosis men
 img:``,
 options:["A. Heparin","B. Enoxaparin","C. Fondaparinux","D. Apixaban","E. Klopidogrel"],
 answer: `D. Apixaban`,
-explanation:`Pasien adalah wanita 45 tahun dengan stroke kardioemboli yang membutuhkan terapi antikoagulan oral untuk pencegahan sekunder. Berdasarkan tabel rekomendasi DiPiro 12th ed., untuk stroke etiologi kardioemboli (terutama akibat fibrilasi atrium), pilihan terapi yang direkomendasikan dengan Class I, Level of Evidence A adalah: <br>- Vitamin K antagonist (warfarin) dengan target INR 2–3;<br>- Apixaban 5 mg dua kali sehari;<br>- Dabigatran 150 mg dua kali sehari;<br>- Edoxaban 60 mg sekali sehari;<br>- Rivaroxaban 20 mg sekali sehari.<br><br>Tabel juga secara eksplisit menyatakan bahwa pada pasien dengan fibrilasi atrium tanpa stenosis mitral sedang-berat atau katup jantung mekanik, golongan DOAC (apixaban, dabigatran, edoxaban, atau rivaroxaban) lebih dipilih dibanding warfarin (Class I, Level B-R). Dengan demikian, jawaban yang tepat adalah D. Apixaban. <br><br><b>Referensi:</b><br>DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 34`,
+explanation:`Pasien adalah wanita 45 tahun dengan stroke kardioemboli yang membutuhkan terapi antikoagulan oral untuk pencegahan sekunder. Berdasarkan tabel rekomendasi DiPiro 12th ed., untuk stroke etiologi kardioemboli (terutama akibat fibrilasi atrium), pilihan terapi yang direkomendasikan dengan Class I, Level of Evidence A adalah: <br/>- Vitamin K antagonist (warfarin) dengan target INR 2–3;<br/>- Apixaban 5 mg dua kali sehari;<br/>- Dabigatran 150 mg dua kali sehari;<br/>- Edoxaban 60 mg sekali sehari;<br/>- Rivaroxaban 20 mg sekali sehari.<br/><br/>Tabel juga secara eksplisit menyatakan bahwa pada pasien dengan fibrilasi atrium tanpa stenosis mitral sedang-berat atau katup jantung mekanik, golongan DOAC (apixaban, dabigatran, edoxaban, atau rivaroxaban) lebih dipilih dibanding warfarin (Class I, Level B-R). Dengan demikian, jawaban yang tepat adalah D. Apixaban. <br/><br/><b>Referensi:</b><br/>DiPiro's pharmacotherapy: A pathophysiologic approach, 2023, 12th ed. Chapter 34`,
 expImg:`07TO1M11.png`
 },
 {
@@ -1626,8 +1626,8 @@ question:`Seorang pasien laki-laki berusia 55 tahun didiagnosis mengalami STEMI 
 img:``,
 options:["A. Prasugrel","B. Cilostazol","C. Dipiridamol","D. Klopidogrel","E. Warfarin"],
 answer: `A. Prasugrel`,
-explanation:`Ticagrelor dan prasugrel termasuk P2Y12 inhibitor poten generasi ketiga dengan efikasi antiplatelet superior dibanding klopidogrel berdasarkan AHA 2025. Hal ini juga didukung oleh Pedoman Tata Laksana Sindrom Koroner Akut 2024 bahwa utamakan prasugrel atau ticagrelor terlebih dahulu serta gunakan clopidogrel BILA prasugrel dan ticagrelor tidak tersedia. Dengan demikian, jawaban yang tepat adalah A. Prasugrel. <br><br><b>Referensi:</b><br>[Perhimpunan Dokter Spesialis Kardiovaskular Indonesia. (2024). Pedoman Tata Laksana Sindrom Koroner Akut (Edisi ke-5). PERKI; 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes].`,
-expImg:`08TO1M11.png`
+explanation:`Ticagrelor dan prasugrel termasuk P2Y12 inhibitor poten generasi ketiga dengan efikasi antiplatelet superior dibanding klopidogrel berdasarkan AHA 2025. Hal ini juga didukung oleh Pedoman Tata Laksana Sindrom Koroner Akut 2024 bahwa utamakan prasugrel atau ticagrelor terlebih dahulu serta gunakan clopidogrel BILA prasugrel dan ticagrelor tidak tersedia. Dengan demikian, jawaban yang tepat adalah A. Prasugrel. <br/><br/><b>Referensi:</b><br/>1. Perhimpunan Dokter Spesialis Kardiovaskular Indonesia. (2024). Pedoman Tata Laksana Sindrom Koroner Akut (Edisi ke-5). PERKI<br/>2. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes.`,
+expImg:`Rev_02.png`
 },
 {
 category:`Klinis (Kardiovaskular) `,
@@ -1642,121 +1642,121 @@ expImg:`09TO1M11.png`
 {
 category:`Endokrin: Tiroid, Paratiroid, dan Diabetes Mellitus`,
 level:`Hard`,
-question:`Seorang perempuan usia 34 tahun dirawat di <i>Rumah Sakit Nitro Medica</i> dengan penyakit Graves. Hasil laboratorium menunjukkan TSH <0,01 mIU/L dan FT4 meningkat. Pasien dijadwalkan tiroidektomi elektif dalam 2 minggu. Riwayat pasien menunjukkan pernah mengalami peningkatan SGOT/SGPT berat setelah penggunaan obat hepatotoksik. Dokter meminta rekomendasi obat antitiroid untuk mencapai kondisi eutiroid sebelum operasi dengan risiko hepatotoksisitas yang lebih rendah dibanding pilihan lain.<br><br>Obat apakah yang paling tepat direkomendasikan?`,
+question:`Seorang perempuan usia 34 tahun dirawat di <i>Rumah Sakit Nitro Medica</i> dengan penyakit Graves. Hasil laboratorium menunjukkan TSH <0,01 mIU/L dan FT4 meningkat. Pasien dijadwalkan tiroidektomi elektif dalam 2 minggu. Riwayat pasien menunjukkan pernah mengalami peningkatan SGOT/SGPT berat setelah penggunaan obat hepatotoksik. Dokter meminta rekomendasi obat antitiroid untuk mencapai kondisi eutiroid sebelum operasi dengan risiko hepatotoksisitas yang lebih rendah dibanding pilihan lain. Obat apakah yang paling tepat direkomendasikan?`,
 img:``,
 options:["A. Propiltiourasil","B. Metimazol","C. Levotiroksin","D. Propranolol","E. Lugol"],
 answer: `B. Metimazol`,
-explanation:`Metimazol merupakan antitiroid utama untuk menurunkan sintesis hormon tiroid pada penyakit Graves dan umumnya lebih dipilih dibanding propiltiourasil karena risiko hepatotoksisitas berat lebih rendah. Propiltiourasil lebih dipertimbangkan pada trimester pertama kehamilan atau krisis tiroid, bukan sebagai pilihan rutin praoperasi pada pasien dengan riwayat hepatotoksisitas.<br><br>Propranolol hanya mengendalikan gejala adrenergik, Lugol umumnya digunakan sebagai persiapan tambahan menjelang operasi setelah antitiroid diberikan, sedangkan levotiroksin justru hormon pengganti untuk hipotiroid<br><br><b>Referensi:</b><br>PERKENI. Pedoman Pengelolaan Penyakit Hipertiroid. 2017.`,
+explanation:`Metimazol merupakan antitiroid utama untuk menurunkan sintesis hormon tiroid pada penyakit Graves dan umumnya lebih dipilih dibanding propiltiourasil karena risiko hepatotoksisitas berat lebih rendah. Propiltiourasil lebih dipertimbangkan pada trimester pertama kehamilan atau krisis tiroid, bukan sebagai pilihan rutin praoperasi pada pasien dengan riwayat hepatotoksisitas.<br/><br/>Propranolol hanya mengendalikan gejala adrenergik, Lugol umumnya digunakan sebagai persiapan tambahan menjelang operasi setelah antitiroid diberikan, sedangkan levotiroksin justru hormon pengganti untuk hipotiroid<br/><br/><b>Referensi:</b><br/>PERKENI. Pedoman Pengelolaan Penyakit Hipertiroid. 2017.`,
 expImg:``
 },
 {
 category:`Endokrin: Tiroid, Paratiroid, dan Diabetes Mellitus`,
 level:`Hard`,
-question:`Seorang perempuan usia 69 tahun datang ke <i>Rumah Sakit Nitro Medica</i> dengan nyeri tulang difus dan riwayat jatuh berulang. Pemeriksaan menunjukkan 25(OH)D 9 ng/mL, kalsium serum cenderung rendah, fosfat normal-rendah, dan PTH meningkat. Dokter menyimpulkan pasien mengalami hiperparatiroidisme sekunder akibat defisiensi vitamin D.<br><br>Mekanisme patofisiologi utama yang menjelaskan peningkatan PTH pada pasien tersebut adalah ...`,
+question:`Seorang perempuan usia 69 tahun datang ke <i>Rumah Sakit Nitro Medica</i> dengan nyeri tulang difus dan riwayat jatuh berulang. Pemeriksaan menunjukkan 25(OH)D 9 ng/mL, kalsium serum cenderung rendah, fosfat normal-rendah, dan PTH meningkat. Dokter menyimpulkan pasien mengalami hiperparatiroidisme sekunder akibat defisiensi vitamin D. Mekanisme patofisiologi utama yang menjelaskan peningkatan PTH pada pasien tersebut adalah ...`,
 img:``,
 options:["A. Kalsitonin meningkatkan pelepasan kalsium dari tulang sehingga PTH meningkat","B. Defisiensi vitamin D meningkatkan absorpsi kalsium usus sehingga terjadi supresi PTH","C. Penurunan absorpsi kalsium usus menyebabkan hipokalsemia relatif yang merangsang sekresi PTH","D. Fosfor meningkatkan absorpsi kalsium usus sehingga terjadi hiperparatiroidisme primer","E. Penurunan PTH menyebabkan aktivasi osteoklas dan pelepasan kalsium dari tulang"],
 answer: `C. Penurunan absorpsi kalsium usus menyebabkan hipokalsemia relatif yang merangsang sekresi PTH`,
-explanation:`Vitamin D membantu absorpsi kalsium di saluran cerna. Saat vitamin D sangat rendah, absorpsi kalsium turun, tubuh membaca kondisi ini sebagai hipokalsemia relatif, lalu kelenjar paratiroid meningkatkan sekresi PTH. PTH kemudian meningkatkan pelepasan kalsium dari tulang dan mempertahankan homeostasis kalsium, tetapi jika berlangsung kronis dapat memperburuk kehilangan massa tulang.<br><br>Kalsitonin bekerja berlawanan dengan PTH, sedangkan fosfor cenderung menghambat absorpsi kalsium.<br><br><b>Referensi:</b><br>PERKENI. Buku Panduan Klinis Suplementasi dan Terapi Kalsium. 2024; PERKENI. Buku Panduan Klinis Terapi Vitamin D & Kalsium. 2025`,
+explanation:`Vitamin D membantu absorpsi kalsium di saluran cerna. Saat vitamin D sangat rendah, absorpsi kalsium turun, tubuh membaca kondisi ini sebagai hipokalsemia relatif, lalu kelenjar paratiroid meningkatkan sekresi PTH. PTH kemudian meningkatkan pelepasan kalsium dari tulang dan mempertahankan homeostasis kalsium, tetapi jika berlangsung kronis dapat memperburuk kehilangan massa tulang.<br/><br/>Kalsitonin bekerja berlawanan dengan PTH, sedangkan fosfor cenderung menghambat absorpsi kalsium.<br/><br/><b>Referensi:</b><br/>PERKENI. Buku Panduan Klinis Suplementasi dan Terapi Kalsium. 2024; PERKENI. Buku Panduan Klinis Terapi Vitamin D & Kalsium. 2025`,
 expImg:``
 },
 {
 category:`Endokrin: Tiroid, Paratiroid, dan Diabetes Mellitus`,
 level:`Hard`,
-question:`Seorang laki-laki usia 61 tahun dengan diabetes melitus tipe 2 kontrol ke poli penyakit dalam <i>Rumah Sakit Nitro Medica</i>. Pasien memiliki eLFG 24 mL/menit/1,73 m<sup>2</sup>, UACR 420 mg/g pada dua kali pemeriksaan, HbA1c 7,4%, dan belum menjalani dialisis. Dokter ingin memilih terapi yang terutama menurunkan progresivitas penyakit ginjal, bukan hanya menurunkan glukosa darah.<br><br>Obat apakah yang paling tepat direkomendasikan?`,
+question:`Seorang laki-laki usia 61 tahun dengan diabetes melitus tipe 2 kontrol ke poli penyakit dalam <i>Rumah Sakit Nitro Medica</i>. Pasien memiliki eLFG 24 mL/menit/1,73 m<sup>2</sup>, UACR 420 mg/g pada dua kali pemeriksaan, HbA1c 7,4%, dan belum menjalani dialisis. Dokter ingin memilih terapi yang terutama menurunkan progresivitas penyakit ginjal, bukan hanya menurunkan glukosa darah. Obat apakah yang paling tepat direkomendasikan?`,
 img:``,
 options:["A. Glimepirid","B. Pioglitazon","C. Metformin dosis penuh","D. Dapagliflozin","E. Akarbose"],
 answer: `D. Dapagliflozin`,
-explanation:`Pasien memenuhi kriteria penyakit ginjal kronis pada DMT2 karena eLFG <60 mL/menit/1,73 m<sup>2</sup> dan albuminuria. Pada DMT2 dengan PGK, penghambat SGLT2 yang terbukti menurunkan progresivitas PGK direkomendasikan bila eLFG ≥20 mL/menit/1,73 m<sup>2</sup> dan dilanjutkan sampai dialisis atau transplantasi ginjal.<br><br>Metformin tidak boleh diberikan bila eLFG <30 mL/menit/1,73 m<sup>2</sup>. Sulfonilurea meningkatkan risiko hipoglikemia pada gangguan ginjal. Pioglitazon tidak menjadi pilihan utama untuk renoproteksi dan dapat memperburuk retensi cairan.<br><br><b>Referensi:</b><br>PERKENI. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. 2024.`,
+explanation:`Pasien memenuhi kriteria penyakit ginjal kronis pada DMT2 karena eLFG <60 mL/menit/1,73 m<sup>2</sup> dan albuminuria. Pada DMT2 dengan PGK, penghambat SGLT2 yang terbukti menurunkan progresivitas PGK direkomendasikan bila eLFG ≥20 mL/menit/1,73 m<sup>2</sup> dan dilanjutkan sampai dialisis atau transplantasi ginjal.<br/><br/>Metformin tidak boleh diberikan bila eLFG <30 mL/menit/1,73 m<sup>2</sup>. Sulfonilurea meningkatkan risiko hipoglikemia pada gangguan ginjal. Pioglitazon tidak menjadi pilihan utama untuk renoproteksi dan dapat memperburuk retensi cairan.<br/><br/><b>Referensi:</b><br/>PERKENI. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. 2024.`,
 expImg:``
 },
 {
 category:`Endokrin: Tiroid, Paratiroid, dan Diabetes Mellitus`,
 level:`Hard`,
-question:`Seorang laki-laki usia 46 tahun baru didiagnosis diabetes melitus tipe 2 di <i>Rumah Sakit Nitro Medica</i>. Hasil pemeriksaan menunjukkan HbA1c 11,2%, GDP 286 mg/dL, GDS 382 mg/dL, penurunan berat badan cepat dalam 2 bulan, poliuria, polidipsia, dan keton urin positif ringan. Dokter meminta apoteker menelaah pilihan terapi awal.<br><br>Strategi terapi awal yang paling tepat adalah ...`,
+question:`Seorang laki-laki usia 46 tahun baru didiagnosis diabetes melitus tipe 2 di <i>Rumah Sakit Nitro Medica</i>. Hasil pemeriksaan menunjukkan HbA1c 11,2%, GDP 286 mg/dL, GDS 382 mg/dL, penurunan berat badan cepat dalam 2 bulan, poliuria, polidipsia, dan keton urin positif ringan. Dokter meminta apoteker menelaah pilihan terapi awal. Strategi terapi awal yang paling tepat adalah ...`,
 img:``,
 options:["A. Metformin monoterapi dan evaluasi 3 bulan","B. Kombinasi metformin dengan sulfonilurea","C. Inisiasi insulin karena terdapat dekompensasi metabolik","D. Akarbose pada suapan pertama makan","E. Pioglitazon karena menurunkan resistensi insulin"],
 answer: `C. Inisiasi insulin karena terdapat dekompensasi metabolik`,
-explanation:`Pada pasien Diabetes Mellitus baru, HbA1c >9% atau GDP ≥250 mg/dL atau GDS >300 mg/dL yang disertai gejala dekompensasi metabolik seperti penurunan berat badan cepat dan ketosis merupakan indikasi inisiasi terapi insulin. Kombinasi 2–3 obat oral dapat dipilih bila HbA1c >9% tanpa dekompensasi metabolik, tetapi skenario ini sudah menunjukkan kondisi katabolik sehingga insulin lebih tepat.<br><br><b>Referensi:</b><br>PERKENI. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. 2024`,
+explanation:`Pada pasien Diabetes Mellitus baru, HbA1c >9% atau GDP ≥250 mg/dL atau GDS >300 mg/dL yang disertai gejala dekompensasi metabolik seperti penurunan berat badan cepat dan ketosis merupakan indikasi inisiasi terapi insulin. Kombinasi 2–3 obat oral dapat dipilih bila HbA1c >9% tanpa dekompensasi metabolik, tetapi skenario ini sudah menunjukkan kondisi katabolik sehingga insulin lebih tepat.<br/><br/><b>Referensi:</b><br/>PERKENI. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. 2024`,
 expImg:``
 },
 {
 category:`Benign Prostatic Hyperplasia (BPH)`,
 level:`Hard`,
-question:`Seorang laki-laki usia 67 tahun datang ke <i>Rumah Sakit Nitro Medica</i> dengan keluhan pancaran urin melemah, perlu mengejan saat berkemih, dan nokturia. Dokter menjelaskan bahwa pembesaran prostat pasien terutama dipengaruhi perubahan hormonal terkait usia. Apoteker diminta menjelaskan mekanisme patofisiologi yang menjadi dasar penggunaan inhibitor 5α-reduktase pada BPH.<br><br>Mekanisme patofisiologi manakah yang paling tepat?`,
+question:`Seorang laki-laki usia 67 tahun datang ke <i>Rumah Sakit Nitro Medica</i> dengan keluhan pancaran urin melemah, perlu mengejan saat berkemih, dan nokturia. Dokter menjelaskan bahwa pembesaran prostat pasien terutama dipengaruhi perubahan hormonal terkait usia. Apoteker diminta menjelaskan mekanisme patofisiologi yang menjadi dasar penggunaan inhibitor 5α-reduktase pada BPH.<br/><br/>Mekanisme patofisiologi manakah yang paling tepat?`,
 img:``,
 options:["A. Aromatase mengubah DHT menjadi estrogen sehingga prostat mengalami atrofi","B. 5α-reduktase mengubah testosteron menjadi dihidrotestosteron yang menstimulasi pertumbuhan jaringan prostat","C. Reseptor β3 meningkatkan kontraksi otot polos prostat sehingga volume prostat membesar","D. Asetilkolin menghambat reseptor muskarinik sehingga terjadi retensi urin kronis","E. Fosfodiesterase-5 meningkatkan degradasi cGMP sehingga langsung memperbesar volume prostat"],
 answer: `B. 5α-reduktase mengubah testosteron menjadi dihidrotestosteron yang menstimulasi pertumbuhan jaringan prostat`,
-explanation:`Pada BPH, testosteron dikonversi oleh enzim 5α-reduktase menjadi dihidrotestosteron (DHT). DHT berikatan dengan reseptor androgen dan memicu proliferasi sel stromal serta epitel prostat. Dasar inilah yang menjelaskan penggunaan finasterida atau dutasterida untuk menurunkan DHT dan memperlambat progresivitas pembesaran prostat.<br><br><b>Referensi:</b><br>IAUI. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak/BPH. 2021`,
+explanation:`Pada BPH, testosteron dikonversi oleh enzim 5α-reduktase menjadi dihidrotestosteron (DHT). DHT berikatan dengan reseptor androgen dan memicu proliferasi sel stromal serta epitel prostat. Dasar inilah yang menjelaskan penggunaan finasterida atau dutasterida untuk menurunkan DHT dan memperlambat progresivitas pembesaran prostat.<br/><br/><b>Referensi:</b><br/>IAUI. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak/BPH. 2021`,
 expImg:``
 },
 {
 category:`Benign Prostatic Hyperplasia (BPH)`,
 level:`Hard`,
-question:`Seorang laki-laki usia 72 tahun datang ke <i>Apotek Nitro Farma</i> membawa resep dari dokter setelah didiagnosis BPH. Data klinis: IPSS 18, kualitas hidup terganggu, volume prostat 28 mL, PSA 1,0 ng/mL, tekanan darah terkontrol, dan tidak ada keluhan dominan storage. Pasien ingin obat yang relatif cepat memperbaiki pancaran urin.<br><br>Terapi medikamentosa yang paling tepat sebagai pilihan awal adalah ...`,
+question:`Seorang laki-laki usia 72 tahun datang ke <i>Apotek Nitro Farma</i> membawa resep dari dokter setelah didiagnosis BPH. Data klinis: IPSS 18, kualitas hidup terganggu, volume prostat 28 mL, PSA 1,0 ng/mL, tekanan darah terkontrol, dan tidak ada keluhan dominan storage. Pasien ingin obat yang relatif cepat memperbaiki pancaran urin. Terapi medikamentosa yang paling tepat sebagai pilihan awal adalah ...`,
 img:``,
 options:["A. Tamsulosin","B. Dutasterid monoterapi","C. Solifenacin monoterapi","D. Mirabegron monoterapi","E. Sildenafil"],
 answer: `A. Tamsulosin`,
-explanation:`Pasien memiliki LUTS sedang-berat dengan volume prostat tidak besar dan membutuhkan perbaikan gejala relatif cepat. Alfa-1 blocker merupakan lini pertama pada LUTS/BPH sedang-berat karena efektif menurunkan IPSS dan meningkatkan Qmax dengan onset lebih cepat dibanding 5α-reduktase inhibitor.<br><br>Dutasterid lebih sesuai untuk prostat besar/risiko progresi dan onset maksimal 3–6 bulan. Antimuskarinik atau beta-3 agonis lebih diarahkan untuk gejala storage dominan.<br><br><b>Referensi:</b><br>IAUI. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak/BPH. 2021`,
+explanation:`Pasien memiliki LUTS sedang-berat dengan volume prostat tidak besar dan membutuhkan perbaikan gejala relatif cepat. Alfa-1 blocker merupakan lini pertama pada LUTS/BPH sedang-berat karena efektif menurunkan IPSS dan meningkatkan Qmax dengan onset lebih cepat dibanding 5α-reduktase inhibitor.<br/><br/>Dutasterid lebih sesuai untuk prostat besar/risiko progresi dan onset maksimal 3–6 bulan. Antimuskarinik atau beta-3 agonis lebih diarahkan untuk gejala storage dominan.<br/><br/><b>Referensi:</b><br/>IAUI. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak/BPH. 2021`,
 expImg:``
 },
 {
 category:`Benign Prostatic Hyperplasia (BPH)`,
 level:`Hard`,
-question:`Seorang laki-laki usia 70 tahun kontrol di <i>Rumah Sakit Nitro Medica</i> karena BPH dengan IPSS 23. Pemeriksaan menunjukkan volume prostat 58 mL, PSA 2,1 ng/mL, pancaran urin melemah, dan pasien khawatir mengalami retensi urin akut seperti ayahnya. Dokter ingin memilih terapi yang memperbaiki gejala sekaligus menurunkan risiko progresi jangka panjang.<br><br>Regimen yang paling tepat adalah ...`,
+question:`Seorang laki-laki usia 70 tahun kontrol di <i>Rumah Sakit Nitro Medica</i> karena BPH dengan IPSS 23. Pemeriksaan menunjukkan volume prostat 58 mL, PSA 2,1 ng/mL, pancaran urin melemah, dan pasien khawatir mengalami retensi urin akut seperti ayahnya. Dokter ingin memilih terapi yang memperbaiki gejala sekaligus menurunkan risiko progresi jangka panjang. Regimen yang paling tepat adalah ...`,
 img:``,
 options:["A. Tamsulosin saja","B. Solifenacin saja","C. Tamsulosin + Dutasterid","D. Mirabegron saja","E. Solifenacin + Dutasterid"],
 answer: `C. Tamsulosin + Dutasterid`,
-explanation:`Volume prostat >40 mL dan PSA meningkat menunjukkan risiko progresi penyakit. Pada LUTS sedang-berat dengan risiko progresi, kombinasi alfa-1 blocker dan 5α-reduktase inhibitor direkomendasikan. Alfa-1 blocker membantu perbaikan gejala lebih cepat, sedangkan dutasterid/finasterid menurunkan DHT, mengecilkan volume prostat, dan menurunkan risiko retensi urin akut atau kebutuhan operasi dalam jangka panjang.<br><br><b>Referensi:</b><br>IAUI. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak/BPH. 2021`,
+explanation:`Volume prostat >40 mL dan PSA meningkat menunjukkan risiko progresi penyakit. Pada LUTS sedang-berat dengan risiko progresi, kombinasi alfa-1 blocker dan 5α-reduktase inhibitor direkomendasikan. Alfa-1 blocker membantu perbaikan gejala lebih cepat, sedangkan dutasterid/finasterid menurunkan DHT, mengecilkan volume prostat, dan menurunkan risiko retensi urin akut atau kebutuhan operasi dalam jangka panjang.<br/><br/><b>Referensi:</b><br/>IAUI. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak/BPH. 2021`,
 expImg:``
 },
 {
 category:`Benign Prostatic Hyperplasia (BPH)`,
 level:`Hard`,
-question:`Seorang laki-laki usia 68 tahun menggunakan tamsulosin selama 8 minggu. Pancaran urin membaik, tetapi pasien masih sering berkemih mendadak, sulit menahan kencing, dan nokturia. Volume residu urin pascaberkemih (PVR) 70 mL. Dokter meminta rekomendasi tambahan terapi berdasarkan gejala storage yang masih dominan.<br><br>Tambahan terapi yang paling tepat adalah ...`,
+question:`Seorang laki-laki usia 68 tahun menggunakan tamsulosin selama 8 minggu. Pancaran urin membaik, tetapi pasien masih sering berkemih mendadak, sulit menahan kencing, dan nokturia. Volume residu urin pascaberkemih (PVR) 70 mL. Dokter meminta rekomendasi tambahan terapi berdasarkan gejala storage yang masih dominan. Tambahan terapi yang paling tepat adalah ...`,
 img:``,
 options:["A. Tambahkan Solifenacin","B. Tambahkan Furosemid malam hari","C. Ganti Tamsulosin menjadi Finasterid saja","D. Tambahkan Pseudoefedrin","E. Hentikan semua terapi dan observasi saja"],
 answer: `A. Tambahkan Solifenacin`,
-explanation:`Keluhan urgensi, frekuensi berkemih, dan nokturia merupakan gejala storage. Pada pasien LUTS/BPH sedang-berat dengan gejala storage yang tidak membaik dengan alfa-1 blocker, antagonis reseptor muskarinik dapat ditambahkan. Risiko retensi urin akut relatif rendah bila PVR awal <150 mL, sehingga PVR 70 mL masih mendukung penggunaan antimuskarinik dengan monitoring kemampuan berkemih.<br><br><b>Referensi:</b><br>IAUI. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak/BPH. 2021`,
+explanation:`Keluhan urgensi, frekuensi berkemih, dan nokturia merupakan gejala storage. Pada pasien LUTS/BPH sedang-berat dengan gejala storage yang tidak membaik dengan alfa-1 blocker, antagonis reseptor muskarinik dapat ditambahkan. Risiko retensi urin akut relatif rendah bila PVR awal <150 mL, sehingga PVR 70 mL masih mendukung penggunaan antimuskarinik dengan monitoring kemampuan berkemih.<br/><br/><b>Referensi:</b><br/>IAUI. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak/BPH. 2021`,
 expImg:``
 },
 {
 category:`Nutrisi Klinik: Total Parenteral Nutrition dan Obesitas`,
 level:`Hard`,
-question:`Seorang apoteker di instalasi farmasi <i>Rumah Sakit Nitro Medica</i> diminta menghitung komposisi TPN untuk pasien dewasa 70 kg yang tidak dapat menerima nutrisi enteral. Target energi 25 kkal/kgBB/hari, protein 1,5 g/kgBB/hari, lipid 30% dari total energi, dextrose mengisi sisa kalori. Diketahui protein menghasilkan 4 kkal/g, lipid 10 kkal/g, dan dextrose 3,4 kkal/g.<br><br>Komposisi makronutrien harian yang paling tepat adalah ...`,
+question:`Seorang apoteker di instalasi farmasi <i>Rumah Sakit Nitro Medica</i> diminta menghitung komposisi TPN untuk pasien dewasa 70 kg yang tidak dapat menerima nutrisi enteral. Target energi 25 kkal/kgBB/hari, protein 1,5 g/kgBB/hari, lipid 30% dari total energi, dextrose mengisi sisa kalori. Diketahui protein menghasilkan 4 kkal/g, lipid 10 kkal/g, dan dextrose 3,4 kkal/g. Komposisi makronutrien harian yang paling tepat adalah ...`,
 img:``,
 options:["A. Asam amino 70 g, dextrose 237 g, lipid 52,5 g","B. Asam amino 105 g, dextrose 237 g, lipid 52,5 g","C. Asam amino 105 g, dextrose 309 g, lipid 30 g","D. Asam amino 140 g, dextrose 180 g, lipid 70 g","E. Asam amino 80 g, dextrose 300 g, lipid 45 g"],
 answer: `B. Asam amino 105 g, dextrose 237 g, lipid 52,5 g`,
-explanation:`<img src="assets/M12-09.png"></img><br><br><b>Referensi:</b><br>ASPEN. Parenteral Nutrition Resources; MSD Manual Professional. Basic Adult Daily Requirements for Parenteral Nutrition.`,
-expImg:`M12-09.png`
+explanation:`<img src="assets/M12-09.png"></img><br/><br/><b>Referensi:</b><br/>ASPEN. Parenteral Nutrition Resources; MSD Manual Professional. Basic Adult Daily Requirements for Parenteral Nutrition.`,
+expImg:``
 },
 {
 category:`Nutrisi Klinik: Total Parenteral Nutrition dan Obesitas`,
 level:`Hard`,
-question:`Seorang pasien dewasa 60 kg di <i>Rumah Sakit Nitro Medica</i> menerima TPN kontinu selama 24 jam dengan kandungan dextrose 400 gram/hari. Apoteker mengevaluasi glucose infusion rate (GIR) untuk menilai risiko overfeeding glukosa.<br><br>Berapakah GIR pasien dan interpretasi paling tepat bila batas maksimum praktis dewasa adalah 5 mg/kg/menit?`,
+question:`Seorang pasien dewasa 60 kg di <i>Rumah Sakit Nitro Medica</i> menerima TPN kontinu selama 24 jam dengan kandungan dextrose 400 gram/hari. Apoteker mengevaluasi glucose infusion rate (GIR) untuk menilai risiko overfeeding glukosa. Berapakah GIR pasien dan interpretasi paling tepat bila batas maksimum praktis dewasa adalah 5 mg/kg/menit?`,
 img:``,
 options:["A. 2,78 mg/kg/menit; terlalu rendah sehingga dextrose wajib digandakan","B. 3,40 mg/kg/menit; aman tanpa perlu monitoring glukosa","C. 4,63 mg/kg/menit; masih di bawah batas 5 mg/kg/menit tetapi perlu monitoring hiperglikemia","D. 5,56 mg/kg/menit; melebihi batas dan pasti menyebabkan hipoglikemia","E. 6,67 mg/kg/menit; sesuai karena TPN selalu memerlukan GIR >6"],
 answer: `C. 4,63 mg/kg/menit; masih di bawah batas 5 mg/kg/menit tetapi perlu monitoring hiperglikemia`,
-explanation:`Dextrose 400 g = 400.000 mg.<br>Waktu 24 jam = 1440 menit.<br>GIR = 400.000 / 60 / 1440 = 4,63 mg/kg/menit.<br><br>Nilai ini masih di bawah batas praktis 5 mg/kg/menit, tetapi sudah cukup tinggi sehingga tetap perlu monitoring glukosa darah, trigliserida, fungsi hati, dan tanda overfeeding. Kelebihan dextrose dapat meningkatkan risiko hiperglikemia, lipogenesis, produksi CO<sub>2</sub>, dan komplikasi metabolik.<br><br><b>Referensi:</b><br>ASPEN. Parenteral Nutrition Resources; MSD Manual Professional. Basic Adult Daily Requirements for Parenteral Nutrition.`,
+explanation:`Dextrose 400 g = 400.000 mg.<br/>Waktu 24 jam = 1440 menit.<br/>GIR = 400.000 / 60 / 1440 = 4,63 mg/kg/menit.<br/><br/>Nilai ini masih di bawah batas praktis 5 mg/kg/menit, tetapi sudah cukup tinggi sehingga tetap perlu monitoring glukosa darah, trigliserida, fungsi hati, dan tanda overfeeding. Kelebihan dextrose dapat meningkatkan risiko hiperglikemia, lipogenesis, produksi CO<sub>2</sub>, dan komplikasi metabolik.<br/><br/><b>Referensi:</b><br/>ASPEN. Parenteral Nutrition Resources; MSD Manual Professional. Basic Adult Daily Requirements for Parenteral Nutrition.`,
 expImg:``
 },
 {
 category:`Nutrisi Klinik: Total Parenteral Nutrition dan Obesitas`,
 level:`Hard`,
-question:`Seorang laki-laki usia 45 tahun datang ke <i>Rumah Sakit Nitro Medica</i> untuk program penurunan berat badan. Tinggi badan 162 cm, berat badan 76 kg, tekanan darah 150/94 mmHg, dan HbA1c 5,9%. Pasien sudah menjalankan modifikasi gaya hidup selama 3 bulan tetapi penurunan berat badan <5%.<br><br>Berdasarkan PNPK obesitas dewasa, keputusan terapi lanjutan yang paling tepat adalah ...`,
+question:`Seorang laki-laki usia 45 tahun datang ke <i>Rumah Sakit Nitro Medica</i> untuk program penurunan berat badan. Tinggi badan 162 cm, berat badan 76 kg, tekanan darah 150/94 mmHg, dan HbA1c 5,9%. Pasien sudah menjalankan modifikasi gaya hidup selama 3 bulan tetapi penurunan berat badan <5%. Berdasarkan PNPK obesitas dewasa, keputusan terapi lanjutan yang paling tepat adalah ...`,
 img:``,
 options:["A. Tidak perlu terapi karena IMT belum mencapai 30 kg/m<sup>2</sup>","B. Farmakoterapi anti-obesitas dapat dipertimbangkan sebagai adjuvan karena IMT ≥25 kg/m<sup>2</sup> dengan komorbid","C. Operasi bariatrik wajib dilakukan karena IMT >25 kg/m<sup>2</sup>","D. Hanya suplementasi vitamin D tanpa evaluasi komorbid","E. Terapi ditunda sampai IMT mencapai 35 kg/m<sup>2</sup>"],
 answer: `B. Farmakoterapi anti-obesitas dapat dipertimbangkan sebagai adjuvan karena IMT ≥25 kg/m<sup>2</sup> dengan komorbid`,
-explanation:`Pasien memiliki hipertensi dan prediabetes sebagai komorbid kardiometabolik, serta gagal mencapai penurunan BB minimal 5% setelah modifikasi gaya hidup. PNPK obesitas dewasa merekomendasikan farmakoterapi sebagai adjuvan pada pasien dengan IMT ≥30 kg/m<sup>2</sup> atau IMT ≥25 kg/m<sup>2</sup> dengan minimal satu komorbid, tetap bersama diet, aktivitas fisik, dan terapi perilaku.<br><br><b>Referensi:</b><br>Kementerian Kesehatan RI. PNPK Tata Laksana Obesitas Dewasa. 2025`,
+explanation:`Pasien memiliki hipertensi dan prediabetes sebagai komorbid kardiometabolik, serta gagal mencapai penurunan BB minimal 5% setelah modifikasi gaya hidup. PNPK obesitas dewasa merekomendasikan farmakoterapi sebagai adjuvan pada pasien dengan IMT ≥30 kg/m<sup>2</sup> atau IMT ≥25 kg/m<sup>2</sup> dengan minimal satu komorbid, tetap bersama diet, aktivitas fisik, dan terapi perilaku.<br/><br/><b>Referensi:</b><br/>Kementerian Kesehatan RI. PNPK Tata Laksana Obesitas Dewasa. 2025`,
 expImg:``
 },
 {
 category:`Nutrisi Klinik: Total Parenteral Nutrition dan Obesitas`,
 level:`Hard`,
-question:`Seorang perempuan usia 39 tahun dengan diabetes melitus tipe 2 datang ke <i>Rumah Sakit Nitro Medica</i>. Tinggi badan 160 cm, berat badan 83 kg, HbA1c 8,6% meskipun telah menjalani modifikasi gaya hidup dan farmakoterapi terstruktur selama 9 bulan. Pasien meminta penjelasan apakah terapi bariatrik/metabolik dapat dipertimbangkan.<br><br>Kesimpulan paling tepat adalah ...`,
+question:`Seorang perempuan usia 39 tahun dengan diabetes melitus tipe 2 datang ke <i>Rumah Sakit Nitro Medica</i>. Tinggi badan 160 cm, berat badan 83 kg, HbA1c 8,6% meskipun telah menjalani modifikasi gaya hidup dan farmakoterapi terstruktur selama 9 bulan. Pasien meminta penjelasan apakah terapi bariatrik/metabolik dapat dipertimbangkan. Kesimpulan paling tepat adalah ...`,
 img:``,
 options:["A. Tidak dapat dipertimbangkan karena IMT belum mencapai 40 kg/m<sup>2</sup>","B. Dapat dipertimbangkan karena IMT ≥30 kg/m<sup>2</sup> disertai diabetes melitus tipe 2 yang belum terkendali","C. Hanya dapat dilakukan bila tidak ada komorbid apa pun","D. Wajib diberikan orlistat seumur hidup dan operasi dikontraindikasikan","E. Tidak dapat dilakukan karena usia <45 tahun"],
 answer: `B. Dapat dipertimbangkan karena IMT ≥30 kg/m<sup>2</sup> disertai diabetes melitus tipe 2 yang belum terkendali`,
-explanation:`PNPK obesitas dewasa menyebutkan operasi bariatrik/metabolik dapat menjadi pilihan pada IMT ≥35 kg/m<sup>2</sup>, IMT 30–34,9 kg/m<sup>2</sup> yang gagal mencapai penurunan BB/perbaikan komorbid dengan terapi medikamentosa dan modifikasi gaya hidup, serta IMT ≥30 kg/m<sup>2</sup> dengan DM tipe 2. Keputusan tetap harus melalui evaluasi tim multidisiplin dan skrining kontraindikasi.<br><br><b>Referensi:</b><br>Kementerian Kesehatan RI. PNPK Tata Laksana Obesitas Dewasa. 2025`,
+explanation:`PNPK obesitas dewasa menyebutkan operasi bariatrik/metabolik dapat menjadi pilihan pada IMT ≥35 kg/m<sup>2</sup>, IMT 30–34,9 kg/m<sup>2</sup> yang gagal mencapai penurunan BB/perbaikan komorbid dengan terapi medikamentosa dan modifikasi gaya hidup, serta IMT ≥30 kg/m<sup>2</sup> dengan DM tipe 2. Keputusan tetap harus melalui evaluasi tim multidisiplin dan skrining kontraindikasi.<br/><br/><b>Referensi:</b><br/>Kementerian Kesehatan RI. PNPK Tata Laksana Obesitas Dewasa. 2025`,
 expImg:``
 },
 {
@@ -1767,7 +1767,7 @@ img:``,
 options:["A. Dapaglifozin","B. Glimepirid","C. Liraglutid","D. Metformin","E. Pioglitazon"],
 answer: `A. Dapaglifozin`,
 explanation:`<p><img src="assets/1J13TO1.png"></img></p><p>Pasien yang mengalami PGK disertai DM tipe 2. Obat antidiabetes oral yang dianjurkan adalah SGLT-2 (…fozin): salah satunya Dapaglifozin</p><p><strong>Referensi:</strong><br />PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia.</p>`,
-expImg:`1J13TO1.png`
+expImg:``
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
@@ -1776,8 +1776,8 @@ question:`Seorang laki-laki usia 60 tahun didiagnosis diabetes melitus tipe 2 da
 img:``,
 options:["A. Dapaglifozin","B. Glimepirid","C. Liraglutid","D. Liraglutide","E. Pioglitazon"],
 answer: `E. Pioglitazon`,
-explanation:`<img src="assets/2J13TO1.png"></img><br><br><b>Referensi:</b><br>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 24. <br>`,
-expImg:`2J13TO1.png`
+explanation:`<img src="assets/2J13TO1.png"></img><br/><br/><b>Referensi:</b><br/>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 24. <br/>`,
+expImg:``
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
@@ -1786,8 +1786,8 @@ question:`Seorang laki-laki usia 55 tahun didiagnosis diabetes melitus tipe 2 de
 img:``,
 options:["A. Dapagliflozin","B. Glimepirid","C. Liraglutid","D. Metformin","E. Pioglitazon"],
 answer: `E. Pioglitazon`,
-explanation:`<img src="assets/3J13TO1.png"></img><br><br><b>Referensi:</b><br>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 24.`,
-expImg:`3J13TO1.png`
+explanation:`<img src="assets/3J13TO1.png"></img><br/><br/><b>Referensi:</b><br/>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 24.`,
+expImg:``
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
@@ -1796,8 +1796,8 @@ question:`Seorang laki-laki usia 65 tahun menjalani terapi pembesaran prostat ji
 img:``,
 options:["A. Ginekomastia","B. Hipotensi ortostatik","C. Peningkatan denyut nadi","D. Retensi urin","E. Sesak napas"],
 answer: `B. Hipotensi ortostatik`,
-explanation:`<img src="assets/4J13TO1.png"></img><br><br>Prazosin merupakan salah satu golongan α-1 blocker yang berpotensi menyebabkan hipotensi postural.<br><br><b>Referensi:</b><br>IAUI. 2021. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak.`,
-expImg:`4J13TO1.png`
+explanation:`<img src="assets/4J13TO1.png"></img><br/><br/>Prazosin merupakan salah satu golongan α-1 blocker yang berpotensi menyebabkan hipotensi postural.<br/><br/><b>Referensi:</b><br/>IAUI. 2021. Panduan Penatalaksanaan Klinis Pembesaran Prostat Jinak.`,
+expImg:``
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
@@ -1826,7 +1826,7 @@ question:`Seorang perempuan usia 28 tahun dengan hipertiroid menggunakan metimaz
 img:``,
 options:["A. Melanjutkan metimazol","B. Mengganti dengan karbimazol","C. Mengganti dengan propiltiourasil","D. Meningkatkan dosis metimazol","E. Menurunkan dosis metimazol"],
 answer: `A. Melanjutkan metimazol`,
-explanation:`Terapi metimazol pada ibu tidak memengaruhi fungsi tiroid atau perkembangan intelektual pada bayi yang disusui dengan dosis hingga 20 mg per hari. Mengonsumsi metimazol segera setelah menyusui dan menunggu 3 hingga 4 jam sebelum menyusui lagi akan meminimalkan dosis pada bayi. Tidak ada kasus perubahan fungsi tiroid yang dilaporkan pada bayi yang terpapar metimazol melalui ASI. Beberapa ahli sekarang merekomendasikan bahwa metimazol harus dianggap sebagai obat antitiroid pilihan pada ibu menyusui.<br><br><b>Referensi:</b><br>PERKENI. 2017. Pedoman Pengelolaan Hipertiroid.`,
+explanation:`Terapi metimazol pada ibu tidak memengaruhi fungsi tiroid atau perkembangan intelektual pada bayi yang disusui dengan dosis hingga 20 mg per hari. Mengonsumsi metimazol segera setelah menyusui dan menunggu 3 hingga 4 jam sebelum menyusui lagi akan meminimalkan dosis pada bayi. Tidak ada kasus perubahan fungsi tiroid yang dilaporkan pada bayi yang terpapar metimazol melalui ASI. Beberapa ahli sekarang merekomendasikan bahwa metimazol harus dianggap sebagai obat antitiroid pilihan pada ibu menyusui.<br/><br/><b>Referensi:</b><br/>PERKENI. 2017. Pedoman Pengelolaan Hipertiroid.`,
 expImg:``
 },
 {
@@ -1836,7 +1836,7 @@ question:`Seorang pasien diabetes melitus mengalami penurunan kadar glukosa dara
 img:``,
 options:["A. <i>Dawn phenomenon</i>","B. <i>Diabetic ketoacidosis</i>","C. Efek Somogyi","D. Hiperglikemia hiperosmolar","E. Hipoglikemia"],
 answer: `C. Efek Somogyi`,
-explanation:`Hiperglikemia pagi hari pada penderita diabetes dapat disebabkan oleh fenomena fajar, atau efek Somogyi, atau kontrol glikemik yang buruk. Fenomena fajar terjadi ketika sekresi insulin endogen menurun atau ketika efek insulin eksogen yang diberikan kepada pasien sehari sebelumnya menghilang, bersamaan dengan peningkatan fisiologis hormon antagonis insulin. Efek Somogyi terjadi jika jumlah insulin eksogen berlebihan. Fenomena fajar lebih umum daripada efek Somogyi. Untuk mendiagnosis fenomena ini, bermanfaat untuk mengukur kadar glukosa plasma selama beberapa malam antara pukul 3 pagi dan 5 pagi atau menggunakan sistem pemantauan glukosa kontinu. Meskipun pengobatannya berbeda, cara terbaik untuk mencegah baik fenomena fajar maupun efek Somogyi adalah dengan kontrol diabetes yang optimal dengan terapi insulin.<br><br><b>Referensi:</b><br>Rybicka, Malwina., Robert Krysiak, Boguslaw Okopien. 2011. Fenomena fajar dan efek Somogyi - dua fenomena hiperglikemia pagi hari.`,
+explanation:`Hiperglikemia pagi hari pada penderita diabetes dapat disebabkan oleh fenomena fajar, atau efek Somogyi, atau kontrol glikemik yang buruk. Fenomena fajar terjadi ketika sekresi insulin endogen menurun atau ketika efek insulin eksogen yang diberikan kepada pasien sehari sebelumnya menghilang, bersamaan dengan peningkatan fisiologis hormon antagonis insulin. Efek Somogyi terjadi jika jumlah insulin eksogen berlebihan. Fenomena fajar lebih umum daripada efek Somogyi. Untuk mendiagnosis fenomena ini, bermanfaat untuk mengukur kadar glukosa plasma selama beberapa malam antara pukul 3 pagi dan 5 pagi atau menggunakan sistem pemantauan glukosa kontinu. Meskipun pengobatannya berbeda, cara terbaik untuk mencegah baik fenomena fajar maupun efek Somogyi adalah dengan kontrol diabetes yang optimal dengan terapi insulin.<br/><br/><b>Referensi:</b><br/>Rybicka, Malwina., Robert Krysiak, Boguslaw Okopien. 2011. Fenomena fajar dan efek Somogyi - dua fenomena hiperglikemia pagi hari.`,
 expImg:``
 },
 {
@@ -1847,7 +1847,7 @@ img:``,
 options:["A. Eritropoetin","B. Ferrous sulfat","C. <i>Iron dextran</i>","D. Transfusi <i>packed red cell</i>","E. Vitamin B12"],
 answer: `A. Eritropoetin`,
 explanation:`<p><strong>Jawaban yang benar adalah D. Transfusi packed red cell (PRC)<strong>. Pasien didiagnosis mengalami <em>anemia of chronic disease</em> (ACD) dengan kadar hemoglobin 5 g/dL yang menunjukkan anemia berat sehingga memerlukan peningkatan kadar hemoglobin secara cepat. Transfusi PRC merupakan terapi yang paling tepat untuk memperbaiki kapasitas transport oksigen pada kondisi tersebut. </strong></strong></p><p>Pilihan <strong>A (eritropoetin)</strong> kurang tepat karena onset kerjanya lambat dan umumnya digunakan pada anemia akibat penyakit ginjal kronik atau ACD tertentu yang tidak memerlukan koreksi segera. <strong>B (ferrous sulfat)</strong> dan <strong>C (iron dextran)</strong> tidak tepat karena kadar feritin serum 520 µg/L menunjukkan cadangan besi masih tinggi sehingga anemia bukan disebabkan oleh defisiensi besi, melainkan gangguan pemanfaatan besi akibat inflamasi. <strong>E (vitamin B12)</strong> juga tidak tepat karena tidak terdapat data yang mengarah pada anemia megaloblastik akibat defisiensi vitamin B12.</p><p>Dengan demikian, terapi yang paling tepat pada pasien ini adalah <strong>transfusi packed red cell (PRC).</strong></p><p><br /> <strong> Referensi: </strong></p><p>Kidney Disease: Improving Global Outcomes (KDIGO) Anemia Work Group, 2026. KDIGO 2026 Clinical Practice Guideline for the Management of Anemia in Chronic Kidney Disease (CKD). Kidney International, 109(1 Suppl), pp.S1–S99. doi:10.1016/j.kint.2025.06.006</p>`,
-expImg:`9RTO1.PNG`
+expImg:``
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
@@ -1856,8 +1856,8 @@ question:`Apoteker di rumah sakit melakukan pemantauan terapi pada laki-laki usi
 img:``,
 options:["A. <i>Anion gap</i>","B. Hemoglobin","C. Kreatinin serum","D. Kadar ALT/AST","E. Troponin"],
 answer: `A. Anion gap`,
-explanation:`<img src="assets/4J13TO2.png"></img><br><br><b>Referensi:</b><br>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 52.`,
-expImg:`4J13TO2.png`
+explanation:`<img src="assets/Rev_01.png"></img><br/><br/><b>Referensi:</b><br/>PERKENI. 2021. Pedoman Pengelolaan dan Pencegahan Diabetes Melitus Tipe 2 Dewasa di Indonesia. h. 52.`,
+expImg:``
 },
 {
 category:`Endokrin, Obsetri, Ginekologi, Renal, Urogenital, dan Anemia.`,
@@ -1866,7 +1866,7 @@ question:`Seorang laki-laki usia 50 tahun didiagnosis <i>benign prostatic hyperp
 img:``,
 options:["A. Finasterid","B. Minoksidil oral","C. Prazosin","D. Sildenafil","E. Tamsulosin"],
 answer: `A. Finasterid`,
-explanation:`Finasteride, an FDA-approved therapeutic agent, plays a pivotal role in managing benign prostate hyperplasia and androgenic alopecia (male pattern hair loss) in men. Through its competitive inhibition of 5-alpha-reductase (types II and III isoenzymes), finasteride impedes the conversion of testosterone to dihydrotestosterone (DHT), addressing the underlying pathophysiology of these conditions. This activity discusses finasteride's diverse applications, extending beyond its primary indications to treat hyperandrogenism-associated manifestations, such as hirsutism.<br><br><b>Referensi:</b><br>Zito, Patrick., Karlyle G. Bistas, Preeti Patel, Kirin Syed. 2024. Finasteride.<br>`,
+explanation:`Finasteride, agen terapeutik yang disetujui oleh FDA, berperan penting dalam penanganan hiperplasia prostat jinak dan alopecia androgenik (kerontokan rambut pola pria). Melalui penghambatan kompetitif terhadap enzim 5-alfa-reduktase (isoenzim tipe II dan III), finasteride menghambat konversi testosteron menjadi dihidrotestosteron (DHT), sehingga mengatasi patofisiologi yang mendasari kondisi-kondisi tersebut. Artikel ini membahas berbagai penggunaan finasteride yang melampaui indikasi utamanya untuk mengobati gejala yang terkait dengan hiperandrogenisme, seperti hirsutisme.<br/><br/><b>Referensi:</b><br/>Zito, Patrick., Karlyle G. Bistas, Preeti Patel, Kirin Syed. 2024. Finasteride.<br/>`,
 expImg:`11RTO1.PNG`
 },
 {
@@ -1882,22 +1882,22 @@ expImg:``
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang perempuan usia 31 tahun datang ke <i>Apotek Nitro Farma</i> dengan keluhan sulit tidur, mudah lelah, berdebar, sulit konsentrasi, sering khawatir berlebihan, dan merasa sedih hampir setiap hari sejak 4 bulan terakhir setelah tekanan pekerjaan meningkat. Pasien tidak menunjukkan gejala psikotik, tidak ada riwayat mania, dan menyangkal ide bunuh diri. Dokter menilai gejala ansietas dan depresinya sama-sama bermakna, tetapi belum memenuhi sindrom penuh gangguan depresi berat maupun gangguan cemas spesifik. Dokter meminta masukan terapi farmakologi yang rasional untuk menghindari ketergantungan obat.<br><br>Obat manakah yang paling tepat direkomendasikan sebagai terapi utama?`,
+question:`Seorang perempuan usia 31 tahun datang ke <i>Apotek Nitro Farma</i> dengan keluhan sulit tidur, mudah lelah, berdebar, sulit konsentrasi, sering khawatir berlebihan, dan merasa sedih hampir setiap hari sejak 4 bulan terakhir setelah tekanan pekerjaan meningkat. Pasien tidak menunjukkan gejala psikotik, tidak ada riwayat mania, dan menyangkal ide bunuh diri. Dokter menilai gejala ansietas dan depresinya sama-sama bermakna, tetapi belum memenuhi sindrom penuh gangguan depresi berat maupun gangguan cemas spesifik. Dokter meminta masukan terapi farmakologi yang rasional untuk menghindari ketergantungan obat. Obat manakah yang paling tepat direkomendasikan sebagai terapi utama?`,
 img:``,
 options:["A. Sertralin","B. Alprazolam","C. Diazepam","D. Haloperidol","E. Triheksifenidil"],
 answer: `A. Sertralin`,
-explanation:`Kasus paling sesuai dengan gangguan campuran ansietas dan depresi. Pada kondisi ini, SSRI seperti sertralin, fluoksetin, atau escitalopram merupakan pilihan utama. Benzodiazepin dapat meredakan gejala cepat, tetapi bukan terapi utama jangka panjang karena risiko sedasi, toleransi, ketergantungan, dan penyalahgunaan.<br><br><b>Referensi:</b><br> Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/1936/2022 tentang Panduan Praktik Klinis bagi Dokter di Fasilitas Pelayanan Kesehatan Tingkat Pertama. Bagian Gangguan Campuran Ansietas dan Depresi`,
+explanation:`Kasus paling sesuai dengan gangguan campuran ansietas dan depresi. Pada kondisi ini, SSRI seperti sertralin, fluoksetin, atau escitalopram merupakan pilihan utama. Benzodiazepin dapat meredakan gejala cepat, tetapi bukan terapi utama jangka panjang karena risiko sedasi, toleransi, ketergantungan, dan penyalahgunaan.<br/><br/><b>Referensi:</b><br/> Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/1936/2022 tentang Panduan Praktik Klinis bagi Dokter di Fasilitas Pelayanan Kesehatan Tingkat Pertama. Bagian Gangguan Campuran Ansietas dan Depresi`,
 expImg:``
 },
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang laki-laki usia 72 tahun datang ke <i>Rumah Sakit Nitro Medica</i> dengan keluhan sulit memulai tidur dan sering terbangun hampir setiap malam selama 5 minggu. Pasien memiliki riwayat <i>benign prostate hyperplasia</i>, pernah jatuh di kamar mandi 2 bulan lalu, rutin tidur siang 2 jam, dan masih minum kopi pukul 19.00. Tidak ada gejala psikotik, mania, maupun nyeri berat. Keluarga meminta obat tidur yang paling kuat agar pasien cepat tidur.<br><br>Rekomendasi awal yang paling tepat adalah ...`,
+question:`Seorang laki-laki usia 72 tahun datang ke <i>Rumah Sakit Nitro Medica</i> dengan keluhan sulit memulai tidur dan sering terbangun hampir setiap malam selama 5 minggu. Pasien memiliki riwayat <i>benign prostate hyperplasia</i>, pernah jatuh di kamar mandi 2 bulan lalu, rutin tidur siang 2 jam, dan masih minum kopi pukul 19.00. Tidak ada gejala psikotik, mania, maupun nyeri berat. Keluarga meminta obat tidur yang paling kuat agar pasien cepat tidur. Rekomendasi awal yang paling tepat adalah ...`,
 img:``,
 options:["A. Edukasi higiene tidur, sleep diary, membatasi tidur siang, dan menghentikan kafein sore-malam","B. Diazepam jangka panjang setiap malam","C. Difenhidramin setiap malam karena lebih aman pada lansia","D. Amitriptilin dosis tinggi sebagai sedatif utama","E. Haloperidol dosis rendah sebelum tidur"],
 answer: `A. Edukasi higiene tidur, sleep diary, membatasi tidur siang, dan menghentikan kafein sore-malam`,
-explanation:`Pada insomnia, edukasi higiene tidur dan sleep diary perlu diberikan sebelum terapi farmakologi. Pada lansia dengan BPH dan riwayat jatuh, pilihan sedatif seperti benzodiazepin, antihistamin sedatif, atau antidepresan trisiklik berisiko memperburuk jatuh, sedasi, delirium, retensi urin, dan efek antikolinergik. Haloperidol bukan obat insomnia primer.<br><br><b>Referensi:</b><br> Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/1936/2022 tentang Panduan Praktik Klinis bagi Dokter di Fasilitas Pelayanan Kesehatan Tingkat Pertama. Bagian Insomnia`,
-expImg:`aw.jpeg`
+explanation:`Pada insomnia, edukasi higiene tidur dan sleep diary perlu diberikan sebelum terapi farmakologi. Pada lansia dengan BPH dan riwayat jatuh, pilihan sedatif seperti benzodiazepin, antihistamin sedatif, atau antidepresan trisiklik berisiko memperburuk jatuh, sedasi, delirium, retensi urin, dan efek antikolinergik. Haloperidol bukan obat insomnia primer.<br/><br/><b>Referensi:</b><br/> Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/1936/2022 tentang Panduan Praktik Klinis bagi Dokter di Fasilitas Pelayanan Kesehatan Tingkat Pertama. Bagian Insomnia`,
+expImg:``
 },
 {
 category:`Saraf`,
@@ -1906,7 +1906,7 @@ question:`Seorang laki-laki usia 34 tahun dirawat di <i>Rumah Sakit Nitro Medica
 img:``,
 options:["A. Memulai klozapin dengan monitoring hitung neutrofil absolut secara berkala","B. Mengulang risperidon pada dosis yang sama selama 8 minggu lagi","C. Memberikan triheksifenidil sebagai monoterapi","D. Menghentikan antipsikotik karena dua obat sudah gagal","E. Memberikan diazepam sebagai terapi utama jangka panjang"],
 answer: `A. Memulai klozapin dengan monitoring hitung neutrofil absolut secara berkala`,
-explanation:`Kegagalan dua uji antipsikotik yang adekuat dengan kepatuhan baik mengarah pada skizofrenia resisten terapi. PNPK Skizofrenia merekomendasikan klozapin, terutama pada skizofrenia resisten terapi dan pasien dengan risiko bunuh diri. Klozapin memerlukan monitoring hematologi karena risiko neutropenia/agranulositosis, terutama pada bulan-bulan awal terapi.<br><br><b>Referensi:</b><br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/970/2025 tentang PNPK Tata Laksana Skizofrenia`,
+explanation:`Kegagalan dua uji antipsikotik yang adekuat dengan kepatuhan baik mengarah pada skizofrenia resisten terapi. PNPK Skizofrenia merekomendasikan klozapin, terutama pada skizofrenia resisten terapi dan pasien dengan risiko bunuh diri. Klozapin memerlukan monitoring hematologi karena risiko neutropenia/agranulositosis, terutama pada bulan-bulan awal terapi.<br/><br/><b>Referensi:</b><br/>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/970/2025 tentang PNPK Tata Laksana Skizofrenia`,
 expImg:``
 },
 {
@@ -1916,8 +1916,8 @@ question:`Seorang laki-laki usia 68 tahun baru didiagnosis penyakit Parkinson de
 img:``,
 options:["A. Levodopa-karbidopa","B. Haloperidol","C. Metoklopramid","D. Bromokriptin sebagai agonis dopamin ergot lini pertama","E. Triheksifenidil dosis tinggi sebagai pilihan utama pada lansia"],
 answer: `A. Levodopa-karbidopa`,
-explanation:`Pada Parkinson tahap awal dengan gejala motorik yang sudah berdampak pada kualitas hidup, levodopa merupakan terapi awal yang direkomendasikan. Antagonis dopamin seperti haloperidol dan metoklopramid dapat memperburuk parkinsonisme. Agonis dopamin ergot tidak dipilih sebagai lini pertama karena risiko efek samping, sedangkan antikolinergik pada lansia berisiko gangguan kognitif, retensi urin, dan efek antikolinergik lain.<br><br><b>Referensi:</b><br>NICE Guideline NG71. Parkinson's disease in adults`,
-expImg:`aw.jpeg`
+explanation:`Pada Parkinson tahap awal dengan gejala motorik yang sudah berdampak pada kualitas hidup, levodopa merupakan terapi awal yang direkomendasikan. Antagonis dopamin seperti haloperidol dan metoklopramid dapat memperburuk parkinsonisme. Agonis dopamin ergot tidak dipilih sebagai lini pertama karena risiko efek samping, sedangkan antikolinergik pada lansia berisiko gangguan kognitif, retensi urin, dan efek antikolinergik lain.<br/><br/><b>Referensi:</b><br/>NICE Guideline NG71. Parkinson's disease in adults`,
+expImg:``
 },
 {
 category:`Saraf`,
@@ -1926,7 +1926,7 @@ question:`Seorang laki-laki usia 47 tahun dibawa ke IGD <i>Rumah Sakit Nitro Med
 img:``,
 options:["A. Lorazepam IV","B. Fenitoin IV","C. Asam valproat IV","D. Levetirasetam IV","E. Haloperidol IV"],
 answer: `A. Lorazepam IV`,
-explanation:`Kejang tonik-klonik yang berlangsung lebih dari 5 menit diperlakukan sebagai status epileptikus dan harus ditangani segera. Pada fase awal, benzodiazepin merupakan terapi utama. Lorazepam IV termasuk pilihan benzodiazepin lini awal bila tersedia. Obat antiepilepsi IV non-benzodiazepin seperti fenitoin, valproat, atau levetirasetam biasanya digunakan setelah benzodiazepin bila kejang berlanjut atau untuk mencegah kekambuhan.<br><br><b>Referensi:</b><br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
+explanation:`Kejang tonik-klonik yang berlangsung lebih dari 5 menit diperlakukan sebagai status epileptikus dan harus ditangani segera. Pada fase awal, benzodiazepin merupakan terapi utama. Lorazepam IV termasuk pilihan benzodiazepin lini awal bila tersedia. Obat antiepilepsi IV non-benzodiazepin seperti fenitoin, valproat, atau levetirasetam biasanya digunakan setelah benzodiazepin bila kejang berlanjut atau untuk mencegah kekambuhan.<br/><br/><b>Referensi:</b><br/>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
 expImg:``
 },
 {
@@ -1936,8 +1936,8 @@ question:`Seorang pasien laki-laki usia 30 tahun mengalami status epileptikus ko
 img:``,
 options:["A. Midazolam IV kontinu","B. Etosuksimid oral","C. Karbamazepin oral","D. Betahistin oral","E. Sumatriptan subkutan"],
 answer: `A. Midazolam IV kontinu`,
-explanation:`Status epileptikus refrakter adalah kejang yang menetap setelah benzodiazepin dan obat antikejang intravena lini berikutnya. Pada kondisi ini pasien memerlukan tata laksana ICU, proteksi jalan napas, dan dapat membutuhkan infus anestetik kontinu seperti midazolam IV dengan pemantauan ketat. Etosuksimid, karbamazepin, betahistin, dan sumatriptan tidak sesuai untuk status epileptikus refrakter akut.<br><br><b>Referensi:</b><br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
-expImg:`aw.jpeg`
+explanation:`Status epileptikus refrakter adalah kejang yang menetap setelah benzodiazepin dan obat antikejang intravena lini berikutnya. Pada kondisi ini pasien memerlukan tata laksana ICU, proteksi jalan napas, dan dapat membutuhkan infus anestetik kontinu seperti midazolam IV dengan pemantauan ketat. Etosuksimid, karbamazepin, betahistin, dan sumatriptan tidak sesuai untuk status epileptikus refrakter akut.<br/><br/><b>Referensi:</b><br/>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
+expImg:``
 },
 {
 category:`Saraf`,
@@ -1946,7 +1946,7 @@ question:`Seorang laki-laki usia 62 tahun mengalami status epileptikus dan sudah
 img:``,
 options:["A. Fenitoin IV","B. Levetirasetam IV","C. Asam valproat IV","D. Lorazepam IV dengan monitoring napas","E. Midazolam IV kontinu di ICU bila refrakter"],
 answer: `A. Fenitoin IV`,
-explanation:`Fenitoin IV dapat menyebabkan hipotensi dan aritmia, sehingga harus hati-hati dan memerlukan pemantauan EKG. Pada penyakit jantung berat atau blok AV derajat II/III, fenitoin akut perlu dihindari. Dalam kasus ini, pilihan lain seperti levetirasetam IV atau asam valproat IV dapat dipertimbangkan sesuai profil pasien dan kontraindikasi lain.<br><br><b>Referensi:</b><br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
+explanation:`Fenitoin IV dapat menyebabkan hipotensi dan aritmia, sehingga harus hati-hati dan memerlukan pemantauan EKG. Pada penyakit jantung berat atau blok AV derajat II/III, fenitoin akut perlu dihindari. Dalam kasus ini, pilihan lain seperti levetirasetam IV atau asam valproat IV dapat dipertimbangkan sesuai profil pasien dan kontraindikasi lain.<br/><br/><b>Referensi:</b><br/>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
 expImg:``
 },
 {
@@ -1956,8 +1956,8 @@ question:`Seorang laki-laki usia 28 tahun mengalami kejang tonik-klonik berulang
 img:``,
 options:["A. Asam valproat IV","B. Fenitoin IV","C. Etosuksimid oral","D. Haloperidol IV","E. Amitriptilin oral"],
 answer: `A. Asam valproat IV`,
-explanation:`Setelah benzodiazepin, obat antikejang intravena non-benzodiazepin dapat diberikan untuk menghentikan kejang dan mencegah kekambuhan. Pada pasien dengan blok AV derajat II, fenitoin perlu dihindari. Asam valproat IV dapat menjadi pilihan bila tidak ada kontraindikasi seperti gangguan hati berat, trombositopenia bermakna, atau kehamilan/risiko teratogenik. Etosuksimid bukan terapi status epileptikus konvulsif.<br><br><b>Referensi:</b><br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
-expImg:`aw.jpeg`
+explanation:`Setelah benzodiazepin, obat antikejang intravena non-benzodiazepin dapat diberikan untuk menghentikan kejang dan mencegah kekambuhan. Pada pasien dengan blok AV derajat II, fenitoin perlu dihindari. Asam valproat IV dapat menjadi pilihan bila tidak ada kontraindikasi seperti gangguan hati berat, trombositopenia bermakna, atau kehamilan/risiko teratogenik. Etosuksimid bukan terapi status epileptikus konvulsif.<br/><br/><b>Referensi:</b><br/>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
+expImg:``
 },
 {
 category:`Saraf`,
@@ -1966,7 +1966,7 @@ question:`Seorang laki-laki usia 70 tahun dengan riwayat demensia ringan dirawat
 img:``,
 options:["A. Levetirasetam IV","B. Fenitoin IV","C. Fenobarbital IV","D. Topiramat oral","E. Amitriptilin oral"],
 answer: `A. Levetirasetam IV`,
-explanation:`Pada pasien lansia, pemilihan obat antikejang perlu mempertimbangkan fungsi kognitif, interaksi obat, dan komorbid. PNPK epilepsi dewasa mencantumkan levetirasetam, lamotrigin, dan valproat sebagai opsi yang direkomendasikan pada lansia. Fenitoin dan fenobarbital kurang disukai karena risiko gangguan kognitif, sedasi, interaksi, dan efek samping lain. Levetirasetam perlu penyesuaian / pertimbangan khusus pada gangguan ginjal berat.<br><br><b>Referensi:</b><br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
+explanation:`Pada pasien lansia, pemilihan obat antikejang perlu mempertimbangkan fungsi kognitif, interaksi obat, dan komorbid. PNPK epilepsi dewasa mencantumkan levetirasetam, lamotrigin, dan valproat sebagai opsi yang direkomendasikan pada lansia. Fenitoin dan fenobarbital kurang disukai karena risiko gangguan kognitif, sedasi, interaksi, dan efek samping lain. Levetirasetam perlu penyesuaian / pertimbangan khusus pada gangguan ginjal berat.<br/><br/><b>Referensi:</b><br/>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
 expImg:``
 },
 {
@@ -1976,7 +1976,7 @@ question:`Seorang laki-laki usia 55 tahun dengan diabetes melitus datang ke <i>A
 img:``,
 options:["A. Duloksetin","B. Parasetamol tunggal","C. Ketorolak injeksi selama 5 hari","D. Morfin sebagai terapi lini pertama","E. Haloperidol"],
 answer: `A. Duloksetin`,
-explanation:`Gejala nyeri terbakar, kesemutan, rasa tersetrum, allodynia, dan distribusi kaki bilateral pada pasien DM mengarah ke nyeri neuropatik. Pilihan awal nyeri neuropatik mencakup amitriptilin, duloksetin, gabapentin, atau pregabalin. Pada pasien dengan BPH, duloksetin lebih rasional dibanding amitriptilin karena amitriptilin memiliki efek antikolinergik yang dapat memperburuk retensi urin. Parasetamol atau NSAID saja umumnya kurang efektif untuk nyeri neuropatik murni.<br><br><b>Referensi:</b><br>NICE Clinical Knowledge Summary. Neuropathic pain - drug treatment<br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/1128/2022 tentang PNPK Anestesiologi dan Terapi Intensif`,
+explanation:`Gejala nyeri terbakar, kesemutan, rasa tersetrum, allodynia, dan distribusi kaki bilateral pada pasien DM mengarah ke nyeri neuropatik. Pilihan awal nyeri neuropatik mencakup amitriptilin, duloksetin, gabapentin, atau pregabalin. Pada pasien dengan BPH, duloksetin lebih rasional dibanding amitriptilin karena amitriptilin memiliki efek antikolinergik yang dapat memperburuk retensi urin. Parasetamol atau NSAID saja umumnya kurang efektif untuk nyeri neuropatik murni.<br/><br/><b>Referensi:</b><br/>NICE Clinical Knowledge Summary. Neuropathic pain - drug treatment<br/>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/1128/2022 tentang PNPK Anestesiologi dan Terapi Intensif`,
 expImg:``
 },
 {
@@ -1986,7 +1986,7 @@ question:`Seorang perempuan usia 32 tahun datang dengan nyeri kepala berdenyut u
 img:``,
 options:["A. Triptan oral dikombinasikan dengan NSAID, ditambah antiemetik bila mual","B. Opioid kuat sebagai pilihan utama serangan migrain akut","C. Betahistin sebagai terapi utama migrain","D. Amitriptilin hanya diminum saat serangan migrain akut","E. Fenitoin IV"],
 answer: `A. Triptan oral dikombinasikan dengan NSAID, ditambah antiemetik bila mual`,
-explanation:`Klinis pasien konsisten dengan migrain: nyeri unilateral berdenyut, intensitas sedang-berat, memburuk dengan aktivitas, dan disertai mual/fotofobia/fonofobia. Untuk terapi akut migrain, pedoman merekomendasikan triptan oral dikombinasikan dengan NSAID atau parasetamol. Antiemetik dapat ditambahkan bila terdapat mual/muntah. Opioid tidak menjadi pilihan utama karena risiko efek samping, medication overuse headache, dan ketergantungan.<br><br><b>Referensi:</b><br>NICE Guideline CG150. Headaches in over 12s: diagnosis and management<br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/1818/2024 tentang PNPK Akupunktur Medik. Bagian nyeri kepala/migrain`,
+explanation:`Klinis pasien konsisten dengan migrain: nyeri unilateral berdenyut, intensitas sedang-berat, memburuk dengan aktivitas, dan disertai mual/fotofobia/fonofobia. Untuk terapi akut migrain, pedoman merekomendasikan triptan oral dikombinasikan dengan NSAID atau parasetamol. Antiemetik dapat ditambahkan bila terdapat mual/muntah. Opioid tidak menjadi pilihan utama karena risiko efek samping, medication overuse headache, dan ketergantungan.<br/><br/><b>Referensi:</b><br/>NICE Guideline CG150. Headaches in over 12s: diagnosis and management<br/>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/1818/2024 tentang PNPK Akupunktur Medik. Bagian nyeri kepala/migrain`,
 expImg:``
 },
 {
@@ -1996,7 +1996,7 @@ question:`Seorang perempuan usia 46 tahun datang dengan keluhan vertigo berputar
 img:``,
 options:["A. Manuver Epley","B. Betahistin jangka panjang sebagai terapi definitif utama","C. Lorazepam IV","D. Sumatriptan oral","E. Fenitoin IV"],
 answer: `A. Manuver Epley`,
-explanation:`Vertigo singkat yang dipicu perubahan posisi kepala, Dix-Hallpike positif, tanpa defisit neurologis atau gangguan pendengaran khas untuk <i>benign paroxysmal positional vertigo</i> (BPPV). Terapi definitif BPPV adalah manuver reposisi partikel seperti manuver Epley. Betahistin atau vestibular suppressant hanya bersifat simptomatik pada kondisi tertentu dan bukan terapi definitif utama BPPV.<br><br><b>Referensi:</b><br>NICE Clinical Knowledge Summary. Benign paroxysmal positional vertigo`,
+explanation:`Vertigo singkat yang dipicu perubahan posisi kepala, Dix-Hallpike positif, tanpa defisit neurologis atau gangguan pendengaran khas untuk <i>benign paroxysmal positional vertigo</i> (BPPV). Terapi definitif BPPV adalah manuver reposisi partikel seperti manuver Epley. Betahistin atau vestibular suppressant hanya bersifat simptomatik pada kondisi tertentu dan bukan terapi definitif utama BPPV.<br/><br/><b>Referensi:</b><br/>NICE Clinical Knowledge Summary. Benign paroxysmal positional vertigo`,
 expImg:``
 },
 ];
