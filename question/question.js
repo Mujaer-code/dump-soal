@@ -1132,7 +1132,7 @@ expImg:``
 {
 category:`Sterile Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`Bagian produksi steril PT Nitro Pharmaceutical menyiapkan vial kaca untuk pengisian sediaan injeksi. Vial perlu dipastikan bebas pirogen karena endotoksin bersifat termostabil dan tidak cukup diatasi dengan sterilisasi uap biasa. Kondisi proses yang paling tepat untuk depirogenasi vial adalah ...`,
+question:`<p>Departemen produksi sediaan steril PT Nitro Pharmaceutical menyiapkan vial kaca untuk pengisian sediaan injeksi. Vial perlu dipastikan bebas pirogen karena endotoksin bersifat termostabil dan tidak cukup diatasi dengan sterilisasi uap biasa. Bagaimakkah kondisi proses yang paling tepat untuk depirogenasi vial tersebut?</p>`,
 img:``,
 options:["A. 121 °C selama 15 menit dengan uap panas","B. 160 °C selama 60 menit dengan udara panas","C. 180 °C selama 30 menit dengan udara panas","D. 250 °C selama minimal 30 menit dengan udara panas","E. 0,22 µm filtrasi membran sebelum pengisian"],
 answer: `D. 250 °C selama minimal 30 menit dengan udara panas`,
@@ -1142,7 +1142,7 @@ expImg:``
 {
 category:`Farmasetika`,
 level:`Hard`,
-question:`R&D PT Nitro Pharmaceutical mengembangkan larutan injeksi mengandung zat aktif termolabil. Larutan dapat melewati membran tanpa adsorpsi bermakna, tetapi zat aktif terdegradasi pada pemanasan autoklaf. Strategi sterilisasi yang paling tepat adalah ...`,
+question:`<p>Departemen R&amp;D PT Nitro Pharmaceutical mengembangkan sediaan larutan injeksi mengandung zat aktif termolabil. Larutan dapat melewati membran tanpa adsorpsi bermakna, tetapi zat aktif terdegradasi pada pemanasan autoklaf. Bagaimanakah strategi sterilisasi yang paling tepat untuk sediaan tersebut?</p>`,
 img:``,
 options:["A. Sterilisasi akhir dengan panas basah 121 °C selama 15 menit","B. Sterilisasi panas kering 170 °C selama 1 jam","C. Filtrasi steril 0,22 µm diikuti pengisian aseptis ke wadah steril","D. Sterilisasi gas etilen oksida terhadap larutan akhir","E. Penambahan pengawet antimikroba sebagai pengganti sterilisasi"],
 answer: `C. Filtrasi steril 0,22 µm diikuti pengisian aseptis ke wadah steril`,
