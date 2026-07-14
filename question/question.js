@@ -1016,7 +1016,7 @@ question:`<p>Seorang apoteker yang bekerja di industri farmasi PT Nitro Pharmace
 img:``,
 options:["A. Seal coating","B. Sub coating","C. Coloring","D. Smoothing","E. Polishing"],
 answer: `A. Seal coating`,
-explanation:`Pada proses penyalutan tablet salut gula, terdapat beberapa tahapan yang dilakukan secara berurutan untuk menghasilkan tablet dengan lapisan yang seragam dan stabil.<img src="assets/08M7.PNG"></img><br/><b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
+explanation:`Pada proses penyalutan tablet salut gula, terdapat beberapa tahapan yang dilakukan secara berurutan untuk menghasilkan tablet dengan lapisan yang seragam dan stabil.<img src="assets/08M7.png"></img><br/><b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
 expImg:``
 },
 {
@@ -1026,7 +1026,7 @@ question:`<p>Sebuah industri farmasi PT Nitro Pharmaceutical memproduksi tablet 
 img:``,
 options:["A. Sticking","B. Picking","C. Lamination","D. Capping","E. Chipping"],
 answer: `D. Capping`,
-explanation:`<p><em>Capping</em> merupakan salah satu jenis cacat tablet yang terjadi ketika bagian atas atau bawah tablet terpisah dari badan tablet setelah proses kompresi atau selama proses ejeksi dari cetakan.Kondisi ini biasanya disebabkan oleh beberapa faktor, antara lain:</p><ol><li>Udara yang terperangkap dalam granul</li><li>Tekanan kompresi yang tidak optimal</li><li>Kelembaban granul yang tidak sesuai</li><li>Distribusi ukuran partikel yang tidak seragam.</li></ol><p><strong>Referensi:</strong><br />Remington The Science and Practice of Pharmacy</p>`,
+explanation:`<p><em>Capping</em> merupakan salah satu jenis cacat tablet yang terjadi ketika bagian atas atau bawah tablet terpisah dari badan tablet setelah proses kompresi atau selama proses ejeksi dari cetakan. Kondisi ini biasanya disebabkan oleh beberapa faktor, antara lain:</p><ol><li>Udara yang terperangkap dalam granul</li><li>Tekanan kompresi yang tidak optimal</li><li>Kelembaban granul yang tidak sesuai</li><li>Distribusi ukuran partikel yang tidak seragam.</li></ol><br/><p><strong>Referensi:</strong><br />Remington The Science and Practice of Pharmacy</p>`,
 expImg:``
 },
 {
@@ -1036,7 +1036,7 @@ question:`<p>Bagian pengawasan mutu di sebuah industri farmasi sedang melakukan 
 img:``,
 options:["A. 2,952","B.2,594","C.2,595","D.2,553","E.2,597"],
 answer: `A. 2,952`,
-explanation:`<img src="assets/09M7.PNG"></img><br/><b>Referensi:</b><br>Farmakope VI- Uji Keseragaman Kandungan halaman 2025`,
+explanation:`<img src="assets/09M7.png"></img><br/><b>Referensi:</b><br>Farmakope VI- Uji Keseragaman Kandungan halaman 2025`,
 expImg:``
 },
 {
@@ -1216,7 +1216,7 @@ question:`Seorang pasien laki-laki berusia 45 tahun datang ke Apotek Nitro Farma
 img:``,
 options:["A. 12 tablet Salbutamol dan 6 tablet CTM","B. 16 tablet Salbutamol dan 8 tablet CTM","C. 24 tablet Salbutamol dan 6 tablet CTM","D. 24 tablet Salbutamol dan 12 tablet CTM","E. 40 tablet Salbutamol dan 10 tablet CTM"],
 answer: `C. 24 tablet Salbutamol dan 6 tablet CTM`,
-explanation:`<img src="assets/3PTO9.PNG"></img><br><br><b> NOTE:<b>  <br>Pada resep ini, tidak menggunakan da tales doses (dtd). Artinya: Angka yang tertera (0,08 dan 0,04) adalah TOTAL jumlah zat aktif untuk seluruh sediaan yang diminta (20 kapsul), bukan jumlah per kapsul.<br><br><b>Referensi:</b><br>Ansel, H. C., & Stockton, S. J. (2017). Pharmaceutical Calculations (15th ed.).`,
+explanation:`<img src="assets/3PTO9.PNG"></img><br><br><b> NOTE:</b>  <br>Pada resep ini, tidak menggunakan da tales doses (dtd). Artinya: Angka yang tertera (0,08 dan 0,04) adalah TOTAL jumlah zat aktif untuk seluruh sediaan yang diminta (20 kapsul), bukan jumlah per kapsul.<br><br><b>Referensi:</b><br>Ansel, H. C., & Stockton, S. J. (2017). Pharmaceutical Calculations (15th ed.).`,
 expImg:``
 },
 {
@@ -1322,41 +1322,41 @@ expImg:`12RTO9.PNG`
 {
 category:`Infeksi`,
 level:`Medium`,
-question:`Seorang pasien ibu hamil trimester kedua (minggu ke 27) didiagnosis sistitis dan setelah dilakukan uji dikultur diketahui infeksi tersebut disebabkan oleh bakter E.coli.Dokter bertanya pada apoteker manakah antibiotik yang paling tepat untuk pasien tersebut? (Soal Ujian Apoteker ITB)`,
+question:`Seorang dokter di rumah sakit meminta rekomendasi apoteker mengenai terapi untuk pasien perempuan (usia kehamilan 27 minggu) yang didiagnosis mengalami sistitis. Berdasarkan hasil uji kultur urine, diketahui bahwa infeksi tersebut disebabkan oleh bakteri <em>Escherichia coli</em>. Apoteker perlu memilihkan terapi yang efektif sekaligus aman untuk kondisi kehamilan pasien. Apakah antibiotik yang tepat direkomendasikan? (Soal Ujian Apoteker ITB)`,
 img:``,
 options:["A. Cefixime","B. Amoxicillin","C. Kotrimoksazole","D. Fosfomycin","E. Nitrufurantoin"],
 answer: `D. Fosfomycin`,
-explanation:`Fosfomisin merupakan lini pertama untuk sistitis non komplikata yang disebabkan oleh bakteri gram negatif serta E. coli menunjukkan tingkat sensitivitas yang sangat tinggi terhadap Fosfomisin, bahkan untuk galur yang sudah resisten terhadap antibiotik lain (seperti ESBL).Selain itu fosfomisin hanya diberikan dalam dosis tunggal 3 gram sehingga meningkatkan kepatuhan<br><br>Nitrofurantoin juga efektif untuk terapi definitif E.coli akan tetapi nitrofurantoin perlu dikonsumsi 100 mg 3x sehari selama satu minggu dimana pada pasien ini yang mendekati trimester ketiga (minggu 28) terapi menggunakan nitrofurantoin defisiensi G6PD dan risiko anemia hemolitik serta risiko teratogenik pada bayi<br><br>Cefixime memiliki keamanan FDA B dan efektif terhadap E coli,akan tetapi antibiotik ini spektrum luas,sehingga kurang tepat bila digunakan untuk terapi definitif untuk E coli dan dapat memicu resistensi antibiotik di masa depan dan lebih berisiko mengganggu flora normal<br><br>Amoxicillin memiliki kemanan FDA B pada ibu hamil,akan tetapi sama seperti cefixime antibiotik ini memiliki spektrum kerja yang luas dan angka resistensi E. coli terhadap golongan penisilinterus meningkat secara global dan lokal di Indonesia <br><br>Kotrimoxazole aman untuk trimester 2,akan tetapi memiliki kasus yang sama seperti nitrofurantoin karena pasien mendekat TM3 . Penggunaan kotrimoxazole untuk sistitis adalah 5-7 hari sehingga penggunaan kotrimoxazole di TM3  meningkatkan risiko kernikterus/bayi kuning dan neural tube defect<b>Referensi:</b><br>Kemenkes.(2025). PEDOMAN NASIONAL PELAYANAN KLINIS TATA LAKSANA INFEKSI SALURAN KEMIH `,
+explanation:`<p><strong>Fosfomisin</strong> merupakan<span style="color: #ff0000;"><strong> lini pertama</strong></span> untuk sistitis non komplikata yang disebabkan oleh bakteri gram negatif serta<strong> E. coli</strong> menunjukkan tingkat sensitivitas yang sangat tinggi terhadap Fosfomisin, bahkan untuk galur yang sudah resisten terhadap antibiotik lain (seperti ESBL).Selain itu fosfomisin hanya diberikan dalam dosis tunggal 3 gram sehingga meningkatkan kepatuhan<br /><br /><strong>Nitrofurantoin</strong> juga efektif untuk terapi definitif E.coli akan tetapi nitrofurantoin perlu dikonsumsi 100 mg 3x sehari selama satu minggu dimana pada pasien ini yang <span style="color: #ff0000;">mendekati trimester ketiga (minggu 28)</span> terapi menggunakan nitrofurantoin <strong>defisiensi G6PD</strong> dan <strong>risiko anemia hemolitik</strong> serta <strong>risiko teratogenik</strong> pada bayi<br /><br /><strong>Cefixime</strong> memiliki keamanan FDA B dan efektif terhadap E coli,akan tetapi antibiotik ini spektrum luas,sehingga kurang tepat bila digunakan untuk terapi definitif untuk E coli dan dapat memicu resistensi antibiotik di masa depan dan lebih berisiko mengganggu flora normal<br /><br /><strong>Amoxicillin</strong> memiliki kemanan FDA B pada ibu hamil,akan tetapi sama seperti cefixime antibiotik ini memiliki spektrum kerja yang luas dan angka resistensi E. coli terhadap golongan penisilinterus meningkat secara global dan lokal di Indonesia<br /><br /><strong>Kotrimoxazole</strong> aman untuk trimester 2,akan tetapi memiliki kasus yang sama seperti nitrofurantoin karena pasien mendekat TM3 . Penggunaan kotrimoxazole untuk sistitis adalah 5-7 hari sehingga penggunaan kotrimoxazole di TM3 meningkatkan risiko kernikterus/bayi kuning dan neural tube defect</p><p><strong>Referensi:</strong><br />Kemenkes.(2025). PEDOMAN NASIONAL PELAYANAN KLINIS TATA LAKSANA INFEKSI SALURAN KEMIH</p>`,
 expImg:`Fosfomisin.png`
 },
 {
 category:`Infeksi`,
 level:`Hard`,
-question:`Seorang pasien laki-laki (32 tahun) dengan riwayat HIV datang ke IGD dengan keluhan sakit kepala hebat, kejang, dan penurunan kesadaran. Hasil pemeriksaan uji TORCH pasien terinfeksi <i> toxoplasma gondii</i> disertai dengan penumpukan cairan pada otak pasien.Dokter ingin meresepkan obat tambahan untuk mengurangi penumpukan cairan (edema) tersebut agar tekanan intrakranial pasien tidak meningkat lebih lanjut.Obat apakah yang paling tepat untuk menurunkan tekanan intrakranial pasien tersebut? (TO Nas 2026)`,
+question:`Seorang pasien, laki-laki, usia 32 tahun, dengan riwayat HIV datang ke IGD dengan keluhan sakit kepala hebat, kejang, dan penurunan kesadaran. Hasil pemeriksaan uji TORCH menunjukkan pasien terinfeksi Toxoplasma gondii disertai dengan penumpukan cairan pada otak. Dokter akan meresepkan obat tambahan untuk mengurangi edema tersebut agar tekanan intrakranial pasien tidak meningkat lebih lanjut. Apakah obat yang tepat untuk mengatasi kondisi tersebut? (TO UKOMNAS PDPA FEBRUARI 2026)`,
 img:``,
 options:["A. Pirimetamin","B. Sulfadiazine","C. Furosemide","D. Dexametasone","E. Mannitol"],
 answer: `D. Dexametasone`,
-explanation:`Dalam kasus Toxoplasmic Encephalitis (TE) pada pasien HIV, sering terjadi pembentukan abses atau lesi yang menyebabkan edema vasogenik (kebocoran cairan dari pembuluh darah ke jaringan otak). Kortikosteroid, khususnya Dexametasone, adalah terapi adjuvant yang sangat penting untuk mengurangi peradangan dan edema di sekitar lesi tersebut. Hal ini bertujuan untuk menurunkan mass effect (efek massa) yang menekan jaringan otak sehat dan menurunkan tekanan intrakranial (TIK).                                                                                                                                                                                                                                                   <br><br><b>Referensi:</b><br> DiPiro's Pharmacotherapy: A Pathophysiologic Approach, 12th Edition `,
+explanation:`<p>Dalam kasus <em>Toxoplasmic Encephalitis</em> (TE) pada pasien HIV, sering terjadi pembentukan abses atau lesi yang menyebabkan <em>edema vasogenik</em> (kebocoran cairan dari pembuluh darah ke jaringan otak). <strong>Kortikosteroid,</strong> khususnya <span style="color: #ff0000;">Dexametasone</span>, adalah terapi adjuvant yang sangat penting untuk mengurangi peradangan dan edema di sekitar lesi tersebut. Hal ini bertujuan untuk menurunkan <em>mass effect</em> (efek massa) yang menekan jaringan otak sehat dan menurunkan tekanan intrakranial (TIK).<br /><br /><strong>Referensi:</strong><br />DiPiro's Pharmacotherapy: A Pathophysiologic Approach, 12th Edition</p>`,
 expImg:`Toxoplasma.png`
 },
 {
 category:`Infeksi`,
 level:`Medium`,
-question:`Seorang wanita 63 tahun telah menderita katarak selama lebih dari 5 tahun dan akan menjalani operasi katarak.Dokter spesialis mata berkomunikasi dengan apoteker untuk menyiapkan antibiotik profilaksis berbentuk tetes mata untuk pasien tersebut agar tidak terjadi endoftalmitis pasca operasi. Apakah antibiotik yang paling tepat untuk profilaksis pasien tersebut?`,
+question:`<p>Seorang pasien, perempuan, usia 63 tahun, telah menderita katarak selama lebih dari 5 tahun dan akan menjalani operasi katarak. Dokter spesialis mata meminta rekomendasi apoteker untuk menyiapkan antibiotik profilaksis berbentuk tetes mata untuk pasien tersebut agar tidak terjadi <em>endoftalmitis</em> pascaoperasi. Apakah antibiotik yang tepat direkomendasikan?</p>`,
 img:``,
-options:["A. Gentamisin","B. Kloramfenikol","C. Eritromisin","D. Amoxicillin","E Moxifloxacin"],
-answer: `Moxifloxacin`,
-explanation:` Moxifloxacin merupakan floroquinolon generasi keempat yang memiliki spektrum yang luas dan t efektif membunuh bakteri Gram-positif (seperti <i>Staphylococcus epidermidis</i> dan <i>Staphylococcus aureus</i> yang merupakan flora normal kelopak mata dan penyebab utama endoftalmitis pasca operasi serta memiliki penetrasi cairan bola mata (bilik mata depan/anterior chamber) yang sanga baik dibandingkan antibiotik lain.Golongan florokuinolon generasi lama seperti levofloksasin cukup efektif jg untuk profilaksis endoftalmitis akan tetapi penetrasinya ke cairan bola mata tidak sebaik dari florokuinolon generasi keempat seperti moxifloxacin<br><br>Gentamisin sangat kuat melawan bakteri Gram-negatif, namun aktivitasnya terhadap bakteri Gram-positif (penyebab utama endoftalmitis) tidak sebaik fluorokuinolon.<br><br>Eritromisin berbentuk salep mata umumnya digunakan untuk infeksi superfisial atau sebagai profilaksis ophthalmia neonatorum pada bayi baru lahir. Penetrasi eritromisin ke dalam bilik mata depan sangat lemah<br><br>Kloramfenikol efektivitas penetrasinya dan profil resistensinya tidak lebih baik daripada Fluoroquinolone<br><br>Amoxicillin Merupakan antibiotik sistemik. Untuk profilaksis bedah mata, rute topikal (tetes) atau intrakameral lebih diutamakan                                                                                                                                                                                                                 <br><br><b>Referensi:</b><br>Bratzler DW, Dellinger EP, Olsen KM, Perl TM, Auwaerter PG, Bolon MK, et al. Clinical practice guidelines for antimicrobial prophylaxis in surgery. Am J Health Syst Pharm. 2013;70(3):195-283. doi: 10.2146/ajhp120568.`,
+options:["A. Gentamisin","B. Kloramfenikol","C. Eritromisin","D. Amoxicillin","E. Moxifloxacin"],
+answer: `E. Moxifloxacin`,
+explanation:`<p><strong>Moxifloxacin</strong> merupakan floroquinolon generasi keempat yang memiliki spektrum yang luas dan efektif membunuh bakteri Gram-positif (seperti <em>Staphylococcus epidermidis</em> dan <em>Staphylococcus aureus</em> yang merupakan flora normal kelopak mata dan penyebab utama endoftalmitis pasca operasi serta memiliki penetrasi cairan bola mata (bilik mata depan/anterior chamber) yang sanga baik dibandingkan antibiotik lain.Golongan florokuinolon generasi lama seperti levofloksasin cukup efektif jg untuk profilaksis endoftalmitis akan tetapi penetrasinya ke cairan bola mata tidak sebaik dari florokuinolon generasi keempat seperti moxifloxacin<br /><br /><strong>Gentamisin</strong> sangat kuat melawan bakteri Gram-negatif, namun aktivitasnya terhadap bakteri Gram-positif (penyebab utama endoftalmitis) tidak sebaik fluorokuinolon.<br /><br /><strong>Eritromisin</strong> berbentuk salep mata umumnya digunakan untuk infeksi superfisial atau sebagai profilaksis ophthalmia neonatorum pada bayi baru lahir. Penetrasi eritromisin ke dalam bilik mata depan sangat lemah<br /><br /><strong>Kloramfenikol</strong> efektivitas penetrasinya dan profil resistensinya tidak lebih baik daripada Fluoroquinolone<br /><br /><strong>Amoxicillin</strong> Merupakan antibiotik sistemik. Untuk profilaksis bedah mata, rute topikal (tetes) atau intrakameral lebih diutamakan<br /><br /><strong>Referensi:</strong><br />Bratzler DW, Dellinger EP, Olsen KM, Perl TM, Auwaerter PG, Bolon MK, et al. Clinical practice guidelines for antimicrobial prophylaxis in surgery. Am J Health Syst Pharm. 2013;70(3):195-283. doi: 10.2146/ajhp120568.</p>`,
 expImg:`Moxifloxacin.png`
 },
 {
 category:`Infeksi`,
 level:`Hard`,
-question:`Seorang pasien dijadwalkan untuk operasi pembedahan tulang pada pukul 10.00 pagi dan direncanakan akan diberikan cefazolin intravena sebagai antibiotik profilaksis.Manakah waktu paling tepat untuk pemberian cefazolin intravena agar agar mencapai kadar puncak saat insisi kulit dilakukan? (TO Nas Januari 2026)`,
+question:`Seorang pasien dijadwalkan untuk operasi pembedahan tulang pada pukul 10.00 pagi dan direncanakan akan diberikan cefazolin intravena sebagai antibiotik profilaksis.Manakah waktu paling tepat untuk pemberian cefazolin intravena agar agar mencapai kadar puncak saat insisi kulit dilakukan? (TO UKOMNAS PDPA FEBRUARI 2026)`,
 img:``,
-options:["A. Tepat saat dokter bedah mulai melakukan pembedahan","B. Saat dokter bedah menjahit luka penutup","C. Segera saat pasien sadar dari anestesi di ruang pemulihan","D. Pukul 09.00 hingga 09.30","E. Antara pukul 08.00 hingga 09.00"],
-answer: `D. Pukul 09.00 hingga 09.30`,
-explanation:`Cefazolin membutuhkan waktu sekitar 30 menit setelah injeksi intravena untuk terdistribusi secara maksimal ke jaringan lunak dan tulang. Dengan memberikan obat pada pukul 09.00-09.30, kadar obat dalam darah dan jaringan akan berada pada titik tertinggi saat pisau bedah menyentuh kulit pada pukul 10.00.Cefazolin dipilih sebagai profilaksis untuk operasi bedah terutama pada  bedah tulang karena Sefazolin memiliki kemampuan untuk masuk ke dalam jaringan lunak dan jaringan tulang dengan sangat baik serta kompatibel dengan zat anastetik yang digunakan                                                                                                                                                                                                                                    <br><br><b>Referensi:</b><br>PERATURAN MENTERI KESEHATAN REPUBLIK INDONESIA NOMOR 28 TAHUN 2021 TENTANG PEDOMAN PENGGUNAAN ANTIBIOTIK`,
+options:["A. 08.00 – 08.30","B. 08.30 – 09.00","C. 09.00 – 09.30","D. 09.30 – 10.00","E. 10.00 – 10.30"],
+answer: `D. 09.30 – 10.00`,
+explanation:`<p><strong>Cefazolin</strong> membutuhkan waktu sekitar <span style="color: #ff0000;"><strong>30 menit setelah injeksi intravena</strong> </span>untuk terdistribusi secara maksimal ke jaringan lunak dan tulang. Dengan memberikan obat pada pukul 09.00 - 09.30, kadar obat dalam darah dan jaringan akan berada pada titik tertinggi saat pisau bedah menyentuh kulit pada pukul 10.00. Cefazolin dipilih sebagai profilaksis untuk operasi bedah terutama pada bedah tulang karena Sefazolin memiliki kemampuan untuk masuk ke dalam jaringan lunak dan jaringan tulang dengan sangat baik serta kompatibel dengan zat anastetik yang digunakan<br /><br /><strong>Referensi:</strong><br />PERATURAN MENTERI KESEHATAN REPUBLIK INDONESIA NOMOR 28 TAHUN 2021 TENTANG PEDOMAN PENGGUNAAN ANTIBIOTIK</p>`,
 expImg:`Cefazolin.png`
 },
 {
@@ -1902,7 +1902,7 @@ expImg:`aw.jpeg`
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang laki-laki usia 34 tahun dirawat di <i>Rumah Sakit Nitro Medica</i> karena skizofrenia. Pasien tetap mengalami halusinasi auditorik imperatif, waham kejar, dan beberapa kali mencoba melukai diri walaupun sudah mendapat risperidon dosis adekuat selama 8 minggu dan olanzapin dosis adekuat selama 8 minggu pada periode berbeda. Kepatuhan minum obat terkonfirmasi baik oleh keluarga dan catatan farmasi. Dokter meminta rekomendasi terapi tahap berikutnya.<br><br>Rekomendasi paling tepat adalah ...`,
+question:`Seorang laki-laki usia 34 tahun dirawat di <i>Rumah Sakit Nitro Medica</i> karena skizofrenia. Pasien tetap mengalami halusinasi auditorik imperatif, waham kejar, dan beberapa kali mencoba melukai diri walaupun sudah mendapat risperidon dosis adekuat selama 8 minggu dan olanzapin dosis adekuat selama 8 minggu pada periode berbeda. Kepatuhan minum obat terkonfirmasi baik oleh keluarga dan catatan farmasi. Dokter meminta rekomendasi terapi tahap berikutnya. Rekomendasi paling tepat adalah ...`,
 img:``,
 options:["A. Memulai klozapin dengan monitoring hitung neutrofil absolut secara berkala","B. Mengulang risperidon pada dosis yang sama selama 8 minggu lagi","C. Memberikan triheksifenidil sebagai monoterapi","D. Menghentikan antipsikotik karena dua obat sudah gagal","E. Memberikan diazepam sebagai terapi utama jangka panjang"],
 answer: `A. Memulai klozapin dengan monitoring hitung neutrofil absolut secara berkala`,
@@ -1912,7 +1912,7 @@ expImg:``
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang laki-laki usia 68 tahun baru didiagnosis penyakit Parkinson dengan bradikinesia, rigiditas, dan tremor istirahat. Pasien masih aktif bekerja, tetapi kini sulit menulis, mengancingkan baju, dan berjalan cepat sehingga kualitas hidupnya jelas terganggu. Tidak ada riwayat psikosis, halusinasi, atau gangguan impuls. Dokter meminta pilihan terapi awal yang paling rasional untuk memperbaiki gejala motorik yang sudah mengganggu aktivitas harian.<br><br>Obat manakah yang paling tepat dipilih?`,
+question:`Seorang laki-laki usia 68 tahun baru didiagnosis penyakit Parkinson dengan bradikinesia, rigiditas, dan tremor istirahat. Pasien masih aktif bekerja, tetapi kini sulit menulis, mengancingkan baju, dan berjalan cepat sehingga kualitas hidupnya jelas terganggu. Tidak ada riwayat psikosis, halusinasi, atau gangguan impuls. Dokter meminta pilihan terapi awal yang paling rasional untuk memperbaiki gejala motorik yang sudah mengganggu aktivitas harian. Obat manakah yang paling tepat dipilih?`,
 img:``,
 options:["A. Levodopa-karbidopa","B. Haloperidol","C. Metoklopramid","D. Bromokriptin sebagai agonis dopamin ergot lini pertama","E. Triheksifenidil dosis tinggi sebagai pilihan utama pada lansia"],
 answer: `A. Levodopa-karbidopa`,
@@ -1922,7 +1922,7 @@ expImg:`aw.jpeg`
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang laki-laki usia 47 tahun dibawa ke IGD <i>Rumah Sakit Nitro Medica</i> karena kejang tonik-klonik generalisata terus-menerus selama 7 menit. Gula darah kapiler normal, jalan napas sedang diamankan, akses intravena sudah tersedia, dan pasien belum menerima benzodiazepin. Dokter meminta apoteker menyiapkan obat intravena lini awal sesuai algoritma status epileptikus bila obat tersebut tersedia di rumah sakit.<br><br>Obat manakah yang paling tepat disiapkan?`,
+question:`Seorang laki-laki usia 47 tahun dibawa ke IGD <i>Rumah Sakit Nitro Medica</i> karena kejang tonik-klonik generalisata terus-menerus selama 7 menit. Gula darah kapiler normal, jalan napas sedang diamankan, akses intravena sudah tersedia, dan pasien belum menerima benzodiazepin. Dokter meminta apoteker menyiapkan obat intravena lini awal sesuai algoritma status epileptikus bila obat tersebut tersedia di rumah sakit. Obat manakah yang paling tepat disiapkan?`,
 img:``,
 options:["A. Lorazepam IV","B. Fenitoin IV","C. Asam valproat IV","D. Levetirasetam IV","E. Haloperidol IV"],
 answer: `A. Lorazepam IV`,
@@ -1932,7 +1932,7 @@ expImg:``
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang pasien laki-laki usia 30 tahun mengalami status epileptikus konvulsif. Kejang tetap berlangsung walaupun sudah mendapat dua dosis benzodiazepin yang adekuat dan satu obat antikejang intravena lini kedua. Pasien kemudian diintubasi, dirawat di ICU, dan dilakukan pemantauan ketat. Dokter meminta obat yang dapat diberikan sebagai infus anestetik kontinu untuk status epileptikus refrakter.<br><br>Obat manakah yang paling tepat?`,
+question:`Seorang pasien laki-laki usia 30 tahun mengalami status epileptikus konvulsif. Kejang tetap berlangsung walaupun sudah mendapat dua dosis benzodiazepin yang adekuat dan satu obat antikejang intravena lini kedua. Pasien kemudian diintubasi, dirawat di ICU, dan dilakukan pemantauan ketat. Dokter meminta obat yang dapat diberikan sebagai infus anestetik kontinu untuk status epileptikus refrakter. Obat manakah yang paling tepat?`,
 img:``,
 options:["A. Midazolam IV kontinu","B. Etosuksimid oral","C. Karbamazepin oral","D. Betahistin oral","E. Sumatriptan subkutan"],
 answer: `A. Midazolam IV kontinu`,
@@ -1942,7 +1942,7 @@ expImg:`aw.jpeg`
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang laki-laki usia 62 tahun mengalami status epileptikus dan sudah mendapat benzodiazepin. Dokter mempertimbangkan obat antikejang intravena berikutnya. Dari rekam medis diketahui pasien memiliki penyakit jantung berat dengan blok AV derajat II. Monitor EKG menunjukkan konduksi jantung tidak stabil. Apoteker diminta menilai obat yang sebaiknya dihindari karena berisiko memperburuk gangguan konduksi jantung.<br><br>Obat manakah yang paling perlu dihindari?`,
+question:`Seorang laki-laki usia 62 tahun mengalami status epileptikus dan sudah mendapat benzodiazepin. Dokter mempertimbangkan obat antikejang intravena berikutnya. Dari rekam medis diketahui pasien memiliki penyakit jantung berat dengan blok AV derajat II. Monitor EKG menunjukkan konduksi jantung tidak stabil. Apoteker diminta menilai obat yang sebaiknya dihindari karena berisiko memperburuk gangguan konduksi jantung. Obat manakah yang paling perlu dihindari?`,
 img:``,
 options:["A. Fenitoin IV","B. Levetirasetam IV","C. Asam valproat IV","D. Lorazepam IV dengan monitoring napas","E. Midazolam IV kontinu di ICU bila refrakter"],
 answer: `A. Fenitoin IV`,
@@ -1952,7 +1952,7 @@ expImg:``
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang laki-laki usia 28 tahun mengalami kejang tonik-klonik berulang di IGD dan tidak berhenti setelah benzodiazepin dosis adekuat. Pasien tidak memiliki gangguan hati, tidak ada trombositopenia, tidak sedang menggunakan antikoagulan, dan bukan pasien dengan risiko kehamilan. Riwayat medis menunjukkan blok AV derajat II sehingga fenitoin IV tidak dianjurkan. Fungsi ginjal normal. Dokter meminta pilihan obat antikejang intravena non-benzodiazepin yang rasional sebagai terapi berikutnya.<br><br>Obat manakah yang paling tepat?`,
+question:`Seorang laki-laki usia 28 tahun mengalami kejang tonik-klonik berulang di IGD dan tidak berhenti setelah benzodiazepin dosis adekuat. Pasien tidak memiliki gangguan hati, tidak ada trombositopenia, tidak sedang menggunakan antikoagulan, dan bukan pasien dengan risiko kehamilan. Riwayat medis menunjukkan blok AV derajat II sehingga fenitoin IV tidak dianjurkan. Fungsi ginjal normal. Dokter meminta pilihan obat antikejang intravena non-benzodiazepin yang rasional sebagai terapi berikutnya. Obat manakah yang paling tepat?`,
 img:``,
 options:["A. Asam valproat IV","B. Fenitoin IV","C. Etosuksimid oral","D. Haloperidol IV","E. Amitriptilin oral"],
 answer: `A. Asam valproat IV`,
@@ -1962,17 +1962,17 @@ expImg:`aw.jpeg`
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang laki-laki usia 70 tahun dengan riwayat demensia ringan dirawat karena bangkitan fokal yang berkembang menjadi bilateral tonik-klonik. Pasien tidak mengalami gagal ginjal dan tidak memiliki gangguan hati berat. Dokter ingin memilih obat antikejang intravena yang relatif aman terhadap fungsi kognitif lansia serta menghindari obat yang cenderung memperburuk gangguan kognitif.<br><br>Obat manakah yang paling rasional?`,
+question:`Seorang laki-laki usia 70 tahun dengan riwayat demensia ringan dirawat karena bangkitan fokal yang berkembang menjadi bilateral tonik-klonik. Pasien tidak mengalami gagal ginjal dan tidak memiliki gangguan hati berat. Dokter ingin memilih obat antikejang intravena yang relatif aman terhadap fungsi kognitif lansia serta menghindari obat yang cenderung memperburuk gangguan kognitif. Obat manakah yang paling rasional?`,
 img:``,
 options:["A. Levetirasetam IV","B. Fenitoin IV","C. Fenobarbital IV","D. Topiramat oral","E. Amitriptilin oral"],
 answer: `A. Levetirasetam IV`,
-explanation:`Pada pasien lansia, pemilihan obat antikejang perlu mempertimbangkan fungsi kognitif, interaksi obat, dan komorbid. PNPK epilepsi dewasa mencantumkan levetirasetam, lamotrigin, dan valproat sebagai opsi yang direkomendasikan pada lansia. Fenitoin dan fenobarbital kurang disukai karena risiko gangguan kognitif, sedasi, interaksi, dan efek samping lain. Levetirasetam perlu penyesuaian/pertimbangan khusus pada gangguan ginjal berat.<br><br><b>Referensi:</b><br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
+explanation:`Pada pasien lansia, pemilihan obat antikejang perlu mempertimbangkan fungsi kognitif, interaksi obat, dan komorbid. PNPK epilepsi dewasa mencantumkan levetirasetam, lamotrigin, dan valproat sebagai opsi yang direkomendasikan pada lansia. Fenitoin dan fenobarbital kurang disukai karena risiko gangguan kognitif, sedasi, interaksi, dan efek samping lain. Levetirasetam perlu penyesuaian / pertimbangan khusus pada gangguan ginjal berat.<br><br><b>Referensi:</b><br>Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/274/2026 tentang PNPK Tata Laksana Epilepsi pada Dewasa`,
 expImg:``
 },
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang laki-laki usia 55 tahun dengan diabetes melitus datang ke <i>Apotek Nitro Farma</i> dengan keluhan nyeri seperti terbakar, kesemutan, dan tersetrum pada kedua telapak kaki sejak 6 bulan. Nyeri memberat malam hari, ada allodynia saat kaki tersentuh selimut, dan skor nyeri 7/10. Tidak ditemukan tanda radang sendi akut. Pasien juga memiliki BPH sehingga dokter ingin menghindari obat dengan efek antikolinergik kuat. Terapi farmakologis awal yang paling rasional adalah ...`,
+question:`Seorang laki-laki usia 55 tahun dengan diabetes melitus datang ke <i>Apotek Nitro Farma</i> dengan keluhan nyeri seperti terbakar, kesemutan, dan tersetrum pada kedua telapak kaki sejak 6 bulan. Nyeri memberat malam hari, ada allodynia saat kaki tersentuh selimut, dan skor nyeri 7/10. Tidak ditemukan tanda radang sendi akut. Pasien juga memiliki BPH sehingga dokter ingin menghindari obat dengan efek antikolinergik kuat. Terapi farmakologis awal yang paling rasional adalah`,
 img:``,
 options:["A. Duloksetin","B. Parasetamol tunggal","C. Ketorolak injeksi selama 5 hari","D. Morfin sebagai terapi lini pertama","E. Haloperidol"],
 answer: `A. Duloksetin`,
@@ -1982,7 +1982,7 @@ expImg:``
 {
 category:`Saraf`,
 level:`Hard`,
-question:`Seorang perempuan usia 32 tahun datang dengan nyeri kepala berdenyut unilateral selama 8 jam, intensitas sedang-berat, memberat saat naik tangga, disertai mual, fotofobia, dan fonofobia. Pasien mengalami serangan serupa 3–4 kali per bulan. Tidak ada defisit neurologis fokal, tidak hamil, dan tidak memiliki riwayat penyakit jantung koroner. Pada serangan sebelumnya, ibuprofen tunggal tidak cukup membantu. Dokter meminta rekomendasi terapi akut untuk serangan saat ini.<br><br>Regimen manakah yang paling tepat?`,
+question:`Seorang perempuan usia 32 tahun datang dengan nyeri kepala berdenyut unilateral selama 8 jam, intensitas sedang-berat, memberat saat naik tangga, disertai mual, fotofobia, dan fonofobia. Pasien mengalami serangan serupa 3–4 kali per bulan. Tidak ada defisit neurologis fokal, tidak hamil, dan tidak memiliki riwayat penyakit jantung koroner. Pada serangan sebelumnya, ibuprofen tunggal tidak cukup membantu. Dokter meminta rekomendasi terapi akut untuk serangan saat ini. Regimen manakah yang paling tepat?`,
 img:``,
 options:["A. Triptan oral dikombinasikan dengan NSAID, ditambah antiemetik bila mual","B. Opioid kuat sebagai pilihan utama serangan migrain akut","C. Betahistin sebagai terapi utama migrain","D. Amitriptilin hanya diminum saat serangan migrain akut","E. Fenitoin IV"],
 answer: `A. Triptan oral dikombinasikan dengan NSAID, ditambah antiemetik bila mual`,
@@ -1990,9 +1990,9 @@ explanation:`Klinis pasien konsisten dengan migrain: nyeri unilateral berdenyut,
 expImg:``
 },
 {
-category:`Nutrisi Klinik: Total Parenteral Nutrition dan ObesitasB158:D167`,
+category:`Nutrisi Klinik: Total Parenteral Nutrition dan Obesitas`,
 level:`Hard`,
-question:`Seorang perempuan usia 46 tahun datang dengan keluhan vertigo berputar singkat selama 20–40 detik setiap kali menoleh di tempat tidur atau menunduk mengambil barang. Tidak ada tinnitus, gangguan pendengaran, kelemahan anggota gerak, diplopia, disartria, atau nyeri kepala hebat mendadak. Pemeriksaan Dix-Hallpike memicu vertigo dan nistagmus torsional yang cepat hilang. Dokter meminta intervensi paling tepat untuk terapi definitif kondisi ini.<br><br>Intervensi manakah yang paling tepat?`,
+question:`Seorang perempuan usia 46 tahun datang dengan keluhan vertigo berputar singkat selama 20–40 detik setiap kali menoleh di tempat tidur atau menunduk mengambil barang. Tidak ada tinnitus, gangguan pendengaran, kelemahan anggota gerak, diplopia, disartria, atau nyeri kepala hebat mendadak. Pemeriksaan Dix-Hallpike memicu vertigo dan nistagmus torsional yang cepat hilang. Dokter meminta intervensi paling tepat untuk terapi definitif kondisi ini. Intervensi manakah yang paling tepat?`,
 img:``,
 options:["A. Manuver Epley","B. Betahistin jangka panjang sebagai terapi definitif utama","C. Lorazepam IV","D. Sumatriptan oral","E. Fenitoin IV"],
 answer: `A. Manuver Epley`,
