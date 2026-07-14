@@ -582,17 +582,17 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Analis QC di industri obat hewan PT. Nitro Pharmaceutical, akan melakukan penetapan kadar pirimetamin dalam sediaan veteriner menggunakan metode titrasi. Berdasarkan struktur kimianya, pirimetamin memiliki gugus amina aromatik primer yang dapat bereaksi dengan natrium nitrit dalam suasana asam. Metode titrasi apakah yang sesuai untuk pengujian tersebut?`,
+question:`<p>Analis QC di industri obat hewan PT Nitro Pharmaceutical akan melakukan penetapan kadar pirimetamin dalam sediaan veteriner menggunakan metode titrasi. Berdasarkan struktur kimianya, pirimetamin memiliki gugus amina aromatik primer yang dapat bereaksi dengan natrium nitrit dalam suasana asam. Apakah metode titrasi yang sesuai untuk pengujian tersebut?</p>`,
 img:``,
 options:["A. Argentometri","B. Iodometri","C. Nitrimetri","D. Kompleksometri","E. Nitrimetri"],
 answer: `E. Nitrimetri`,
-explanation:`<p><img src="assets/3J5TO1.png"></img></p><p>Prinsip nitrimetri yaitu <span style="background-color: #ffff00;">reaksi diazotasi</span> terbentuknya garam diazonium oleh reaksi senyawa amin primer aromatis atau alifatik dengan asam nitrit dalam <span style="background-color: #ffff00;">lingkungan asam</span> pada suhu rendah atau didinginkan. Karena asam nitrit tidak stabil, maka digunakan <span style="background-color: #ffff00;">garamnya NaNO<sub>2</sub></span> (Khopar, 1990).</p><p> </p><p><strong>Referensi:</strong></p><p>Khophar. 1990. Konsep Dasar Kimia Analitik. Universitas Indonesia, Jakarta.</p>`,
+explanation:`<p><img src="assets/3J5TO1.png"></img></p><p>Prinsip nitrimetri yaitu reaksi diazotasi terbentuknya garam diazonium oleh reaksi senyawa amin primer aromatis atau alifatik dengan asam nitrit dalam lingkungan asam pada suhu rendah atau didinginkan. Karena asam nitrit tidak stabil, maka digunakan garamnya NaNO<sub>2</sub> (Khopar, 1990).</p><p><strong>Referensi:<br /></strong>Khophar. 1990. Konsep Dasar Kimia Analitik. Universitas Indonesia, Jakarta.</p>`,
 expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`Manajer QC PT. Nitro Farma, Tbk., sedang melakukan validasi metode KCKT untuk analisis campuran dua senyawa dalam sediaan tablet. Hasil kromatogram menunjukkan dua puncak analit memiliki resolusi yang rendah sehingga kedua puncak tampak saling berdempet. Apakah tindakan yang paling sesuai untuk meningkatkan pemisahan kedua senyawa tersebut?`,
+question:`<p>Manajer QC PT Nitro Pharmaceutical sedang melakukan validasi metode KCKT untuk analisis campuran dua senyawa dalam sediaan tablet. Hasil kromatogram menunjukkan dua puncak analit memiliki resolusi yang rendah sehingga kedua puncak tampak saling berdempet. Apakah tindakan yang paling sesuai untuk meningkatkan pemisahan kedua senyawa tersebut?</p>`,
 img:``,
 options:["A. Membersihkan kolom sebelum digunakan kembali","B. Mengencerkan larutan sampel","C. Mengganti jenis fase diam","D. Menurunkan laju alir dan volume injeksi","E. Menurunkan pH fase gerak"],
 answer: `D. Menurunkan laju alir dan volume injeksi`,
@@ -602,17 +602,17 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Easy`,
-question:`<p><img src="assets/5S5TO1.png"></img></p><p>Analis QC mikrobiologi PT. Nitro Pharmaceutical, melakukan identifikasi <em>Pseudomonas aeruginosa</em>menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media. Media apakah yang digunakan untuk pertumbuhan bakteri tersebut?</p>`,
+question:`<p><img src="assets/5S5TO1.png"></img></p><p>Analis QC mikrobiologi industri farmasi PT Nitro Pharmaceutical melakukan identifikasi <em>Pseudomonas aeruginosa </em>menggunakan media selektif tertentu. Setelah inkubasi, tampak koloni dengan pigmen kehijauan disertai fluoresensi putih pada permukaan media.  Apakah media yang digunakan untuk pertumbuhan bakteri tersebut?</p>`,
 img:``,
 options:["A. <i>Cetrimide agar</i>","B. <i>Eosin methylene blue agar</i>","C. <i>Mannitol salt agar</i>","D. <i>Mueller Hinton agar</i>","E. <i>Xylose lysine deoxycholate agar</i>"],
 answer: `A. <i>Cetrimide agar</i>`,
-explanation:`<p>Cetrimide Agar merupakan media selektif sekaligus diferensial yang digunakan untuk mengisolasi dan mengidentifikasi Pseudomonas aeruginosa dari berbagai spesimen, baik yang berasal dari sumber klinis maupun nonklinis. Selektivitas media ini berasal dari kandungan cetrimide (cetyltrimethylammonium bromide), yaitu deterjen kationik golongan amonium kuarterner yang mampu menghambat pertumbuhan sebagian besar bakteri selain P. aeruginosa. Media ini juga dikenal dengan nama Pseudomonas Cetrimide Agar atau Pseudosel Agar.</p><p><strong>Referensi:</strong></p><p>Aryal, S., 2022. Cetrimide Agar: Composition, Principle, Uses, Preparation and Colony Morphology. Microbiology Info. Available at: https://microbiologyinfo.com/cetrimide-agar-composition-principle-uses-preparation-and-colony-morphology/ [Accessed 4 July 2026].</p>`,
+explanation:`<p>Cetrimide Agar merupakan media selektif sekaligus diferensial yang digunakan untuk mengisolasi dan mengidentifikasi <em>Pseudomonas aeruginosa</em> dari berbagai spesimen, baik yang berasal dari sumber klinis maupun nonklinis. Selektivitas media ini berasal dari kandungan cetrimide (<em>cetyltrimethylammonium bromide</em>), yaitu deterjen kationik golongan amonium kuarterner yang mampu menghambat pertumbuhan sebagian besar bakteri selain <em>P. aeruginosa</em>. Media ini juga dikenal dengan nama <strong>Pseudomonas Cetrimide Agar</strong> atau <strong>Pseudosel Agar</strong>.</p><p><strong>Referensi:<br /></strong>Aryal, S., 2022. Cetrimide Agar: Composition, Principle, Uses, Preparation and Colony Morphology. Microbiology Info. Available at: https://microbiologyinfo.com/cetrimide-agar-composition-principle-uses-preparation-and-colony-morphology/ [Accessed 4 July 2026].</p>`,
 expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan penetapan kadar dequalinium klorida menggunakan metode argentometri. Sebanyak 300,0 mg sampel dilarutkan dalam air bebas klorida dan dititrasi menggunakan AgNO₃ 0,1 N. Volume titran yang digunakan adalah 11,25 mL. Diketahui bobot ekivalen dequalinium klorida adalah 263,79 mg/meq dan persyaratan kadar menurut farmakope adalah 98,0–102,0%. Apakah kesimpulan hasil pengujian tersebut?`,
+question:`<p>Seorang analis QC di industri farmasi PT Nitro Pharmaceutical melakukan penetapan kadar dequalinium klorida menggunakan metode argentometri. Sebanyak 300,0 mg sampel dilarutkan dalam air bebas klorida dan dititrasi menggunakan AgNO₃ 0,1 N. Volume titran yang digunakan adalah 11,25 mL. Diketahui bobot ekivalen dequalinium klorida adalah 263,79 mg/meq dan persyaratan kadar menurut farmakope adalah 98,0–102,0%. Apakah kesimpulan hasil pengujian tersebut?</p>`,
 img:``,
 options:["A. Memenuhi syarat dengan kadar 98,92%","B. Memenuhi syarat dengan kadar 99,93%","C. Memenuhi syarat dengan kadar 100,14%","D. Tidak memenuhi syarat dengan kadar 95,67%","E. Tidak memenuhi syarat dengan kadar 97,79%"],
 answer: `A. Memenuhi syarat dengan kadar 98,92%`,
@@ -622,7 +622,7 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Analis di laboratorium obat BBPOM Bandung melakukan penetapan kadar amoksisilin dalam tablet menggunakan metode nitrimetri. Sampel sebanyak 250 mg dititrasi menggunakan NaNO₂ 0,109 N dalam suasana asam. Diketahui setiap 1 mL NaNO₂ 0,1 N setara dengan 33,4 mg amoksisilin. Volume titran yang digunakan adalah 6,0 mL. Berapakah kadar amoksisilin dalam sampel tersebut?`,
+question:`<p>Seorang apoteker analis di laboratorium obat BBPOM melakukan penetapan kadar amoksisilin dalam tablet menggunakan metode nitrimetri. Sampel sebanyak 250 mg dititrasi menggunakan NaNO₂ 0,109 N dalam suasana asam. Diketahui setiap 1 mL NaNO₂ 0,1 N setara dengan 33,4 mg amoksisilin. Volume titran yang digunakan adalah 6,0 mL. Berapakah kadar amoksisilin dalam sampel tersebut?</p>`,
 img:``,
 options:["A. 60,16%","B. 70,08%","C. 87,37%","D. 90,24%","E. 100,08%"],
 answer: `C. 87,37%`,
@@ -632,7 +632,7 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan kadar kalium diklofenak menggunakan titrasi nonair. Sebelum analisis, dilakukan pembakuan asam perklorat dan diperoleh konsentrasi 0,0992 N. Sampel ditimbang sebanyak 300 mg dan dititrasi dalam pelarut asam asetat glasial. Volume titrasi rata-rata adalah 8,98 mL dengan volume blanko 0,12 mL. Diketahui setiap 1 mL asam perklorat 0,1 N setara dengan 33,424 mg kalium diklofenak. Berapakah kadar kalium diklofenak dalam sampel tersebut?`,
+question:`<p>Analis QC di industri farmasi PT Nitro Pharmaceutical melakukan penetapan kadar kalium diklofenak menggunakan titrasi non-air. Sebelum analisis, dilakukan pembakuan asam perklorat dan diperoleh konsentrasi 0,0992 N. Sampel ditimbang sebanyak 300 mg dan dititrasi dalam pelarut asam asetat glasial. Volume titrasi rata-rata adalah 8,98 mL dengan volume blanko 0,12 mL. Diketahui setiap 1 mL asam perklorat 0,1 N setara dengan 33,424 mg kalium diklofenak. Berapakah kadar kalium diklofenak dalam sampel tersebut?</p>`,
 img:``,
 options:["A. 50,72%","B. 66,64%","C. 78,32%","D. 87,64%","E. 97,92%"],
 answer: `E. 97,92%`,
@@ -642,7 +642,7 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`Analis QC di industri farmasi PT. Nitro Farma, Tbk.,  melakukan penetapan kadar bahan baku asetosal sesuai metode Farmakope Indonesia edisi VI menggunakan titrasi alkalimetri balik. Sampel sebanyak 500 mg direaksikan dengan 20,0 mL NaOH 0,5 N dan dipanaskan selama 10 menit. Setelah ditambahkan indikator fenolftalein, kelebihan NaOH dititrasi menggunakan H₂SO₄ 0,5 N dan memerlukan volume 11,1 mL. Diketahui setiap 1 mL NaOH 0,5 N setara dengan 45,04 mg asetosal. Berapakah kadar asetosal dalam sampel tersebut?`,
+question:`<p>Analis QC di industri farmasi PT Nitro Pharmaceutical melakukan penetapan kadar bahan baku asetosal sesuai metode Farmakope Indonesia edisi VI menggunakan titrasi alkalimetri balik. Sampel sebanyak 500 mg direaksikan dengan 20,0 mL NaOH 0,5 N dan dipanaskan selama 10 menit. Setelah ditambahkan indikator fenolftalein, kelebihan NaOH dititrasi menggunakan H₂SO₄ 0,5 N dan memerlukan volume 11,1 mL. Diketahui setiap 1 mL NaOH 0,5 N setara dengan 45,04 mg asetosal. Berapakah kadar asetosal dalam sampel tersebut?</p>`,
 img:``,
 options:["A. 60,44%","B. 72,31%","C. 80,17%","D. 84,26%","E. 90,16%"],
 answer: `C. 80,17%`,
@@ -652,7 +652,7 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`<p>Analis QC mikrobiologi di industri obat tradisional PT. Nitro Pharmaceutical, melakukan pengujian angka kapang khamir (AKK) terhadap kapsul ekstrak <em>Ginkgo biloba</em>. Hasil pengamatan jumlah koloni diperoleh sebagai berikut:</p><p><img src="assets/2S5TO2.png"></img></p><p>Persyaratan AKK untuk sediaan tersebut adalah tidak lebih dari 10<sup>5</sup> CFU/g. Apakah kesimpulan hasil pengujian tersebut?</p>`,
+question:`<p>Analis QC mikrobiologi di industri obat tradisionalPT Nitro Pharmaceutical melakukan pengujian angka kapang khamir (AKK) terhadap kapsul ekstrak <em>ginkgo biloba</em>. Hasil pengamatan jumlah koloni diperoleh sebagai berikut:</p><p><img src="assets/2S5TO2.png"></img></p><p>Persyaratan AKK untuk sediaan tersebut adalah tidak lebih dari 10<sup>5</sup> CFU/g. Apakah kesimpulan hasil pengujian tersebut?</p>`,
 img:``,
 options:["A. Memenuhi syarat dengan nilai 9,9 × 10<sup>⁴</sup> CFU/g","B. Memenuhi syarat dengan nilai 6,8 × 10<sup>⁵</sup> CFU/g","C. Memenuhi syarat dengan nilai 4,4 × 10<sup>⁶</sup> CFU/g","D. Tidak memenuhi syarat dengan nilai 2,38 × 10<sup>³</sup> CFU/g","E. Tidak memenuhi syarat dengan nilai 1,475 × 10<sup>⁴</sup> CFU/g"],
 answer: `C. Memenuhi syarat dengan nilai 4,4 × 10<sup>⁶</sup> CFU/g`,
@@ -662,17 +662,17 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`<p>Apoteker bagian RnD PT. Nitro Pharmaceutical, melakukan validasi metode KCKT untuk analisis campuran amoksisilin, levofloksasin, lansoprazol, dan parasetamol menggunakan kolom C-18 dengan fase gerak metanol:amonium asetat (70:30). Berdasarkan sifat kepolaran senyawa, diperoleh lima puncak kromatogram dengan urutan waktu retensi berbeda. <br /><img src="assets/3S5TO2.png"></img><br />Puncak manakah yang paling mungkin menunjukkan levofloksasin?</p>`,
+question:`<p>Apoteker bagian RnD PT. Nitro Pharmaceutical, melakukan validasi metode KCKT untuk analisis campuran amoksisilin, levofloksasin, lansoprazol, dan parasetamol menggunakan kolom C-18 dengan fase gerak metanol:amonium asetat (70:30). Berdasarkan sifat kepolaran senyawa, diperoleh lima puncak kromatogram dengan urutan waktu retensi berbeda. <img src="assets/3S5TO2.png"></img>Puncak manakah yang paling mungkin menunjukkan levofloksasin?</p>`,
 img:``,
 options:["A. Puncak A","B. Puncak B","C. Puncak C","D. Puncak D","E. Puncak E"],
 answer: `E. Puncak E`,
-explanation:`<p>Fase gerak yang digunakan adalah metanol:amonium asetat (70:30), fase gerak yang bersifat polar. Sedangkan fase diam yang digunakan adalah kolom C-18, merupakan kolom yang bersifat nonpolar. Maka senyawa yang akan terelusi terlebih dahulu adalah senyawa yang bersifat polar yang kemudiaan diikuti oleh senyawa yang Tingkat polaritas nya lebih rendah.<br /><img src="assets/3J5TO2.png"></img><br />Dapat terlihat bahwa urutan polaritas senyawa dilihat dari atom penyusunnya yang memiliki pasangan elektron bebas (PEB) adalah sebagai berikut:</p><p><strong>Polar -&gt; sedikit kurang polar</strong>;</p><p>Amoxicilin -> Paracetamol -> Lansoprazole -> Levofloxacin. Sehingga senyawa Levofloxacin dapat ditunjukkan oleh Puncak E. </p>`,
+explanation:`<p>Fase gerak yang digunakan adalah metanol:amonium asetat (70:30), fase gerak yang bersifat polar. Sedangkan fase diam yang digunakan adalah kolom C-18, merupakan kolom yang bersifat nonpolar. Maka senyawa yang akan terelusi terlebih dahulu adalah senyawa yang bersifat polar yang kemudiaan diikuti oleh senyawa yang Tingkat polaritas nya lebih rendah.</p> <br /><img src="assets/3J5TO2.png"></img><br />Dapat terlihat bahwa urutan polaritas senyawa dilihat dari atom penyusunnya yang memiliki pasangan elektron bebas (PEB) adalah sebagai berikut:</p><p><strong>Polar -&gt; sedikit kurang polar</strong>;</p><p>Amoxicilin -> Paracetamol -> Lansoprazole -> Levofloxacin. Sehingga senyawa Levofloxacin dapat ditunjukkan oleh Puncak E. </p>`,
 expImg:``
 },
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`<p>Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan analisis campuran NaCl dan Na₂SO₄ menggunakan metode gravimetri pengendapan dengan AgNO₃. Sebanyak 0,953 g sampel menghasilkan endapan AgCl sebanyak 0,7033 g. Diketahui Ar Na = 23, Ag = 108, Cl = 35,5. Berapakah kadar NaCl dalam campuran tersebut?</p>`,
+question:`<p>Analis QC di industri farmasi PT Nitro Pharmaceutical melakukan analisis campuran NaCl dan Na₂SO₄ menggunakan metode gravimetri pengendapan dengan AgNO₃. Sebanyak 0,953 g sampel menghasilkan endapan AgCl sebanyak 0,7033 g. Diketahui Ar Na = 23, Ag = 108, Cl = 35,5. Berapakah kadar NaCl dalam campuran tersebut?</p>`,
 img:``,
 options:["A. 30,029%","B. 31,043%","C. 32,035%","D. 33,067%","E. 34,017%"],
 answer: `A. 30,029%`,
@@ -682,7 +682,7 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Medium`,
-question:`<p>Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan pengujian rotasi optis larutan cefixime trihydrate menggunakan polarimeter. Diketahui rotasi jenis larutan adalah 0,73<sup>o</sup>, panjang tabung pengamatan 75 cm, dan konsentrasi larutan 0,87 g/mL. Berapakah rotasi optis yang terukur?</p>`,
+question:`<p>Analis QC di industri farmasi PT Nitro Pharmaceutical melakukan pengujian rotasi optis larutan cefixime trihydrate menggunakan polarimeter. Diketahui rotasi jenis larutan adalah +0,73, panjang tabung pengamatan 75 cm, dan konsentrasi larutan 0,87 g/mL. Berapakah rotasi optis yang terukur?</p>`,
 img:``,
 options:["A. 3,251","B. 4,763","C. 0,565","D. 5,679","E. 0,793"],
 answer: `E. 4,763`,
@@ -692,7 +692,7 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Hard`,
-question:`Analis QC di industri farmasi PT. Nitro Pharmaceutical, melakukan penetapan kadar tablet Metformin menggunakan KCKT. Kurva baku menghasilkan persamaan regresi y = 21,375x − 782. Sampel dibuat dari serbuk tablet setara 850 mg Metformin yang dilarutkan dalam 250 mL pelarut kemudian diencerkan 50 kali. Hasil pengukuran memberikan nilai AUC sebesar 765. Berapakah kadar Metformin dalam tablet tersebut?`,
+question:`<p>Analis QC di industri farmasi PT Nitro Pharmaceutical melakukan penetapan kadar tablet metformin menggunakan KCKT. Kurva baku menghasilkan persamaan regresi y = 21,375x − 782. Sampel dibuat dari serbuk tablet setara 850 mg metformin yang dilarutkan dalam 250 mL pelarut kemudian diencerkan 50 kali. Hasil pengukuran memberikan nilai AUC sebesar 765. Berapakah kadar metformin dalam tablet tersebut?</p>`,
 img:``,
 options:["A. 90,01%","B. 93,42%","C. 96,78%","D. 99,51%","E. 106,63%"],
 answer: `E. 106,63%`,
@@ -712,7 +712,7 @@ expImg:``
 {
 category:`Farmakokimia dan Mikrobiologi`,
 level:`Hard`,
-question:`<p>Analis QC di industri farmasi PT. Nitro Farma, Tbk., melakukan penetapan potensi rifapentin menggunakan metode difusi agar dengan mikroorganisme <em>Staphylococcus aureus</em> (ATCC 29213). Diameter hambat rata-rata sampel adalah 17,391 mm. Konsentrasi dosis tengah baku yang digunakan adalah 1 µg/mL dan diperoleh persamaan regresi y = −284,27x + 17,165, dengan x merupakan ln dosis dan y diameter hambat. Berapakah potensi rifapentin dalam sampel tersebut?</p>`,
+question:`<p>Analis QC di industri farmasi PT Nitro Pharmaceutical melakukan penetapan potensi rifapentin menggunakan metode difusi agar dengan mikroorganisme <em>Staphylococcus aureus</em> (ATCC 29213). Diameter hambat rata-rata sampel adalah 17,391 mm. Konsentrasi dosis tengah baku yang digunakan adalah 1 µg/mL dan diperoleh persamaan regresi y = −284,27x + 17,165, dengan x merupakan ln dosis dan y diameter hambat. Berapakah potensi rifapentin dalam sampel tersebut?</p>`,
 img:``,
 options:["A. 79,14%","B. 88,54%","C. 99,92%","D. 100,27%","E. 106,63%"],
 answer: `C. 99,92%`,
@@ -882,41 +882,41 @@ expImg:``
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Seorang apoteker di bagian QA menerima laporan OOS (Out of Specification) pada parameter waktu hancur tablet parasetamol yang diproduksi dengan metode granulasi basah. Hasil pengujian menunjukkan waktu hancur tablet melebihi spesifikasi, sementara hasil uji kadar, keseragaman bobot, friabilitas, dan kekerasan masih memenuhi persyaratan. Tim investigasi melakukan penelusuran terhadap formula dan menemukan bahwa pada batch tersebut terjadi perubahan penggunaan salah satu eksipien dari 0,5% menjadi 3%. Eksipien tersebut berfungsi sebagai lubrikan dan diketahui memiliki sifat hidrofobik. Apakah penyebab yang paling mungkin menyebabkan waktu hancur tablet menjadi lebih lama?`,
+question:`<p>Seorang apoteker di bagian QA menerima laporan OOS (<em>Out of Specification)</em> pada parameter waktu hancur tablet parasetamol yang diproduksi dengan metode granulasi basah. Hasil pengujian menunjukkan waktu hancur tablet melebihi spesifikasi, sementara hasil uji kadar, keseragaman bobot, friabilitas, dan kekerasan masih memenuhi persyaratan. Tim investigasi melakukan penelusuran terhadap formula dan menemukan bahwa pada batch tersebut terjadi perubahan penggunaan salah satu eksipien dari 0,5% menjadi 3%. Eksipien tersebut berfungsi sebagai lubrikan dan diketahui memiliki sifat hidrofobik. Apakah penyebab yang paling mungkin menyebabkan waktu hancur tablet menjadi lebih lama?</p>`,
 img:``,
 options:["A. Magnesium stearat meningkatkan porositas tablet sehingga penetrasi air menjadi lebih lambat.","B. Magnesium stearat yang berlebihan membentuk lapisan hidrofobik pada permukaan granul sehingga menghambat pembasahan dan penetrasi cairan ke dalam tablet.","C. Magnesium stearat meningkatkan daya ikat granul sehingga tablet menjadi lebih keras meskipun hasil uji kekerasan masih memenuhi spesifikasi.","D. Magnesium stearat bereaksi dengan parasetamol membentuk kompleks yang tidak larut sehingga memperpanjang waktu hancur.","E. Magnesium stearat meningkatkan kadar air residu granul sehingga tablet menjadi lebih sulit terdisintegrasi."],
 answer: `B. Magnesium stearat yang berlebihan membentuk lapisan hidrofobik pada permukaan granul sehingga menghambat pembasahan dan penetrasi cairan ke dalam tablet.`,
-explanation:`Penyebab yang paling mungkin adalah penggunaan magnesium stearat yang berlebihan sehingga membentuk lapisan hidrofobik pada permukaan granul. Magnesium stearat merupakan eksipien yang berfungsi sebagai lubrikan untuk mengurangi gesekan selama proses pencetakan tablet. Dalam konsentrasi normal, magnesium stearat membantu proses manufaktur tanpa memengaruhi mutu tablet secara signifikan. Namun, peningkatan konsentrasi dari 0,5% menjadi 3% dapat menyebabkan fenomena overlubrication, yaitu partikel magnesium stearat melapisi permukaan granul dan eksipien lain secara berlebihan.<br/>Lapisan hidrofobik tersebut menghambat proses pembasahan (wetting) dan penetrasi medium uji ke dalam pori-pori tablet. Akibatnya, disintegran tidak dapat bekerja secara optimal untuk memecah tablet menjadi partikel-partikel yang lebih kecil. Kondisi ini menyebabkan waktu hancur tablet menjadi lebih lama meskipun parameter lain seperti kadar, keseragaman bobot, friabilitas, dan kekerasan masih memenuhi spesifikasi. Oleh karena itu, akar masalah pada kasus ini bukan berasal dari gaya kompresi atau kadar zat aktif, melainkan dari perubahan konsentrasi eksipien lubrikan yang memengaruhi sifat permukaan tablet.<br/>Menurut Handbook of Pharmaceutical Excipients, magnesium stearat merupakan lubrikan hidrofobik yang pada penggunaan berlebih dapat memperlambat disintegrasi dan disolusi tablet. Selain itu, penelitian yang dipublikasikan dalam AAPS PharmSciTech menunjukkan bahwa peningkatan konsentrasi magnesium stearat dapat meningkatkan sifat hidrofobik granul sehingga menghambat penetrasi air ke dalam tablet dan memperpanjang waktu hancur. Oleh karena itu, jawaban yang paling tepat adalah B, karena mekanisme tersebut paling sesuai dengan data investigasi yang diberikan pada soal.<br/><b>Referensi:</b><br>Handbook of Pharmaceutical Excipients (Rowe et al.)<br/>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines<br/>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems`,
+explanation:`<p>Penyebab yang paling mungkin adalah penggunaan m<strong>agnesium stearat</strong> yang <span style="color: #ff6600;">berlebihan</span> sehingga membentuk lapisan <strong>hidrofobik</strong> pada permukaan granul. Magnesium stearat merupakan eksipien yang berfungsi sebagai <strong>lubrikan</strong> untuk mengurangi gesekan selama proses pencetakan tablet. Dalam konsentrasi normal, magnesium stearat membantu proses manufaktur tanpa memengaruhi mutu tablet secara signifikan. Namun, peningkatan konsentrasi dari 0,5% menjadi 3% dapat menyebabkan fenomena overlubrication, yaitu partikel magnesium stearat<span style="color: #0000ff;"> melapisi permukaan granul dan eksipien lain</span> secara berlebihan.</p><p><br />Lapisan hidrofobik tersebut<strong> menghambat proses pembasahan (<em>wetting</em>)</strong> dan <strong>penetrasi</strong> medium uji ke dalam pori-pori tablet. Akibatnya, disintegran tidak dapat bekerja secara optimal untuk memecah tablet menjadi partikel-partikel yang lebih kecil. Kondisi ini menyebabkan waktu hancur tablet menjadi lebih lama meskipun parameter lain seperti kadar, keseragaman bobot, friabilitas, dan kekerasan masih memenuhi spesifikasi. Oleh karena itu, akar masalah pada kasus ini bukan berasal dari gaya kompresi atau kadar zat aktif, melainkan dari perubahan konsentrasi eksipien lubrikan yang memengaruhi sifat permukaan tablet.</p><p><br />Menurut <strong>Handbook of Pharmaceutical Excipients</strong>, magnesium stearat merupakan lubrikan hidrofobik yang pada penggunaan berlebih dapat memperlambat disintegrasi dan disolusi tablet. Selain itu, penelitian yang dipublikasikan dalam <strong>AAPS PharmSciTech</strong> menunjukkan bahwa peningkatan konsentrasi magnesium stearat dapat meningkatkan sifat hidrofobik granul sehingga menghambat penetrasi air ke dalam tablet dan memperpanjang waktu hancur. Oleh karena itu, jawaban yang paling tepat adalah B, karena mekanisme tersebut paling sesuai dengan data investigasi yang diberikan pada soal.</p><p><br /><strong>Referensi:</strong></p><ol><li>Handbook of Pharmaceutical Excipients (Rowe et al.)</li><li>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</li><li>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems</li></ol>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Seorang Apoteker di bagian pengawasan mutu (QC) sebuah industri farmasi sedang melakukan pengujian kerapuhan terhadap tablet x. Bobot awal dari 20 tablet yang ditimbang adalah 6,50 g. Setelah dilakukan pengujian, tablet dibersihkan dari debu lalu ditimbang kembali menghasilkan bobot 6,44 g. Apakah kesimpulan yang tepat terhadap hasil uji tablet tersebut? `,
+question:`<p>Seorang Apoteker di bagian pengawasan mutu (QC) sebuah industri farmasi sedang melakukan pengujian kerapuhan terhadap tablet X. Bobot awal dari 20 tablet yang ditimbang adalah 6,50 g. Setelah dilakukan pengujian, tablet dibersihkan dari debu lalu ditimbang kembali menghasilkan bobot 6,44 g. Apakah kesimpulan yang tepat terhadap hasil uji tablet tersebut?</p>`,
 img:``,
 options:["A. Memenui syarat","B. Tidak memenuhi syarat","C. Perlu Pengujian ulang","D. Tablet harus di reformulasi","E. Tablet harus uji disintegrasi ulang"],
 answer: `A. Memenuhi syarat`,
-explanation:`Perhitungan : <img src="assets/01M7.png"></img>Batas kehilangan bobot pada uji friabilitas adalah ≤1%, sehingga tablet memenuhi persyaratan.<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji kerapuhan tablet`,
+explanation:`Perhitungan : <img src="assets/01M7.png"></img><p>Batas kehilangan bobot pada uji friabilitas adalah ≤1%, sehingga tablet memenuhi persyaratan.</p><p><br /><strong>Referensi:</strong><br />Farmakope Indonesia Edisi VI – Uji kerapuhan tablet</p>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Seorang Apoteker di bagian pengawasan mutu sebuah industri farmasi sedang melakukan evaluasi terhadap hasil uji disolusi  dari sediaan tablet parasetamol menggunakan alat tipe 2 (paddle). Dokumen spesifikasi produk menetapkan nilai penerimaan (Q) = 75% dalam waktu 45 menit. Hasil persentase pelepasan zat aktif dari 6 tablet yang diuji berturut-turut adalah 88%, 80%, 85%, 89%, 86%, dan 82%. Apakah kesimpulan yang tepat terhadap hasil pengujian tersebut? `,
+question:`<p>Seorang Apoteker di bagian pengawasan mutu sebuah industri farmasi sedang melakukan evaluasi terhadap hasil uji disolusi dari sediaan tablet parasetamol menggunakan alat tipe 2 (<em>paddle</em>). Dokumen spesifikasi produk menetapkan nilai penerimaan (Q) = 75% dalam waktu 45 menit. Hasil persentase pelepasan zat aktif dari 6 tablet yang diuji berturut-turut adalah 88%, 80%, 85%, 89%, 86%, dan 82%. Apakah kesimpulan yang tepat terhadap hasil pengujian tersebut?</p>`,
 img:``,
 options:["A. Memenuhi syarat tahap S1","B. Memenuhi syarat tahap S2","C. Tidak memenuhi syarat","D. Harus dilakukan pengujian ulang","E. Dilakukan re-formulasi"],
 answer: `A. Memenuhi syarat tahap S1`,
-explanation:`Pada soal di sebutkan 6 tablet artinya untuk pengujian tahap 1, dan interpretasi untuk pengujian disolusi berdasarkan Farmakope VI yaitu :<img src="assets/02M7.png"></img>sehingga hasil pengujian memenuhi syarat pada tahap 1 karena Q+5 diatas 80%<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Disolusi halaman 2117`,
+explanation:`<p>Pada soal di sebutkan 6 tablet artinya untuk pengujian tahap 1, dan interpretasi untuk pengujian disolusi berdasarkan Farmakope VI yaitu:</p><img src="assets/02M7.png"></img><p>sehingga hasil pengujian memenuhi syarat pada tahap 1 karena Q+5 diatas 80%.</p><p><br /><strong>Referensi:</strong><br />Farmakope Indonesia Edisi VI – Uji Disolusi halaman 2117</p>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Apoteker di bagian Penelitian dan Pengembangan (R&D) suatu industri farmasi sedang melakukan optimasi formula tablet salut selaput yang diproduksi dengan metode kempa langsung. Pada bets percobaan pertama, formula menggunakan amilum sebagai bahan penghancur. Hasil evaluasi menunjukkan tablet mengalami capping dan memiliki waktu hancur yang melebihi spesifikasi. Setelah dilakukan investigasi, diketahui bahwa bahan penghancur yang digunakan kurang mampu menghasilkan gaya pengembangan yang cukup untuk mempercepat disintegrasi tablet. Untuk memperbaiki formula, apoteker memutuskan mengganti amilum dengan superdisintegrant yang bekerja melalui mekanisme penyerapan air dan pengembangan yang sangat cepat tanpa membentuk lapisan gel yang dapat menghambat penetrasi cairan ke dalam tablet. Eksipien manakah yang tepat untuk dipilih?`,
+question:`<p>Apoteker di bagian Penelitian dan Pengembangan (R&amp;D) suatu industri farmasi sedang melakukan optimasi formula tablet salut selaput yang diproduksi dengan metode kempa langsung. Pada bets percobaan pertama, formula menggunakan amilum sebagai bahan penghancur. Hasil evaluasi menunjukkan tablet mengalami <em>capping</em> dan memiliki waktu hancur yang melebihi spesifikasi. Setelah dilakukan investigasi, diketahui bahwa bahan penghancur yang digunakan kurang mampu menghasilkan gaya pengembangan yang cukup untuk mempercepat disintegrasi tablet. Untuk memperbaiki formula, apoteker memutuskan mengganti amilum dengan superdisintegrant yang bekerja melalui mekanisme penyerapan air dan pengembangan yang sangat cepat tanpa membentuk lapisan gel yang dapat menghambat penetrasi cairan ke dalam tablet. Apakah eksipien yang tepat untuk dipilih?</p>`,
 img:``,
 options:["A. Croscarmellose sodium","B. Sodium starch glycolate","C. Crospovidone","D. Amilum pragelatinisasi","E. Mikrokristalin selulosa"],
 answer: `A. Croscarmellose sodium`,
-explanation:`Crospovidone merupakan superdisintegrant yang bekerja terutama melalui mekanisme wicking (kapilaritas) dan sedikit pengembangan (swelling). Crospovidone mampu menarik air dengan sangat cepat ke dalam matriks tablet sehingga tablet segera terdisintegrasi. Berbeda dengan beberapa superdisintegrant lain, crospovidone tidak membentuk lapisan gel yang signifikan saat kontak dengan air. Oleh karena itu, penetrasi medium tetap berlangsung cepat dan waktu hancur dapat dipersingkat.<br/><b>Referensi:</b><br>Handbook of Pharmaceutical Excipients`,
+explanation:`<p><strong><span style="color: #ff0000;">Crospovidone</span></strong> merupakan <em>superdisintegrant</em> yang bekerja terutama melalui mekanisme <em>wicking</em> (kapilaritas) dan sedikit pengembangan (<em>swelling</em>). Crospovidone mampu menarik air dengan sangat cepat ke dalam matriks tablet sehingga tablet segera terdisintegrasi. Berbeda dengan beberapa <em>superdisintegrant</em> lain, crospovidone tidak membentuk lapisan gel yang signifikan saat kontak dengan air. Oleh karena itu, penetrasi medium tetap berlangsung cepat dan waktu hancur dapat dipersingkat.</p><p><strong>Referensi:</strong><br />Handbook of Pharmaceutical Excipients</p>`,
 expImg:``
 },
 {
@@ -926,7 +926,7 @@ question:`Apoteker di bagian pengawasan mutu sebuah industri farmasi sedang mela
 img:``,
 options:["A. Melakukan uji ulang dengan menambahkan 12 tablet","B. Melakukan uji ulang dengan menambahkan 6 tablet","C. Meluluskan pengujian karena rerata waktu masih di bawah 15 menit","D. Menolak seluruh bets karena terdapat tablet yang tidak memenuhi syarat","E. Mengulang pengujian dari awal menggunakan 6 tablet yang baru"],
 answer: `A. Melakukan uji ulang dengan menambahkan 12 tablet`,
-explanation:`Berdasarkan hasil pengujian waktu hancur terhadap 6 tablet valsartan 80 mg, diperoleh satu tablet dengan waktu hancur 16,2 menit, sedangkan lima tablet lainnya masih memenuhi persyaratan yaitu kurang dari 15 menit. Dalam pengujian waktu hancur, penilaian tidak didasarkan pada nilai rata-rata waktu hancur seluruh tablet, melainkan pada kemampuan masing-masing unit untuk memenuhi batas waktu yang telah ditetapkan dalam monografi. Pengujian awal dilakukan terhadap 6 tablet. Apabila seluruh tablet hancur dalam waktu yang dipersyaratkan, maka bets dinyatakan memenuhi syarat. Namun, jika terdapat 1 atau 2 tablet yang gagal memenuhi persyaratan, pengujian tidak langsung dinyatakan gagal maupun lulus. Dalam kondisi tersebut, pengujian harus dilanjutkan dengan menambahkan 12 tablet lagi untuk memastikan apakah kegagalan yang terjadi bersifat insidental atau mencerminkan mutu bets secara keseluruhan.<br/>Pada kasus ini hanya terdapat 1 tablet yang tidak memenuhi syarat, sehingga tindakan yang paling tepat adalah melakukan pengujian lanjutan terhadap 12 tablet tambahan. Hasil dari total 18 tablet kemudian dievaluasi sesuai kriteria penerimaan yang berlaku. Oleh karena itu, bets tidak dapat langsung diluluskan hanya karena rata-rata waktu hancurnya masih di bawah 15 menit, dan juga tidak dapat langsung ditolak karena masih terdapat kesempatan untuk dilakukan pengujian tahap kedua sesuai prosedur farmakope.<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI – Uji Waktu Hancur halaman 2120`,
+explanation:`<p>Berdasarkan hasil pengujian waktu hancur terhadap 6 tablet valsartan 80 mg, diperoleh satu tablet dengan waktu hancur 16,2 menit, sedangkan lima tablet lainnya masih memenuhi persyaratan yaitu kurang dari 15 menit. Dalam pengujian waktu hancur, penilaian tidak didasarkan pada nilai rata-rata waktu hancur seluruh tablet, melainkan pada kemampuan masing-masing unit untuk memenuhi batas waktu yang telah ditetapkan dalam monografi. Pengujian awal dilakukan terhadap 6 tablet. Apabila seluruh tablet hancur dalam waktu yang dipersyaratkan, maka bets dinyatakan memenuhi syarat. Namun, jika terdapat 1 atau 2 tablet yang gagal memenuhi persyaratan, pengujian tidak langsung dinyatakan gagal maupun lulus. Dalam kondisi tersebut, pengujian harus dilanjutkan dengan menambahkan 12 tablet lagi untuk memastikan apakah kegagalan yang terjadi bersifat insidental atau mencerminkan mutu bets secara keseluruhan.</p><p>Pada kasus ini hanya terdapat 1 tablet yang tidak memenuhi syarat, sehingga tindakan yang paling tepat adalah melakukan pengujian lanjutan terhadap 12 tablet tambahan. Hasil dari total 18 tablet kemudian dievaluasi sesuai kriteria penerimaan yang berlaku. Oleh karena itu, bets tidak dapat langsung diluluskan hanya karena rata-rata waktu hancurnya masih di bawah 15 menit, dan juga tidak dapat langsung ditolak karena masih terdapat kesempatan untuk dilakukan pengujian tahap kedua sesuai prosedur farmakope.</p><p><strong>Referensi:</strong><br />Farmakope Indonesia Edisi VI – Uji Waktu Hancur halaman 2120</p>`,
 expImg:``
 },
 {
@@ -936,37 +936,37 @@ question:`Divisi QC PT Nitro Pharmaceutical melakukan pengawasan mutu terhadap g
 img:``,
 options:["A. 4,23% – granul memenuhi spesifikasi","B. 5,23% – granul memenuhi spesifikasi","C. 5,23% – granul tidak memenuhi spesifikasi","D. 6,23% – granul memenuhi spesifikasi","E. 6,23% – granul tidak memenuhi spesifikasi"],
 answer: `B. 5,23% – granul memenuhi spesifikasi`,
-explanation:`<img src="assets/03M7.png"></img>Interpretasi : Hasil pengujian memenuhi syarat<br/><b>Referensi:</b><br>Farmakope Indonesia Edisi VI - Estimasi Distribusi Ukuran Partikel Dengan Pengayak Halaman 2013`,
+explanation:`<img src="assets/03M7.png"></img><p><strong>Interpretasi:</strong> Hasil pengujian memenuhi syarat</p><p><strong>Referensi:</strong><br />Farmakope Indonesia Edisi VI - Estimasi Distribusi Ukuran Partikel Dengan Pengayak Halaman 2013</p>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Seorang apoteker di bagian produksi sedang menyiapkan 10 suppositoria aminofilin menggunakan basis Oleum Cacao. Setiap suppositoria memiliki bobot 2 gram dan mengandung 300 mg aminofilin. Diketahui nilai tukar (displacement value) aminofilin terhadap Oleum Cacao adalah 0,86. Berapakah jumlah basis Oleum Cacao yang dibutuhkan untuk membuat 10 suppositoria tersebut?`,
+question:`<p>Seorang apoteker di bagian produksi sedang menyiapkan 10 suppositoria aminofilin menggunakan basis oleum cacao. Setiap suppositoria memiliki bobot 2 gram dan mengandung 300 mg aminofilin. Diketahui nilai tukar (<em>displacement value</em>) aminofilin terhadap oleum cacao adalah 0,86. Berapakah jumlah basis oleum cacao yang dibutuhkan untuk membuat 10 suppositoria tersebut?</p>`,
 img:``,
 options:["A. 19,82 gram","B. 18,80 gram","C. 16,45 gram","D. 21,95 gram","E. 17, 42 gram"],
 answer: `E. 17, 42 gram`,
-explanation:`<img src="assets/04M7.png"></img><br/><b>Referensi:</b><br>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Bab Suppositories dan Displacement Value.<br/>Remington: The Science and Practice of Pharmacy – Perhitungan basis suppositoria dan nilai tukar.<br/>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Formulasi sediaan rektal dan displacement value.`,
+explanation:`<img src="assets/04M7.png"></img><p><strong>Referensi:</strong></p><ol><li>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Bab Suppositories dan Displacement Value.</li><li>Remington: The Science and Practice of Pharmacy – Perhitungan basis suppositoria dan nilai tukar.</li><li>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Formulasi sediaan rektal dan displacement value.</li></ol>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`PT Nitro Pharmaceutical sedang memproduksi tablet salut asetosal dengan metode granulasi basah. Proses pembuatan dimulai dari proses penimbangan hingga pengemasan. Manakah yang termasuk produk ruahan? `,
+question:`<p>Industri farmasi PT Nitro Pharmaceutical sedang memproduksi sediaan tablet salut asetosal dengan metode granulasi basah. Proses pembuatan dimulai dari proses penimbangan hingga pengemasan. Manakah yang termasuk produk ruahan?</p>`,
 img:``,
 options:["A. Granul Kering","B. Tablet Inti","C. Tablet yang sudah disalut","D. Tablet salut dalam kemasan","E. Campuran massa tablet"],
 answer: `C. Tablet yang sudah disalut`,
-explanation:`Produk antara (Intermediate Product) : Bahan atau produk yang diperoleh selama tahapan proses produksi dan masih memerlukan satu atau beberapa tahap pengolahan lanjutan sebelum menjadi produk ruahan.<br>Produk ruahan (bulk product): Produk yang telah selesai melalui seluruh tahapan proses produksi, tetapi belum dikemas dalam kemasan akhir, sehingga masih memerlukan proses pengemasan sebelum menjadi produk jadi.<br>Produk jadi (finished product) : Produk obat yang telah melewati seluruh tahapan proses produksi dan pengemasan, sehingga siap untuk didistribusikan atau digunakan oleh konsumen/pasien.<br>Contoh pada proses pembuatan tablet:<br>Granul hasil proses granulasi → produk antara<br>Tablet yang sudah dicetak tetapi belum dikemas → produk ruahan<br>Tablet yang sudah dikemas dalam blister atau botol → produk jadi<br><b>Referensi:</b><br>CPOB 2024 BAB 5 Produksi `,
+explanation:`<p><strong>Produk antara</strong> (<em>Intermediate Product</em>) : Bahan atau produk yang diperoleh selama tahapan proses produksi dan masih memerlukan satu atau beberapa tahap pengolahan lanjutan sebelum menjadi produk ruahan.</p><p><strong>Produk ruahan</strong> (<em>bulk product</em>): Produk yang telah selesai melalui seluruh tahapan proses produksi, tetapi belum dikemas dalam kemasan akhir, sehingga masih memerlukan proses pengemasan sebelum menjadi produk jadi.</p><p><strong>Produk jadi</strong> (<em>finished product</em>) : Produk obat yang telah melewati seluruh tahapan proses produksi dan pengemasan, sehingga siap untuk didistribusikan atau digunakan oleh konsumen/pasien.</p><p><strong>Contoh pada proses pembuatan tablet:</strong></p><ol><li>Granul hasil proses granulasi → produk antara</li><li>Tablet yang sudah dicetak tetapi belum dikemas → produk ruahan</li><li>Tablet yang sudah dikemas dalam blister atau botol → produk jadi</li></ol><p><strong>Referensi:</strong><br />CPOB 2024 BAB 5 Produksi</p>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Industri Farmasi PT.Nitro Pharmaceutical akan melakukan produksi tablet Klindamisin 300 mg. Bahan baku yang tersedia adalah Klindamisin HCl. Diketahui bobot molekul  klindamisin adala 425 g/mol dan bobot klindamisin HCl adalah 479,46 g/mol. Berapakah berat tablet jika menggunakan bahan baku klindamisin HCl? `,
+question:`<p>Industri Farmasi PT Nitro Pharmaceutical akan melakukan produksi tablet klindamisin 300 mg. Bahan baku yang tersedia adalah klindamisin HCl. Diketahui bobot molekul klindamisin adala 425 g/mol dan bobot klindamisin HCl adalah 479,46 g/mol. Berapakah bobot bahan baku jika menggunakan klindamisin HCl?</p>`,
 img:``,
 options:["A. 325 mg","B. 338 mg","C. 350 mg","D. 360 mg","E. 420 mg"],
 answer: `B. 338 mg`,
-explanation:`Klindamisin yang dibutuhkan :<img src="assets/05M7.png"></imgArtinya setiap tablet harus mengandung ±338 mg klindamisin HCl agar setara dengan 300 mg klindamisin<br/>Ingat : Yang ditanya selalu di atas <br/><b>Referensi:</b><br>United States Pharmacopeia. Clindamycin Hydrochloride. USP–NF. Rockville, MD: United States Pharmacopeia.`,
+explanation:`Klindamisin yang dibutuhkan :<img src="assets/05M7.png"></imgArtinya setiap tablet harus mengandung ±338 mg klindamisin HCl agar setara dengan 300 mg klindamisin<br/><p><span style="color: #ff0000;"><strong>Ingat: Yang ditanya selalu di atas</strong></span></p><p><strong>Referensi:</strong><br />United States Pharmacopeia. Clindamycin Hydrochloride. USP–NF. Rockville, MD: United States Pharmacopeia.</p>`,
 expImg:``
 },
 {
@@ -976,23 +976,23 @@ question:`Apoteker di Departemen RnD PT Nitro Pharmaceutical sedang melakukan pe
 img:``,
 options:["A. Tablet bukal","B. Tablet enteric-coated","C. Tablet floating","D. Tablet sublingual","E. Tablet salut gula"],
 answer: `C. Tablet floating`,
-explanation:`Floating Drug Delivery System (FDDS) merupakan salah satu sistem penghantaran obat yang dirancang untuk memperpanjang waktu tinggal obat di lambung (gastric retention time). Sistem ini bekerja dengan prinsip bahwa sediaan memiliki berat jenis (densitas) lebih kecil daripada cairan lambung, sehingga sediaan dapat mengapung di permukaan cairan lambung. Ketika sediaan mengapung di lambung, obat akan dilepaskan secara bertahap (controlled release atau sustained release). Dengan demikian, obat dapat berada lebih lama di lambung sehingga meningkatkan bioavailabilitas obat.<br/><b>Referensi:</b><br>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Modified release dosage forms.Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Gastroretentive drug delivery system.`,
+explanation:`<p><em>Floating Drug Delivery System</em> (FDDS) merupakan salah satu sistem penghantaran obat yang dirancang untuk memperpanjang waktu tinggal obat di lambung (<em>gastric retention time</em>). Sistem ini bekerja dengan prinsip bahwa sediaan memiliki berat jenis (densitas) lebih kecil daripada cairan lambung, sehingga sediaan dapat mengapung di permukaan cairan lambung. Ketika sediaan mengapung di lambung, obat akan dilepaskan secara bertahap (controlled release atau sustained release). Dengan demikian, obat dapat berada lebih lama di lambung sehingga meningkatkan bioavailabilitas obat.</p><p><strong>Referensi:</strong></p><ol><li>Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems – Modified release dosage forms.</li><li>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines – Gastroretentive drug delivery system.</li></ol>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Apoteker di Departemen RnD sebuah industri farmasi sedang mengevaluasi data sifat fisikokimia zat aktif ranitidin hidroklorida untuk pengembangan sediaan tablet. Data preformulasi menunjukkan bahwa zat aktif tersebut memiliki kelarutan yang tinggi dalam air, tetapi memiliki permeabilitas yang rendah dalam menembus membran biologis. Apakah kelas Biopharmaceutics Classification System (BCS) yang tepat untuk zat aktif tersebut? `,
+question:`<p>Apoteker di Departemen RnD sebuah industri farmasi sedang mengevaluasi data sifat fisikokimia zat aktif ranitidin hidroklorida untuk pengembangan sediaan tablet. Data preformulasi menunjukkan bahwa zat aktif tersebut memiliki kelarutan yang tinggi dalam air, tetapi memiliki permeabilitas yang rendah dalam menembus membran biologis. Apakah kelas <em>Biopharmaceutics Classification System</em> (BCS) yang tepat untuk zat aktif tersebut?</p>`,
 img:``,
 options:["A. Kelas I","B. Kelas II","C. Kelas III","D. Kelas IV","E. Kelas V"],
 answer: `C. Kelas III`,
-explanation:`<img src="assets/06M7.png"></img><b>Referensi:</b><br>Shargel L, Yu ABC. Applied Biopharmaceutics and Pharmacokinetics. 7th ed. New York: McGraw-Hill Education; 2016. p. 455–458.>`,
+explanation:`<img src="assets/06M7.png"></img><p><strong>Referensi:</strong><br />Shargel L, Yu ABC. Applied Biopharmaceutics and Pharmacokinetics. 7th ed. New York: McGraw-Hill Education; 2016. p. 455–458.</p>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Apoteker di bagian produksi sebuah industri farmasi sedang melakukan pengeringan granul sediaan tablet captopril 12,5 mg yang dibuat dengan metode granulasi basah. Hasil penimbangan menunjukkan bobot granul basah sebelum dikeringkan adalah 12,0 gram. Setelah proses pengeringan di dalam oven selesai, bobot granul kering yang diperoleh adalah 9,6 gram. Berapakah persentase Moisture Content (MC) dari granul tersebut? `,
+question:`<p>Apoteker di bagian produksi sebuah industri farmasi sedang melakukan pengeringan granul sediaan tablet captopril 12,5 mg yang dibuat dengan metode granulasi basah. Hasil penimbangan menunjukkan bobot granul basah sebelum dikeringkan adalah 12,0 gram. Setelah proses pengeringan di dalam oven selesai, bobot granul kering yang diperoleh adalah 9,6 gram. Berapakah persentase <em>Moisture Content</em> (MC) dari granul tersebut?</p>`,
 img:``,
 options:["A. 15%","B. 18%","C. 20%","D. 22%","E. 25%"],
 answer: `E. 25%`,
@@ -1002,17 +1002,17 @@ expImg:``
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Sebuah industri farmasi PT Nitro Apoteker memproduksi sediaan tablet metformin yang termasuk golongan antidiabetes oral. Hasil evaluasi mutu tablet menunjukkan bahwa tablet memiliki nilai kekerasan yang rendah serta tingkat kerapuhan (friabilitas) yang tinggi. Kondisi ini menunjukkan bahwa tablet mudah rapuh selama proses penanganan dan distribusi. Berdasarkan hasil evaluasi tersebut, bahan tambahan apa yang perlu ditingkatkan dalam formulasi tablet untuk memperbaiki sifat fisik tersebut?`,
+question:`<p>Sebuah industri farmasi PT Nitro Pharmaceutical memproduksi sediaan tablet metformin 500 mg. Hasil evaluasi mutu tablet menunjukkan bahwa tablet memiliki nilai kekerasan yang rendah serta tingkat kerapuhan (<em>friabilitas</em>) yang tinggi. Kondisi ini menunjukkan bahwa tablet mudah rapuh selama proses penanganan dan distribusi. Berdasarkan hasil evaluasi tersebut, bahan tambahan apa yang perlu ditingkatkan dalam formulasi tablet untuk memperbaiki sifat fisik tersebut?</p>`,
 img:``,
 options:["A. Diluent","B. Disintegrant","C. Anti-adherent","D. Binder","E. Lubricant"],
 answer: `D. Binder`,
-explanation:`Tablet yang menunjukkan kekerasan rendah dan kerapuhan tinggi menandakan bahwa ikatan antar partikel granul selama proses kompresi tidak cukup kuat. Hal ini menyebabkan tablet menjadi kurang kompak sehingga mudah pecah atau hancur ketika mengalami gesekan atau tekanan mekanik. Untuk meningkatkan kekuatan mekanik tablet, diperlukan peningkatan penggunaan bahan pengikat (binder) dalam formulasi.<br/><b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
+explanation:`<p>Tablet yang menunjukkan kekerasan rendah dan kerapuhan tinggi menandakan bahwa ikatan antar partikel granul selama proses kompresi tidak cukup kuat. Hal ini menyebabkan tablet menjadi kurang kompak sehingga mudah pecah atau hancur ketika mengalami gesekan atau tekanan mekanik. Untuk meningkatkan kekuatan mekanik tablet, diperlukan peningkatan penggunaan bahan pengikat (<em>binder</em>) dalam formulasi.</p><p><strong>Referensi:</strong><br />Remington The Science and Practice of Pharmacy</p>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Seorang apoteker yang bekerja di industri farmasi PT Nitro Apoteker akan memproduksi tablet salut gula (sugar-coated tablet). Pada tahap awal proses penyalutan, dilakukan proses penyegelan permukaan tablet inti untuk melindungi tablet dari kelembaban serta mencegah penetrasi larutan penyalut ke dalam inti tablet. Tahap proses penyalutan apakah yang dimaksud?`,
+question:`<p>Seorang apoteker yang bekerja di industri farmasi PT Nitro Pharmaceutical akan memproduksi tablet salut gula (<em>sugar-coated tablet</em>). Pada tahap awal proses penyalutan, dilakukan proses penyegelan permukaan tablet inti untuk melindungi tablet dari kelembaban serta mencegah penetrasi larutan penyalut ke dalam inti tablet. Apakah tahap proses penyalutan yang dimaksud?</p>`,
 img:``,
 options:["A. Seal coating","B. Sub coating","C. Coloring","D. Smoothing","E. Polishing"],
 answer: `A. Seal coating`,
@@ -1022,17 +1022,17 @@ expImg:``
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Sebuah industri farmasi PT Nitro Apoteker memproduksi tablet amlodipine yang termasuk golongan antihipertensi. Selama proses kompresi tablet, ditemukan cacat fisik pada tablet yaitu bagian atas tablet terlepas dari badan tablet setelah keluar dari mesin tablet press. Jenis kerusakan tablet apakah yang terjadi?`,
+question:`<p>Sebuah industri farmasi PT Nitro Pharmaceutical memproduksi tablet amlodipine 10 mg. Selama proses kompresi tablet, ditemukan cacat fisik pada tablet yaitu bagian atas tablet terlepas dari badan tablet setelah keluar dari mesin tablet press. Apakah jenis kerusakan yang terjadi pada tablet tersebut?</p>`,
 img:``,
 options:["A. Sticking","B. Picking","C. Lamination","D. Capping","E. Chipping"],
 answer: `D. Capping`,
-explanation:`Capping merupakan salah satu jenis cacat tablet yang terjadi ketika bagian atas atau bawah tablet terpisah dari badan tablet setelah proses kompresi atau selama proses ejeksi dari cetakan.Kondisi ini biasanya disebabkan oleh beberapa faktor, antara lain:<br/>1. udara yang terperangkap dalam granul<br/>2. tekanan kompresi yang tidak optimal<br/>3. kelembaban granul yang tidak sesuai<br/>4. distribusi ukuran partikel yang tidak seragam.<br/><b>Referensi:</b><br>Remington The Science and Practice of Pharmacy`,
+explanation:`<p><em>Capping</em> merupakan salah satu jenis cacat tablet yang terjadi ketika bagian atas atau bawah tablet terpisah dari badan tablet setelah proses kompresi atau selama proses ejeksi dari cetakan.Kondisi ini biasanya disebabkan oleh beberapa faktor, antara lain:</p><ol><li>Udara yang terperangkap dalam granul</li><li>Tekanan kompresi yang tidak optimal</li><li>Kelembaban granul yang tidak sesuai</li><li>Distribusi ukuran partikel yang tidak seragam.</li></ol><p><strong>Referensi:</strong><br />Remington The Science and Practice of Pharmacy</p>`,
 expImg:``
 },
 {
 category:`Solida Pharmaceutical Science (PS) `,
 level:`Easy`,
-question:`Bagian pengawasan mutu sedang melakukan uji keseragaman sediaan terhadap tablet allopurinol 100 mg, pada pengujian pertama digunakan 10 sampel dengan persentase rata-rata kandungan bahan aktif yang tertera pada etiket sediaan : 100,05%. SD: 1,23 dan nilai T : 100,10%. Berapakah nilai keberterimaannya (NP)?`,
+question:`<p>Bagian pengawasan mutu di sebuah industri farmasi sedang melakukan uji keseragaman sediaan terhadap tablet allopurinol 100 mg. Pada pengujian pertama, digunakan 10 sampel dengan data sebagai berikut:</p><ul><li>Rata-rata kandungan bahan aktif (<span class="math-inline" data-math="\bar{X}" data-index-in-node="33"><span class="katex"><span class="katex-html"><span class="base"><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist"><span class=""><span class="mord mathnormal">X</span></span><span class=""><span class="accent-body"><span class="mord">ˉ</span></span></span></span></span></span></span></span></span></span></span>): 100,05%</li><li>Standar deviasi (SD): 1,23</li><li>Nilai target (T): 100,10%</li></ul><p>Berapakah Nilai Penerimaan (NP) dari pengujian tersebut?</p>`,
 img:``,
 options:["A. 2,952","B.2,594","C.2,595","D.2,553","E.2,597"],
 answer: `A. 2,952`,
@@ -1042,11 +1042,11 @@ expImg:``
 {
 category:`Liquid Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`Seorang apoteker R&D di <i>PT. Nitro Pharmaceutical</i> mengembangkan injeksi efedrin HCl 1,5% b/v sebanyak 500 mL. Diketahui nilai E efedrin HCl terhadap NaCl = 0,28. Larutan harus dibuat isotonis ekuivalen dengan NaCl 0,9%. Berapa gram NaCl yang harus ditambahkan?`,
+question:`<p>Seorang apoteker R&amp;D di PT Nitro Pharmaceutical mengembangkan injeksi efedrin HCl 1,5% b/v sebanyak 500 mL. Diketahui nilai E efedrin HCl terhadap NaCl = 0,28. Larutan harus dibuat isotonis ekuivalen dengan NaCl 0,9%. Berapa gram NaCl yang harus ditambahkan?</p>`,
 img:``,
 options:["A. 1,90 g","B. 2,10","C. 2,40 g","D. 2,70 g","E. 3,15 g"],
 answer: `C. 2,40 g`,
-explanation:`<img src="assets/M08-01.png"></img><br><br><b>Referensi:</b><br>Farmakope Indonesia VI, 2020`,
+explanation:`<img src="assets/M08-01.png"></img><p><strong>Referensi:</strong><br />Farmakope Indonesia VI, 202</p>`,
 expImg:``
 },
 {
@@ -1056,27 +1056,27 @@ question:`Apoteker formulasi di PT Nitro Pharmaceutical akan membuat 10.000 tube
 img:``,
 options:["A. 1.786,50 g","B. 1.982,40 g","C. 2.000,00 g","D. 2.382,00 g","E. 2.524,80 g"],
 answer: `D. 2.382,00 g`,
-explanation:`<img src="assets/M08-02.png"></img><br><br><b>Referensi:</b><br>Taylor, K. M., & Aulton, M. E. (2022). <i>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</i> (6th ed.). Elsevier Health Sciences.`,
+explanation:`<img src="assets/M08-02.png"></img><p><strong>Referensi:</strong><br />Taylor, K. M., &amp; Aulton, M. E. (2022). <em>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</em> (6th ed.). Elsevier Health Sciences.</p>`,
 expImg:``
 },
 {
 category:`Semisolid Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`Divisi R&D PT Nitro Pharmaceutical membuat emulsi dengan fase minyak terdiri dari cetyl alcohol 12% (RHLB 15), cera alba 8% (RHLB 12), paraffin liquid 25% (RHLB 10), dan stearic acid 5% (RHLB 15). Jika total emulgator yang digunakan 8% dengan kombinasi Tween 80 (HLB 15) dan Span 80 (HLB 4,3), berapa persen Span 80 terhadap total formula yang diperlukan agar HLB campuran sesuai RHLB fase minyak?`,
+question:`<p>Divisi R&amp;D industri farmasi PT Nitro Pharmaceutical membuat emulsi dengan fase minyak terdiri dari cetyl alcohol 12% (RHLB 15), cera alba 8% (RHLB 12), paraffin liquid 25% (RHLB 10), dan stearic acid 5% (RHLB 15). Jika total emulgator yang digunakan 8% dengan kombinasi Tween 80 (HLB 15) dan Span 80 (HLB 4,3). Berapakah persen Span 80 terhadap total formula yang diperlukan agar HLB campuran sesuai RHLB fase minyak?</p>`,
 img:``,
 options:["A. 1,62%","B. 2,23%","C. 3,04%","D. 4,96%","E. 6,38%"],
 answer: `B. 2,23%`,
-explanation:`<img src="assets/M08-03.png"></img><br><br><b>Referensi:</b><br>• Sheskey, P. J., Hancock, B. C., Moss, G. P., & Goldfarb, D.J. (2020). <i>Handbook of Pharmaceutical Excipients</i> (9th ed.). Pharmaceutical Press.<br>• Taylor, K. M., & Aulton, M. E. (2022). <i>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</i> (6th ed.). Elsevier Health Sciences.`,
+explanation:`<img src="assets/M08-03.png"></img><p><strong>Referensi:</strong></p><ol><li>Sheskey, P. J., Hancock, B. C., Moss, G. P., &amp; Goldfarb, D.J. (2020). <em>Handbook of Pharmaceutical Excipients</em> (9th ed.). Pharmaceutical Press.</li><li>Taylor, K. M., &amp; Aulton, M. E. (2022). <em>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</em> (6th ed.). Elsevier Health Sciences.</li></ol>`,
 expImg:``
 },
 {
 category:`Semisolid Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`Apoteker QC di PT Nitro Pharmaceutical mengevaluasi suspensi antibiotik. Kecepatan sedimentasi partikel adalah 0,015 cm/detik. Diameter partikel rata-rata 0,18 cm, densitas partikel 1,12 g/mL, densitas medium 1,00 g/mL, dan gravitasi 980 cm/detik<sup>2</sup>. Berdasarkan hukum Stokes, berapa viskositas medium suspensi tersebut?`,
+question:`<p> </p><p>Seorang apoteker <em data-path-to-node="1" data-index-in-node="17">Quality Control</em> (QC) di PT Nitro Pharmaceutical melakukan evaluasi terhadap sediaan suspensi rekonstitusi antibiotik. Berdasarkan hasil pengujian, diperoleh parameter fisik sebagai berikut:</p><ul><li>Kecepatan sedimentasi partikel: 0,015 cm/detik</li><li>Diameter partikel rata-rata: 0,18 cm</li><li>Densitas partikel: 1,12 g/mL</li><li>Densitas medium: 1,00 g/mL</li><li>Percepatan gravitasi: 980 cm/detik<sup>2</sup></li></ul><p>Berapakah viskositas (<span class="math-inline" data-math="\eta" data-index-in-node="34"><span class="katex"><span class="katex-html"><span class="base"><span class="mord mathnormal">η</span></span></span></span></span>) medium suspensi tersebut?</p>`,
 img:``,
 options:["A. 12,70 P","B. 14,11 P","C. 15,88 P","D. 17,64 P","E. 20,15 P"],
 answer: `B. 14,11 P`,
-explanation:`<img src="assets/M08-04.png"></img><br><br><b>Referensi:</b><br>Taylor, K. M., & Aulton, M. E. (2022). <i>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</i> (6th ed.). Elsevier Health Sciences.`,
+explanation:`<img src="assets/M08-04.png"></img><p><strong>Referensi:</strong><br />Taylor, K. M., &amp; Aulton, M. E. (2022). <em>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</em> (6th ed.). Elsevier Health Sciences.</p>`,
 expImg:``
 },
 {
@@ -1086,23 +1086,23 @@ question:`Apoteker QC di PT Nitro Pharmaceutical menguji viskositas sirup menggu
 img:``,
 options:["A. 1,34 cP","B. 1,52 cP","C. 1,64 cP","D. 1,78 cP","E. 2,03 cP"],
 answer: `C. 1,64 cP`,
-explanation:`<img src="assets/M08-05.png"></img><br><br><b>Referensi:</b><br>Taylor, K. M., & Aulton, M. E. (2022). <i>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</i> (6th ed.). Elsevier Health Sciences.`,
+explanation:`<img src="assets/M08-05.png"></img><p><strong>Referensi:</strong><br />Taylor, K. M., &amp; Aulton, M. E. (2022). <em>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</em> (6th ed.). Elsevier Health Sciences.</p>`,
 expImg:``
 },
 {
 category:`Sterile Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`Sediaan infus mannitol 7,5% b/v diproduksi oleh <i>PT. Nitro Pharmaceutical</i> dalam flakon 500 mL. Diketahui BM mannitol = 182,17 g/mol dan mannitol tidak terionisasi. Berapa osmolaritas sediaan tersebut?`,
+question:`<p>Industri farmasi PT Nitro Pharmaceutical memproduksi sediaan infus mannitol 7,5% b/v dalam kemasan flakon 500 mL. Diketahui BM mannitol: 182,17 g/mol dan mannitol tidak terionisasi. Berapa osmolaritas sediaan tersebut?</p>`,
 img:``,
 options:["A. 274,47 mOsmol/L","B. 329,36 mOsmol/L","C. 411,70 mOsmol/L","D. 452,15 mOsmol/L","E. 555,06 mOsmol/L"],
 answer: `C. 411,70 mOsmol/L`,
-explanation:`<img src="assets/M08-06.png"></img><br><br><b>Referensi:</b><br>Taylor, K. M., & Aulton, M. E. (2022). <i>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</i> (6th ed.). Elsevier Health Sciences.`,
+explanation:`<img src="assets/M08-06.png"></img><p><strong>Referensi:</strong><br />Taylor, K. M., &amp; Aulton, M. E. (2022). <em>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</em> (6th ed.). Elsevier Health Sciences.</p>`,
 expImg:``
 },
 {
 category:`Sterile Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`QA PT Nitro Pharmaceutical melakukan uji batas endotoksin metode jendal gel terhadap injeksi antibiotik. Sensitivitas LAL λ = 0,125 EU/mL. Hasil uji:<br>Larutan A sampel: replikasi 1 positif, replikasi 2 negatif.<br>Larutan B kontrol positif produk: replikasi 1 positif, replikasi 2 positif.<br>Larutan C kontrol positif reagen: positif pada 2λ, λ, dan 0,5λ; negatif pada 0,25λ.<br>Larutan D kontrol negatif: replikasi 1 negatif, replikasi 2 negatif.<br>Apa interpretasi yang paling tepat?`,
+question:`<p>Bagian <em>Quality Assurance</em> (QA) PT Nitro Pharmaceutical melakukan uji batas endotoksin menggunakan metode jendal gel (<em>gel-clot</em>) terhadap sediaan injeksi antibiotik. Diketahui sensitivitas reagen LAL (λ) adalah 0,125 EU/mL. Berikut data hasil pengujian:</p><table style="width: 450px;"><tbody><tr style="height: 13px;"><td style="width: 73.1406px; height: 13px;"><strong>Larutan</strong></td><td style="width: 192.859px; height: 13px;"><strong>Keterangan</strong></td><td style="width: 189px; height: 13px;"><strong>Hasil Uji</strong></td></tr><tr style="height: 13px;"><td style="width: 73.1406px; height: 13px; text-align: center;">A </td><td style="width: 192.859px; height: 13px; text-align: center;"> Sampel</td><td style="width: 189px; height: 13px;">Replikasi 1: Positif (+)<br />Replikasi 2: Negatif (-)</td></tr><tr style="height: 13px;"><td style="width: 73.1406px; height: 13px; text-align: center;">B </td><td style="width: 192.859px; height: 13px; text-align: center;"> Kontrol Positif Produk</td><td style="width: 189px; height: 13px;">Replikasi 1: Positif (+)<br />Replikasi 2: Positif (+)</td></tr><tr style="height: 13px;"><td style="width: 73.1406px; height: 13px; text-align: center;">C </td><td style="width: 192.859px; height: 13px; text-align: center;"> Kontrol Positif Reagen</td><td style="width: 189px; height: 13px;">Positif (+) pada 2λ, λ, dan 0,5λ<br />Negatif (-) pada 0,25λ</td></tr><tr style="height: 13px;"><td style="width: 73.1406px; height: 13px; text-align: center;">D </td><td style="width: 192.859px; height: 13px; text-align: center;"> Kontrol Negatif</td><td style="width: 189px; height: 13px;">Replikasi 1: Positif (-)<br />Replikasi 2: Negatif (-)</td></tr></tbody></table><p>Apakah interpretasi yang paling tepat dari hasil pengujian tersebut?</p>`,
 img:``,
 options:["A. Uji tidak valid karena kontrol negatif menunjukkan hasil negatif","B. Uji valid dan sampel langsung dinyatakan memenuhi syarat","C. Uji valid, tetapi sampel langsung dinyatakan tidak memenuhi syarat","D. Uji valid, tetapi pengujian larutan sampel harus diulang karena replikasi A tidak konsisten","E. Uji tidak valid karena kontrol positif reagen negatif pada 0,25λ"],
 answer: `D. Uji valid, tetapi pengujian larutan sampel harus diulang karena replikasi A tidak konsisten`,
