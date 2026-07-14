@@ -1152,17 +1152,17 @@ expImg:``
 {
 category:`Liquid Pharmaceutical Science (PS)`,
 level:`Hard`,
-question:`QC PT Nitro Pharmaceutical menerima keluhan bahwa sirup oral mengalami cap locking setelah penyimpanan. Di leher botol terlihat kristal putih, sementara formula mengandung sukrosa tinggi. Perbaikan formula yang paling tepat untuk menurunkan risiko kejadian serupa adalah ...`,
+question:`<p>Departemen <em>Quality Control</em> (QC) PT Nitro Pharmaceutical menerima keluhan bahwa sirup oral mengalami <em>cap locking</em> setelah penyimpanan. Pada leher botol terlihat kristal putih, sementara formula mengandung sukrosa tinggi. Apakah perbaikan formula yang paling tepat pada kasus tersebut?</p>`,
 img:``,
-options:["A. Menambah sukrosa agar sirup lebih jenuh","B. Menambah gliserol atau sorbitol sebagai humektan antikristalisasi","C. Mengganti natrium benzoat dengan nipagin","D. Menambah Na CMC untuk meningkatkan viskositas","E. Menambah BHA untuk mencegah oksidasi"],
+options:["A. Menambahkan konsentrasi sukrosa","B. Menambahkan konsentrasi gliserol","C. Mengganti natrium benzoat dengan nipagin","D. Menambahkan konsentrasi Na CMC","E. Menambahkan konsentrasi BHA"],
 answer: `B. Menambah gliserol atau sorbitol sebagai humektan antikristalisasi`,
-explanation:`Cap locking pada sirup sering terjadi karena penguapan air di area leher botol sehingga larutan sukrosa menjadi supersaturasi dan mengkristal. Humektan seperti gliserol atau sorbitol membantu mempertahankan kelembapan dan mengurangi kecenderungan kristalisasi sukrosa. Pengawet, antioksidan, dan pengental tidak menyelesaikan penyebab utama.<br><br><b>Referensi:</b><br>• Sheskey, P. J., Hancock, B. C., Moss, G. P., & Goldfarb, D.J. (2020). <i>Handbook of Pharmaceutical Excipients</i> (9th ed.). Pharmaceutical Press.<br>• Taylor, K. M., & Aulton, M. E. (2022). <i>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</i> (6th ed.). Elsevier Health Sciences.`,
+explanation:`<p><em>Cap locking</em> pada sirup sering terjadi karena penguapan air di area leher botol sehingga larutan sukrosa menjadi supersaturasi dan mengkristal. Humektan seperti <strong>gliserol</strong> atau <strong>sorbitol</strong> membantu mempertahankan kelembapan dan mengurangi kecenderungan kristalisasi sukrosa. Pengawet, antioksidan, dan pengental tidak menyelesaikan penyebab utama.<br /><br /><strong>Referensi:</strong></p><ol><li>Sheskey, P. J., Hancock, B. C., Moss, G. P., &amp; Goldfarb, D.J. (2020). <em>Handbook of Pharmaceutical Excipients</em> (9th ed.). Pharmaceutical Press.</li><li>Taylor, K. M., &amp; Aulton, M. E. (2022). <em>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</em> (6th ed.). Elsevier Health Sciences.</li></ol>`,
 expImg:``
 },
 {
 category:`Sterile Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`Apoteker QC di PT Nitro Pharmaceutical melakukan uji cemaran bakteri bahan baku sirup menggunakan MacConkey agar. Setelah inkubasi, sebagian koloni tampak merah muda, sedangkan koloni lain pucat/tidak berwarna. Interpretasi yang paling tepat adalah ...`,
+question:`<p>Apoteker <em>Quality Control</em> (QC) di PT Nitro Pharmaceutical melakukan uji cemaran bakteri pada bahan baku sirup menggunakan <em>MacConkey agar</em>. Setelah dilakukan inkubasi, sebagian koloni tampak merah muda, sedangkan koloni lain pucat/tidak berwarna. Apakah interpretasi yang paling tepat?</p>`,
 img:``,
 options:["A. Koloni merah muda menunjukkan bakteri non-fermenter laktosa seperti Salmonella","B. Koloni pucat menunjukkan fermentasi laktosa kuat oleh Escherichia coli","C. Koloni merah muda menunjukkan fermentasi laktosa menghasilkan asam dan menurunkan pH medium","D. Perubahan warna terjadi karena produksi H<sub>2</sub>S oleh bakteri Gram positif","E. MacConkey agar hanya membedakan bakteri berdasarkan pembentukan spora"],
 answer: `C. Koloni merah muda menunjukkan fermentasi laktosa menghasilkan asam dan menurunkan pH medium`,
@@ -1172,7 +1172,7 @@ expImg:``
 {
 category:`Sterile Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`Apoteker produksi di PT Nitro Pharmaceutical menyiapkan rubber stopper untuk proses filling serbuk steril antibiotik secara aseptis. Komponen harus steril sebelum masuk area pengisian. Metode sterilisasi yang paling sesuai untuk rubber stopper adalah ...`,
+question:`<p>Apoteker di bagian produksi industri farmasi PT Nitro Pharmaceutical menyiapkan <em>rubber stopper</em> untuk proses <em>filling</em> serbuk steril antibiotik secara aseptis. Komponen harus steril sebelum masuk area pengisian. Apakah metode sterilisasi yang paling sesuai untuk<em> rubber stopper </em>tersebut?</p>`,
 img:``,
 options:["A. Panas kering 170 °C selama 1 jam","B. Panas basah 121 °C selama 15 menit","C. Panas kering 250 °C selama 30 menit","D. Filtrasi 0,22 µm","E. Radiasi UV selama 5 menit"],
 answer: `B. Panas basah 121 °C selama 15 menit`,
@@ -1182,7 +1182,7 @@ expImg:``
 {
 category:`Sterile Pharmaceutical Science (PS) `,
 level:`Hard`,
-question:`Rumah Sakit Nitro Medica meminta evaluasi mutu sediaan injeksi multidose yang akan digunakan di ruang rawat. Produk telah steril, tetapi ditemukan partikel asing pada inspeksi visual beberapa vial. Keputusan mutu yang paling tepat adalah ...`,
+question:`<p>Rumah Sakit Nitro Medica meminta evaluasi mutu sediaan injeksi multidose yang akan digunakan di ruang rawat. Produk telah steril, tetapi ditemukan partikel asing pada inspeksi visual beberapa vial. Apakah keputusan yang paling tepat pada kondisi tersebut?</p>`,
 img:``,
 options:["A. Produk tetap dapat digunakan karena sterilitas lebih penting daripada partikulat","B. Produk dapat digunakan setelah dikocok sampai partikel tidak terlihat","C. Produk harus ditahan/ditolak karena sediaan parenteral harus bebas partikel tampak","D. Produk dapat digunakan bila pasien diberi informed consent","E. Produk cukup diberi label peringatan sebelum distribusi"],
 answer: `C. Produk harus ditahan/ditolak karena sediaan parenteral harus bebas partikel tampak`,
@@ -1192,11 +1192,11 @@ expImg:``
 {
 category:`Liquid Pharmaceutical Science (PS)`,
 level:`Hard`,
-question:`Apoteker di Apotek Nitro Farma menerima resep racikan gel karbomer untuk jerawat. Saat evaluasi, gel terlalu kental, sulit keluar dari tube, tetapi tidak menunjukkan pemisahan fase. Penyesuaian formula yang paling rasional untuk menurunkan viskositas tanpa mengganti basis adalah ...`,
+question:`<p>Apoteker di Apotek Nitro Farma menerima resep racikan gel karbomer untuk jerawat. Saat evaluasi, gel terlalu kental, sulit keluar dari tube, tetapi tidak menunjukkan pemisahan fase. Bagaimanakah penyesuaian formula yang paling rasional untuk menurunkan viskositas tanpa mengganti basis?</p>`,
 img:``,
 options:["A. Menambahkan natrium hidroksida sampai pH meningkat","B. Menambahkan air murni secara terkontrol dan mengevaluasi ulang viskositas","C. Menambahkan EDTA sebagai pengkelat","D. Menambahkan metilparaben sebagai pengawet","E. Menambahkan lebih banyak karbomer"],
 answer: `B. Menambahkan air murni secara terkontrol dan mengevaluasi ulang viskositas`,
-explanation:`Gel karbomer yang terlalu padat dapat dikoreksi dengan menurunkan konsentrasi polimer melalui penambahan pelarut/pengencer secara terkontrol. NaOH menaikkan pH dan umumnya meningkatkan ionisasi karbomer sehingga viskositas dapat bertambah. EDTA dan metilparaben tidak ditujukan untuk koreksi viskositas, sedangkan penambahan karbomer akan memperparah kekentalan.<br><br><b>Referensi:</b><br>• Sheskey, P. J., Hancock, B. C., Moss, G. P., & Goldfarb, D.J. (2020). <i>Handbook of Pharmaceutical Excipients</i> (9th ed.). Pharmaceutical Press.<br>• Taylor, K. M., & Aulton, M. E. (2022). <i>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</i> (6th ed.). Elsevier Health Sciences.`,
+explanation:`<p>Gel karbomer yang terlalu padat dapat dikoreksi dengan menurunkan konsentrasi polimer melalui penambahan pelarut/pengencer secara terkontrol. NaOH menaikkan pH dan umumnya meningkatkan ionisasi karbomer sehingga viskositas dapat bertambah. EDTA dan metilparaben tidak ditujukan untuk koreksi viskositas, sedangkan penambahan karbomer akan memperparah kekentalan.<br /><br /><strong>Referensi:</strong></p><ol><li>Sheskey, P. J., Hancock, B. C., Moss, G. P., &amp; Goldfarb, D.J. (2020). <em>Handbook of Pharmaceutical Excipients</em> (9th ed.). Pharmaceutical Press.</li><li>Taylor, K. M., &amp; Aulton, M. E. (2022). <em>Aulton’s Pharmaceutics: The Design and Manufacture of Medicines</em> (6th ed.). Elsevier Health Sciences.</li></ol>`,
 expImg:``
 },
 {
